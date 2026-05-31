@@ -14,7 +14,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 16:06:31"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "009721:001",
@@ -31,7 +31,58 @@
     "sub": "VOREY",
     "obs": "Aguardando Aprovacao",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:23:33"
+    "atualizado": "31/05/2026, 17:49:54"
+  },
+  {
+    "id": "010068:001",
+    "pedido": "010068",
+    "item": "001",
+    "cliente": "000511-PROSEGUR - FLORIANOPOLIS",
+    "produto": "PA000000000567",
+    "descricao": "40025 - ETIQUETA ADESIVA 90 X 30",
+    "qtd": "20",
+    "un": "ROLO",
+    "entrega": "15/05/2026",
+    "status": "",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "finalizado": true,
+    "atualizado": "31/05/2026, 17:49:54"
+  },
+  {
+    "id": "010071:001",
+    "pedido": "010071",
+    "item": "001",
+    "cliente": "000578-PROSEGUR - BELEM",
+    "produto": "PA000000000567",
+    "descricao": "40025 - ETIQUETA ADESIVA 90 X 30",
+    "qtd": "20",
+    "un": "ROLO",
+    "entrega": "15/05/2026",
+    "status": "",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "finalizado": true,
+    "atualizado": "31/05/2026, 17:49:54"
+  },
+  {
+    "id": "010072:001",
+    "pedido": "010072",
+    "item": "001",
+    "cliente": "000516-PROSEGUR - TERESINA",
+    "produto": "PA000000000567",
+    "descricao": "40025 - ETIQUETA ADESIVA 90 X 30",
+    "qtd": "12",
+    "un": "ROLO",
+    "entrega": "15/05/2026",
+    "status": "",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "finalizado": true,
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010060:001",
@@ -48,7 +99,7 @@
     "sub": "VOREY",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:23:39"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010054:002",
@@ -65,7 +116,7 @@
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:26:20"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010054:005",
@@ -82,7 +133,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010132:001",
@@ -99,7 +150,7 @@
     "sub": "",
     "obs": "Aguardando Faca",
     "finalizado": false,
-    "atualizado": "31/05/2026, 09:12:07"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010156:001",
@@ -116,7 +167,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010124:001",
@@ -133,7 +184,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010181:001",
@@ -150,7 +201,7 @@
     "sub": "VOREY",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:23:43"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010094:006",
@@ -167,7 +218,7 @@
     "sub": "VOREY",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:23:46"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010187:001",
@@ -184,7 +235,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010187:002",
@@ -201,7 +252,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010187:003",
@@ -218,7 +269,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010009:003",
@@ -235,7 +286,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010095:001",
@@ -252,7 +303,7 @@
     "sub": "NACBRAS",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:26:23"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010102:002",
@@ -265,11 +316,96 @@
     "un": "UN",
     "entrega": "29/05/2026",
     "status": "INICIADA (fase 3 de 3)",
-    "grupo": "REVISORAS",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
+    "finalizado": true,
+    "atualizado": "31/05/2026, 17:49:54"
+  },
+  {
+    "id": "010107:001",
+    "pedido": "010107",
+    "item": "001",
+    "cliente": "001368-ADVANCED LABS",
+    "produto": "PA000000004373",
+    "descricao": "RÓTULO WHEY PROTEIN CONCENTRADO 1KG BAUNILHA - 155 X 430",
+    "qtd": "3",
+    "un": "MI",
+    "entrega": "29/05/2026",
+    "status": "",
+    "grupo": "FLEXO 350",
+    "sub": "ETIRAMA",
+    "obs": "Aguardando Clichê",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
+  },
+  {
+    "id": "010107:002",
+    "pedido": "010107",
+    "item": "002",
+    "cliente": "001368-ADVANCED LABS",
+    "produto": "PA000000004374",
+    "descricao": "RÓTULO WHEY PROTEIN CONCENTRADO 1KG BROWNIE - 155 X 430",
+    "qtd": "3",
+    "un": "MI",
+    "entrega": "29/05/2026",
+    "status": "",
+    "grupo": "FLEXO 350",
+    "sub": "ETIRAMA",
+    "obs": "Aguardando Clichê",
+    "finalizado": false,
+    "atualizado": "31/05/2026, 17:49:54"
+  },
+  {
+    "id": "010107:003",
+    "pedido": "010107",
+    "item": "003",
+    "cliente": "001368-ADVANCED LABS",
+    "produto": "PA000000004375",
+    "descricao": "RÓTULO WHEY PROTEIN CONCENTRADO 1KG CHOCOLATE - 155 X 430",
+    "qtd": "4",
+    "un": "MI",
+    "entrega": "29/05/2026",
+    "status": "",
+    "grupo": "FLEXO 350",
+    "sub": "ETIRAMA",
+    "obs": "Aguardando Clichê",
+    "finalizado": false,
+    "atualizado": "31/05/2026, 17:49:54"
+  },
+  {
+    "id": "010107:004",
+    "pedido": "010107",
+    "item": "004",
+    "cliente": "001368-ADVANCED LABS",
+    "produto": "PA000000004377",
+    "descricao": "RÓTULO WHEY PROTEIN CONCENTRADO 1KG COOKIES - 155 X 430",
+    "qtd": "3",
+    "un": "MI",
+    "entrega": "29/05/2026",
+    "status": "",
+    "grupo": "FLEXO 350",
+    "sub": "ETIRAMA",
+    "obs": "Aguardando Clichê",
+    "finalizado": false,
+    "atualizado": "31/05/2026, 17:49:54"
+  },
+  {
+    "id": "010107:005",
+    "pedido": "010107",
+    "item": "005",
+    "cliente": "001368-ADVANCED LABS",
+    "produto": "PA000000004376",
+    "descricao": "RÓTULO WHEY PROTEIN CONCENTRADO 1KG MORANGO - 155 X 430",
+    "qtd": "2",
+    "un": "MI",
+    "entrega": "29/05/2026",
+    "status": "",
+    "grupo": "FLEXO 350",
+    "sub": "ETIRAMA",
+    "obs": "Aguardando Clichê",
+    "finalizado": false,
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010109:001",
@@ -286,7 +422,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:23:56"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010110:001",
@@ -303,7 +439,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010121:001",
@@ -320,7 +456,7 @@
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:26:27"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010160:001",
@@ -337,7 +473,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:19:26"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010162:001",
@@ -350,11 +486,11 @@
     "un": "ROLO",
     "entrega": "29/05/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
-    "finalizado": false,
-    "atualizado": "30/05/2026, 17:20:34"
+    "finalizado": true,
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010163:001",
@@ -367,11 +503,11 @@
     "un": "ROLO",
     "entrega": "29/05/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
-    "finalizado": false,
-    "atualizado": "30/05/2026, 17:20:37"
+    "finalizado": true,
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010164:001",
@@ -384,11 +520,11 @@
     "un": "ROLO",
     "entrega": "29/05/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
-    "finalizado": false,
-    "atualizado": "30/05/2026, 17:20:39"
+    "finalizado": true,
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010165:001",
@@ -405,7 +541,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:20:41"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010189:002",
@@ -422,7 +558,7 @@
     "sub": "VOREY",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:24:04"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010189:003",
@@ -439,7 +575,7 @@
     "sub": "VOREY",
     "obs": "",
     "finalizado": false,
-    "atualizado": "31/05/2026, 12:27:47"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:022",
@@ -456,7 +592,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:19:43"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010260:001",
@@ -473,7 +609,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010262:001",
@@ -490,7 +626,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:19:45"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "009712:001",
@@ -507,7 +643,7 @@
     "sub": "BROTECH",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:24:08"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010018:001",
@@ -524,7 +660,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:24:15"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010018:002",
@@ -541,7 +677,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:24:21"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010018:003",
@@ -558,7 +694,7 @@
     "sub": "BROTECH",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:24:24"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010018:004",
@@ -575,7 +711,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:24:28"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010123:001",
@@ -592,7 +728,7 @@
     "sub": "VOREY",
     "obs": "",
     "finalizado": false,
-    "atualizado": "31/05/2026, 12:27:48"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010123:002",
@@ -609,7 +745,7 @@
     "sub": "VOREY",
     "obs": "",
     "finalizado": false,
-    "atualizado": "31/05/2026, 12:27:49"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010123:003",
@@ -626,7 +762,7 @@
     "sub": "VOREY",
     "obs": "",
     "finalizado": false,
-    "atualizado": "31/05/2026, 12:27:50"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010123:004",
@@ -643,7 +779,7 @@
     "sub": "VOREY",
     "obs": "",
     "finalizado": false,
-    "atualizado": "31/05/2026, 12:27:52"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010123:005",
@@ -660,7 +796,7 @@
     "sub": "VOREY",
     "obs": "",
     "finalizado": false,
-    "atualizado": "31/05/2026, 12:27:53"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010137:001",
@@ -677,7 +813,7 @@
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:26:30"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010175:001",
@@ -694,7 +830,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "31/05/2026, 12:28:25"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010175:002",
@@ -707,11 +843,11 @@
     "un": "ROLO",
     "entrega": "01/06/2026",
     "status": "PRONTA PARA INÍCIO",
-    "grupo": "REVISORAS",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
-    "finalizado": false,
-    "atualizado": "30/05/2026, 17:20:52"
+    "finalizado": true,
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010186:001",
@@ -728,7 +864,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:22:46"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010188:001",
@@ -745,7 +881,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:22:52"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010202:001",
@@ -762,7 +898,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "31/05/2026, 12:28:19"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010208:001",
@@ -779,7 +915,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010210:001",
@@ -792,11 +928,11 @@
     "un": "UN",
     "entrega": "01/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
-    "finalizado": false,
-    "atualizado": "30/05/2026, 17:20:55"
+    "finalizado": true,
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010210:002",
@@ -813,7 +949,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:19:51"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010236:001",
@@ -830,7 +966,7 @@
     "sub": "VOREY",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:24:33"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010238:001",
@@ -847,7 +983,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010240:001",
@@ -860,11 +996,28 @@
     "un": "UN",
     "entrega": "01/06/2026",
     "status": "PRONTA PARA INÍCIO",
-    "grupo": "REVISORAS",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
+    "finalizado": true,
+    "atualizado": "31/05/2026, 17:49:54"
+  },
+  {
+    "id": "009957:001",
+    "pedido": "009957",
+    "item": "001",
+    "cliente": "001235-MIRIS COSMETICOS",
+    "produto": "PA000000003024",
+    "descricao": "RÓTULO LACRE - WEPINK - 30 X 30",
+    "qtd": "500",
+    "un": "MI",
+    "entrega": "02/06/2026",
+    "status": "",
+    "grupo": "FLEXO 350",
+    "sub": "ETIRAMA",
+    "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010021:001",
@@ -881,7 +1034,7 @@
     "sub": "VOREY",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:24:35"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010112:001",
@@ -898,7 +1051,7 @@
     "sub": "BROTECH",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:24:39"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010112:002",
@@ -915,7 +1068,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010112:003",
@@ -932,7 +1085,7 @@
     "sub": "BROTECH",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:24:41"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010133:002",
@@ -949,7 +1102,7 @@
     "sub": "VOREY",
     "obs": "",
     "finalizado": false,
-    "atualizado": "31/05/2026, 12:28:35"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010133:003",
@@ -966,7 +1119,7 @@
     "sub": "VOREY",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:24:47"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010133:004",
@@ -983,7 +1136,7 @@
     "sub": "VOREY",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:24:50"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010134:001",
@@ -1000,7 +1153,7 @@
     "sub": "VOREY",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:24:56"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010158:001",
@@ -1017,7 +1170,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010158:002",
@@ -1034,7 +1187,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010158:003",
@@ -1051,7 +1204,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010194:002",
@@ -1068,7 +1221,7 @@
     "sub": "",
     "obs": "Aguardando Faca",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:21:07"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010196:001",
@@ -1085,7 +1238,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010199:002",
@@ -1102,7 +1255,7 @@
     "sub": "",
     "obs": "Aguardando Faca",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:21:10"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010211:001",
@@ -1119,7 +1272,7 @@
     "sub": "KROMIA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:26:32"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010218:001",
@@ -1136,7 +1289,7 @@
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:26:36"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010234:001",
@@ -1153,7 +1306,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010237:001",
@@ -1170,7 +1323,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010237:002",
@@ -1187,7 +1340,24 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
+  },
+  {
+    "id": "010234:002",
+    "pedido": "010234",
+    "item": "002",
+    "cliente": "001493-FCI",
+    "produto": "PA000000003942",
+    "descricao": "ETIQUETA FCI - 105 X 47",
+    "qtd": "20000",
+    "un": "UN",
+    "entrega": "02/06/2026",
+    "status": "",
+    "grupo": "DIGITAL",
+    "sub": "",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "009948:003",
@@ -1204,7 +1374,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010010:001",
@@ -1221,7 +1391,7 @@
     "sub": "",
     "obs": "Aguardando Aprovacao",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:22:10"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010012:001",
@@ -1238,7 +1408,7 @@
     "sub": "",
     "obs": "Aguardando Aprovacao",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:22:12"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010019:001",
@@ -1255,7 +1425,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010061:001",
@@ -1272,7 +1442,7 @@
     "sub": "NACBRAS",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:26:41"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010062:001",
@@ -1289,7 +1459,7 @@
     "sub": "NACBRAS",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:26:48"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010070:001",
@@ -1306,7 +1476,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010070:002",
@@ -1323,7 +1493,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010126:001",
@@ -1340,7 +1510,7 @@
     "sub": "",
     "obs": "Aguardando Aprovacao",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:22:15"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010129:001",
@@ -1357,7 +1527,7 @@
     "sub": "",
     "obs": "Aguardando Aprovacao",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:22:19"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010167:001",
@@ -1370,11 +1540,11 @@
     "un": "MI",
     "entrega": "03/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
-    "finalizado": false,
-    "atualizado": "30/05/2026, 17:21:38"
+    "finalizado": true,
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010167:002",
@@ -1391,7 +1561,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010180:001",
@@ -1404,11 +1574,11 @@
     "un": "ROLO",
     "entrega": "03/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
-    "finalizado": false,
-    "atualizado": "30/05/2026, 17:21:43"
+    "finalizado": true,
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010198:001",
@@ -1425,7 +1595,7 @@
     "sub": "KROMIA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:26:50"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010200:001",
@@ -1442,7 +1612,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010203:001",
@@ -1459,7 +1629,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010221:001",
@@ -1476,7 +1646,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010221:002",
@@ -1493,7 +1663,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010223:001",
@@ -1510,7 +1680,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010223:002",
@@ -1527,7 +1697,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010226:001",
@@ -1544,7 +1714,7 @@
     "sub": "KROMIA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:26:53"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010226:002",
@@ -1561,7 +1731,7 @@
     "sub": "KROMIA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:26:55"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010243:001",
@@ -1578,7 +1748,7 @@
     "sub": "VOREY",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:25:00"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010243:002",
@@ -1595,7 +1765,24 @@
     "sub": "VOREY",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:25:03"
+    "atualizado": "31/05/2026, 17:49:54"
+  },
+  {
+    "id": "010242:001",
+    "pedido": "010242",
+    "item": "001",
+    "cliente": "001793-CONGREGACAO - S. PARNAIBA",
+    "produto": "PA000000002842",
+    "descricao": "ETIQ. VERDE - 80 X 20 + RIBBON",
+    "qtd": "5000",
+    "un": "UN",
+    "entrega": "03/06/2026",
+    "status": "",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "finalizado": true,
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010259:001",
@@ -1612,7 +1799,7 @@
     "sub": "NACBRAS",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:26:59"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010082:001",
@@ -1629,7 +1816,7 @@
     "sub": "BROTECH",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:25:05"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010096:001",
@@ -1646,7 +1833,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010096:002",
@@ -1659,11 +1846,11 @@
     "un": "ROLO",
     "entrega": "05/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
-    "finalizado": false,
-    "atualizado": "30/05/2026, 17:21:46"
+    "finalizado": true,
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010111:001",
@@ -1680,7 +1867,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:19:02"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010143:001",
@@ -1697,7 +1884,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010144:001",
@@ -1714,7 +1901,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010145:001",
@@ -1731,7 +1918,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010146:001",
@@ -1748,7 +1935,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010147:001",
@@ -1765,7 +1952,7 @@
     "sub": "BROTECH",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:25:09"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010148:001",
@@ -1782,7 +1969,7 @@
     "sub": "",
     "obs": "Aguardando Faca",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:21:52"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010149:001",
@@ -1799,7 +1986,7 @@
     "sub": "BROTECH",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:25:12"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010150:001",
@@ -1816,7 +2003,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010151:001",
@@ -1833,7 +2020,7 @@
     "sub": "",
     "obs": "Aguardando Faca",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:22:01"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010185:001",
@@ -1850,7 +2037,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010204:001",
@@ -1867,7 +2054,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010204:002",
@@ -1884,7 +2071,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010209:001",
@@ -1901,7 +2088,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010216:001",
@@ -1918,7 +2105,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010216:002",
@@ -1935,7 +2122,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010216:003",
@@ -1952,7 +2139,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010216:004",
@@ -1969,7 +2156,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010216:005",
@@ -1986,7 +2173,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010216:006",
@@ -2003,7 +2190,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010216:007",
@@ -2020,7 +2207,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010216:008",
@@ -2037,7 +2224,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010216:009",
@@ -2054,7 +2241,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:27:05"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010216:010",
@@ -2071,7 +2258,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:20:06"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010216:011",
@@ -2088,7 +2275,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010216:012",
@@ -2105,7 +2292,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010216:013",
@@ -2122,7 +2309,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010216:014",
@@ -2139,7 +2326,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010216:015",
@@ -2156,7 +2343,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010225:005",
@@ -2171,9 +2358,9 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "TROQUELADORAS",
     "sub": "",
-    "obs": "",
+    "obs": "Aguardando Faca",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:23:06"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010239:001",
@@ -2190,7 +2377,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010157:001",
@@ -2207,7 +2394,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010201:001",
@@ -2224,7 +2411,7 @@
     "sub": "VOREY",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:25:16"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010224:001",
@@ -2241,7 +2428,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:20:09"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010224:002",
@@ -2258,7 +2445,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010224:003",
@@ -2275,7 +2462,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010224:004",
@@ -2292,7 +2479,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010224:005",
@@ -2309,7 +2496,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010224:006",
@@ -2326,7 +2513,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010224:007",
@@ -2343,7 +2530,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010224:008",
@@ -2360,7 +2547,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010224:009",
@@ -2377,7 +2564,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010224:010",
@@ -2394,7 +2581,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010224:011",
@@ -2411,7 +2598,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010224:012",
@@ -2428,7 +2615,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010224:013",
@@ -2445,7 +2632,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010224:014",
@@ -2462,7 +2649,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010224:015",
@@ -2479,7 +2666,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010224:016",
@@ -2496,7 +2683,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010224:017",
@@ -2513,7 +2700,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010224:018",
@@ -2530,7 +2717,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010224:019",
@@ -2547,7 +2734,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010224:020",
@@ -2564,7 +2751,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010224:021",
@@ -2581,7 +2768,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010224:022",
@@ -2598,7 +2785,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010227:001",
@@ -2615,7 +2802,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "009689:001",
@@ -2630,9 +2817,9 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "DIGITAL",
     "sub": "",
-    "obs": "",
+    "obs": "Aguardando Aprovação",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "009689:002",
@@ -2647,9 +2834,43 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "DIGITAL",
     "sub": "",
+    "obs": "Aguardando Aprovação",
+    "finalizado": false,
+    "atualizado": "31/05/2026, 17:49:54"
+  },
+  {
+    "id": "009846:001",
+    "pedido": "009846",
+    "item": "001",
+    "cliente": "001430-JJ MAX",
+    "produto": "PA000000004448",
+    "descricao": "RÓTULO FRENTE GLYCOCLEAR PERSONAL DESPIGMENTANTE AHAS 25ML - 78 X 22,5",
+    "qtd": "3000",
+    "un": "UN",
+    "entrega": "09/06/2026",
+    "status": "",
+    "grupo": "DIGITAL",
+    "sub": "",
+    "obs": "Aguardando Aprovação",
+    "finalizado": false,
+    "atualizado": "31/05/2026, 17:49:54"
+  },
+  {
+    "id": "009958:001",
+    "pedido": "009958",
+    "item": "001",
+    "cliente": "001235-MIRIS COSMETICOS",
+    "produto": "PA000000003024",
+    "descricao": "RÓTULO LACRE - WEPINK - 30 X 30",
+    "qtd": "500",
+    "un": "MI",
+    "entrega": "09/06/2026",
+    "status": "",
+    "grupo": "FLEXO 350",
+    "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010049:001",
@@ -2666,7 +2887,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010049:002",
@@ -2683,7 +2904,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "009683:001",
@@ -2700,7 +2921,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010059:002",
@@ -2717,7 +2938,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010083:001",
@@ -2734,7 +2955,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "009849:003",
@@ -2751,7 +2972,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010183:001",
@@ -2768,7 +2989,7 @@
     "sub": "NACBRAS",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:27:08"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010184:001",
@@ -2785,7 +3006,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010192:001",
@@ -2802,7 +3023,7 @@
     "sub": "NACBRAS",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:27:11"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:001",
@@ -2819,7 +3040,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:20:17"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:002",
@@ -2836,7 +3057,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:20:20"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:003",
@@ -2853,7 +3074,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:004",
@@ -2870,7 +3091,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:005",
@@ -2887,7 +3108,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:006",
@@ -2904,7 +3125,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:007",
@@ -2921,7 +3142,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:008",
@@ -2938,7 +3159,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:009",
@@ -2955,7 +3176,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:010",
@@ -2972,7 +3193,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:011",
@@ -2989,7 +3210,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:012",
@@ -3006,7 +3227,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:013",
@@ -3023,7 +3244,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:014",
@@ -3040,7 +3261,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:015",
@@ -3057,7 +3278,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:016",
@@ -3074,7 +3295,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:017",
@@ -3091,7 +3312,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:018",
@@ -3108,7 +3329,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:019",
@@ -3125,7 +3346,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:020",
@@ -3142,7 +3363,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:021",
@@ -3159,7 +3380,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:023",
@@ -3176,7 +3397,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:024",
@@ -3193,7 +3414,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:025",
@@ -3210,7 +3431,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:026",
@@ -3227,7 +3448,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:027",
@@ -3244,7 +3465,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:028",
@@ -3261,7 +3482,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:029",
@@ -3278,7 +3499,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:030",
@@ -3295,7 +3516,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:031",
@@ -3312,7 +3533,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:032",
@@ -3329,7 +3550,7 @@
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:27:15"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:033",
@@ -3346,7 +3567,7 @@
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:27:17"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:034",
@@ -3363,7 +3584,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:035",
@@ -3380,7 +3601,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:036",
@@ -3397,7 +3618,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:037",
@@ -3414,7 +3635,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:038",
@@ -3431,7 +3652,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:039",
@@ -3448,7 +3669,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:040",
@@ -3465,7 +3686,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:041",
@@ -3482,7 +3703,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:042",
@@ -3499,7 +3720,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:043",
@@ -3516,7 +3737,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:044",
@@ -3533,7 +3754,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:045",
@@ -3550,7 +3771,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:046",
@@ -3567,7 +3788,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:047",
@@ -3584,7 +3805,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010217:048",
@@ -3601,7 +3822,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010222:001",
@@ -3618,7 +3839,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010222:002",
@@ -3635,7 +3856,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010222:003",
@@ -3652,7 +3873,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010222:004",
@@ -3669,7 +3890,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010222:005",
@@ -3686,7 +3907,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010222:006",
@@ -3703,7 +3924,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 15:18:58"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010222:007",
@@ -3720,7 +3941,7 @@
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:27:21"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010228:001",
@@ -3737,7 +3958,7 @@
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:27:24"
+    "atualizado": "31/05/2026, 17:49:54"
   },
   {
     "id": "010228:002",
@@ -3754,6 +3975,6 @@
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "30/05/2026, 17:27:27"
+    "atualizado": "31/05/2026, 17:49:54"
   }
 ]
