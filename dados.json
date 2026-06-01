@@ -12,9 +12,9 @@
     "status": "INICIADA (fase 3 de 3)",
     "grupo": "FLEXO 250",
     "sub": "",
-    "obs": "",
+    "obs": "Aguardando Faca",
     "finalizado": false,
-    "atualizado": "31/05/2026, 17:49:54"
+    "atualizado": "01/06/2026, 19:18:57"
   },
   {
     "id": "009721:001",
@@ -1511,40 +1511,6 @@
     "obs": "",
     "finalizado": false,
     "atualizado": "31/05/2026, 17:49:54"
-  },
-  {
-    "id": "010243:001",
-    "pedido": "010243",
-    "item": "001",
-    "cliente": "000609-VPJ COMERCIO DE PRODUTOS",
-    "produto": "PA000000004592",
-    "descricao": "ETIQUETA BRANCA - 80 X 125",
-    "qtd": "500",
-    "un": "UN",
-    "entrega": "03/06/2026",
-    "status": "PRONTA PARA INÍCIO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "01/06/2026, 11:05:06"
-  },
-  {
-    "id": "010243:002",
-    "pedido": "010243",
-    "item": "002",
-    "cliente": "000609-VPJ COMERCIO DE PRODUTOS",
-    "produto": "PA000000004593",
-    "descricao": "ETIQUETA BRANCA - 80 X 170",
-    "qtd": "500",
-    "un": "UN",
-    "entrega": "03/06/2026",
-    "status": "PRONTA PARA INÍCIO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "01/06/2026, 11:05:09"
   },
   {
     "id": "010259:001",
