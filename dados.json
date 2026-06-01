@@ -561,23 +561,6 @@
     "atualizado": "31/05/2026, 17:49:54"
   },
   {
-    "id": "010018:003",
-    "pedido": "010018",
-    "item": "003",
-    "cliente": "000662-KLUBER LUBRICATION LUBRIF",
-    "produto": "PA000000004063",
-    "descricao": "ETIQUETA BOPP BRILHO - 75 X 320",
-    "qtd": "3000",
-    "un": "UN",
-    "entrega": "01/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "01/06/2026, 11:04:13"
-  },
-  {
     "id": "010018:004",
     "pedido": "010018",
     "item": "004",
