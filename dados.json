@@ -918,23 +918,6 @@
     "atualizado": "01/06/2026, 11:05:04"
   },
   {
-    "id": "010133:004",
-    "pedido": "010133",
-    "item": "004",
-    "cliente": "001249-QUIMICA MODERNA",
-    "produto": "PA000000003797",
-    "descricao": "ETIQUETA COUCHE BRILHO DIGITAL - 42 X 115",
-    "qtd": "2000",
-    "un": "UN",
-    "entrega": "02/06/2026",
-    "status": "PRONTA PARA INÍCIO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "01/06/2026, 20:51:35"
-  },
-  {
     "id": "010134:001",
     "pedido": "010134",
     "item": "001",
@@ -1897,11 +1880,11 @@
     "un": "UN",
     "entrega": "05/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "CORTE BROTECH / VOREY",
+    "grupo": "REVISORAS",
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "01/06/2026, 20:46:09"
+    "atualizado": "01/06/2026, 22:01:35"
   },
   {
     "id": "010216:008",
