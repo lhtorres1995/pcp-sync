@@ -1132,11 +1132,11 @@
     "un": "UN",
     "entrega": "02/06/2026",
     "status": "",
-    "grupo": "DIGITAL",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "31/05/2026, 17:49:54"
+    "atualizado": "03/06/2026, 09:32:41"
   },
   {
     "id": "009948:003",
