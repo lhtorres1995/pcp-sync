@@ -401,11 +401,11 @@
     "un": "UN",
     "entrega": "01/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "DIGITAL",
+    "grupo": "CORTE BROTECH / VOREY",
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "03/06/2026, 16:11:45"
+    "atualizado": "03/06/2026, 16:14:03"
   },
   {
     "id": "010158:001",
@@ -525,23 +525,6 @@
     "obs": "",
     "finalizado": false,
     "atualizado": "03/06/2026, 16:11:45"
-  },
-  {
-    "id": "010218:001",
-    "pedido": "010218",
-    "item": "001",
-    "cliente": "001791-FREEDOM COSMETICOS LTDA",
-    "produto": "PA000000003024",
-    "descricao": "RÓTULO LACRE - WEPINK - 30 X 30",
-    "qtd": "100",
-    "un": "MI",
-    "entrega": "02/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "03/06/2026, 16:13:04"
   },
   {
     "id": "010234:001",
@@ -1120,23 +1103,6 @@
     "obs": "",
     "finalizado": false,
     "atualizado": "03/06/2026, 16:11:45"
-  },
-  {
-    "id": "010144:001",
-    "pedido": "010144",
-    "item": "001",
-    "cliente": "000031-HENKEL - JUNDIAI",
-    "produto": "PA000000000354",
-    "descricao": "RÓTULO CORROSIVO 8 ABNT",
-    "qtd": "6000",
-    "un": "PEÇA",
-    "entrega": "08/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "03/06/2026, 16:12:48"
   },
   {
     "id": "010145:001",
