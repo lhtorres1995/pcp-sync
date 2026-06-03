@@ -2118,11 +2118,11 @@
     "un": "UN",
     "entrega": "08/06/2026",
     "status": "PRONTA PARA INÍCIO",
-    "grupo": "DIGITAL",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "31/05/2026, 17:49:54"
+    "atualizado": "03/06/2026, 09:33:56"
   },
   {
     "id": "010224:010",
