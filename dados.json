@@ -1003,40 +1003,6 @@
     "atualizado": "31/05/2026, 17:49:54"
   },
   {
-    "id": "010237:001",
-    "pedido": "010237",
-    "item": "001",
-    "cliente": "000777-OZONE & LIFE",
-    "produto": "PA000000004519",
-    "descricao": "ETIQUETA BLUSTRATUM - SHAMPOO OZONIZADO 300ML - 165 X 154",
-    "qtd": "1000",
-    "un": "UN",
-    "entrega": "02/06/2026",
-    "status": "PRONTA PARA INÍCIO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "03/06/2026, 09:57:21"
-  },
-  {
-    "id": "010237:002",
-    "pedido": "010237",
-    "item": "002",
-    "cliente": "000777-OZONE & LIFE",
-    "produto": "PA000000004520",
-    "descricao": "ETIQUETA BLUSTRATUM - CONDICIONADOR OZONIZADO 300ML - 165 X 154",
-    "qtd": "500",
-    "un": "UN",
-    "entrega": "02/06/2026",
-    "status": "PRONTA PARA INÍCIO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "03/06/2026, 09:57:23"
-  },
-  {
     "id": "009948:003",
     "pedido": "009948",
     "item": "003",
@@ -1047,11 +1013,11 @@
     "un": "UN",
     "entrega": "03/06/2026",
     "status": "INICIADA (fase 4 de 4)",
-    "grupo": "DIGITAL",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "31/05/2026, 17:49:54"
+    "atualizado": "03/06/2026, 14:38:37"
   },
   {
     "id": "010010:001",
