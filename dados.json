@@ -680,23 +680,6 @@
     "atualizado": "31/05/2026, 17:49:54"
   },
   {
-    "id": "010175:001",
-    "pedido": "010175",
-    "item": "001",
-    "cliente": "001487-MARCO BONI",
-    "produto": "PA000000003878",
-    "descricao": "ETIQUETA ADESIVA PARA O ITEM 116068MA - 60 X 45",
-    "qtd": "2.5",
-    "un": "MI",
-    "entrega": "01/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "03/06/2026, 09:31:50"
-  },
-  {
     "id": "010186:001",
     "pedido": "010186",
     "item": "001",
@@ -729,23 +712,6 @@
     "obs": "",
     "finalizado": false,
     "atualizado": "31/05/2026, 17:49:54"
-  },
-  {
-    "id": "010202:001",
-    "pedido": "010202",
-    "item": "001",
-    "cliente": "000050-LLAC",
-    "produto": "PA000000000128",
-    "descricao": "ETIQ. IDENTIFICAÇÃO BOPP FOSCO",
-    "qtd": "3000",
-    "un": "UN",
-    "entrega": "01/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "03/06/2026, 09:31:57"
   },
   {
     "id": "010208:001",
@@ -935,57 +901,6 @@
     "atualizado": "01/06/2026, 20:51:49"
   },
   {
-    "id": "010158:001",
-    "pedido": "010158",
-    "item": "001",
-    "cliente": "001414-HELA SPICE",
-    "produto": "PA000000004539",
-    "descricao": "ETIQUETA PARA BLISTER - MAIONESE GRILL 40G - 55 X 55",
-    "qtd": "4000",
-    "un": "UN",
-    "entrega": "02/06/2026",
-    "status": "PRONTA PARA INÍCIO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "03/06/2026, 09:32:22"
-  },
-  {
-    "id": "010158:002",
-    "pedido": "010158",
-    "item": "002",
-    "cliente": "001414-HELA SPICE",
-    "produto": "PA000000004540",
-    "descricao": "ETIQUETA PARA BLISTER - FRITTEN SAUCE 40G - 55 X 55",
-    "qtd": "4000",
-    "un": "UN",
-    "entrega": "02/06/2026",
-    "status": "PRONTA PARA INÍCIO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "03/06/2026, 09:32:24"
-  },
-  {
-    "id": "010158:003",
-    "pedido": "010158",
-    "item": "003",
-    "cliente": "001414-HELA SPICE",
-    "produto": "PA000000004541",
-    "descricao": "ETIQUETA PARA BLISTER - CHICKEN HELA 40G - 55 X 55",
-    "qtd": "4000",
-    "un": "UN",
-    "entrega": "02/06/2026",
-    "status": "PRONTA PARA INÍCIO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "03/06/2026, 09:32:26"
-  },
-  {
     "id": "010194:002",
     "pedido": "010194",
     "item": "002",
@@ -1120,23 +1035,6 @@
     "obs": "",
     "finalizado": false,
     "atualizado": "31/05/2026, 17:49:54"
-  },
-  {
-    "id": "010234:002",
-    "pedido": "010234",
-    "item": "002",
-    "cliente": "001493-FCI",
-    "produto": "PA000000003942",
-    "descricao": "ETIQUETA FCI - 105 X 47",
-    "qtd": "20000",
-    "un": "UN",
-    "entrega": "02/06/2026",
-    "status": "",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "03/06/2026, 09:32:41"
   },
   {
     "id": "009948:003",
@@ -1409,23 +1307,6 @@
     "obs": "",
     "finalizado": false,
     "atualizado": "31/05/2026, 17:49:54"
-  },
-  {
-    "id": "010223:001",
-    "pedido": "010223",
-    "item": "001",
-    "cliente": "000957-BRENNTAG",
-    "produto": "PA000000003053",
-    "descricao": "0I9330.P00000 - RTL TEC PHOS K 40  20 20L FRENTE - 200 X 200",
-    "qtd": "500",
-    "un": "UN",
-    "entrega": "03/06/2026",
-    "status": "PRONTA PARA INÍCIO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "03/06/2026, 09:32:47"
   },
   {
     "id": "010223:002",
@@ -2152,11 +2033,11 @@
     "un": "UN",
     "entrega": "08/06/2026",
     "status": "PRONTA PARA INÍCIO",
-    "grupo": "DIGITAL",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "31/05/2026, 17:49:54"
+    "atualizado": "03/06/2026, 09:33:40"
   },
   {
     "id": "010224:005",
