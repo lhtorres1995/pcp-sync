@@ -1064,11 +1064,11 @@
     "un": "UN",
     "entrega": "05/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "03/06/2026, 16:11:45"
+    "atualizado": "03/06/2026, 16:39:27"
   },
   {
     "id": "010239:001",
