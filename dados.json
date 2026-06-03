@@ -537,11 +537,11 @@
     "un": "MI",
     "entrega": "02/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "FLEXO 350",
-    "sub": "ETIRAMA",
+    "grupo": "__FIN__",
+    "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "03/06/2026, 16:11:45"
+    "atualizado": "03/06/2026, 16:13:04"
   },
   {
     "id": "010234:001",
