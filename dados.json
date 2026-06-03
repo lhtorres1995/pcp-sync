@@ -741,11 +741,11 @@
     "un": "UN",
     "entrega": "01/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "DIGITAL",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "31/05/2026, 17:49:54"
+    "atualizado": "03/06/2026, 09:31:57"
   },
   {
     "id": "010208:001",
