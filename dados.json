@@ -248,11 +248,11 @@
     "un": "PEÇA",
     "entrega": "08/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "08/06/2026, 10:15:34"
   },
   {
     "id": "010148:001",
@@ -321,23 +321,6 @@
     "obs": "",
     "finalizado": false,
     "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010218:001",
-    "pedido": "010218",
-    "item": "001",
-    "cliente": "001791-FREEDOM COSMETICOS LTDA",
-    "produto": "PA000000003024",
-    "descricao": "RÓTULO LACRE - WEPINK - 30 X 30",
-    "qtd": "100",
-    "un": "MI",
-    "entrega": "08/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 09:03:58"
   },
   {
     "id": "010227:001",
