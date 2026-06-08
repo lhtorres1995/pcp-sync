@@ -663,23 +663,6 @@
     "atualizado": "08/06/2026, 07:32:49"
   },
   {
-    "id": "010198:001",
-    "pedido": "010198",
-    "item": "001",
-    "cliente": "001396-KIWKIW",
-    "produto": "PA000000003371",
-    "descricao": "ETIQ. KIWKIW - 100 X 150",
-    "qtd": "45",
-    "un": "MI",
-    "entrega": "10/06/2026",
-    "status": "INICIADA (fase 2 de 2)",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 08:13:24"
-  },
-  {
     "id": "010223:001",
     "pedido": "010223",
     "item": "001",
@@ -1115,11 +1098,11 @@
     "un": "MI",
     "entrega": "10/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "DIGITAL",
+    "grupo": "BATIDA",
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "08/06/2026, 08:51:27"
   },
   {
     "id": "010259:001",
