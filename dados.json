@@ -265,11 +265,11 @@
     "un": "MI",
     "entrega": "08/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "08/06/2026, 10:15:41"
   },
   {
     "id": "010151:001",
