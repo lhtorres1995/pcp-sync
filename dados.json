@@ -238,23 +238,6 @@
     "atualizado": "08/06/2026, 07:32:49"
   },
   {
-    "id": "010111:001",
-    "pedido": "010111",
-    "item": "001",
-    "cliente": "000031-HENKEL - JUNDIAI",
-    "produto": "PA000000001500",
-    "descricao": "ETIQ. CONSTRUÇÃO AMARELA",
-    "qtd": "3000",
-    "un": "PEÇA",
-    "entrega": "08/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 10:15:34"
-  },
-  {
     "id": "010148:001",
     "pedido": "010148",
     "item": "001",
