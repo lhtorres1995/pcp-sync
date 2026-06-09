@@ -63,9 +63,9 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "DIGITAL",
     "sub": "",
-    "obs": "",
+    "obs": "Aguardando Aprovacao",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 08:11:07"
   },
   {
     "id": "010124:001",
@@ -253,23 +253,6 @@
     "obs": "Aguardando Faca",
     "finalizado": false,
     "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010150:001",
-    "pedido": "010150",
-    "item": "001",
-    "cliente": "000031-HENKEL - JUNDIAI",
-    "produto": "PA000000003217",
-    "descricao": "ETIQ. BRANCA - 105 X 60 + RIBBON",
-    "qtd": "6",
-    "un": "MI",
-    "entrega": "08/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 10:15:41"
   },
   {
     "id": "010151:001",
