@@ -34,23 +34,6 @@
     "atualizado": "09/06/2026, 13:54:11"
   },
   {
-    "id": "010054:002",
-    "pedido": "010054",
-    "item": "002",
-    "cliente": "001652-KARTER",
-    "produto": "PA000000004508",
-    "descricao": "CONTRA RÓTULO LUBRIFICANTE KARTER MOTO 4T 20W50 1LT  - 140 X 80",
-    "qtd": "4000",
-    "un": "UN",
-    "entrega": "26/05/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "finalizado": true,
-    "atualizado": "09/06/2026, 13:54:11"
-  },
-  {
     "id": "010054:005",
     "pedido": "010054",
     "item": "005",
@@ -136,40 +119,6 @@
     "atualizado": "09/06/2026, 13:54:11"
   },
   {
-    "id": "010121:001",
-    "pedido": "010121",
-    "item": "001",
-    "cliente": "001652-KARTER",
-    "produto": "PA000000004507",
-    "descricao": "RÓTULO LUBRIFICANTE KARTER MOTO 4T 20W50 1LT  - 140 X 80",
-    "qtd": "1000",
-    "un": "UN",
-    "entrega": "29/05/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "finalizado": true,
-    "atualizado": "09/06/2026, 13:54:11"
-  },
-  {
-    "id": "010302:001",
-    "pedido": "010302",
-    "item": "001",
-    "cliente": "000514-PROSEGUR - PORTO ALEGRE",
-    "produto": "PA000000000567",
-    "descricao": "40025 - ETIQUETA ADESIVA 90 X 30",
-    "qtd": "50",
-    "un": "ROLO",
-    "entrega": "05/06/2026",
-    "status": "",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "finalizado": true,
-    "atualizado": "09/06/2026, 13:54:11"
-  },
-  {
     "id": "010157:001",
     "pedido": "010157",
     "item": "001",
@@ -204,23 +153,6 @@
     "atualizado": "09/06/2026, 13:54:11"
   },
   {
-    "id": "009958:001",
-    "pedido": "009958",
-    "item": "001",
-    "cliente": "001235-MIRIS COSMETICOS",
-    "produto": "PA000000003024",
-    "descricao": "RÓTULO LACRE - WEPINK - 30 X 30",
-    "qtd": "100",
-    "un": "MI",
-    "entrega": "09/06/2026",
-    "status": "",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "finalizado": true,
-    "atualizado": "09/06/2026, 13:54:11"
-  },
-  {
     "id": "010110:001",
     "pedido": "010110",
     "item": "001",
@@ -235,23 +167,6 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "09/06/2026, 13:54:11"
-  },
-  {
-    "id": "010186:001",
-    "pedido": "010186",
-    "item": "001",
-    "cliente": "000834-ROSA RETRÔ",
-    "produto": "PA000000000875",
-    "descricao": "ETIQ. 13 X 25 X 6 CARREIRAS",
-    "qtd": "1000",
-    "un": "UN",
-    "entrega": "09/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "finalizado": true,
     "atualizado": "09/06/2026, 13:54:11"
   },
   {
@@ -391,23 +306,6 @@
     "atualizado": "09/06/2026, 13:54:11"
   },
   {
-    "id": "010012:001",
-    "pedido": "010012",
-    "item": "001",
-    "cliente": "000029-KLABIN - OTACILIO",
-    "produto": "PA000000000087",
-    "descricao": "COD.10504 - ETIQ ADESIVA MATRICIAL 95 X 35",
-    "qtd": "24",
-    "un": "MI",
-    "entrega": "10/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "Aguardando Aprovacao",
-    "finalizado": true,
-    "atualizado": "09/06/2026, 13:54:11"
-  },
-  {
     "id": "010019:001",
     "pedido": "010019",
     "item": "001",
@@ -473,23 +371,6 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "09/06/2026, 13:54:11"
-  },
-  {
-    "id": "010129:001",
-    "pedido": "010129",
-    "item": "001",
-    "cliente": "000029-KLABIN - OTACILIO",
-    "produto": "PA000000000087",
-    "descricao": "COD.10504 - ETIQ ADESIVA MATRICIAL 95 X 35",
-    "qtd": "12",
-    "un": "MI",
-    "entrega": "10/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "Aguardando Aprovacao",
-    "finalizado": true,
     "atualizado": "09/06/2026, 13:54:11"
   },
   {
@@ -643,23 +524,6 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "09/06/2026, 13:54:11"
-  },
-  {
-    "id": "010070:003",
-    "pedido": "010070",
-    "item": "003",
-    "cliente": "000011-SANTHER - BRAGANÇA",
-    "produto": "PA000000000562",
-    "descricao": "ETIQ. 105 X 76",
-    "qtd": "100000",
-    "un": "UN",
-    "entrega": "11/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "finalizado": true,
     "atualizado": "09/06/2026, 13:54:11"
   },
   {
@@ -1377,23 +1241,6 @@
     "atualizado": "09/06/2026, 13:54:11"
   },
   {
-    "id": "010217:030",
-    "pedido": "010217",
-    "item": "030",
-    "cliente": "000309-OLEAK",
-    "produto": "PA000000000361",
-    "descricao": "REMOVEDOR POLISH - STRIP COAT - 140 X 120",
-    "qtd": "1000",
-    "un": "UN",
-    "entrega": "12/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "finalizado": true,
-    "atualizado": "09/06/2026, 13:54:11"
-  },
-  {
     "id": "010217:031",
     "pedido": "010217",
     "item": "031",
@@ -1836,23 +1683,6 @@
     "atualizado": "09/06/2026, 13:54:11"
   },
   {
-    "id": "010226:001",
-    "pedido": "010226",
-    "item": "001",
-    "cliente": "000218-FERTILABEL",
-    "produto": "PA000000004567",
-    "descricao": "CARGILL - SINTÉTICO ( BCD 80MX )",
-    "qtd": "5.1",
-    "un": "MI",
-    "entrega": "12/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "finalizado": true,
-    "atualizado": "09/06/2026, 13:54:11"
-  },
-  {
     "id": "010226:002",
     "pedido": "010226",
     "item": "002",
@@ -2084,11 +1914,11 @@
     "un": "UN",
     "entrega": "12/06/2026",
     "status": "PRONTA PARA INÍCIO",
-    "grupo": "FLEXO 350",
+    "grupo": "DIGITAL",
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "09/06/2026, 13:54:11"
+    "atualizado": "09/06/2026, 13:54:34"
   },
   {
     "id": "010323:001",
@@ -3179,23 +3009,6 @@
     "atualizado": "09/06/2026, 13:54:11"
   },
   {
-    "id": "010070:006",
-    "pedido": "010070",
-    "item": "006",
-    "cliente": "000011-SANTHER - BRAGANÇA",
-    "produto": "PA000000000562",
-    "descricao": "ETIQ. 105 X 76",
-    "qtd": "100000",
-    "un": "UN",
-    "entrega": "18/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "finalizado": true,
-    "atualizado": "09/06/2026, 13:54:11"
-  },
-  {
     "id": "010168:001",
     "pedido": "010168",
     "item": "001",
@@ -3601,23 +3414,6 @@
     "sub": "",
     "obs": "Aguardando Aprovação",
     "finalizado": false,
-    "atualizado": "09/06/2026, 13:54:11"
-  },
-  {
-    "id": "010074:001",
-    "pedido": "010074",
-    "item": "001",
-    "cliente": "000078-BARRY CALLEBAUT - EXTREMA",
-    "produto": "PA000000000012",
-    "descricao": "LABEL WHITE 4 X 10 ON ROLLS",
-    "qtd": "240",
-    "un": "MI",
-    "entrega": "19/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "finalizado": true,
     "atualizado": "09/06/2026, 13:54:11"
   },
   {
