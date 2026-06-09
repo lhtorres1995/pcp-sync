@@ -14,7 +14,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "009721:001",
@@ -31,7 +31,7 @@
     "sub": "VOREY",
     "obs": "Aguardando Aprovacao",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010054:002",
@@ -44,11 +44,11 @@
     "un": "UN",
     "entrega": "26/05/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "FLEXO 350",
-    "sub": "ETIRAMA",
+    "grupo": "__FIN__",
+    "sub": "",
     "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "finalizado": true,
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010054:005",
@@ -65,13 +65,13 @@
     "sub": "",
     "obs": "Aguardando Aprovacao",
     "finalizado": false,
-    "atualizado": "09/06/2026, 08:11:07"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010124:001",
     "pedido": "010124",
     "item": "001",
-    "cliente": "000354-ITALAC - PASSO FUNDO",
+    "cliente": "000763-ITALAC - GOIAS",
     "produto": "PA000000001472",
     "descricao": "ETIQ. BRANCA ITALAC - 100 X 150",
     "qtd": "20",
@@ -82,7 +82,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010187:001",
@@ -99,7 +99,7 @@
     "sub": "",
     "obs": "Aguardando Aprovacao",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010187:002",
@@ -116,7 +116,7 @@
     "sub": "",
     "obs": "Aguardando Aprovacao",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010187:003",
@@ -133,7 +133,7 @@
     "sub": "",
     "obs": "Aguardando Aprovacao",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010121:001",
@@ -146,130 +146,28 @@
     "un": "UN",
     "entrega": "29/05/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "FLEXO 350",
-    "sub": "ETIRAMA",
+    "grupo": "__FIN__",
+    "sub": "",
     "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "finalizado": true,
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
-    "id": "010107:001",
-    "pedido": "010107",
+    "id": "010302:001",
+    "pedido": "010302",
     "item": "001",
-    "cliente": "001368-ADVANCED LABS",
-    "produto": "PA000000004373",
-    "descricao": "RÓTULO WHEY PROTEIN CONCENTRADO 1KG BAUNILHA - 155 X 430",
-    "qtd": "3",
-    "un": "MI",
-    "entrega": "08/06/2026",
+    "cliente": "000514-PROSEGUR - PORTO ALEGRE",
+    "produto": "PA000000000567",
+    "descricao": "40025 - ETIQUETA ADESIVA 90 X 30",
+    "qtd": "50",
+    "un": "ROLO",
+    "entrega": "05/06/2026",
     "status": "",
-    "grupo": "REVISORAS",
-    "sub": "ETIRAMA",
-    "obs": "Aguardando Cliche",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010107:002",
-    "pedido": "010107",
-    "item": "002",
-    "cliente": "001368-ADVANCED LABS",
-    "produto": "PA000000004374",
-    "descricao": "RÓTULO WHEY PROTEIN CONCENTRADO 1KG BROWNIE - 155 X 430",
-    "qtd": "3",
-    "un": "MI",
-    "entrega": "08/06/2026",
-    "status": "",
-    "grupo": "REVISORAS",
-    "sub": "ETIRAMA",
-    "obs": "Aguardando Cliche",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010107:003",
-    "pedido": "010107",
-    "item": "003",
-    "cliente": "001368-ADVANCED LABS",
-    "produto": "PA000000004375",
-    "descricao": "RÓTULO WHEY PROTEIN CONCENTRADO 1KG CHOCOLATE - 155 X 430",
-    "qtd": "4",
-    "un": "MI",
-    "entrega": "08/06/2026",
-    "status": "",
-    "grupo": "REVISORAS",
-    "sub": "ETIRAMA",
-    "obs": "Aguardando Cliche",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010107:004",
-    "pedido": "010107",
-    "item": "004",
-    "cliente": "001368-ADVANCED LABS",
-    "produto": "PA000000004377",
-    "descricao": "RÓTULO WHEY PROTEIN CONCENTRADO 1KG COOKIES - 155 X 430",
-    "qtd": "3",
-    "un": "MI",
-    "entrega": "08/06/2026",
-    "status": "",
-    "grupo": "REVISORAS",
+    "grupo": "__FIN__",
     "sub": "",
-    "obs": "Aguardando Cliche",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010107:005",
-    "pedido": "010107",
-    "item": "005",
-    "cliente": "001368-ADVANCED LABS",
-    "produto": "PA000000004376",
-    "descricao": "RÓTULO WHEY PROTEIN CONCENTRADO 1KG MORANGO - 155 X 430",
-    "qtd": "2",
-    "un": "MI",
-    "entrega": "08/06/2026",
-    "status": "",
-    "grupo": "REVISORAS",
-    "sub": "ETIRAMA",
-    "obs": "Aguardando Cliche",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010148:001",
-    "pedido": "010148",
-    "item": "001",
-    "cliente": "000031-HENKEL - JUNDIAI",
-    "produto": "PA000000001011",
-    "descricao": "ETIQ. GEN. 103 X 292 - VEGAM",
-    "qtd": "130000",
-    "un": "PEÇA",
-    "entrega": "08/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "TROQUELADORAS",
-    "sub": "",
-    "obs": "Aguardando Faca",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010151:001",
-    "pedido": "010151",
-    "item": "001",
-    "cliente": "000031-HENKEL - JUNDIAI",
-    "produto": "PA000000003708",
-    "descricao": "ETIQ. GEN. 274 X 63 - VEGAM",
-    "qtd": "7000",
-    "un": "PEÇA",
-    "entrega": "08/06/2026",
-    "status": "PRONTA PARA INÍCIO",
-    "grupo": "TROQUELADORAS",
-    "sub": "",
-    "obs": "Aguardando Faca",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "obs": "",
+    "finalizado": true,
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010157:001",
@@ -286,7 +184,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010227:001",
@@ -303,7 +201,24 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "009958:001",
+    "pedido": "009958",
+    "item": "001",
+    "cliente": "001235-MIRIS COSMETICOS",
+    "produto": "PA000000003024",
+    "descricao": "RÓTULO LACRE - WEPINK - 30 X 30",
+    "qtd": "100",
+    "un": "MI",
+    "entrega": "09/06/2026",
+    "status": "",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "finalizado": true,
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010110:001",
@@ -320,7 +235,24 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010186:001",
+    "pedido": "010186",
+    "item": "001",
+    "cliente": "000834-ROSA RETRÔ",
+    "produto": "PA000000000875",
+    "descricao": "ETIQ. 13 X 25 X 6 CARREIRAS",
+    "qtd": "1000",
+    "un": "UN",
+    "entrega": "09/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "finalizado": true,
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010201:001",
@@ -337,7 +269,7 @@
     "sub": "VOREY",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010202:001",
@@ -354,7 +286,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010234:001",
@@ -371,7 +303,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "09/06/2026, 08:11:18"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010278:001",
@@ -388,7 +320,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010282:001",
@@ -400,12 +332,12 @@
     "qtd": "80000",
     "un": "PEÇA",
     "entrega": "09/06/2026",
-    "status": "PRONTA PARA INÍCIO",
+    "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
     "sub": "BROTECH",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010296:001",
@@ -419,10 +351,10 @@
     "entrega": "09/06/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
-    "sub": "",
+    "sub": "VOREY",
     "obs": "",
     "finalizado": false,
-    "atualizado": "09/06/2026, 08:11:22"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010296:002",
@@ -436,10 +368,10 @@
     "entrega": "09/06/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
-    "sub": "",
+    "sub": "VOREY",
     "obs": "",
     "finalizado": false,
-    "atualizado": "09/06/2026, 08:11:25"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010296:003",
@@ -453,10 +385,10 @@
     "entrega": "09/06/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
-    "sub": "",
+    "sub": "VOREY",
     "obs": "",
     "finalizado": false,
-    "atualizado": "09/06/2026, 08:11:28"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010012:001",
@@ -469,11 +401,11 @@
     "un": "MI",
     "entrega": "10/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "TERMICA",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "Aguardando Aprovacao",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "finalizado": true,
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010019:001",
@@ -487,10 +419,10 @@
     "entrega": "10/06/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
-    "sub": "VOREY",
+    "sub": "BROTECH",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010049:002",
@@ -504,10 +436,10 @@
     "entrega": "10/06/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
-    "sub": "",
+    "sub": "VOREY",
     "obs": "",
     "finalizado": false,
-    "atualizado": "09/06/2026, 08:11:32"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010059:002",
@@ -524,7 +456,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010094:006",
@@ -541,7 +473,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010129:001",
@@ -554,11 +486,11 @@
     "un": "MI",
     "entrega": "10/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "TERMICA",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "Aguardando Aprovacao",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "finalizado": true,
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "009849:003",
@@ -575,7 +507,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010184:001",
@@ -592,7 +524,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010192:001",
@@ -609,415 +541,7 @@
     "sub": "NACBRAS",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010223:001",
-    "pedido": "010223",
-    "item": "001",
-    "cliente": "000957-BRENNTAG",
-    "produto": "PA000000003053",
-    "descricao": "0I9330.P00000 - RTL TEC PHOS K 40  20 20L FRENTE - 200 X 200",
-    "qtd": "500",
-    "un": "UN",
-    "entrega": "10/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010223:002",
-    "pedido": "010223",
-    "item": "002",
-    "cliente": "000957-BRENNTAG",
-    "produto": "PA000000003366",
-    "descricao": "0I9340.P00000 - RTL TEC PHOS K 40-20 20L VERSO - 200 X 200",
-    "qtd": "500",
-    "un": "UN",
-    "entrega": "10/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010224:001",
-    "pedido": "010224",
-    "item": "001",
-    "cliente": "000957-BRENNTAG",
-    "produto": "PA000000002084",
-    "descricao": "003260.P00000 - RTL BASF MG SL 1L 20L, - 144 X 275",
-    "qtd": "500",
-    "un": "UN",
-    "entrega": "10/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "BROTECH",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 08:13:57"
-  },
-  {
-    "id": "010224:002",
-    "pedido": "010224",
-    "item": "002",
-    "cliente": "000957-BRENNTAG",
-    "produto": "PA000000001998",
-    "descricao": "0I4790.P00000 - RTL BASF BLACK EVOLUTION 5L FRENTE - 148 X 148",
-    "qtd": "2500",
-    "un": "UN",
-    "entrega": "10/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010224:003",
-    "pedido": "010224",
-    "item": "003",
-    "cliente": "000957-BRENNTAG",
-    "produto": "PA000000001999",
-    "descricao": "0I4800.P00000 - RTL BASF BLACK EVOLUTION 5L VERSO - 148 X 148",
-    "qtd": "2500",
-    "un": "UN",
-    "entrega": "10/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010224:004",
-    "pedido": "010224",
-    "item": "004",
-    "cliente": "000957-BRENNTAG",
-    "produto": "PA000000002218",
-    "descricao": "0IA121.P00000 - RTL DELLAGRI MAG 20L FRENTE - 200 X 200",
-    "qtd": "500",
-    "un": "UN",
-    "entrega": "10/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010224:005",
-    "pedido": "010224",
-    "item": "005",
-    "cliente": "000957-BRENNTAG",
-    "produto": "PA000000002219",
-    "descricao": "0IA122.P00000 - RTL DELLAGRI MAG 20L VERSO - 200 X 200",
-    "qtd": "500",
-    "un": "UN",
-    "entrega": "10/06/2026",
-    "status": "PRONTA PARA INÍCIO",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010224:006",
-    "pedido": "010224",
-    "item": "006",
-    "cliente": "000957-BRENNTAG",
-    "produto": "PA000000002393",
-    "descricao": "0IA168.P00000 - RTL DELLAGRI TOTAL AMINO 20L FRENTE - 200 X 200",
-    "qtd": "500",
-    "un": "UN",
-    "entrega": "10/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010224:007",
-    "pedido": "010224",
-    "item": "007",
-    "cliente": "000957-BRENNTAG",
-    "produto": "PA000000003379",
-    "descricao": "0ID580.P00000 - RTL DELLAGRI GROW VERSO - 200 X 200",
-    "qtd": "500",
-    "un": "UN",
-    "entrega": "10/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010224:008",
-    "pedido": "010224",
-    "item": "008",
-    "cliente": "000957-BRENNTAG",
-    "produto": "PA000000003378",
-    "descricao": "0ID590.P00000 - RTL DELLAGRI GROW FRENTE - 200 X 200",
-    "qtd": "500",
-    "un": "UN",
-    "entrega": "10/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010224:009",
-    "pedido": "010224",
-    "item": "009",
-    "cliente": "000957-BRENNTAG",
-    "produto": "PA000000002401",
-    "descricao": "0IA172.P00000 - RTL DELLAGRI CARGA 20L FRENTE - 200 X 200",
-    "qtd": "500",
-    "un": "UN",
-    "entrega": "10/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010224:010",
-    "pedido": "010224",
-    "item": "010",
-    "cliente": "000957-BRENNTAG",
-    "produto": "PA000000002402",
-    "descricao": "0IA173.P00000 - RTL DELLAGRI CARGA 20L VERSO - 200 X 200",
-    "qtd": "500",
-    "un": "UN",
-    "entrega": "10/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010224:011",
-    "pedido": "010224",
-    "item": "011",
-    "cliente": "000957-BRENNTAG",
-    "produto": "PA000000002392",
-    "descricao": "0IA167.P00000 - RTL DELLAGRI GRAO 20L VERSO - 200 X 200",
-    "qtd": "1000",
-    "un": "UN",
-    "entrega": "10/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010224:012",
-    "pedido": "010224",
-    "item": "012",
-    "cliente": "000957-BRENNTAG",
-    "produto": "PA000000002391",
-    "descricao": "0IA171.P00000 - RTL DELLAGRI GRAO 20L FRENTE - 200 X 200",
-    "qtd": "1000",
-    "un": "UN",
-    "entrega": "10/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010224:013",
-    "pedido": "010224",
-    "item": "013",
-    "cliente": "000957-BRENNTAG",
-    "produto": "PA000000002808",
-    "descricao": "0I7170.P00000 - RTL AMULETUSNUTRI K 350 5L FRENTE - 148 X 148",
-    "qtd": "500",
-    "un": "UN",
-    "entrega": "10/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010224:014",
-    "pedido": "010224",
-    "item": "014",
-    "cliente": "000957-BRENNTAG",
-    "produto": "PA000000002752",
-    "descricao": "0IB390.P00000 - RTL DELLAGRI MN 20L FRENTE - 200 X 200",
-    "qtd": "500",
-    "un": "UN",
-    "entrega": "10/06/2026",
-    "status": "PRONTA PARA INÍCIO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "BROTECH",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 08:13:59"
-  },
-  {
-    "id": "010224:015",
-    "pedido": "010224",
-    "item": "015",
-    "cliente": "000957-BRENNTAG",
-    "produto": "PA000000002753",
-    "descricao": "0IB400.P00000 - RTL DELLAGRI MN 20L VERSO - 200 X 200",
-    "qtd": "500",
-    "un": "UN",
-    "entrega": "10/06/2026",
-    "status": "PRONTA PARA INÍCIO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "BROTECH",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 08:14:00"
-  },
-  {
-    "id": "010224:016",
-    "pedido": "010224",
-    "item": "016",
-    "cliente": "000957-BRENNTAG",
-    "produto": "PA000000002797",
-    "descricao": "0IC380.P00000 - RTL BLATT ORANGE VERSO - 148 X 148",
-    "qtd": "700",
-    "un": "UN",
-    "entrega": "10/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010224:017",
-    "pedido": "010224",
-    "item": "017",
-    "cliente": "000957-BRENNTAG",
-    "produto": "PA000000002796",
-    "descricao": "0IC390.P00000 - RTL BLATT ORANGE FRENTE - 148 X 148",
-    "qtd": "700",
-    "un": "UN",
-    "entrega": "10/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010224:018",
-    "pedido": "010224",
-    "item": "018",
-    "cliente": "000957-BRENNTAG",
-    "produto": "PA000000002795",
-    "descricao": "0IB980.P00000 - RTL BLATT COMONI VERSO - 148 X 148",
-    "qtd": "800",
-    "un": "UN",
-    "entrega": "10/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010224:019",
-    "pedido": "010224",
-    "item": "019",
-    "cliente": "000957-BRENNTAG",
-    "produto": "PA000000002794",
-    "descricao": "0IB990.P00000 - RTL BLATT COMONI FRENTE - 148 X 148",
-    "qtd": "800",
-    "un": "UN",
-    "entrega": "10/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010224:020",
-    "pedido": "010224",
-    "item": "020",
-    "cliente": "000957-BRENNTAG",
-    "produto": "PA000000002788",
-    "descricao": "0IC290.P00000 - RTL BLATT NMOL FRENTE - 200 X 200",
-    "qtd": "500",
-    "un": "UN",
-    "entrega": "10/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010224:021",
-    "pedido": "010224",
-    "item": "021",
-    "cliente": "000957-BRENNTAG",
-    "produto": "PA000000002789",
-    "descricao": "0IC300.P00000 - RTL BLATT NMOL VERSO - 200 X 200",
-    "qtd": "500",
-    "un": "UN",
-    "entrega": "10/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010224:022",
-    "pedido": "010224",
-    "item": "022",
-    "cliente": "000957-BRENNTAG",
-    "produto": "PA000000002563",
-    "descricao": "0I7130.P00000 - RTL AMULETUSNUTRI GOLD VEGET 5L VERSO - 148 X 148",
-    "qtd": "500",
-    "un": "UN",
-    "entrega": "10/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010225:005",
@@ -1029,12 +553,12 @@
     "qtd": "16000",
     "un": "PEÇA",
     "entrega": "10/06/2026",
-    "status": "PRONTA PARA INÍCIO",
+    "status": "MATERIAL EMPENHADO",
     "grupo": "TROQUELADORAS",
     "sub": "",
     "obs": "Aguardando Faca",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010239:001",
@@ -1051,7 +575,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 08:51:27"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010259:001",
@@ -1068,7 +592,7 @@
     "sub": "NACBRAS",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010297:001",
@@ -1080,12 +604,46 @@
     "qtd": "5",
     "un": "ROLO",
     "entrega": "10/06/2026",
-    "status": "PRONTA PARA INÍCIO",
+    "status": "MATERIAL EMPENHADO",
     "grupo": "TROQUELADORAS",
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010334:001",
+    "pedido": "010334",
+    "item": "001",
+    "cliente": "000078-BARRY CALLEBAUT - EXTREMA",
+    "produto": "PA000000004208",
+    "descricao": "ETIQUETA ROSA - 101,6 X 254",
+    "qtd": "10",
+    "un": "MI",
+    "entrega": "10/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "REVISORAS",
+    "sub": "",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010336:001",
+    "pedido": "010336",
+    "item": "001",
+    "cliente": "000218-FERTILABEL",
+    "produto": "PA000000004627",
+    "descricao": "ETIQ. BRANCA -100 X 73",
+    "qtd": "45",
+    "un": "MI",
+    "entrega": "10/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "TROQUELADORAS",
+    "sub": "",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010070:003",
@@ -1098,11 +656,11 @@
     "un": "UN",
     "entrega": "11/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "TROQUELADORAS",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "finalizado": true,
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010205:001",
@@ -1119,7 +677,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010205:002",
@@ -1136,7 +694,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010205:003",
@@ -1153,7 +711,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010205:004",
@@ -1170,7 +728,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010219:001",
@@ -1187,7 +745,7 @@
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010229:001",
@@ -1204,7 +762,7 @@
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010230:001",
@@ -1221,7 +779,7 @@
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010230:002",
@@ -1238,7 +796,7 @@
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010271:001",
@@ -1255,7 +813,7 @@
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010244:001",
@@ -1264,15 +822,15 @@
     "cliente": "000244-HEALTH QUALITY",
     "produto": "PA000000001675",
     "descricao": "626089 - ETIQ. ADESIVA CARTELA COM 7 UNIDADES - 80 X 224",
-    "qtd": "10000",
+    "qtd": "8500",
     "un": "UN",
     "entrega": "11/06/2026",
-    "status": "PRONTA PARA INÍCIO",
+    "status": "INICIADA (fase 3 de 3)",
     "grupo": "BATIDA",
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010286:001",
@@ -1284,12 +842,12 @@
     "qtd": "50",
     "un": "MI",
     "entrega": "11/06/2026",
-    "status": "PRONTA PARA INÍCIO",
+    "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
     "sub": "BROTECH",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010287:002",
@@ -1301,12 +859,12 @@
     "qtd": "60",
     "un": "MI",
     "entrega": "11/06/2026",
-    "status": "PRONTA PARA INÍCIO",
+    "status": "MATERIAL EMPENHADO",
     "grupo": "TROQUELADORAS",
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010009:003",
@@ -1323,41 +881,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010082:001",
-    "pedido": "010082",
-    "item": "001",
-    "cliente": "001215-MAPPEL",
-    "produto": "PA000000002888",
-    "descricao": "SELO NIQUITIN - 25 X 20",
-    "qtd": "560000",
-    "un": "UN",
-    "entrega": "12/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "BROTECH",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010083:001",
-    "pedido": "010083",
-    "item": "001",
-    "cliente": "000330-SIEGWERK - DIADEMA",
-    "produto": "PA000000001243",
-    "descricao": "ETIQUETA SIEGWERK - 150 X 300",
-    "qtd": "5000",
-    "un": "UN",
-    "entrega": "12/06/2026",
-    "status": "INICIADA (fase 2 de 2)",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010137:001",
@@ -1374,7 +898,7 @@
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010181:001",
@@ -1391,7 +915,7 @@
     "sub": "VOREY",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010185:001",
@@ -1405,27 +929,10 @@
     "entrega": "12/06/2026",
     "status": "PRONTA PARA INÍCIO",
     "grupo": "CORTE BROTECH / VOREY",
-    "sub": "",
+    "sub": "VOREY",
     "obs": "",
     "finalizado": false,
-    "atualizado": "09/06/2026, 08:11:39"
-  },
-  {
-    "id": "010209:001",
-    "pedido": "010209",
-    "item": "001",
-    "cliente": "001527-C. PETROP. - AGUA BRANCA",
-    "produto": "PA000000004123",
-    "descricao": "1079105 - ETIQUETA COUCHE AMARELA - 100 X 150",
-    "qtd": "18",
-    "un": "ROLO",
-    "entrega": "12/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010211:001",
@@ -1442,7 +949,7 @@
     "sub": "KROMIA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:001",
@@ -1459,7 +966,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:002",
@@ -1476,7 +983,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:003",
@@ -1493,7 +1000,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:004",
@@ -1510,7 +1017,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:005",
@@ -1527,7 +1034,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:006",
@@ -1544,7 +1051,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:007",
@@ -1561,7 +1068,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:009",
@@ -1578,7 +1085,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:010",
@@ -1595,7 +1102,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:011",
@@ -1612,7 +1119,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:012",
@@ -1629,7 +1136,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:013",
@@ -1646,7 +1153,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:014",
@@ -1663,7 +1170,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:015",
@@ -1680,7 +1187,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:016",
@@ -1697,7 +1204,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:017",
@@ -1714,7 +1221,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:018",
@@ -1731,7 +1238,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:019",
@@ -1748,7 +1255,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:023",
@@ -1765,7 +1272,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:024",
@@ -1782,7 +1289,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:025",
@@ -1799,7 +1306,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:026",
@@ -1816,7 +1323,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:027",
@@ -1833,7 +1340,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:028",
@@ -1850,7 +1357,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:029",
@@ -1867,7 +1374,24 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010217:030",
+    "pedido": "010217",
+    "item": "030",
+    "cliente": "000309-OLEAK",
+    "produto": "PA000000000361",
+    "descricao": "REMOVEDOR POLISH - STRIP COAT - 140 X 120",
+    "qtd": "1000",
+    "un": "UN",
+    "entrega": "12/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "finalizado": true,
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:031",
@@ -1884,7 +1408,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:032",
@@ -1901,7 +1425,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:033",
@@ -1918,7 +1442,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:034",
@@ -1935,7 +1459,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:035",
@@ -1952,7 +1476,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:036",
@@ -1969,7 +1493,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:038",
@@ -1986,7 +1510,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:039",
@@ -2003,7 +1527,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:040",
@@ -2020,7 +1544,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:041",
@@ -2037,7 +1561,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:042",
@@ -2054,7 +1578,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:043",
@@ -2071,7 +1595,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:044",
@@ -2088,7 +1612,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:045",
@@ -2105,7 +1629,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:046",
@@ -2122,7 +1646,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:047",
@@ -2139,7 +1663,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010217:048",
@@ -2156,7 +1680,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010221:001",
@@ -2173,7 +1697,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010221:002",
@@ -2190,7 +1714,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010222:001",
@@ -2207,7 +1731,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010222:002",
@@ -2224,7 +1748,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010222:003",
@@ -2241,7 +1765,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010222:004",
@@ -2258,7 +1782,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010222:005",
@@ -2275,7 +1799,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010222:006",
@@ -2292,7 +1816,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010222:007",
@@ -2309,7 +1833,7 @@
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010226:001",
@@ -2321,12 +1845,12 @@
     "qtd": "5.1",
     "un": "MI",
     "entrega": "12/06/2026",
-    "status": "PRONTA PARA INÍCIO",
+    "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "KROMIA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010226:002",
@@ -2338,12 +1862,12 @@
     "qtd": "36",
     "un": "MI",
     "entrega": "12/06/2026",
-    "status": "PRONTA PARA INÍCIO",
+    "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "KROMIA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010228:001",
@@ -2360,7 +1884,7 @@
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010228:002",
@@ -2377,7 +1901,7 @@
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010241:001",
@@ -2389,12 +1913,12 @@
     "qtd": "90",
     "un": "MI",
     "entrega": "12/06/2026",
-    "status": "PRONTA PARA INÍCIO",
+    "status": "MATERIAL EMPENHADO",
     "grupo": "TROQUELADORAS",
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010260:001",
@@ -2411,7 +1935,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010276:001",
@@ -2428,24 +1952,7 @@
     "sub": "NACBRAS",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
-  },
-  {
-    "id": "010277:001",
-    "pedido": "010277",
-    "item": "001",
-    "cliente": "000271-GERRESHEIMER - COTIA",
-    "produto": "PA000000000164",
-    "descricao": "ETIQ. PAPEL COUCHE C/ PICOTE - BR 100 X 140",
-    "qtd": "280",
-    "un": "MI",
-    "entrega": "12/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "TROQUELADORAS",
-    "sub": "",
-    "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010279:001",
@@ -2462,7 +1969,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010280:001",
@@ -2474,12 +1981,12 @@
     "qtd": "2",
     "un": "MI",
     "entrega": "12/06/2026",
-    "status": "PRONTA PARA INÍCIO",
+    "status": "MATERIAL EMPENHADO",
     "grupo": "DIGITAL",
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010285:001",
@@ -2496,7 +2003,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010300:001",
@@ -2508,12 +2015,12 @@
     "qtd": "35000",
     "un": "PEÇA",
     "entrega": "12/06/2026",
-    "status": "PRONTA PARA INÍCIO",
+    "status": "MATERIAL EMPENHADO",
     "grupo": "BATIDA",
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010312:001",
@@ -2525,12 +2032,12 @@
     "qtd": "90045",
     "un": "PEÇA",
     "entrega": "12/06/2026",
-    "status": "",
+    "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010312:002",
@@ -2542,12 +2049,12 @@
     "qtd": "38075",
     "un": "PEÇA",
     "entrega": "12/06/2026",
-    "status": "",
+    "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010313:001",
@@ -2559,12 +2066,97 @@
     "qtd": "1500",
     "un": "CONJ",
     "entrega": "12/06/2026",
-    "status": "",
+    "status": "PRONTA PARA INÍCIO",
     "grupo": "DIGITAL",
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010320:002",
+    "pedido": "010320",
+    "item": "002",
+    "cliente": "000309-OLEAK",
+    "produto": "PA000000003957",
+    "descricao": "CONTRA RÓTULO OPTIGERM 750ML - 75 X 120",
+    "qtd": "8000",
+    "un": "UN",
+    "entrega": "12/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "FLEXO 350",
+    "sub": "",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010323:001",
+    "pedido": "010323",
+    "item": "001",
+    "cliente": "000312-SARSTEDT",
+    "produto": "PA000000000853",
+    "descricao": "ETIQUETA SACO PARA TUBO - 74 X 48",
+    "qtd": "200000",
+    "un": "UN",
+    "entrega": "12/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "TROQUELADORAS",
+    "sub": "",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010328:001",
+    "pedido": "010328",
+    "item": "001",
+    "cliente": "000014-HENKEL - ITAPEVI",
+    "produto": "PA000000004622",
+    "descricao": "ETIQUETA CODIGO DE BARRAS - 19 X 12",
+    "qtd": "23000",
+    "un": "UN",
+    "entrega": "12/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "DIGITAL",
+    "sub": "",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010330:001",
+    "pedido": "010330",
+    "item": "001",
+    "cliente": "001116-AMF GRAFICA LTDA",
+    "produto": "PA000000003270",
+    "descricao": "ETIQ. TRANSPARENTE - 75 X 9 X 2 CARREIRAS",
+    "qtd": "150",
+    "un": "MI",
+    "entrega": "12/06/2026",
+    "status": "",
+    "grupo": "TROQUELADORAS",
+    "sub": "",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010082:001",
+    "pedido": "010082",
+    "item": "001",
+    "cliente": "001215-MAPPEL",
+    "produto": "PA000000002888",
+    "descricao": "SELO NIQUITIN - 25 X 20",
+    "qtd": "560000",
+    "un": "UN",
+    "entrega": "15/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "CORTE BROTECH / VOREY",
+    "sub": "BROTECH",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010175:004",
@@ -2581,7 +2173,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010175:005",
@@ -2598,7 +2190,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010232:001",
@@ -2615,7 +2207,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010232:002",
@@ -2632,7 +2224,7 @@
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010261:001",
@@ -2649,7 +2241,7 @@
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010261:002",
@@ -2666,7 +2258,7 @@
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010263:001",
@@ -2683,7 +2275,7 @@
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010263:002",
@@ -2700,7 +2292,7 @@
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010264:001",
@@ -2717,7 +2309,7 @@
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010264:002",
@@ -2734,7 +2326,7 @@
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010270:001",
@@ -2751,7 +2343,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010292:001",
@@ -2768,7 +2360,7 @@
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010294:001",
@@ -2785,7 +2377,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010294:002",
@@ -2802,7 +2394,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010294:003",
@@ -2819,7 +2411,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010294:004",
@@ -2836,7 +2428,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010294:005",
@@ -2853,7 +2445,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010294:006",
@@ -2870,7 +2462,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010294:007",
@@ -2887,7 +2479,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010294:008",
@@ -2904,7 +2496,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010294:009",
@@ -2921,7 +2513,58 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010327:001",
+    "pedido": "010327",
+    "item": "001",
+    "cliente": "000345-BIOPAR",
+    "produto": "PA000000000026",
+    "descricao": "ETIQ. - 100 X 85",
+    "qtd": "20",
+    "un": "MI",
+    "entrega": "15/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "TROQUELADORAS",
+    "sub": "",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010327:002",
+    "pedido": "010327",
+    "item": "002",
+    "cliente": "000345-BIOPAR",
+    "produto": "PA000000000025",
+    "descricao": "ETIQ. - 100 X 50",
+    "qtd": "10",
+    "un": "MI",
+    "entrega": "15/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "TROQUELADORAS",
+    "sub": "",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010327:003",
+    "pedido": "010327",
+    "item": "003",
+    "cliente": "000345-BIOPAR",
+    "produto": "PA000000002373",
+    "descricao": "ETIQ. BRANCA - 45 X 12",
+    "qtd": "5",
+    "un": "MI",
+    "entrega": "15/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "BATIDA",
+    "sub": "",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "009959:001",
@@ -2938,7 +2581,7 @@
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010194:002",
@@ -2955,7 +2598,7 @@
     "sub": "",
     "obs": "Aguardando Faca",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010199:002",
@@ -2972,7 +2615,41 @@
     "sub": "",
     "obs": "Aguardando Faca",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010326:001",
+    "pedido": "010326",
+    "item": "001",
+    "cliente": "000033-CONGREGAÇÃO - FUNDO",
+    "produto": "PA000000003211",
+    "descricao": "ETIQ. AMARELA - 80 X 20 + RIBBON",
+    "qtd": "20000",
+    "un": "UN",
+    "entrega": "16/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "FLEXO 250",
+    "sub": "",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010337:001",
+    "pedido": "010337",
+    "item": "001",
+    "cliente": "000218-FERTILABEL",
+    "produto": "PA000000000320",
+    "descricao": "ETIQ. MOSAIC - 95 X 115",
+    "qtd": "360000",
+    "un": "UN",
+    "entrega": "16/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "FLEXO 350",
+    "sub": "NACBRAS",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "009895:001",
@@ -2989,7 +2666,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010235:001",
@@ -3001,12 +2678,12 @@
     "qtd": "150",
     "un": "MI",
     "entrega": "17/06/2026",
-    "status": "PRONTA PARA INÍCIO",
+    "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010235:002",
@@ -3018,12 +2695,12 @@
     "qtd": "60",
     "un": "MI",
     "entrega": "17/06/2026",
-    "status": "PRONTA PARA INÍCIO",
+    "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010235:003",
@@ -3035,12 +2712,12 @@
     "qtd": "45",
     "un": "MI",
     "entrega": "17/06/2026",
-    "status": "PRONTA PARA INÍCIO",
+    "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010235:004",
@@ -3052,12 +2729,12 @@
     "qtd": "30",
     "un": "MI",
     "entrega": "17/06/2026",
-    "status": "PRONTA PARA INÍCIO",
+    "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010235:005",
@@ -3069,12 +2746,12 @@
     "qtd": "30",
     "un": "MI",
     "entrega": "17/06/2026",
-    "status": "PRONTA PARA INÍCIO",
+    "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010235:006",
@@ -3086,12 +2763,12 @@
     "qtd": "120",
     "un": "MI",
     "entrega": "17/06/2026",
-    "status": "PRONTA PARA INÍCIO",
+    "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010235:007",
@@ -3103,12 +2780,12 @@
     "qtd": "90",
     "un": "MI",
     "entrega": "17/06/2026",
-    "status": "PRONTA PARA INÍCIO",
+    "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010235:008",
@@ -3120,12 +2797,12 @@
     "qtd": "90",
     "un": "MI",
     "entrega": "17/06/2026",
-    "status": "PRONTA PARA INÍCIO",
+    "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010235:009",
@@ -3137,12 +2814,12 @@
     "qtd": "90",
     "un": "MI",
     "entrega": "17/06/2026",
-    "status": "PRONTA PARA INÍCIO",
+    "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010235:010",
@@ -3154,12 +2831,12 @@
     "qtd": "90",
     "un": "MI",
     "entrega": "17/06/2026",
-    "status": "PRONTA PARA INÍCIO",
+    "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010235:011",
@@ -3171,12 +2848,12 @@
     "qtd": "60",
     "un": "MI",
     "entrega": "17/06/2026",
-    "status": "PRONTA PARA INÍCIO",
+    "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010235:012",
@@ -3188,12 +2865,12 @@
     "qtd": "45",
     "un": "MI",
     "entrega": "17/06/2026",
-    "status": "PRONTA PARA INÍCIO",
+    "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010235:013",
@@ -3205,12 +2882,12 @@
     "qtd": "150",
     "un": "MI",
     "entrega": "17/06/2026",
-    "status": "PRONTA PARA INÍCIO",
+    "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010266:001",
@@ -3227,7 +2904,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010269:001",
@@ -3244,7 +2921,7 @@
     "sub": "NACBRAS",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010275:001",
@@ -3261,7 +2938,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010316:001",
@@ -3273,12 +2950,12 @@
     "qtd": "4",
     "un": "ROLO",
     "entrega": "17/06/2026",
-    "status": "",
+    "status": "PRONTA PARA INÍCIO",
     "grupo": "BATIDA",
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010317:001",
@@ -3290,12 +2967,12 @@
     "qtd": "20",
     "un": "ROLO",
     "entrega": "17/06/2026",
-    "status": "",
+    "status": "PRONTA PARA INÍCIO",
     "grupo": "BATIDA",
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010317:002",
@@ -3307,12 +2984,12 @@
     "qtd": "15",
     "un": "ROLO",
     "entrega": "17/06/2026",
-    "status": "",
+    "status": "PRONTA PARA INÍCIO",
     "grupo": "BATIDA",
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010317:003",
@@ -3324,12 +3001,182 @@
     "qtd": "10",
     "un": "ROLO",
     "entrega": "17/06/2026",
-    "status": "",
+    "status": "PRONTA PARA INÍCIO",
     "grupo": "BATIDA",
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010321:001",
+    "pedido": "010321",
+    "item": "001",
+    "cliente": "001398-MS COSMETICOS LTDA",
+    "produto": "PA000000003467",
+    "descricao": "ROT9067 - ROTULO CREME ULTRADESLIZANTE MASSAGEM CORPORAL BODY SHAPE 1KG - 120 X 310",
+    "qtd": "4000",
+    "un": "UN",
+    "entrega": "17/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "DIGITAL",
+    "sub": "",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010321:002",
+    "pedido": "010321",
+    "item": "002",
+    "cliente": "001398-MS COSMETICOS LTDA",
+    "produto": "PA000000004621",
+    "descricao": "ROT9092 -  SOS CAPILAR 3R TOTAL EXPRESS ROTULO FLUIDO PRO 200ML - 165 X 64",
+    "qtd": "1500",
+    "un": "UN",
+    "entrega": "17/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "DIGITAL",
+    "sub": "",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010321:003",
+    "pedido": "010321",
+    "item": "003",
+    "cliente": "001398-MS COSMETICOS LTDA",
+    "produto": "PA000000003699",
+    "descricao": "ROT9090 - SOS CAPILAR 3R TOTAL EXPRESS ROTULO CREATINA EM GEL PRO 600ML - 185 X 74",
+    "qtd": "1500",
+    "un": "UN",
+    "entrega": "17/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "DIGITAL",
+    "sub": "",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010321:004",
+    "pedido": "010321",
+    "item": "004",
+    "cliente": "001398-MS COSMETICOS LTDA",
+    "produto": "PA000000003700",
+    "descricao": "CON9090 -  SOS CAPILAR 3R TOTAL EXPRESS CONTRA ROTULO CREATINA EM GEL PRO 500ML - 185 X 74",
+    "qtd": "1500",
+    "un": "UN",
+    "entrega": "17/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "DIGITAL",
+    "sub": "",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010321:005",
+    "pedido": "010321",
+    "item": "005",
+    "cliente": "001398-MS COSMETICOS LTDA",
+    "produto": "PA000000003412",
+    "descricao": "ROT1216 - ROTULO MASCARA INSTANTANEA  PRO BASIC NOVA ARTE - 175 X 263",
+    "qtd": "2000",
+    "un": "UN",
+    "entrega": "17/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "FLEXO 350",
+    "sub": "ETIRAMA",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010321:006",
+    "pedido": "010321",
+    "item": "006",
+    "cliente": "001398-MS COSMETICOS LTDA",
+    "produto": "PA000000003551",
+    "descricao": "ROT1214 - ROTULO CONDICIONADOR PRO BASIC ARTE - 175 X 263",
+    "qtd": "2000",
+    "un": "UN",
+    "entrega": "17/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "FLEXO 350",
+    "sub": "ETIRAMA",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010321:007",
+    "pedido": "010321",
+    "item": "007",
+    "cliente": "001398-MS COSMETICOS LTDA",
+    "produto": "PA000000003550",
+    "descricao": "ROT9044 - ROTULO PEELING DE LARANJA VITA PEELING 200G - 32 X 288",
+    "qtd": "2000",
+    "un": "UN",
+    "entrega": "17/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "DIGITAL",
+    "sub": "",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010331:006",
+    "pedido": "010331",
+    "item": "006",
+    "cliente": "000344-PROZYN INDUSTRIA E COMERC",
+    "produto": "PA000000004623",
+    "descricao": "ETIQ. BRANCA INKJET - 90 X 116",
+    "qtd": "5000",
+    "un": "UN",
+    "entrega": "17/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "TROQUELADORAS",
+    "sub": "",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010331:007",
+    "pedido": "010331",
+    "item": "007",
+    "cliente": "000344-PROZYN INDUSTRIA E COMERC",
+    "produto": "PA000000004624",
+    "descricao": "ETIQUETA BRANCA INKJET - 130 X 250",
+    "qtd": "5000",
+    "un": "UN",
+    "entrega": "17/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "CORTE BROTECH / VOREY",
+    "sub": "BROTECH",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010333:001",
+    "pedido": "010333",
+    "item": "001",
+    "cliente": "000576-AHLSTROM-MUNKSJÖ",
+    "produto": "PA000000001790",
+    "descricao": "ROTULO PARA IDENTIFICAÇÃO DE BOBINAS COM LOGO - (LOGO MUNKSJO)",
+    "qtd": "6000",
+    "un": "PEÇA",
+    "entrega": "17/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "FLEXO 350",
+    "sub": "NACBRAS",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010070:006",
@@ -3342,11 +3189,11 @@
     "un": "UN",
     "entrega": "18/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "TROQUELADORAS",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
-    "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "finalizado": true,
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010168:001",
@@ -3363,7 +3210,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010231:001",
@@ -3380,7 +3227,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010231:002",
@@ -3397,7 +3244,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010231:003",
@@ -3414,7 +3261,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010231:004",
@@ -3431,7 +3278,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010231:005",
@@ -3448,7 +3295,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010231:006",
@@ -3465,7 +3312,7 @@
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010308:001",
@@ -3482,7 +3329,7 @@
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010308:002",
@@ -3499,7 +3346,7 @@
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010310:001",
@@ -3511,12 +3358,12 @@
     "qtd": "100",
     "un": "MI",
     "entrega": "18/06/2026",
-    "status": "PRONTA PARA INÍCIO",
+    "status": "MATERIAL EMPENHADO",
     "grupo": "TROQUELADORAS",
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010311:001",
@@ -3533,7 +3380,7 @@
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010311:002",
@@ -3550,7 +3397,160 @@
     "sub": "ETIRAMA",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010332:001",
+    "pedido": "010332",
+    "item": "001",
+    "cliente": "000954-WEST GARDEN",
+    "produto": "PA000000003907",
+    "descricao": "ETIQUETA 2728 - VASO FLORENÇA 15 CM FENDI - 70 X 50",
+    "qtd": "5000",
+    "un": "UN",
+    "entrega": "18/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "DIGITAL",
+    "sub": "",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010332:002",
+    "pedido": "010332",
+    "item": "002",
+    "cliente": "000954-WEST GARDEN",
+    "produto": "PA000000003908",
+    "descricao": "ETIQUETA 2729 - VASO FLORENÇA 20 CM FENDI - 70 X 50",
+    "qtd": "5000",
+    "un": "UN",
+    "entrega": "18/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "DIGITAL",
+    "sub": "",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010332:003",
+    "pedido": "010332",
+    "item": "003",
+    "cliente": "000954-WEST GARDEN",
+    "produto": "PA000000003909",
+    "descricao": "ETIQUETA 2730 - VASO FLORENÇA 25 CM FENDI - 70 X 50",
+    "qtd": "5000",
+    "un": "UN",
+    "entrega": "18/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "DIGITAL",
+    "sub": "",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010332:004",
+    "pedido": "010332",
+    "item": "004",
+    "cliente": "000954-WEST GARDEN",
+    "produto": "PA000000003910",
+    "descricao": "ETIQUETA 2731 - VASO FLORENÇA 15 CM VERDE - 70 X 50",
+    "qtd": "5000",
+    "un": "UN",
+    "entrega": "18/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "DIGITAL",
+    "sub": "",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010332:005",
+    "pedido": "010332",
+    "item": "005",
+    "cliente": "000954-WEST GARDEN",
+    "produto": "PA000000003911",
+    "descricao": "ETIQUETA 2732 - VASO FLORENÇA 20 CM VERDE - 70 X 50",
+    "qtd": "5000",
+    "un": "UN",
+    "entrega": "18/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "DIGITAL",
+    "sub": "",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010332:006",
+    "pedido": "010332",
+    "item": "006",
+    "cliente": "000954-WEST GARDEN",
+    "produto": "PA000000003912",
+    "descricao": "ETIQUETA 2733 - VASO FLORENÇA 25 CM VERDE - 70 X 50",
+    "qtd": "5000",
+    "un": "UN",
+    "entrega": "18/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "DIGITAL",
+    "sub": "",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010332:007",
+    "pedido": "010332",
+    "item": "007",
+    "cliente": "000954-WEST GARDEN",
+    "produto": "PA000000003913",
+    "descricao": "ETIQUETA 2734 - VASO FLORENÇA 15 CM GRAFITE - 70 X 50",
+    "qtd": "5000",
+    "un": "UN",
+    "entrega": "18/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "DIGITAL",
+    "sub": "",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010332:008",
+    "pedido": "010332",
+    "item": "008",
+    "cliente": "000954-WEST GARDEN",
+    "produto": "PA000000003914",
+    "descricao": "ETIQUETA 2735 - VASO FLORENÇA 20 CM GRAFITE - 70 X 50",
+    "qtd": "5000",
+    "un": "UN",
+    "entrega": "18/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "DIGITAL",
+    "sub": "",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010332:009",
+    "pedido": "010332",
+    "item": "009",
+    "cliente": "000954-WEST GARDEN",
+    "produto": "PA000000003915",
+    "descricao": "ETIQUETA 2736 - VASO FLORENÇA 25 CM GRAFITE - 70 X 50",
+    "qtd": "5000",
+    "un": "UN",
+    "entrega": "18/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "DIGITAL",
+    "sub": "",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "009689:001",
@@ -3565,9 +3565,9 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "DIGITAL",
     "sub": "",
-    "obs": "Aguardando Aprovacao",
+    "obs": "Aguardando Aprovação",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "009689:002",
@@ -3582,9 +3582,9 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "DIGITAL",
     "sub": "",
-    "obs": "Aguardando Aprovacao",
+    "obs": "Aguardando Aprovação",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "009846:001",
@@ -3599,9 +3599,9 @@
     "status": "",
     "grupo": "DIGITAL",
     "sub": "",
-    "obs": "Aguardando Aprovacao",
+    "obs": "Aguardando Aprovação",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
   },
   {
     "id": "010074:001",
@@ -3614,10 +3614,44 @@
     "un": "MI",
     "entrega": "19/06/2026",
     "status": "MATERIAL EMPENHADO",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "finalizado": true,
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010339:001",
+    "pedido": "010339",
+    "item": "001",
+    "cliente": "000500-PROSEGUR - RIO DE JANEIRO",
+    "produto": "PA000000001074",
+    "descricao": "ETIQ. 100 X 100",
+    "qtd": "100",
+    "un": "ROLO",
+    "entrega": "19/06/2026",
+    "status": "PRONTA PARA INÍCIO",
     "grupo": "TROQUELADORAS",
     "sub": "",
     "obs": "",
     "finalizado": false,
-    "atualizado": "08/06/2026, 07:32:49"
+    "atualizado": "09/06/2026, 13:52:47"
+  },
+  {
+    "id": "010341:001",
+    "pedido": "010341",
+    "item": "001",
+    "cliente": "001652-KARTER",
+    "produto": "PA000000004559",
+    "descricao": "CONTRA RÓTULO KARTER 1L  ENGRENAGEM SAE 250 -140 X 80",
+    "qtd": "10000",
+    "un": "UN",
+    "entrega": "19/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "FLEXO 350",
+    "sub": "ETIRAMA",
+    "obs": "",
+    "finalizado": false,
+    "atualizado": "09/06/2026, 13:52:47"
   }
 ]
