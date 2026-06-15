@@ -2655,7 +2655,7 @@
     "un": "UN",
     "entrega": "19/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "DIGITAL",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "Aguardando Aprovacao",
     "ordem": 380,
@@ -2664,8 +2664,8 @@
     "setup": "10",
     "mp": "MP000000000783 - BOPP TRANSPARENTE ACRÍLICO NTC S0290 - 250MM/MP000000000674 - FILME DE LAMINAÇÃO BRILHO DUREX - 250MM",
     "largMP": "250",
-    "finalizado": false,
-    "atualizado": "14/06/2026, 18:40:32"
+    "finalizado": true,
+    "atualizado": "15/06/2026, 17:55:08"
   },
   {
     "id": "009689:002",
