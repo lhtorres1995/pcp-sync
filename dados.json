@@ -562,7 +562,7 @@
     "un": "ROLO",
     "entrega": "17/06/2026",
     "status": "INICIADA (fase 2 de 2)",
-    "grupo": "REVISORAS",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
     "ordem": null,
@@ -571,8 +571,8 @@
     "setup": "",
     "mp": "MP000000000735 - BOPP BRILHO INKJET - 130MM/MP000000000735 - BOPP BRILHO INKJET - 130MM",
     "largMP": "130",
-    "finalizado": false,
-    "atualizado": "14/06/2026, 18:40:32"
+    "finalizado": true,
+    "atualizado": "15/06/2026, 06:54:49"
   },
   {
     "id": "010137:001",
