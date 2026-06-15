@@ -2104,7 +2104,7 @@
     "entrega": "17/06/2026",
     "status": "",
     "grupo": "CORTE BROTECH / VOREY",
-    "sub": "VOREY",
+    "sub": "BROTECH",
     "obs": "",
     "ordem": null,
     "metros": "",
@@ -2113,7 +2113,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "15/06/2026, 17:56:50"
+    "atualizado": "15/06/2026, 17:56:55"
   },
   {
     "id": "010386:002",
@@ -2126,8 +2126,8 @@
     "un": "UN",
     "entrega": "17/06/2026",
     "status": "",
-    "grupo": "DIGITAL",
-    "sub": "",
+    "grupo": "CORTE BROTECH / VOREY",
+    "sub": "BROTECH",
     "obs": "",
     "ordem": null,
     "metros": "",
@@ -2136,7 +2136,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "14/06/2026, 18:40:32"
+    "atualizado": "15/06/2026, 17:56:53"
   },
   {
     "id": "010168:001",
