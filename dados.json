@@ -2471,7 +2471,7 @@
     "un": "MI",
     "entrega": "18/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "TROQUELADORAS",
+    "grupo": "__FIN__",
     "sub": "TROQUELADORA 2",
     "obs": "",
     "ordem": null,
@@ -2480,8 +2480,8 @@
     "setup": "10",
     "mp": "MP000000000042 - COUCHE BORRACHA 20G (ECOPRINT) - 200MM",
     "largMP": "200",
-    "finalizado": false,
-    "atualizado": "15/06/2026, 07:03:12"
+    "finalizado": true,
+    "atualizado": "15/06/2026, 17:26:16"
   },
   {
     "id": "010332:001",
