@@ -2771,7 +2771,7 @@
     "entrega": "18/06/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "TROQUELADORAS",
-    "sub": "",
+    "sub": "TROQUELADORA 1",
     "obs": "",
     "ordem": null,
     "metros": "895.6579",
@@ -2780,7 +2780,7 @@
     "mp": "MP000000000545 - BOPP FOSCO INKJET - 156MM",
     "largMP": "156",
     "finalizado": false,
-    "atualizado": "14/06/2026, 18:40:32"
+    "atualizado": "15/06/2026, 07:03:17"
   },
   {
     "id": "009689:001",
