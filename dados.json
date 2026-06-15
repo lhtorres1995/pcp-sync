@@ -263,8 +263,8 @@
     "un": "UN",
     "entrega": "16/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "FLEXO 250",
-    "sub": "FLEXO 2",
+    "grupo": "REVISORAS",
+    "sub": "",
     "obs": "",
     "ordem": null,
     "metros": "312.2222",
@@ -273,7 +273,7 @@
     "mp": "PR000000000051 - RIBBON CERA AWR1 - 110 X 74  CSO/MP000000000226 - COUCHE BORRACHA 20G (ECOPRINT) - 168MM",
     "largMP": "165",
     "finalizado": false,
-    "atualizado": "15/06/2026, 07:09:26"
+    "atualizado": "15/06/2026, 17:57:27"
   },
   {
     "id": "010357:001",
