@@ -56,7 +56,7 @@
     "un": "ROLO",
     "entrega": "15/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "TROQUELADORAS",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
     "ordem": null,
@@ -65,8 +65,8 @@
     "setup": "10",
     "mp": "MP000000000799 - BOPP BRILHO INKJET - 210MM",
     "largMP": "210",
-    "finalizado": false,
-    "atualizado": "14/06/2026, 18:40:32"
+    "finalizado": true,
+    "atualizado": "15/06/2026, 06:55:06"
   },
   {
     "id": "010327:001",
