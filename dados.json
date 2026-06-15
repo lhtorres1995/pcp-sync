@@ -2542,7 +2542,7 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 250",
     "sub": "FLEXO 1",
-    "obs": "",
+    "obs": "Aguardando Faca",
     "ordem": null,
     "metros": "2407.7778",
     "velocidade": "2400",
@@ -2550,7 +2550,7 @@
     "mp": "PR000000000061 - RIBBON MISTO APR6 - 170 X 450 - CSO/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "15/06/2026, 07:09:55"
+    "atualizado": "15/06/2026, 07:09:58"
   },
   {
     "id": "010286:001",
