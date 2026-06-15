@@ -125,7 +125,7 @@
     "un": "PEÇA",
     "entrega": "16/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "TROQUELADORAS",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
     "ordem": null,
@@ -134,8 +134,8 @@
     "setup": "15",
     "mp": "MP000000000545 - BOPP FOSCO INKJET - 156MM",
     "largMP": "156",
-    "finalizado": false,
-    "atualizado": "14/06/2026, 18:40:32"
+    "finalizado": true,
+    "atualizado": "15/06/2026, 13:19:42"
   },
   {
     "id": "010184:001",
@@ -194,7 +194,7 @@
     "un": "PEÇA",
     "entrega": "16/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "TROQUELADORAS",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "Aguardando Faca",
     "ordem": null,
@@ -203,8 +203,8 @@
     "setup": "15",
     "mp": "MP000000000545 - BOPP FOSCO INKJET - 156MM",
     "largMP": "156",
-    "finalizado": false,
-    "atualizado": "14/06/2026, 18:40:32"
+    "finalizado": true,
+    "atualizado": "15/06/2026, 13:19:44"
   },
   {
     "id": "010260:001",
