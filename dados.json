@@ -4887,7 +4887,7 @@
     "entrega": "24/06/2026",
     "status": "",
     "grupo": "FLEXO 250",
-    "sub": "",
+    "sub": "FLEXO 2",
     "obs": "",
     "ordem": null,
     "metros": "",
@@ -4896,7 +4896,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "14/06/2026, 18:40:32"
+    "atualizado": "15/06/2026, 07:10:20"
   },
   {
     "id": "010375:001",
@@ -4910,7 +4910,7 @@
     "entrega": "24/06/2026",
     "status": "",
     "grupo": "FLEXO 250",
-    "sub": "",
+    "sub": "FLEXO 2",
     "obs": "",
     "ordem": null,
     "metros": "",
@@ -4919,7 +4919,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "14/06/2026, 18:40:32"
+    "atualizado": "15/06/2026, 07:10:21"
   },
   {
     "id": "010376:001",
@@ -4933,7 +4933,7 @@
     "entrega": "24/06/2026",
     "status": "",
     "grupo": "FLEXO 250",
-    "sub": "",
+    "sub": "FLEXO 2",
     "obs": "",
     "ordem": null,
     "metros": "",
@@ -4942,7 +4942,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "14/06/2026, 18:40:32"
+    "atualizado": "15/06/2026, 07:10:22"
   },
   {
     "id": "010377:001",
@@ -4956,7 +4956,7 @@
     "entrega": "24/06/2026",
     "status": "",
     "grupo": "FLEXO 250",
-    "sub": "",
+    "sub": "FLEXO 2",
     "obs": "",
     "ordem": null,
     "metros": "",
@@ -4965,7 +4965,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "14/06/2026, 18:40:32"
+    "atualizado": "15/06/2026, 07:10:23"
   },
   {
     "id": "010378:001",
@@ -4979,7 +4979,7 @@
     "entrega": "25/06/2026",
     "status": "",
     "grupo": "FLEXO 250",
-    "sub": "",
+    "sub": "FLEXO 2",
     "obs": "",
     "ordem": null,
     "metros": "",
@@ -4988,6 +4988,6 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "14/06/2026, 18:40:32"
+    "atualizado": "15/06/2026, 07:10:26"
   }
 ]
