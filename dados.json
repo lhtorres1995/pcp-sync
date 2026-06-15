@@ -2472,7 +2472,7 @@
     "entrega": "18/06/2026",
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 250",
-    "sub": "FLEXO 1",
+    "sub": "FLEXO 2",
     "obs": "",
     "ordem": null,
     "metros": "906.6667",
@@ -2481,7 +2481,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "15/06/2026, 07:09:41"
+    "atualizado": "15/06/2026, 07:09:49"
   },
   {
     "id": "010234:001",
@@ -2541,7 +2541,7 @@
     "entrega": "18/06/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 250",
-    "sub": "",
+    "sub": "FLEXO 1",
     "obs": "",
     "ordem": null,
     "metros": "2407.7778",
@@ -2550,7 +2550,7 @@
     "mp": "PR000000000061 - RIBBON MISTO APR6 - 170 X 450 - CSO/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "14/06/2026, 18:40:32"
+    "atualizado": "15/06/2026, 07:09:51"
   },
   {
     "id": "010286:001",
