@@ -2265,7 +2265,7 @@
     "entrega": "18/06/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "TROQUELADORAS",
-    "sub": "",
+    "sub": "TROQUELADORA 1",
     "obs": "",
     "ordem": null,
     "metros": "4020.5263",
@@ -2274,7 +2274,7 @@
     "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000044 - COUCHE BORRACHA 20G (ECOPRINT) - 222MM",
     "largMP": "222",
     "finalizado": false,
-    "atualizado": "14/06/2026, 18:40:32"
+    "atualizado": "15/06/2026, 07:03:11"
   },
   {
     "id": "010187:001",
@@ -2587,7 +2587,7 @@
     "entrega": "18/06/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "TROQUELADORAS",
-    "sub": "",
+    "sub": "TROQUELADORA 2",
     "obs": "",
     "ordem": null,
     "metros": "1046.0516",
@@ -2596,7 +2596,7 @@
     "mp": "MP000000000042 - COUCHE BORRACHA 20G (ECOPRINT) - 200MM",
     "largMP": "200",
     "finalizado": false,
-    "atualizado": "14/06/2026, 18:40:32"
+    "atualizado": "15/06/2026, 07:03:12"
   },
   {
     "id": "010332:001",
