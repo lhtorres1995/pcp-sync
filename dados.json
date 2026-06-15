@@ -2357,7 +2357,7 @@
     "entrega": "18/06/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
-    "sub": "",
+    "sub": "VOREY",
     "obs": "",
     "ordem": null,
     "metros": "518.3333",
@@ -2366,7 +2366,7 @@
     "mp": "MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "15/06/2026, 18:20:15"
+    "atualizado": "15/06/2026, 19:00:02"
   },
   {
     "id": "010239:001",
