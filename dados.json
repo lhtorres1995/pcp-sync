@@ -3898,7 +3898,7 @@
     "entrega": "23/06/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 250",
-    "sub": "",
+    "sub": "FLEXO 1",
     "obs": "",
     "ordem": null,
     "metros": "9343.3333",
@@ -3907,7 +3907,7 @@
     "mp": "PR000000000063 - RIBBON MISTO APR600 - 220 X 300 - CSO/MP000000000022 - BOPP BRANCO FOSCO BORRACHA C2075 - 222MM",
     "largMP": "222",
     "finalizado": false,
-    "atualizado": "14/06/2026, 18:40:32"
+    "atualizado": "15/06/2026, 07:10:06"
   },
   {
     "id": "009828:001",
@@ -3921,7 +3921,7 @@
     "entrega": "23/06/2026",
     "status": "INICIADA (fase 2 de 2)",
     "grupo": "FLEXO 250",
-    "sub": "",
+    "sub": "FLEXO 1",
     "obs": "",
     "ordem": null,
     "metros": "12763.5",
@@ -3930,7 +3930,7 @@
     "mp": "MP000000000469 - ECOTRANSFER C2075 - 155MM",
     "largMP": "155",
     "finalizado": false,
-    "atualizado": "14/06/2026, 18:40:32"
+    "atualizado": "15/06/2026, 07:10:07"
   },
   {
     "id": "009960:001",
