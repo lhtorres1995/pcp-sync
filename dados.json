@@ -217,8 +217,8 @@
     "un": "UN",
     "entrega": "16/06/2026",
     "status": "PRONTA PARA INÍCIO",
-    "grupo": "FLEXO 250",
-    "sub": "FLEXO 2",
+    "grupo": "REVISORAS",
+    "sub": "",
     "obs": "",
     "ordem": null,
     "metros": "312.2222",
@@ -227,7 +227,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "15/06/2026, 07:09:24"
+    "atualizado": "15/06/2026, 17:57:24"
   },
   {
     "id": "010337:001",
@@ -263,8 +263,8 @@
     "un": "UN",
     "entrega": "16/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "FLEXO 250",
-    "sub": "FLEXO 2",
+    "grupo": "REVISORAS",
+    "sub": "",
     "obs": "",
     "ordem": null,
     "metros": "312.2222",
@@ -273,7 +273,7 @@
     "mp": "PR000000000051 - RIBBON CERA AWR1 - 110 X 74  CSO/MP000000000226 - COUCHE BORRACHA 20G (ECOPRINT) - 168MM",
     "largMP": "165",
     "finalizado": false,
-    "atualizado": "15/06/2026, 07:09:26"
+    "atualizado": "15/06/2026, 17:57:27"
   },
   {
     "id": "010357:001",
@@ -286,8 +286,8 @@
     "un": "UN",
     "entrega": "16/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "VOREY",
+    "grupo": "REVISORAS",
+    "sub": "",
     "obs": "",
     "ordem": null,
     "metros": "643.3333",
@@ -296,7 +296,7 @@
     "mp": "MP000000000029 - BOPP TRANSPARENTE ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "14/06/2026, 18:40:32"
+    "atualizado": "15/06/2026, 17:59:43"
   },
   {
     "id": "010357:002",
@@ -309,8 +309,8 @@
     "un": "UN",
     "entrega": "16/06/2026",
     "status": "PRONTA PARA INÍCIO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "VOREY",
+    "grupo": "REVISORAS",
+    "sub": "",
     "obs": "",
     "ordem": null,
     "metros": "182.6667",
@@ -319,7 +319,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "14/06/2026, 18:40:32"
+    "atualizado": "15/06/2026, 17:59:45"
   },
   {
     "id": "010357:003",
@@ -332,8 +332,8 @@
     "un": "UN",
     "entrega": "16/06/2026",
     "status": "PRONTA PARA INÍCIO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "VOREY",
+    "grupo": "REVISORAS",
+    "sub": "",
     "obs": "",
     "ordem": null,
     "metros": "37.9556",
@@ -342,7 +342,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "14/06/2026, 18:40:32"
+    "atualizado": "15/06/2026, 17:59:47"
   },
   {
     "id": "010364:001",
@@ -387,29 +387,6 @@
     "setup": "60",
     "mp": "MP000000000010 - BOPP BRANCO BRILHO ACRILICO ADC210 - 214MM",
     "largMP": "214",
-    "finalizado": false,
-    "atualizado": "14/06/2026, 18:40:32"
-  },
-  {
-    "id": "010137:001",
-    "pedido": "010137",
-    "item": "001",
-    "cliente": "001398-MS COSMETICOS LTDA",
-    "produto": "PA000000003413",
-    "descricao": "ROT1213 - ROTULO SHAMPOO PRO BASIC NOVA  ART - 175 X 263",
-    "qtd": "3000",
-    "un": "UN",
-    "entrega": "17/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "BATIDA",
-    "sub": "CHINESA",
-    "obs": "",
-    "ordem": null,
-    "metros": "949",
-    "velocidade": "2400",
-    "setup": "60",
-    "mp": "MP000000000757 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 195MM",
-    "largMP": "195",
     "finalizado": false,
     "atualizado": "14/06/2026, 18:40:32"
   },
@@ -1138,7 +1115,7 @@
     "entrega": "17/06/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
-    "sub": "",
+    "sub": "VOREY",
     "obs": "",
     "ordem": 150,
     "metros": "71.4815",
@@ -1147,7 +1124,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "15/06/2026, 11:30:30"
+    "atualizado": "15/06/2026, 17:55:56"
   },
   {
     "id": "010217:036",
@@ -1391,7 +1368,7 @@
     "entrega": "17/06/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
-    "sub": "",
+    "sub": "BROTECH",
     "obs": "",
     "ordem": 290,
     "metros": "192.5926",
@@ -1400,7 +1377,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000029 - BOPP TRANSPARENTE ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "15/06/2026, 10:09:07"
+    "atualizado": "15/06/2026, 17:55:59"
   },
   {
     "id": "010217:048",
@@ -1413,7 +1390,7 @@
     "un": "UN",
     "entrega": "17/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "CORTE BROTECH / VOREY",
+    "grupo": "DIGITAL",
     "sub": "",
     "obs": "",
     "ordem": 240,
@@ -1423,7 +1400,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "15/06/2026, 17:57:26"
+    "atualizado": "14/06/2026, 18:40:32"
   },
   {
     "id": "010222:001",
@@ -1759,7 +1736,7 @@
     "entrega": "17/06/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
-    "sub": "",
+    "sub": "VOREY",
     "obs": "",
     "ordem": 250,
     "metros": "146.2963",
@@ -1768,7 +1745,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "15/06/2026, 11:30:48"
+    "atualizado": "15/06/2026, 17:55:57"
   },
   {
     "id": "010294:002",
@@ -1850,7 +1827,7 @@
     "un": "UN",
     "entrega": "17/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "CORTE BROTECH / VOREY",
+    "grupo": "DIGITAL",
     "sub": "",
     "obs": "",
     "ordem": 260,
@@ -1860,7 +1837,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "15/06/2026, 17:57:38"
+    "atualizado": "14/06/2026, 18:40:32"
   },
   {
     "id": "010294:006",
@@ -2103,8 +2080,8 @@
     "un": "UN",
     "entrega": "17/06/2026",
     "status": "",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "BROTECH",
+    "grupo": "DIGITAL",
+    "sub": "",
     "obs": "",
     "ordem": null,
     "metros": "",
@@ -2113,7 +2090,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "15/06/2026, 17:56:55"
+    "atualizado": "14/06/2026, 18:40:32"
   },
   {
     "id": "010386:002",
@@ -2126,8 +2103,8 @@
     "un": "UN",
     "entrega": "17/06/2026",
     "status": "",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "BROTECH",
+    "grupo": "DIGITAL",
+    "sub": "",
     "obs": "",
     "ordem": null,
     "metros": "",
@@ -2136,7 +2113,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "15/06/2026, 17:56:53"
+    "atualizado": "14/06/2026, 18:40:32"
   },
   {
     "id": "010168:001",
@@ -2357,7 +2334,7 @@
     "entrega": "18/06/2026",
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 250",
-    "sub": "FLEXO 1",
+    "sub": "FLEXO 2",
     "obs": "",
     "ordem": null,
     "metros": "906.6667",
@@ -2366,7 +2343,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "15/06/2026, 07:09:41"
+    "atualizado": "15/06/2026, 17:57:41"
   },
   {
     "id": "010234:001",
@@ -2379,7 +2356,7 @@
     "un": "UN",
     "entrega": "18/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "CORTE BROTECH / VOREY",
+    "grupo": "DIGITAL",
     "sub": "",
     "obs": "",
     "ordem": null,
@@ -2389,7 +2366,7 @@
     "mp": "MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "15/06/2026, 17:58:45"
+    "atualizado": "15/06/2026, 07:13:15"
   },
   {
     "id": "010239:001",
@@ -2402,7 +2379,7 @@
     "un": "MI",
     "entrega": "18/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "BATIDA",
+    "grupo": "REVISORAS",
     "sub": "",
     "obs": "",
     "ordem": null,
@@ -2412,7 +2389,7 @@
     "mp": "PR000000000051 - RIBBON CERA AWR1 - 110 X 74  CSO/MP000000000639 - COUCHE DUPLO USO - 330MM",
     "largMP": "100",
     "finalizado": false,
-    "atualizado": "14/06/2026, 18:40:32"
+    "atualizado": "15/06/2026, 17:58:34"
   },
   {
     "id": "010279:001",
@@ -2461,29 +2438,6 @@
     "atualizado": "14/06/2026, 18:40:32"
   },
   {
-    "id": "010287:002",
-    "pedido": "010287",
-    "item": "002",
-    "cliente": "000280-NIVEA",
-    "produto": "PA000000001605",
-    "descricao": "ETIQ. - 90 X 30",
-    "qtd": "60",
-    "un": "MI",
-    "entrega": "18/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "TROQUELADORAS",
-    "sub": "TROQUELADORA 2",
-    "obs": "",
-    "ordem": null,
-    "metros": "1046.0516",
-    "velocidade": "2400",
-    "setup": "10",
-    "mp": "MP000000000042 - COUCHE BORRACHA 20G (ECOPRINT) - 200MM",
-    "largMP": "200",
-    "finalizado": false,
-    "atualizado": "15/06/2026, 07:03:12"
-  },
-  {
     "id": "010332:001",
     "pedido": "010332",
     "item": "001",
@@ -2495,7 +2449,7 @@
     "entrega": "18/06/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
-    "sub": "",
+    "sub": "VOREY",
     "obs": "",
     "ordem": 320,
     "metros": "73",
@@ -2504,7 +2458,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "15/06/2026, 17:57:47"
+    "atualizado": "15/06/2026, 17:56:00"
   },
   {
     "id": "010332:002",
@@ -2518,7 +2472,7 @@
     "entrega": "18/06/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
-    "sub": "",
+    "sub": "VOREY",
     "obs": "",
     "ordem": 330,
     "metros": "36.5",
@@ -2527,7 +2481,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "15/06/2026, 17:57:49"
+    "atualizado": "15/06/2026, 17:56:02"
   },
   {
     "id": "010332:004",
@@ -2541,7 +2495,7 @@
     "entrega": "18/06/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
-    "sub": "",
+    "sub": "VOREY",
     "obs": "",
     "ordem": 340,
     "metros": "73",
@@ -2550,7 +2504,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "15/06/2026, 17:57:51"
+    "atualizado": "15/06/2026, 17:56:03"
   },
   {
     "id": "010332:005",
@@ -2564,7 +2518,7 @@
     "entrega": "18/06/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
-    "sub": "",
+    "sub": "VOREY",
     "obs": "",
     "ordem": 350,
     "metros": "36.5",
@@ -2573,7 +2527,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "15/06/2026, 17:57:53"
+    "atualizado": "15/06/2026, 17:56:04"
   },
   {
     "id": "010332:007",
@@ -2587,7 +2541,7 @@
     "entrega": "18/06/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
-    "sub": "",
+    "sub": "VOREY",
     "obs": "",
     "ordem": 360,
     "metros": "73",
@@ -2596,7 +2550,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "15/06/2026, 17:57:56"
+    "atualizado": "15/06/2026, 17:56:05"
   },
   {
     "id": "010332:008",
@@ -2610,7 +2564,7 @@
     "entrega": "18/06/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
-    "sub": "",
+    "sub": "VOREY",
     "obs": "",
     "ordem": 370,
     "metros": "36.5",
@@ -2619,7 +2573,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "15/06/2026, 17:57:59"
+    "atualizado": "15/06/2026, 17:56:06"
   },
   {
     "id": "010365:004",
@@ -2666,75 +2620,6 @@
     "largMP": "156",
     "finalizado": false,
     "atualizado": "15/06/2026, 07:12:19"
-  },
-  {
-    "id": "009689:001",
-    "pedido": "009689",
-    "item": "001",
-    "cliente": "001430-JJ MAX",
-    "produto": "PA000000004392",
-    "descricao": "RÓTULO FRENTE NANODERME AREA DOS OLHOS 25G - 78 X 22,5",
-    "qtd": "3000",
-    "un": "UN",
-    "entrega": "19/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "DIGITAL",
-    "sub": "",
-    "obs": "Aguardando Aprovacao",
-    "ordem": 380,
-    "metros": "38.3333",
-    "velocidade": "2400",
-    "setup": "10",
-    "mp": "MP000000000783 - BOPP TRANSPARENTE ACRÍLICO NTC S0290 - 250MM/MP000000000674 - FILME DE LAMINAÇÃO BRILHO DUREX - 250MM",
-    "largMP": "250",
-    "finalizado": false,
-    "atualizado": "14/06/2026, 18:40:32"
-  },
-  {
-    "id": "009689:002",
-    "pedido": "009689",
-    "item": "002",
-    "cliente": "001430-JJ MAX",
-    "produto": "PA000000004393",
-    "descricao": "RÓTULO VERSO NANODERME AREA DOS OLHOS 25G - 78 X 22,5",
-    "qtd": "3000",
-    "un": "UN",
-    "entrega": "19/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "DIGITAL",
-    "sub": "",
-    "obs": "Aguardando AprovaÃÂ§ÃÂ£o",
-    "ordem": 390,
-    "metros": "38.3333",
-    "velocidade": "2400",
-    "setup": "10",
-    "mp": "MP000000000783 - BOPP TRANSPARENTE ACRÍLICO NTC S0290 - 250MM/MP000000000674 - FILME DE LAMINAÇÃO BRILHO DUREX - 250MM",
-    "largMP": "250",
-    "finalizado": false,
-    "atualizado": "14/06/2026, 18:40:32"
-  },
-  {
-    "id": "009846:001",
-    "pedido": "009846",
-    "item": "001",
-    "cliente": "001430-JJ MAX",
-    "produto": "PA000000004448",
-    "descricao": "RÓTULO FRENTE GLYCOCLEAR PERSONAL DESPIGMENTANTE AHAS 25ML - 78 X 22,5",
-    "qtd": "3000",
-    "un": "UN",
-    "entrega": "19/06/2026",
-    "status": "",
-    "grupo": "DIGITAL",
-    "sub": "",
-    "obs": "Aguardando AprovaÃÂ§ÃÂ£o",
-    "ordem": 400,
-    "metros": "",
-    "velocidade": "",
-    "setup": "",
-    "mp": "",
-    "largMP": "",
-    "finalizado": false,
-    "atualizado": "14/06/2026, 18:40:32"
   },
   {
     "id": "010054:005",
@@ -3312,29 +3197,6 @@
     "atualizado": "14/06/2026, 18:40:32"
   },
   {
-    "id": "010339:001",
-    "pedido": "010339",
-    "item": "001",
-    "cliente": "000500-PROSEGUR - RIO DE JANEIRO",
-    "produto": "PA000000001074",
-    "descricao": "ETIQ. 100 X 100",
-    "qtd": "100",
-    "un": "ROLO",
-    "entrega": "19/06/2026",
-    "status": "PRONTA PARA INÍCIO",
-    "grupo": "TROQUELADORAS",
-    "sub": "TROQUELADORA 1",
-    "obs": "",
-    "ordem": null,
-    "metros": "2683.6842",
-    "velocidade": "2400",
-    "setup": "10",
-    "mp": "",
-    "largMP": "",
-    "finalizado": false,
-    "atualizado": "15/06/2026, 07:03:21"
-  },
-  {
     "id": "010341:001",
     "pedido": "010341",
     "item": "001",
@@ -3737,7 +3599,7 @@
     "entrega": "22/06/2026",
     "status": "",
     "grupo": "FLEXO 250",
-    "sub": "FLEXO 1",
+    "sub": "FLEXO 2",
     "obs": "",
     "ordem": null,
     "metros": "",
@@ -3746,7 +3608,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "15/06/2026, 07:10:04"
+    "atualizado": "15/06/2026, 17:58:00"
   },
   {
     "id": "009499:002",
@@ -4841,7 +4703,7 @@
     "entrega": "25/06/2026",
     "status": "",
     "grupo": "FLEXO 250",
-    "sub": "FLEXO 2",
+    "sub": "FLEXO 1",
     "obs": "",
     "ordem": null,
     "metros": "",
@@ -4850,6 +4712,6 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "15/06/2026, 07:10:26"
+    "atualizado": "15/06/2026, 17:58:13"
   }
 ]
