@@ -3599,7 +3599,7 @@
     "entrega": "19/06/2026",
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 250",
-    "sub": "",
+    "sub": "FLEXO 1",
     "obs": "",
     "ordem": null,
     "metros": "1541.6667",
@@ -3608,7 +3608,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "14/06/2026, 18:40:32"
+    "atualizado": "15/06/2026, 07:10:00"
   },
   {
     "id": "010350:002",
@@ -3622,7 +3622,7 @@
     "entrega": "19/06/2026",
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 250",
-    "sub": "",
+    "sub": "FLEXO 1",
     "obs": "",
     "ordem": null,
     "metros": "483.3333",
@@ -3631,7 +3631,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "14/06/2026, 18:40:32"
+    "atualizado": "15/06/2026, 07:10:01"
   },
   {
     "id": "010350:003",
@@ -3645,7 +3645,7 @@
     "entrega": "19/06/2026",
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 250",
-    "sub": "",
+    "sub": "FLEXO 1",
     "obs": "",
     "ordem": null,
     "metros": "165.8333",
@@ -3654,7 +3654,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "14/06/2026, 18:40:32"
+    "atualizado": "15/06/2026, 07:10:02"
   },
   {
     "id": "010351:001",
@@ -3875,7 +3875,7 @@
     "entrega": "22/06/2026",
     "status": "",
     "grupo": "FLEXO 250",
-    "sub": "",
+    "sub": "FLEXO 1",
     "obs": "",
     "ordem": null,
     "metros": "",
@@ -3884,7 +3884,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "14/06/2026, 18:40:32"
+    "atualizado": "15/06/2026, 07:10:04"
   },
   {
     "id": "009499:002",
