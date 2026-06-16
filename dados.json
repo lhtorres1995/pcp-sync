@@ -57,7 +57,7 @@
     "entrega": "16/06/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "TROQUELADORAS",
-    "sub": "TROQUELADORA 2",
+    "sub": "",
     "obs": "Aguardando Faca",
     "ordem": 10,
     "metros": "4346.7158",
@@ -66,7 +66,7 @@
     "mp": "MP000000000368 - COUCHE CARTÃO TAG L2 115G - 128MM",
     "largMP": "128",
     "finalizado": false,
-    "atualizado": "16/06/2026, 06:59:55"
+    "atualizado": "16/06/2026, 07:00:01"
   },
   {
     "id": "010185:001",
