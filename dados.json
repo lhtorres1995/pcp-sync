@@ -493,7 +493,7 @@
     "un": "UN",
     "entrega": "17/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "DIGITAL",
+    "grupo": "CORTE BROTECH / VOREY",
     "sub": "",
     "obs": "",
     "ordem": 170,
@@ -503,7 +503,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "17/06/2026, 06:57:05"
+    "atualizado": "17/06/2026, 15:02:50"
   },
   {
     "id": "010217:033",
@@ -585,7 +585,7 @@
     "un": "UN",
     "entrega": "17/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "DIGITAL",
+    "grupo": "CORTE BROTECH / VOREY",
     "sub": "",
     "obs": "",
     "ordem": 190,
@@ -595,7 +595,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "17/06/2026, 06:57:05"
+    "atualizado": "17/06/2026, 12:06:15"
   },
   {
     "id": "010217:039",
@@ -631,7 +631,7 @@
     "un": "UN",
     "entrega": "17/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "DIGITAL",
+    "grupo": "CORTE BROTECH / VOREY",
     "sub": "",
     "obs": "",
     "ordem": 200,
@@ -641,7 +641,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "17/06/2026, 06:57:05"
+    "atualizado": "17/06/2026, 12:06:18"
   },
   {
     "id": "010217:042",
@@ -1068,7 +1068,7 @@
     "un": "CONJ",
     "entrega": "17/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "DIGITAL",
+    "grupo": "CORTE BROTECH / VOREY",
     "sub": "",
     "obs": "",
     "ordem": 140,
@@ -1078,7 +1078,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "17/06/2026, 06:57:05"
+    "atualizado": "17/06/2026, 12:05:20"
   },
   {
     "id": "010294:005",
@@ -1114,7 +1114,7 @@
     "un": "UN",
     "entrega": "17/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "DIGITAL",
+    "grupo": "CORTE BROTECH / VOREY",
     "sub": "",
     "obs": "",
     "ordem": 100,
@@ -1124,7 +1124,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "17/06/2026, 06:57:05"
+    "atualizado": "17/06/2026, 14:06:41"
   },
   {
     "id": "010294:007",
@@ -1160,7 +1160,7 @@
     "un": "UN",
     "entrega": "17/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "DIGITAL",
+    "grupo": "CORTE BROTECH / VOREY",
     "sub": "",
     "obs": "",
     "ordem": 270,
@@ -1170,7 +1170,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "17/06/2026, 06:57:05"
+    "atualizado": "17/06/2026, 12:06:23"
   },
   {
     "id": "010313:001",
@@ -1183,7 +1183,7 @@
     "un": "CONJ",
     "entrega": "17/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "DIGITAL",
+    "grupo": "CORTE BROTECH / VOREY",
     "sub": "",
     "obs": "",
     "ordem": 160,
@@ -1193,7 +1193,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "17/06/2026, 06:57:05"
+    "atualizado": "17/06/2026, 14:07:45"
   },
   {
     "id": "010320:002",
@@ -1852,7 +1852,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
-    "obs": "Aguardando MP",
+    "obs": "Aguardando Cliche",
     "ordem": null,
     "metros": "628",
     "velocidade": "4800",
@@ -1860,7 +1860,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "17/06/2026, 14:17:04"
+    "atualizado": "17/06/2026, 06:57:05"
   },
   {
     "id": "010230:001",
@@ -1875,7 +1875,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
-    "obs": "Aguardando MP",
+    "obs": "Aguardando Cliche",
     "ordem": null,
     "metros": "1954.4444",
     "velocidade": "3000",
@@ -1883,7 +1883,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "17/06/2026, 14:16:57"
+    "atualizado": "17/06/2026, 06:57:05"
   },
   {
     "id": "010230:002",
@@ -1898,7 +1898,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
-    "obs": "Aguardando MP",
+    "obs": "Aguardando Cliche",
     "ordem": null,
     "metros": "1954.4444",
     "velocidade": "3000",
@@ -1906,7 +1906,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "17/06/2026, 14:17:24"
+    "atualizado": "17/06/2026, 06:57:05"
   },
   {
     "id": "010261:001",
@@ -1921,7 +1921,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
-    "obs": "",
+    "obs": "Aguardando Cliche",
     "ordem": null,
     "metros": "1037.2222",
     "velocidade": "3000",
@@ -1929,7 +1929,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "17/06/2026, 14:19:40"
+    "atualizado": "17/06/2026, 06:57:05"
   },
   {
     "id": "010261:002",
@@ -1944,7 +1944,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
-    "obs": "Aguardando MP",
+    "obs": "Aguardando Cliche",
     "ordem": null,
     "metros": "1037.2222",
     "velocidade": "3000",
@@ -1952,7 +1952,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "17/06/2026, 14:17:42"
+    "atualizado": "17/06/2026, 06:57:05"
   },
   {
     "id": "010263:001",
@@ -1967,7 +1967,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
-    "obs": "Aguardando Cliche",
+    "obs": "",
     "ordem": null,
     "metros": "2871.6667",
     "velocidade": "3000",
@@ -1975,7 +1975,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "17/06/2026, 14:18:00"
+    "atualizado": "17/06/2026, 06:57:05"
   },
   {
     "id": "010263:002",
@@ -1990,7 +1990,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
-    "obs": "Aguardando MP",
+    "obs": "",
     "ordem": null,
     "metros": "2871.6667",
     "velocidade": "3000",
@@ -1998,7 +1998,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "17/06/2026, 14:18:09"
+    "atualizado": "17/06/2026, 06:57:05"
   },
   {
     "id": "010264:001",
@@ -2013,7 +2013,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
-    "obs": "Aguardando MP",
+    "obs": "",
     "ordem": null,
     "metros": "1037.2222",
     "velocidade": "3000",
@@ -2021,7 +2021,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "17/06/2026, 14:18:47"
+    "atualizado": "17/06/2026, 06:57:05"
   },
   {
     "id": "010264:002",
@@ -2036,7 +2036,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
-    "obs": "Aguardando Faca",
+    "obs": "",
     "ordem": null,
     "metros": "1037.2222",
     "velocidade": "3000",
@@ -2044,7 +2044,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "17/06/2026, 14:18:55"
+    "atualizado": "17/06/2026, 06:57:05"
   },
   {
     "id": "010280:001",
@@ -2105,7 +2105,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
-    "obs": "Aguardando Cliche",
+    "obs": "",
     "ordem": null,
     "metros": "1037.2222",
     "velocidade": "3000",
@@ -2113,7 +2113,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "17/06/2026, 14:19:08"
+    "atualizado": "17/06/2026, 06:57:05"
   },
   {
     "id": "010308:002",
@@ -2128,7 +2128,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
-    "obs": "Aguardando Cliche",
+    "obs": "",
     "ordem": null,
     "metros": "1037.2222",
     "velocidade": "3000",
@@ -2136,7 +2136,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "17/06/2026, 14:19:15"
+    "atualizado": "17/06/2026, 06:57:05"
   },
   {
     "id": "010311:001",
