@@ -678,7 +678,7 @@
     "entrega": "17/06/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
-    "sub": "",
+    "sub": "VOREY",
     "obs": "",
     "ordem": 20,
     "metros": "139.7222",
@@ -687,7 +687,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "16/06/2026, 21:28:55"
+    "atualizado": "16/06/2026, 21:29:56"
   },
   {
     "id": "010217:019",
