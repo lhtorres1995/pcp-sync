@@ -1850,8 +1850,8 @@
     "un": "UN",
     "entrega": "17/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "TROQUELADORAS",
-    "sub": "TROQUELADORA 2",
+    "grupo": "TERMICA",
+    "sub": "",
     "obs": "",
     "ordem": 20,
     "metros": "323.3224",
@@ -1860,7 +1860,7 @@
     "mp": "MP000000000465 - BOPP FOSCO INKJET - 200MM",
     "largMP": "200",
     "finalizado": false,
-    "atualizado": "15/06/2026, 21:13:24"
+    "atualizado": "16/06/2026, 21:36:16"
   },
   {
     "id": "010331:007",
