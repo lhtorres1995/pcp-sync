@@ -447,8 +447,8 @@
     "un": "UN",
     "entrega": "17/06/2026",
     "status": "INICIADA (fase 3 de 3)",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "BROTECH",
+    "grupo": "TERMICA",
+    "sub": "",
     "obs": "",
     "ordem": null,
     "metros": "190.5",
@@ -457,7 +457,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000681 - FILME DE LAMINAÇÃO FOSCO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "15/06/2026, 21:13:24"
+    "atualizado": "16/06/2026, 21:13:09"
   },
   {
     "id": "010217:009",
