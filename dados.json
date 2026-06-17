@@ -3230,7 +3230,7 @@
     "un": "UN",
     "entrega": "19/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "DIGITAL",
+    "grupo": "BATIDA",
     "sub": "",
     "obs": "",
     "ordem": 460,
@@ -3240,7 +3240,7 @@
     "mp": "MP000000000706 - BOPP TRANSPARENTE ACRILICO ADC220 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "15/06/2026, 21:13:24"
+    "atualizado": "16/06/2026, 21:31:52"
   },
   {
     "id": "010367:001",
