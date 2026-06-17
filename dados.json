@@ -3943,8 +3943,8 @@
     "un": "MI",
     "entrega": "23/06/2026",
     "status": "",
-    "grupo": "TROQUELADORAS",
-    "sub": "TROQUELADORA 2",
+    "grupo": "TERMICA",
+    "sub": "",
     "obs": "",
     "ordem": 130,
     "metros": "",
@@ -3953,7 +3953,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "15/06/2026, 21:13:24"
+    "atualizado": "16/06/2026, 21:36:45"
   },
   {
     "id": "010009:003",
