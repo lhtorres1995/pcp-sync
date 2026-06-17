@@ -3299,8 +3299,8 @@
     "un": "PEÇA",
     "entrega": "19/06/2026",
     "status": "PRONTA PARA INÍCIO",
-    "grupo": "TROQUELADORAS",
-    "sub": "TROQUELADORA 1",
+    "grupo": "REVISORAS",
+    "sub": "",
     "obs": "",
     "ordem": 60,
     "metros": "3352.1053",
@@ -3309,7 +3309,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "15/06/2026, 21:13:24"
+    "atualizado": "16/06/2026, 21:35:33"
   },
   {
     "id": "010079:001",
