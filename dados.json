@@ -1344,8 +1344,8 @@
     "un": "UN",
     "entrega": "17/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "BATIDA",
-    "sub": "CHINESA",
+    "grupo": "TERMICA",
+    "sub": "",
     "obs": "",
     "ordem": null,
     "metros": "204.0278",
@@ -1354,7 +1354,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000864 - BOPP TRANSPARENTE - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "15/06/2026, 21:13:24"
+    "atualizado": "16/06/2026, 21:32:12"
   },
   {
     "id": "010222:004",
