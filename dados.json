@@ -332,7 +332,7 @@
     "un": "UN",
     "entrega": "17/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
+    "grupo": "TERMICA",
     "sub": "",
     "obs": "",
     "ordem": null,
@@ -342,7 +342,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "16/06/2026, 18:11:52"
+    "atualizado": "16/06/2026, 21:21:47"
   },
   {
     "id": "010217:003",
