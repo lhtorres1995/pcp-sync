@@ -1620,8 +1620,8 @@
     "un": "UN",
     "entrega": "17/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "__FIN__",
-    "sub": "BROTECH",
+    "grupo": "TERMICA",
+    "sub": "",
     "obs": "",
     "ordem": 80,
     "metros": "292.2222",
@@ -1629,8 +1629,8 @@
     "setup": "10",
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
-    "finalizado": true,
-    "atualizado": "16/06/2026, 21:12:18"
+    "finalizado": false,
+    "atualizado": "16/06/2026, 21:12:30"
   },
   {
     "id": "010294:003",
