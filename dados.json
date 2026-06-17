@@ -1919,8 +1919,8 @@
     "un": "UN",
     "entrega": "17/06/2026",
     "status": "PRONTA PARA INÍCIO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "BROTECH",
+    "grupo": "TERMICA",
+    "sub": "",
     "obs": "",
     "ordem": null,
     "metros": "122.7778",
@@ -1929,7 +1929,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "15/06/2026, 21:13:24"
+    "atualizado": "16/06/2026, 21:27:26"
   },
   {
     "id": "010168:001",
