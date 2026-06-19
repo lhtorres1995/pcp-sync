@@ -725,7 +725,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
-    "obs": "",
+    "obs": "Aguardando Aprovacao",
     "ordem": null,
     "metros": "",
     "velocidade": "3000",
@@ -733,7 +733,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "19/06/2026, 08:13:03"
+    "atualizado": "19/06/2026, 10:59:11"
   },
   {
     "id": "010217:005",
