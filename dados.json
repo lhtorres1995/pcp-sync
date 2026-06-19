@@ -2425,8 +2425,8 @@
     "un": "PEÇA",
     "entrega": "24/06/2026",
     "status": "PRONTA PARA INÍCIO",
-    "grupo": "FLEXO 350",
-    "sub": "ETIRAMA",
+    "grupo": "FLEXO 250",
+    "sub": "",
     "obs": "",
     "ordem": null,
     "metros": "775.3",
@@ -2435,7 +2435,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "19/06/2026, 08:13:03"
+    "atualizado": "19/06/2026, 08:52:02"
   },
   {
     "id": "010300:007",
