@@ -20,7 +20,7 @@
     "mp": "MP000000000300 - FITA DE MATERIAL PLASTICO SY - BCD 150 - 100MM",
     "largMP": "200",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "009721:001",
@@ -35,7 +35,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "CORTE BROTECH / VOREY",
     "sub": "VOREY",
-    "obs": "Aguardando Aprovação",
+    "obs": "Aguardando AprovaÃ§Ã£o",
     "ordem": null,
     "metros": "141.7407",
     "velocidade": "",
@@ -43,7 +43,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010302:001",
@@ -66,7 +66,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010184:001",
@@ -89,7 +89,7 @@
     "mp": "MP000000000368 - COUCHE CARTÃO TAG L2 115G - 128MM",
     "largMP": "128",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010192:001",
@@ -101,7 +101,7 @@
     "qtd": "11",
     "un": "CX",
     "entrega": "16/06/2026",
-    "status": "PRONTA PARA INÍCIO",
+    "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "NACBRAS",
     "obs": "",
@@ -109,10 +109,10 @@
     "metros": "5427.5556",
     "velocidade": "3000",
     "setup": "150",
-    "mp": "",
-    "largMP": "",
+    "mp": "MP000000000062 - TRANSTERMICO BORRACHA C2075 - 326MM",
+    "largMP": "326",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010059:002",
@@ -135,7 +135,7 @@
     "mp": "MP000000000735 - BOPP BRILHO INKJET - 130MM/MP000000000735 - BOPP BRILHO INKJET - 130MM",
     "largMP": "130",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010181:001",
@@ -158,398 +158,7 @@
     "mp": "MP000000000044 - COUCHE BORRACHA 20G (ECOPRINT) - 222MM",
     "largMP": "222",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010217:005",
-    "pedido": "010217",
-    "item": "005",
-    "cliente": "000309-OLEAK",
-    "produto": "PA000000000264",
-    "descricao": "HNC01301 - RÓTULO - HIGINDOOR ODORIZADOR - 115 X 70",
-    "qtd": "2000",
-    "un": "UN",
-    "entrega": "17/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "VOREY",
-    "obs": "",
-    "ordem": 30,
-    "metros": "91.1111",
-    "velocidade": "780",
-    "setup": "10",
-    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
-    "largMP": "330",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010217:011",
-    "pedido": "010217",
-    "item": "011",
-    "cliente": "000309-OLEAK",
-    "produto": "PA000000000265",
-    "descricao": "HNC01301 - CONTRA ROTULO - HIGINDOOR ODORIZADOR - 115 X 70",
-    "qtd": "2000",
-    "un": "UN",
-    "entrega": "17/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "VOREY",
-    "obs": "",
-    "ordem": 40,
-    "metros": "73",
-    "velocidade": "82192",
-    "setup": "10",
-    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
-    "largMP": "",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010217:013",
-    "pedido": "010217",
-    "item": "013",
-    "cliente": "000309-OLEAK",
-    "produto": "PA000000002648",
-    "descricao": "KITCH CARE - DESINFETANTE CLORADO - 75 X 490",
-    "qtd": "500",
-    "un": "UN",
-    "entrega": "17/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "VOREY",
-    "obs": "",
-    "ordem": 280,
-    "metros": "101.2963",
-    "velocidade": "780",
-    "setup": "10",
-    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
-    "largMP": "330",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010217:016",
-    "pedido": "010217",
-    "item": "016",
-    "cliente": "000309-OLEAK",
-    "produto": "PA000000003241",
-    "descricao": "SCOTCH BRITE - DET. DESINCRUSTANTE - 0190388.1 - 140 X 120",
-    "qtd": "1000",
-    "un": "UN",
-    "entrega": "17/06/2026",
-    "status": "INICIADA (fase 3 de 3)",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "ordem": null,
-    "metros": "63.5",
-    "velocidade": "78740",
-    "setup": "10",
-    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
-    "largMP": "330",
-    "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010217:018",
-    "pedido": "010217",
-    "item": "018",
-    "cliente": "000309-OLEAK",
-    "produto": "PA000000003303",
-    "descricao": "SCOTCH BRITE - FLEX DESINFETANTE USO GERAL 5A LAVANDA - 0189132.1 - 65 X 464",
-    "qtd": "200",
-    "un": "UN",
-    "entrega": "17/06/2026",
-    "status": "INICIADA (fase 3 de 3)",
-    "grupo": "DIGITAL",
-    "sub": "",
-    "obs": "",
-    "ordem": 20,
-    "metros": "23.35",
-    "velocidade": "25696",
-    "setup": "10",
-    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
-    "largMP": "330",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010217:027",
-    "pedido": "010217",
-    "item": "027",
-    "cliente": "000309-OLEAK",
-    "produto": "PA000000001059",
-    "descricao": "CONTRA RÓTULO - WINTERHALTER B21S - 130 X 135",
-    "qtd": "1000",
-    "un": "UN",
-    "entrega": "17/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "ordem": null,
-    "metros": "97.2222",
-    "velocidade": "780",
-    "setup": "10",
-    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
-    "largMP": "330",
-    "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010217:028",
-    "pedido": "010217",
-    "item": "028",
-    "cliente": "000309-OLEAK",
-    "produto": "PA000000001058",
-    "descricao": "RÓTULO - WINTERHALTER B21S - 130 X 135",
-    "qtd": "1000",
-    "un": "UN",
-    "entrega": "17/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "ordem": null,
-    "metros": "97.2222",
-    "velocidade": "780",
-    "setup": "10",
-    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
-    "largMP": "330",
-    "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010217:032",
-    "pedido": "010217",
-    "item": "032",
-    "cliente": "000309-OLEAK",
-    "produto": "PA000000000240",
-    "descricao": "ETIQ. OPTIGERM 490ML - 73 X 118 - CONTRA ROTULO",
-    "qtd": "3000",
-    "un": "UN",
-    "entrega": "17/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "VOREY",
-    "obs": "",
-    "ordem": 170,
-    "metros": "247",
-    "velocidade": "3000",
-    "setup": "120",
-    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
-    "largMP": "285",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010217:033",
-    "pedido": "010217",
-    "item": "033",
-    "cliente": "000309-OLEAK",
-    "produto": "PA000000000239",
-    "descricao": "ETIQ. OPTIGERM 490ML - 73 X 118 - ROTULO",
-    "qtd": "3000",
-    "un": "UN",
-    "entrega": "17/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "VOREY",
-    "obs": "",
-    "ordem": 180,
-    "metros": "247",
-    "velocidade": "3000",
-    "setup": "120",
-    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
-    "largMP": "285",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010217:038",
-    "pedido": "010217",
-    "item": "038",
-    "cliente": "000309-OLEAK",
-    "produto": "PA000000000060",
-    "descricao": "HNC09311 - HIGINDOOR ODORIZADOR - 100 X 100",
-    "qtd": "4000",
-    "un": "UN",
-    "entrega": "17/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "BROTECH",
-    "obs": "",
-    "ordem": 190,
-    "metros": "162.5926",
-    "velocidade": "780",
-    "setup": "10",
-    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
-    "largMP": "330",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010217:039",
-    "pedido": "010217",
-    "item": "039",
-    "cliente": "000309-OLEAK",
-    "produto": "PA000000004543",
-    "descricao": "PLENA - BIOGERM DESINF. USO GERAL - HERBAL - 150 X 275",
-    "qtd": "190",
-    "un": "UN",
-    "entrega": "17/06/2026",
-    "status": "INICIADA (fase 3 de 3)",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "ordem": 210,
-    "metros": "26.41",
-    "velocidade": "21583",
-    "setup": "10",
-    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
-    "largMP": "330",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010217:041",
-    "pedido": "010217",
-    "item": "041",
-    "cliente": "000309-OLEAK",
-    "produto": "PA000000001850",
-    "descricao": "HRC09311 - HIGINDOOR ODORIZADOR MAÇÃ VERDE - 100 X 100",
-    "qtd": "2000",
-    "un": "UN",
-    "entrega": "17/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "BROTECH",
-    "obs": "",
-    "ordem": 200,
-    "metros": "86.2963",
-    "velocidade": "780",
-    "setup": "10",
-    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
-    "largMP": "330",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010217:046",
-    "pedido": "010217",
-    "item": "046",
-    "cliente": "000309-OLEAK",
-    "produto": "PA000000003347",
-    "descricao": "SUZANO PROFESSIONAL - MIMMO - SAP 302458878 - 140 X 155",
-    "qtd": "2000",
-    "un": "UN",
-    "entrega": "17/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "VOREY",
-    "obs": "",
-    "ordem": 310,
-    "metros": "185.5556",
-    "velocidade": "780",
-    "setup": "10",
-    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000028 - BOPP METALIZADO ACRÍLICO ADC210 - 330MM",
-    "largMP": "330",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010217:047",
-    "pedido": "010217",
-    "item": "047",
-    "cliente": "000309-OLEAK",
-    "produto": "PA000000002940",
-    "descricao": "OPTIGERM - DESINFETANTE HOSPITALAR 2L - 75 X 490",
-    "qtd": "1000",
-    "un": "UN",
-    "entrega": "17/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "VOREY",
-    "obs": "",
-    "ordem": 290,
-    "metros": "192.5926",
-    "velocidade": "780",
-    "setup": "10",
-    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000029 - BOPP TRANSPARENTE ACRÍLICO ADC210 - 330MM",
-    "largMP": "330",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010222:001",
-    "pedido": "010222",
-    "item": "001",
-    "cliente": "000309-OLEAK",
-    "produto": "PA000000001921",
-    "descricao": "ETIQUETA FACIL 21 5L - 140 X 120",
-    "qtd": "600",
-    "un": "UN",
-    "entrega": "17/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "",
-    "obs": "",
-    "ordem": null,
-    "metros": "52.3333",
-    "velocidade": "780",
-    "setup": "10",
-    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
-    "largMP": "330",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010222:006",
-    "pedido": "010222",
-    "item": "006",
-    "cliente": "000309-OLEAK",
-    "produto": "PA000000004566",
-    "descricao": "PLENA - BIOGERM DESINF. USO GERAL - NATURE - 150 X 275",
-    "qtd": "190",
-    "un": "UN",
-    "entrega": "17/06/2026",
-    "status": "INICIADA (fase 3 de 3)",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "ordem": 220,
-    "metros": "26.41",
-    "velocidade": "21583",
-    "setup": "10",
-    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
-    "largMP": "330",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010232:001",
-    "pedido": "010232",
-    "item": "001",
-    "cliente": "000309-OLEAK",
-    "produto": "PA000000003619",
-    "descricao": "SUZANO PROFESSIONAL - MIMMO - SAP 30241589 - 104 X 99",
-    "qtd": "5000",
-    "un": "UN",
-    "entrega": "17/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "VOREY",
-    "obs": "",
-    "ordem": 300,
-    "metros": "198.8889",
-    "velocidade": "2400",
-    "setup": "10",
-    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
-    "largMP": "330",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010266:001",
@@ -572,7 +181,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010269:001",
@@ -595,7 +204,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010275:001",
@@ -618,237 +227,7 @@
     "mp": "MP000000000368 - COUCHE CARTÃO TAG L2 115G - 128MM",
     "largMP": "128",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010294:002",
-    "pedido": "010294",
-    "item": "002",
-    "cliente": "000309-OLEAK",
-    "produto": "PA000000000405",
-    "descricao": "HSD05207 - DETERGENTE DESINCRUSTANTE ALCALINO - 140 X 120",
-    "qtd": "1000",
-    "un": "UN",
-    "entrega": "17/06/2026",
-    "status": "INICIADA (fase 3 de 3)",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "ordem": 80,
-    "metros": "63.5",
-    "velocidade": "78740",
-    "setup": "10",
-    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
-    "largMP": "330",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010294:003",
-    "pedido": "010294",
-    "item": "003",
-    "cliente": "000309-OLEAK",
-    "produto": "PA000000003156",
-    "descricao": "RÓTULO E CONTRA RÓTULO - KITCH CARE - DESINCRUSTANTE ALCALINO 1L -  80 X 93",
-    "qtd": "1500",
-    "un": "CONJ",
-    "entrega": "17/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "VOREY",
-    "obs": "",
-    "ordem": 140,
-    "metros": "63.3333",
-    "velocidade": "780",
-    "setup": "10",
-    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
-    "largMP": "330",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010294:006",
-    "pedido": "010294",
-    "item": "006",
-    "cliente": "000309-OLEAK",
-    "produto": "PA000000000245",
-    "descricao": "ETIQUETA CERA VORAX - 140 X 120",
-    "qtd": "1000",
-    "un": "UN",
-    "entrega": "17/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "BROTECH",
-    "obs": "",
-    "ordem": 100,
-    "metros": "80.5556",
-    "velocidade": "780",
-    "setup": "10",
-    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
-    "largMP": "330",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010294:007",
-    "pedido": "010294",
-    "item": "007",
-    "cliente": "000309-OLEAK",
-    "produto": "PA000000004610",
-    "descricao": "SCOTCH BRITE - DESINFETANTE LAVANDA - 0190386.1 - 140 X 120",
-    "qtd": "500",
-    "un": "UN",
-    "entrega": "17/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "ordem": 110,
-    "metros": "45.2778",
-    "velocidade": "780",
-    "setup": "10",
-    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
-    "largMP": "330",
-    "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010294:008",
-    "pedido": "010294",
-    "item": "008",
-    "cliente": "000309-OLEAK",
-    "produto": "PA000000001399",
-    "descricao": "ROTULO - KLIM LIGHT HYPERC  - 75 X 45",
-    "qtd": "3000",
-    "un": "UN",
-    "entrega": "17/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "ordem": 270,
-    "metros": "50",
-    "velocidade": "780",
-    "setup": "10",
-    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
-    "largMP": "330",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010313:001",
-    "pedido": "010313",
-    "item": "001",
-    "cliente": "000309-OLEAK",
-    "produto": "PA000000003732",
-    "descricao": "RÓTULO E CONTRA RÓTULO - KITCH CARE - DETERGENTE NEUTRO 1L -  80 X 93",
-    "qtd": "1500",
-    "un": "CONJ",
-    "entrega": "17/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "VOREY",
-    "obs": "",
-    "ordem": 160,
-    "metros": "63.3333",
-    "velocidade": "780",
-    "setup": "10",
-    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
-    "largMP": "330",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010320:002",
-    "pedido": "010320",
-    "item": "002",
-    "cliente": "000309-OLEAK",
-    "produto": "PA000000003957",
-    "descricao": "CONTRA RÓTULO OPTIGERM 750ML - 75 X 120",
-    "qtd": "8000",
-    "un": "UN",
-    "entrega": "17/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "VOREY",
-    "obs": "",
-    "ordem": null,
-    "metros": "472.7778",
-    "velocidade": "3000",
-    "setup": "120",
-    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
-    "largMP": "285",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010321:005",
-    "pedido": "010321",
-    "item": "005",
-    "cliente": "001398-MS COSMETICOS LTDA",
-    "produto": "PA000000003412",
-    "descricao": "ROT1216 - ROTULO MASCARA INSTANTANEA  PRO BASIC NOVA ARTE - 175 X 263",
-    "qtd": "2000",
-    "un": "UN",
-    "entrega": "17/06/2026",
-    "status": "PRONTA PARA INÍCIO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "ordem": null,
-    "metros": "652.6667",
-    "velocidade": "2400",
-    "setup": "60",
-    "mp": "",
-    "largMP": "",
-    "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010331:006",
-    "pedido": "010331",
-    "item": "006",
-    "cliente": "000344-PROZYN INDUSTRIA E COMERC",
-    "produto": "PA000000004623",
-    "descricao": "ETIQ. BRANCA INKJET - 90 X 116",
-    "qtd": "5000",
-    "un": "UN",
-    "entrega": "17/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "ordem": 20,
-    "metros": "323.3224",
-    "velocidade": "2400",
-    "setup": "10",
-    "mp": "MP000000000465 - BOPP FOSCO INKJET - 200MM",
-    "largMP": "200",
-    "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010331:007",
-    "pedido": "010331",
-    "item": "007",
-    "cliente": "000344-PROZYN INDUSTRIA E COMERC",
-    "produto": "PA000000004624",
-    "descricao": "ETIQUETA BRANCA INKJET - 130 X 250",
-    "qtd": "5000",
-    "un": "UN",
-    "entrega": "17/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "BROTECH",
-    "obs": "",
-    "ordem": null,
-    "metros": "1300.8163",
-    "velocidade": "2400",
-    "setup": "10",
-    "mp": "MP000000000797 - BOPP FOSCO INKJET - 176MM",
-    "largMP": "176",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010379:001",
@@ -871,30 +250,7 @@
     "mp": "MP000000000368 - COUCHE CARTÃO TAG L2 115G - 128MM",
     "largMP": "128",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010168:001",
-    "pedido": "010168",
-    "item": "001",
-    "cliente": "000101-MELC",
-    "produto": "PA000000000144",
-    "descricao": "COD.: 980204 - ETIQ. - 101 X 60",
-    "qtd": "120",
-    "un": "MI",
-    "entrega": "18/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "ordem": 40,
-    "metros": "4020.5263",
-    "velocidade": "2400",
-    "setup": "20",
-    "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000044 - COUCHE BORRACHA 20G (ECOPRINT) - 222MM",
-    "largMP": "222",
-    "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010187:001",
@@ -917,7 +273,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010187:002",
@@ -940,7 +296,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010187:003",
@@ -963,145 +319,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010231:001",
-    "pedido": "010231",
-    "item": "001",
-    "cliente": "001709-PERI",
-    "produto": "PA000000004568",
-    "descricao": "ETIQUETA POLIESTER PERI - 80 X 150",
-    "qtd": "20",
-    "un": "MI",
-    "entrega": "18/06/2026",
-    "status": "PRONTA PARA INÍCIO",
-    "grupo": "FLEXO 250",
-    "sub": "",
-    "obs": "Aguardando Faca",
-    "ordem": null,
-    "metros": "1753.3333",
-    "velocidade": "2400",
-    "setup": "40",
-    "mp": "",
-    "largMP": "",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010231:002",
-    "pedido": "010231",
-    "item": "002",
-    "cliente": "001709-PERI",
-    "produto": "PA000000004569",
-    "descricao": "ETIQUETA POLIESTER 145 - 80 X 150",
-    "qtd": "10",
-    "un": "MI",
-    "entrega": "18/06/2026",
-    "status": "PRONTA PARA INÍCIO",
-    "grupo": "FLEXO 250",
-    "sub": "",
-    "obs": "Aguardando Faca",
-    "ordem": null,
-    "metros": "906.6667",
-    "velocidade": "2400",
-    "setup": "40",
-    "mp": "",
-    "largMP": "",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010231:003",
-    "pedido": "010231",
-    "item": "003",
-    "cliente": "001709-PERI",
-    "produto": "PA000000004570",
-    "descricao": "ETIQUETA POLIESTER 215 - 80 X 150",
-    "qtd": "10",
-    "un": "MI",
-    "entrega": "18/06/2026",
-    "status": "PRONTA PARA INÍCIO",
-    "grupo": "FLEXO 250",
-    "sub": "",
-    "obs": "Aguardando Faca",
-    "ordem": null,
-    "metros": "906.6667",
-    "velocidade": "2400",
-    "setup": "40",
-    "mp": "",
-    "largMP": "",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010231:004",
-    "pedido": "010231",
-    "item": "004",
-    "cliente": "001709-PERI",
-    "produto": "PA000000004571",
-    "descricao": "ETIQUETA POLIESTER 245 - 80 X 150",
-    "qtd": "10",
-    "un": "MI",
-    "entrega": "18/06/2026",
-    "status": "PRONTA PARA INÍCIO",
-    "grupo": "FLEXO 250",
-    "sub": "",
-    "obs": "Aguardando Faca",
-    "ordem": null,
-    "metros": "906.6667",
-    "velocidade": "2400",
-    "setup": "40",
-    "mp": "",
-    "largMP": "",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010231:005",
-    "pedido": "010231",
-    "item": "005",
-    "cliente": "001709-PERI",
-    "produto": "PA000000004572",
-    "descricao": "ETIQUETA POLIESTER 265 - 80 X 150",
-    "qtd": "10",
-    "un": "MI",
-    "entrega": "18/06/2026",
-    "status": "PRONTA PARA INÍCIO",
-    "grupo": "FLEXO 250",
-    "sub": "",
-    "obs": "Aguardando Faca",
-    "ordem": null,
-    "metros": "906.6667",
-    "velocidade": "2400",
-    "setup": "40",
-    "mp": "",
-    "largMP": "",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010231:006",
-    "pedido": "010231",
-    "item": "006",
-    "cliente": "001709-PERI",
-    "produto": "PA000000004573",
-    "descricao": "ETIQUETA POLIESTER 295 - 80 X 150",
-    "qtd": "10",
-    "un": "MI",
-    "entrega": "18/06/2026",
-    "status": "PRONTA PARA INÍCIO",
-    "grupo": "FLEXO 250",
-    "sub": "",
-    "obs": "Aguardando Faca",
-    "ordem": null,
-    "metros": "906.6667",
-    "velocidade": "2400",
-    "setup": "40",
-    "mp": "",
-    "largMP": "",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010234:001",
@@ -1124,7 +342,7 @@
     "mp": "MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010279:001",
@@ -1147,168 +365,7 @@
     "mp": "PR000000000061 - RIBBON MISTO APR6 - 170 X 450 - CSO/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010286:001",
-    "pedido": "010286",
-    "item": "001",
-    "cliente": "000280-NIVEA",
-    "produto": "PA000000000143",
-    "descricao": "ETIQ. - 83 X 27",
-    "qtd": "50",
-    "un": "MI",
-    "entrega": "18/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "ordem": null,
-    "metros": "799.4737",
-    "velocidade": "2400",
-    "setup": "10",
-    "mp": "MP000000000158 - TRANSTERMICO BORRACHA C2075 - 222MM",
-    "largMP": "222",
-    "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010332:001",
-    "pedido": "010332",
-    "item": "001",
-    "cliente": "000954-WEST GARDEN",
-    "produto": "PA000000003907",
-    "descricao": "ETIQUETA 2728 - VASO FLORENÇA 15 CM FENDI - 70 X 50",
-    "qtd": "6000",
-    "un": "UN",
-    "entrega": "18/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "ordem": 320,
-    "metros": "73",
-    "velocidade": "2400",
-    "setup": "10",
-    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
-    "largMP": "333",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010332:002",
-    "pedido": "010332",
-    "item": "002",
-    "cliente": "000954-WEST GARDEN",
-    "produto": "PA000000003908",
-    "descricao": "ETIQUETA 2729 - VASO FLORENÇA 20 CM FENDI - 70 X 50",
-    "qtd": "3000",
-    "un": "UN",
-    "entrega": "18/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "ordem": 330,
-    "metros": "36.5",
-    "velocidade": "2400",
-    "setup": "10",
-    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
-    "largMP": "333",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010332:004",
-    "pedido": "010332",
-    "item": "004",
-    "cliente": "000954-WEST GARDEN",
-    "produto": "PA000000003910",
-    "descricao": "ETIQUETA 2731 - VASO FLORENÇA 15 CM VERDE - 70 X 50",
-    "qtd": "6000",
-    "un": "UN",
-    "entrega": "18/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "ordem": 340,
-    "metros": "73",
-    "velocidade": "2400",
-    "setup": "10",
-    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
-    "largMP": "333",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010332:005",
-    "pedido": "010332",
-    "item": "005",
-    "cliente": "000954-WEST GARDEN",
-    "produto": "PA000000003911",
-    "descricao": "ETIQUETA 2732 - VASO FLORENÇA 20 CM VERDE - 70 X 50",
-    "qtd": "3000",
-    "un": "UN",
-    "entrega": "18/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "ordem": 350,
-    "metros": "36.5",
-    "velocidade": "2400",
-    "setup": "10",
-    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
-    "largMP": "333",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010332:007",
-    "pedido": "010332",
-    "item": "007",
-    "cliente": "000954-WEST GARDEN",
-    "produto": "PA000000003913",
-    "descricao": "ETIQUETA 2734 - VASO FLORENÇA 15 CM GRAFITE - 70 X 50",
-    "qtd": "6000",
-    "un": "UN",
-    "entrega": "18/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "ordem": 360,
-    "metros": "73",
-    "velocidade": "2400",
-    "setup": "10",
-    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
-    "largMP": "333",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010332:008",
-    "pedido": "010332",
-    "item": "008",
-    "cliente": "000954-WEST GARDEN",
-    "produto": "PA000000003914",
-    "descricao": "ETIQUETA 2735 - VASO FLORENÇA 20 CM GRAFITE - 70 X 50",
-    "qtd": "3000",
-    "un": "UN",
-    "entrega": "18/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
-    "sub": "",
-    "obs": "",
-    "ordem": 370,
-    "metros": "36.5",
-    "velocidade": "2400",
-    "setup": "10",
-    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
-    "largMP": "333",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010365:003",
@@ -1331,7 +388,7 @@
     "mp": "MP000000000893 - BOPP FOSCO M141 - 175MM",
     "largMP": "175",
     "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010365:004",
@@ -1344,8 +401,8 @@
     "un": "PEÇA",
     "entrega": "18/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "BROTECH",
+    "grupo": "REVISORAS",
+    "sub": "",
     "obs": "",
     "ordem": null,
     "metros": "1215.2041",
@@ -1354,7 +411,7 @@
     "mp": "MP000000000465 - BOPP FOSCO INKJET - 200MM",
     "largMP": "200",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010365:005",
@@ -1377,30 +434,7 @@
     "mp": "MP000000000797 - BOPP FOSCO INKJET - 176MM",
     "largMP": "176",
     "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010428:001",
-    "pedido": "010428",
-    "item": "001",
-    "cliente": "000158-GDS GROW DIETARY SUPPLEME",
-    "produto": "PA000000000257",
-    "descricao": "ETIQ. IDENTIFICAÇÃO 110 X 80",
-    "qtd": "100000",
-    "un": "UN",
-    "entrega": "18/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "ordem": null,
-    "metros": "4410.4368",
-    "velocidade": "2400",
-    "setup": "10",
-    "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000227 - COUCHE BORRACHA 20G (ECOPRINT) - 232MM",
-    "largMP": "232",
-    "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010054:005",
@@ -1415,7 +449,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "CORTE BROTECH / VOREY",
     "sub": "VOREY",
-    "obs": "Aguardando AprovaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
+    "obs": "Aguardando AprovaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
     "ordem": 410,
     "metros": "168.75",
     "velocidade": "2400",
@@ -1423,7 +457,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010227:001",
@@ -1436,8 +470,8 @@
     "un": "MI",
     "entrega": "19/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "TROQUELADORAS",
-    "sub": "TROQUELADORA 1",
+    "grupo": "__FIN__",
+    "sub": "",
     "obs": "",
     "ordem": 20,
     "metros": "2388.9474",
@@ -1445,8 +479,8 @@
     "setup": "10",
     "mp": "MP000000000465 - BOPP FOSCO INKJET - 200MM",
     "largMP": "200",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "finalizado": true,
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010229:001",
@@ -1469,7 +503,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010230:001",
@@ -1492,7 +526,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010230:002",
@@ -1515,53 +549,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010261:001",
-    "pedido": "010261",
-    "item": "001",
-    "cliente": "001652-KARTER",
-    "produto": "PA000000004560",
-    "descricao": "RÓTULO KARTER 1L GEAR OIL SK-140 GL5  -140 X 80",
-    "qtd": "10000",
-    "un": "UN",
-    "entrega": "19/06/2026",
-    "status": "PRONTA PARA INÍCIO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "Aguardando Cliche",
-    "ordem": null,
-    "metros": "1037.2222",
-    "velocidade": "3000",
-    "setup": "120",
-    "mp": "",
-    "largMP": "",
-    "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010261:002",
-    "pedido": "010261",
-    "item": "002",
-    "cliente": "001652-KARTER",
-    "produto": "PA000000004561",
-    "descricao": "CONTRA RÓTULO KARTER 1L GEAR OIL SK-140 GL5  -140 X 80",
-    "qtd": "10000",
-    "un": "UN",
-    "entrega": "19/06/2026",
-    "status": "PRONTA PARA INÍCIO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "Aguardando Cliche",
-    "ordem": null,
-    "metros": "1037.2222",
-    "velocidade": "3000",
-    "setup": "120",
-    "mp": "",
-    "largMP": "",
-    "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010263:001",
@@ -1584,7 +572,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010263:002",
@@ -1607,7 +595,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010264:001",
@@ -1630,7 +618,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010264:002",
@@ -1653,7 +641,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010280:001",
@@ -1676,7 +664,7 @@
     "mp": "MP000000000010 - BOPP BRANCO BRILHO ACRILICO ADC210 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010282:001",
@@ -1699,7 +687,7 @@
     "mp": "MP000000000383 - PET BRANCO ACRÍLICO ADC210 - 132MM",
     "largMP": "132",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010308:001",
@@ -1722,7 +710,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010308:002",
@@ -1745,145 +733,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010311:001",
-    "pedido": "010311",
-    "item": "001",
-    "cliente": "001652-KARTER",
-    "produto": "PA000000004618",
-    "descricao": "RÓTULO KARTER 1LT - GEAR OIL SK-90GL5- 140 X 80",
-    "qtd": "10000",
-    "un": "UN",
-    "entrega": "19/06/2026",
-    "status": "PRONTA PARA INÍCIO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "ordem": null,
-    "metros": "1037.2222",
-    "velocidade": "3000",
-    "setup": "120",
-    "mp": "",
-    "largMP": "",
-    "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010311:002",
-    "pedido": "010311",
-    "item": "002",
-    "cliente": "001652-KARTER",
-    "produto": "PA000000004619",
-    "descricao": "CONTRA RÓTULO KARTER 1LT - GEAR OIL SK-90 GL5 - 140 X 80",
-    "qtd": "10000",
-    "un": "UN",
-    "entrega": "19/06/2026",
-    "status": "PRONTA PARA INÍCIO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "ordem": null,
-    "metros": "1037.2222",
-    "velocidade": "",
-    "setup": "",
-    "mp": "",
-    "largMP": "",
-    "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010316:001",
-    "pedido": "010316",
-    "item": "001",
-    "cliente": "001562-ALQUIMIA",
-    "produto": "PA000000004620",
-    "descricao": "ETIQUETA BOPP FOSCO - 30 X 76",
-    "qtd": "4",
-    "un": "ROLO",
-    "entrega": "19/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "ordem": null,
-    "metros": "342.6316",
-    "velocidade": "5000",
-    "setup": "10",
-    "mp": "MP000000000892 - BOPP FOSCO M141 - 90MM",
-    "largMP": "90",
-    "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010317:001",
-    "pedido": "010317",
-    "item": "001",
-    "cliente": "001562-ALQUIMIA",
-    "produto": "PA000000003196",
-    "descricao": "ETIQUETA BOPP FOSCO - 69 X 157",
-    "qtd": "20",
-    "un": "ROLO",
-    "entrega": "19/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "BATIDA",
-    "sub": "",
-    "obs": "",
-    "ordem": null,
-    "metros": "2115.2632",
-    "velocidade": "5000",
-    "setup": "10",
-    "mp": "MP000000000545 - BOPP FOSCO INKJET - 156MM",
-    "largMP": "156",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010317:002",
-    "pedido": "010317",
-    "item": "002",
-    "cliente": "001562-ALQUIMIA",
-    "produto": "PA000000003197",
-    "descricao": "ETIQUETA BOPP FOSCO - 106 X 151",
-    "qtd": "15",
-    "un": "ROLO",
-    "entrega": "19/06/2026",
-    "status": "PRONTA PARA INÍCIO",
-    "grupo": "BATIDA",
-    "sub": "",
-    "obs": "",
-    "ordem": null,
-    "metros": "1566.2105",
-    "velocidade": "5000",
-    "setup": "10",
-    "mp": "",
-    "largMP": "",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010317:003",
-    "pedido": "010317",
-    "item": "003",
-    "cliente": "001562-ALQUIMIA",
-    "produto": "PA000000003195",
-    "descricao": "ETIQUETA BOPP FOSCO - 39 X 92,7",
-    "qtd": "10",
-    "un": "ROLO",
-    "entrega": "19/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "ordem": null,
-    "metros": "1057.6632",
-    "velocidade": "5000",
-    "setup": "10",
-    "mp": "MP000000000892 - BOPP FOSCO M141 - 90MM",
-    "largMP": "90",
-    "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010330:001",
@@ -1906,7 +756,7 @@
     "mp": "MP000000000398 - BOPP TRANSPARENTE ACRILICO ADC220 - 180MM",
     "largMP": "180",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010339:001",
@@ -1929,7 +779,7 @@
     "mp": "MP000000000043 - COUCHE BORRACHA 20G (ECOPRINT) - 214MM",
     "largMP": "214",
     "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010341:001",
@@ -1952,7 +802,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010342:001",
@@ -1975,7 +825,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010342:002",
@@ -1998,7 +848,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010342:003",
@@ -2007,21 +857,21 @@
     "cliente": "001652-KARTER",
     "produto": "PA000000004330",
     "descricao": "RÓTULO KARTER 20LT - HIDRAULICO K-68 - 150 X 150",
-    "qtd": "9000",
+    "qtd": "2000",
     "un": "UN",
     "entrega": "19/06/2026",
-    "status": "PRONTA PARA INÍCIO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "VOREY",
+    "status": "INICIADA (fase 2 de 2)",
+    "grupo": "DIGITAL",
+    "sub": "",
     "obs": "",
     "ordem": null,
-    "metros": "1644",
-    "velocidade": "4800",
-    "setup": "120",
-    "mp": "",
-    "largMP": "",
+    "metros": "304.8",
+    "velocidade": "",
+    "setup": "",
+    "mp": "MP000000000909 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 156MM",
+    "largMP": "214",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010345:001",
@@ -2044,7 +894,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010345:002",
@@ -2067,7 +917,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010351:001",
@@ -2090,30 +940,7 @@
     "mp": "MP000000000545 - BOPP FOSCO INKJET - 156MM",
     "largMP": "156",
     "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010356:001",
-    "pedido": "010356",
-    "item": "001",
-    "cliente": "000309-OLEAK",
-    "produto": "PA000000000997",
-    "descricao": "OPTICARE IHS - GEL HIDRATANTE - 130 X 65",
-    "qtd": "850",
-    "un": "UN",
-    "entrega": "19/06/2026",
-    "status": "INICIADA (fase 2 de 2)",
-    "grupo": "DIGITAL",
-    "sub": "",
-    "obs": "",
-    "ordem": 460,
-    "metros": "29.6862",
-    "velocidade": "85898",
-    "setup": "10",
-    "mp": "MP000000000706 - BOPP TRANSPARENTE ACRILICO ADC220 - 330MM",
-    "largMP": "330",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010367:001",
@@ -2136,7 +963,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010282:003",
@@ -2159,7 +986,7 @@
     "mp": "MP000000000383 - PET BRANCO ACRÍLICO ADC210 - 132MM",
     "largMP": "132",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010390:001",
@@ -2182,7 +1009,7 @@
     "mp": "MP000000000158 - TRANSTERMICO BORRACHA C2075 - 222MM",
     "largMP": "222",
     "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010401:002",
@@ -2205,7 +1032,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010429:002",
@@ -2228,7 +1055,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010449:001",
@@ -2251,7 +1078,30 @@
     "mp": "",
     "largMP": "",
     "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010457:001",
+    "pedido": "010457",
+    "item": "001",
+    "cliente": "000062-ECOLAB SUZANO",
+    "produto": "PA000000000102",
+    "descricao": "RÓTULOS DE PRODUTOS GHS + RIBBONS",
+    "qtd": "5000",
+    "un": "UN",
+    "entrega": "19/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "6238.8889",
+    "velocidade": "2400",
+    "setup": "30",
+    "mp": "",
+    "largMP": "",
+    "finalizado": true,
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010079:001",
@@ -2274,7 +1124,260 @@
     "mp": "PR000000000059 - RIBBON MISTO APR6 - 110 X 450 - CSO/MP000000000022 - BOPP BRANCO FOSCO BORRACHA C2075 - 222MM",
     "largMP": "222",
     "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010217:005",
+    "pedido": "010217",
+    "item": "005",
+    "cliente": "000309-OLEAK",
+    "produto": "PA000000000264",
+    "descricao": "HNC01301 - RÓTULO - HIGINDOOR ODORIZADOR - 115 X 70",
+    "qtd": "2000",
+    "un": "UN",
+    "entrega": "22/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "REVISORAS",
+    "sub": "",
+    "obs": "",
+    "ordem": 30,
+    "metros": "91.1111",
+    "velocidade": "780",
+    "setup": "10",
+    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
+    "largMP": "330",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010217:011",
+    "pedido": "010217",
+    "item": "011",
+    "cliente": "000309-OLEAK",
+    "produto": "PA000000000265",
+    "descricao": "HNC01301 - CONTRA ROTULO - HIGINDOOR ODORIZADOR - 115 X 70",
+    "qtd": "2000",
+    "un": "UN",
+    "entrega": "22/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "REVISORAS",
+    "sub": "",
+    "obs": "",
+    "ordem": 40,
+    "metros": "73",
+    "velocidade": "82192",
+    "setup": "10",
+    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
+    "largMP": "",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010217:013",
+    "pedido": "010217",
+    "item": "013",
+    "cliente": "000309-OLEAK",
+    "produto": "PA000000002648",
+    "descricao": "KITCH CARE - DESINFETANTE CLORADO - 75 X 490",
+    "qtd": "500",
+    "un": "UN",
+    "entrega": "22/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "REVISORAS",
+    "sub": "",
+    "obs": "",
+    "ordem": 280,
+    "metros": "101.2963",
+    "velocidade": "780",
+    "setup": "10",
+    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
+    "largMP": "330",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010217:027",
+    "pedido": "010217",
+    "item": "027",
+    "cliente": "000309-OLEAK",
+    "produto": "PA000000001059",
+    "descricao": "CONTRA RÓTULO - WINTERHALTER B21S - 130 X 135",
+    "qtd": "1000",
+    "un": "UN",
+    "entrega": "22/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "97.2222",
+    "velocidade": "780",
+    "setup": "10",
+    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
+    "largMP": "330",
+    "finalizado": true,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010217:028",
+    "pedido": "010217",
+    "item": "028",
+    "cliente": "000309-OLEAK",
+    "produto": "PA000000001058",
+    "descricao": "RÓTULO - WINTERHALTER B21S - 130 X 135",
+    "qtd": "1000",
+    "un": "UN",
+    "entrega": "22/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "97.2222",
+    "velocidade": "780",
+    "setup": "10",
+    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
+    "largMP": "330",
+    "finalizado": true,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010217:032",
+    "pedido": "010217",
+    "item": "032",
+    "cliente": "000309-OLEAK",
+    "produto": "PA000000000240",
+    "descricao": "ETIQ. OPTIGERM 490ML - 73 X 118 - CONTRA ROTULO",
+    "qtd": "3000",
+    "un": "UN",
+    "entrega": "22/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "CORTE BROTECH / VOREY",
+    "sub": "VOREY",
+    "obs": "",
+    "ordem": 170,
+    "metros": "247",
+    "velocidade": "3000",
+    "setup": "120",
+    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
+    "largMP": "285",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010217:033",
+    "pedido": "010217",
+    "item": "033",
+    "cliente": "000309-OLEAK",
+    "produto": "PA000000000239",
+    "descricao": "ETIQ. OPTIGERM 490ML - 73 X 118 - ROTULO",
+    "qtd": "3000",
+    "un": "UN",
+    "entrega": "22/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "CORTE BROTECH / VOREY",
+    "sub": "VOREY",
+    "obs": "",
+    "ordem": 180,
+    "metros": "247",
+    "velocidade": "3000",
+    "setup": "120",
+    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
+    "largMP": "285",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010217:038",
+    "pedido": "010217",
+    "item": "038",
+    "cliente": "000309-OLEAK",
+    "produto": "PA000000000060",
+    "descricao": "HNC09311 - HIGINDOOR ODORIZADOR - 100 X 100",
+    "qtd": "4000",
+    "un": "UN",
+    "entrega": "22/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "REVISORAS",
+    "sub": "",
+    "obs": "",
+    "ordem": 190,
+    "metros": "162.5926",
+    "velocidade": "780",
+    "setup": "10",
+    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
+    "largMP": "330",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010217:041",
+    "pedido": "010217",
+    "item": "041",
+    "cliente": "000309-OLEAK",
+    "produto": "PA000000001850",
+    "descricao": "HRC09311 - HIGINDOOR ODORIZADOR MAÇÃ VERDE - 100 X 100",
+    "qtd": "2000",
+    "un": "UN",
+    "entrega": "22/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "REVISORAS",
+    "sub": "",
+    "obs": "",
+    "ordem": 200,
+    "metros": "86.2963",
+    "velocidade": "780",
+    "setup": "10",
+    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
+    "largMP": "330",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010217:046",
+    "pedido": "010217",
+    "item": "046",
+    "cliente": "000309-OLEAK",
+    "produto": "PA000000003347",
+    "descricao": "SUZANO PROFESSIONAL - MIMMO - SAP 302458878 - 140 X 155",
+    "qtd": "2000",
+    "un": "UN",
+    "entrega": "22/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "CORTE BROTECH / VOREY",
+    "sub": "VOREY",
+    "obs": "",
+    "ordem": 310,
+    "metros": "185.5556",
+    "velocidade": "780",
+    "setup": "10",
+    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000028 - BOPP METALIZADO ACRÍLICO ADC210 - 330MM",
+    "largMP": "330",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010217:047",
+    "pedido": "010217",
+    "item": "047",
+    "cliente": "000309-OLEAK",
+    "produto": "PA000000002940",
+    "descricao": "OPTIGERM - DESINFETANTE HOSPITALAR 2L - 75 X 490",
+    "qtd": "1000",
+    "un": "UN",
+    "entrega": "22/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "CORTE BROTECH / VOREY",
+    "sub": "VOREY",
+    "obs": "",
+    "ordem": 290,
+    "metros": "192.5926",
+    "velocidade": "780",
+    "setup": "10",
+    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000029 - BOPP TRANSPARENTE ACRÍLICO ADC210 - 330MM",
+    "largMP": "330",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010221:002",
@@ -2297,7 +1400,53 @@
     "mp": "MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010222:001",
+    "pedido": "010222",
+    "item": "001",
+    "cliente": "000309-OLEAK",
+    "produto": "PA000000001921",
+    "descricao": "ETIQUETA FACIL 21 5L - 140 X 120",
+    "qtd": "600",
+    "un": "UN",
+    "entrega": "22/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "REVISORAS",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "52.3333",
+    "velocidade": "780",
+    "setup": "10",
+    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
+    "largMP": "330",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010232:001",
+    "pedido": "010232",
+    "item": "001",
+    "cliente": "000309-OLEAK",
+    "produto": "PA000000003619",
+    "descricao": "SUZANO PROFESSIONAL - MIMMO - SAP 30241589 - 104 X 99",
+    "qtd": "5000",
+    "un": "UN",
+    "entrega": "22/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "CORTE BROTECH / VOREY",
+    "sub": "VOREY",
+    "obs": "",
+    "ordem": 300,
+    "metros": "198.8889",
+    "velocidade": "2400",
+    "setup": "10",
+    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
+    "largMP": "330",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010289:002",
@@ -2320,7 +1469,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010289:003",
@@ -2333,7 +1482,7 @@
     "un": "UN",
     "entrega": "22/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "CORTE BROTECH / VOREY",
+    "grupo": "REVISORAS",
     "sub": "",
     "obs": "",
     "ordem": 480,
@@ -2343,7 +1492,122 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010294:002",
+    "pedido": "010294",
+    "item": "002",
+    "cliente": "000309-OLEAK",
+    "produto": "PA000000000405",
+    "descricao": "HSD05207 - DETERGENTE DESINCRUSTANTE ALCALINO - 140 X 120",
+    "qtd": "1000",
+    "un": "UN",
+    "entrega": "22/06/2026",
+    "status": "INICIADA (fase 3 de 3)",
+    "grupo": "REVISORAS",
+    "sub": "",
+    "obs": "",
+    "ordem": 80,
+    "metros": "63.5",
+    "velocidade": "78740",
+    "setup": "10",
+    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
+    "largMP": "330",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010294:003",
+    "pedido": "010294",
+    "item": "003",
+    "cliente": "000309-OLEAK",
+    "produto": "PA000000003156",
+    "descricao": "RÓTULO E CONTRA RÓTULO - KITCH CARE - DESINCRUSTANTE ALCALINO 1L -  80 X 93",
+    "qtd": "1500",
+    "un": "CONJ",
+    "entrega": "22/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "CORTE BROTECH / VOREY",
+    "sub": "VOREY",
+    "obs": "",
+    "ordem": 140,
+    "metros": "63.3333",
+    "velocidade": "780",
+    "setup": "10",
+    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
+    "largMP": "330",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010294:006",
+    "pedido": "010294",
+    "item": "006",
+    "cliente": "000309-OLEAK",
+    "produto": "PA000000000245",
+    "descricao": "ETIQUETA CERA VORAX - 140 X 120",
+    "qtd": "1000",
+    "un": "UN",
+    "entrega": "22/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "DIGITAL",
+    "sub": "",
+    "obs": "",
+    "ordem": 100,
+    "metros": "80.5556",
+    "velocidade": "780",
+    "setup": "10",
+    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
+    "largMP": "330",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010294:007",
+    "pedido": "010294",
+    "item": "007",
+    "cliente": "000309-OLEAK",
+    "produto": "PA000000004610",
+    "descricao": "SCOTCH BRITE - DESINFETANTE LAVANDA - 0190386.1 - 140 X 120",
+    "qtd": "500",
+    "un": "UN",
+    "entrega": "22/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": 110,
+    "metros": "45.2778",
+    "velocidade": "780",
+    "setup": "10",
+    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
+    "largMP": "330",
+    "finalizado": true,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010294:008",
+    "pedido": "010294",
+    "item": "008",
+    "cliente": "000309-OLEAK",
+    "produto": "PA000000001399",
+    "descricao": "ROTULO - KLIM LIGHT HYPERC  - 75 X 45",
+    "qtd": "3000",
+    "un": "UN",
+    "entrega": "22/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "REVISORAS",
+    "sub": "",
+    "obs": "",
+    "ordem": 270,
+    "metros": "50",
+    "velocidade": "780",
+    "setup": "10",
+    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
+    "largMP": "330",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010306:001",
@@ -2366,7 +1630,7 @@
     "mp": "MP000000000039 - COUCHE ACRILICO S0518 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010306:002",
@@ -2379,8 +1643,8 @@
     "un": "UN",
     "entrega": "22/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "BROTECH",
+    "grupo": "REVISORAS",
+    "sub": "",
     "obs": "",
     "ordem": null,
     "metros": "536.5306",
@@ -2389,7 +1653,191 @@
     "mp": "MP000000000461 - COUCHE BORRACHA 20G (ECOPRINT) - 146MM",
     "largMP": "146",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010313:001",
+    "pedido": "010313",
+    "item": "001",
+    "cliente": "000309-OLEAK",
+    "produto": "PA000000003732",
+    "descricao": "RÓTULO E CONTRA RÓTULO - KITCH CARE - DETERGENTE NEUTRO 1L -  80 X 93",
+    "qtd": "1500",
+    "un": "CONJ",
+    "entrega": "22/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "CORTE BROTECH / VOREY",
+    "sub": "VOREY",
+    "obs": "",
+    "ordem": 160,
+    "metros": "63.3333",
+    "velocidade": "780",
+    "setup": "10",
+    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
+    "largMP": "330",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010316:001",
+    "pedido": "010316",
+    "item": "001",
+    "cliente": "001562-ALQUIMIA",
+    "produto": "PA000000004620",
+    "descricao": "ETIQUETA BOPP FOSCO - 30 X 76",
+    "qtd": "4",
+    "un": "ROLO",
+    "entrega": "22/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "342.6316",
+    "velocidade": "5000",
+    "setup": "10",
+    "mp": "MP000000000892 - BOPP FOSCO M141 - 90MM",
+    "largMP": "90",
+    "finalizado": true,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010317:001",
+    "pedido": "010317",
+    "item": "001",
+    "cliente": "001562-ALQUIMIA",
+    "produto": "PA000000003196",
+    "descricao": "ETIQUETA BOPP FOSCO - 69 X 157",
+    "qtd": "20",
+    "un": "ROLO",
+    "entrega": "22/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "2115.2632",
+    "velocidade": "5000",
+    "setup": "10",
+    "mp": "MP000000000545 - BOPP FOSCO INKJET - 156MM",
+    "largMP": "156",
+    "finalizado": true,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010317:002",
+    "pedido": "010317",
+    "item": "002",
+    "cliente": "001562-ALQUIMIA",
+    "produto": "PA000000003197",
+    "descricao": "ETIQUETA BOPP FOSCO - 106 X 151",
+    "qtd": "15",
+    "un": "ROLO",
+    "entrega": "22/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "1566.2105",
+    "velocidade": "5000",
+    "setup": "10",
+    "mp": "MP000000000421 - BOPP FOSCO INKJET - 130MM",
+    "largMP": "130",
+    "finalizado": true,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010317:003",
+    "pedido": "010317",
+    "item": "003",
+    "cliente": "001562-ALQUIMIA",
+    "produto": "PA000000003195",
+    "descricao": "ETIQUETA BOPP FOSCO - 39 X 92,7",
+    "qtd": "10",
+    "un": "ROLO",
+    "entrega": "22/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "1057.6632",
+    "velocidade": "5000",
+    "setup": "10",
+    "mp": "MP000000000892 - BOPP FOSCO M141 - 90MM",
+    "largMP": "90",
+    "finalizado": true,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010320:002",
+    "pedido": "010320",
+    "item": "002",
+    "cliente": "000309-OLEAK",
+    "produto": "PA000000003957",
+    "descricao": "CONTRA RÓTULO OPTIGERM 750ML - 75 X 120",
+    "qtd": "8000",
+    "un": "UN",
+    "entrega": "22/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "CORTE BROTECH / VOREY",
+    "sub": "VOREY",
+    "obs": "",
+    "ordem": null,
+    "metros": "472.7778",
+    "velocidade": "3000",
+    "setup": "120",
+    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
+    "largMP": "285",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010331:006",
+    "pedido": "010331",
+    "item": "006",
+    "cliente": "000344-PROZYN INDUSTRIA E COMERC",
+    "produto": "PA000000004623",
+    "descricao": "ETIQ. BRANCA INKJET - 90 X 116",
+    "qtd": "5000",
+    "un": "UN",
+    "entrega": "22/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": 20,
+    "metros": "323.3224",
+    "velocidade": "2400",
+    "setup": "10",
+    "mp": "MP000000000465 - BOPP FOSCO INKJET - 200MM",
+    "largMP": "200",
+    "finalizado": true,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010331:007",
+    "pedido": "010331",
+    "item": "007",
+    "cliente": "000344-PROZYN INDUSTRIA E COMERC",
+    "produto": "PA000000004624",
+    "descricao": "ETIQUETA BRANCA INKJET - 130 X 250",
+    "qtd": "5000",
+    "un": "UN",
+    "entrega": "22/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "REVISORAS",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "1300.8163",
+    "velocidade": "2400",
+    "setup": "10",
+    "mp": "MP000000000797 - BOPP FOSCO INKJET - 176MM",
+    "largMP": "176",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010343:001",
@@ -2412,7 +1860,7 @@
     "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000044 - COUCHE BORRACHA 20G (ECOPRINT) - 222MM",
     "largMP": "222",
     "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010343:002",
@@ -2435,7 +1883,7 @@
     "mp": "PR000000000064 - RIBBON MISTO APR600 - 220 X 600 - CSI - NOVEXX/MP000000000413 - TRANSTERMICO ACRILICO ADC1000 - 260MM",
     "largMP": "260",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010350:001",
@@ -2458,7 +1906,7 @@
     "mp": "MP000000000226 - COUCHE BORRACHA 20G (ECOPRINT) - 168MM",
     "largMP": "165",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010350:002",
@@ -2481,7 +1929,7 @@
     "mp": "MP000000000226 - COUCHE BORRACHA 20G (ECOPRINT) - 168MM",
     "largMP": "165",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010350:003",
@@ -2504,7 +1952,53 @@
     "mp": "MP000000000226 - COUCHE BORRACHA 20G (ECOPRINT) - 168MM",
     "largMP": "165",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010356:001",
+    "pedido": "010356",
+    "item": "001",
+    "cliente": "000309-OLEAK",
+    "produto": "PA000000000997",
+    "descricao": "OPTICARE IHS - GEL HIDRATANTE - 130 X 65",
+    "qtd": "850",
+    "un": "UN",
+    "entrega": "22/06/2026",
+    "status": "INICIADA (fase 2 de 2)",
+    "grupo": "DIGITAL",
+    "sub": "",
+    "obs": "",
+    "ordem": 460,
+    "metros": "29.6862",
+    "velocidade": "85898",
+    "setup": "10",
+    "mp": "MP000000000706 - BOPP TRANSPARENTE ACRILICO ADC220 - 330MM",
+    "largMP": "330",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010452:001",
+    "pedido": "010452",
+    "item": "001",
+    "cliente": "001224-CONGREGACAO - FRENTE",
+    "produto": "PA000000002913",
+    "descricao": "ETIQUETA IDENTIFICAÇÃO BRANCA - 80 X 20 + RIBBON",
+    "qtd": "20000",
+    "un": "UN",
+    "entrega": "22/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "REVISORAS",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "252.1053",
+    "velocidade": "900",
+    "setup": "10",
+    "mp": "",
+    "largMP": "",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "009284:007",
@@ -2527,7 +2021,7 @@
     "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000043 - COUCHE BORRACHA 20G (ECOPRINT) - 214MM",
     "largMP": "214",
     "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "009285:007",
@@ -2550,7 +2044,7 @@
     "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000043 - COUCHE BORRACHA 20G (ECOPRINT) - 214MM",
     "largMP": "214",
     "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "009499:002",
@@ -2573,7 +2067,7 @@
     "mp": "PR000000000063 - RIBBON MISTO APR600 - 220 X 300 - CSO/MP000000000022 - BOPP BRANCO FOSCO BORRACHA C2075 - 222MM",
     "largMP": "222",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "009828:001",
@@ -2596,7 +2090,7 @@
     "mp": "MP000000000469 - ECOTRANSFER C2075 - 155MM",
     "largMP": "155",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "009960:001",
@@ -2619,7 +2113,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010270:001",
@@ -2642,7 +2136,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010305:001",
@@ -2665,7 +2159,7 @@
     "mp": "PR000000000064 - RIBBON MISTO APR600 - 220 X 600 - CSI - NOVEXX/MP000000000476 - ECOTRANSFER C2075 - 259MM",
     "largMP": "259",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010321:001",
@@ -2688,7 +2182,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010321:002",
@@ -2711,7 +2205,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010321:003",
@@ -2734,7 +2228,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010321:004",
@@ -2757,7 +2251,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010321:006",
@@ -2780,7 +2274,7 @@
     "mp": "MP000000000242 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 180MM",
     "largMP": "180",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010321:007",
@@ -2803,7 +2297,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010340:001",
@@ -2826,7 +2320,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010340:002",
@@ -2849,7 +2343,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010353:001",
@@ -2872,7 +2366,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010353:002",
@@ -2895,7 +2389,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010381:001",
@@ -2908,8 +2402,8 @@
     "un": "MI",
     "entrega": "23/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "FLEXO 250",
-    "sub": "FLEXO 2",
+    "grupo": "REVISORAS",
+    "sub": "",
     "obs": "",
     "ordem": null,
     "metros": "3778.25",
@@ -2918,7 +2412,7 @@
     "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000158 - TRANSTERMICO BORRACHA C2075 - 222MM",
     "largMP": "222",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010382:001",
@@ -2941,7 +2435,7 @@
     "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000369 - TT2 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010395:002",
@@ -2957,14 +2451,14 @@
     "grupo": "TROQUELADORAS",
     "sub": "",
     "obs": "Aguardando Faca",
-    "ordem": 90,
+    "ordem": 130,
     "metros": "2783.9453",
     "velocidade": "2400",
     "setup": "10",
     "mp": "MP000000000043 - COUCHE BORRACHA 20G (ECOPRINT) - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010395:003",
@@ -2987,7 +2481,7 @@
     "mp": "MP000000000043 - COUCHE BORRACHA 20G (ECOPRINT) - 214MM",
     "largMP": "214",
     "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010435:001",
@@ -2999,7 +2493,7 @@
     "qtd": "200",
     "un": "MI",
     "entrega": "23/06/2026",
-    "status": "PRONTA PARA INÍCIO",
+    "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "KROMIA",
     "obs": "",
@@ -3007,10 +2501,10 @@
     "metros": "17523.7037",
     "velocidade": "2400",
     "setup": "80",
-    "mp": "",
-    "largMP": "",
+    "mp": "MP000000000634 - SINTETICO BCD - 330MM",
+    "largMP": "330",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010441:001",
@@ -3033,7 +2527,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010441:002",
@@ -3056,7 +2550,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010009:003",
@@ -3079,7 +2573,7 @@
     "mp": "MP000000000042 - COUCHE BORRACHA 20G (ECOPRINT) - 200MM",
     "largMP": "200",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010228:001",
@@ -3102,7 +2596,7 @@
     "mp": "MP000000000244 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 222MM",
     "largMP": "222",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010228:002",
@@ -3125,7 +2619,145 @@
     "mp": "MP000000000244 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 222MM",
     "largMP": "222",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010231:001",
+    "pedido": "010231",
+    "item": "001",
+    "cliente": "001709-PERI",
+    "produto": "PA000000004568",
+    "descricao": "ETIQUETA POLIESTER PERI - 80 X 150",
+    "qtd": "20",
+    "un": "MI",
+    "entrega": "24/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "FLEXO 250",
+    "sub": "FLEXO 1",
+    "obs": "Aguardando Faca",
+    "ordem": null,
+    "metros": "1753.3333",
+    "velocidade": "2400",
+    "setup": "40",
+    "mp": "",
+    "largMP": "",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010231:002",
+    "pedido": "010231",
+    "item": "002",
+    "cliente": "001709-PERI",
+    "produto": "PA000000004569",
+    "descricao": "ETIQUETA POLIESTER 145 - 80 X 150",
+    "qtd": "10",
+    "un": "MI",
+    "entrega": "24/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "FLEXO 250",
+    "sub": "FLEXO 1",
+    "obs": "Aguardando Faca",
+    "ordem": null,
+    "metros": "906.6667",
+    "velocidade": "2400",
+    "setup": "40",
+    "mp": "",
+    "largMP": "",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010231:003",
+    "pedido": "010231",
+    "item": "003",
+    "cliente": "001709-PERI",
+    "produto": "PA000000004570",
+    "descricao": "ETIQUETA POLIESTER 215 - 80 X 150",
+    "qtd": "10",
+    "un": "MI",
+    "entrega": "24/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "FLEXO 250",
+    "sub": "FLEXO 1",
+    "obs": "Aguardando Faca",
+    "ordem": null,
+    "metros": "906.6667",
+    "velocidade": "2400",
+    "setup": "40",
+    "mp": "",
+    "largMP": "",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010231:004",
+    "pedido": "010231",
+    "item": "004",
+    "cliente": "001709-PERI",
+    "produto": "PA000000004571",
+    "descricao": "ETIQUETA POLIESTER 245 - 80 X 150",
+    "qtd": "10",
+    "un": "MI",
+    "entrega": "24/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "FLEXO 250",
+    "sub": "FLEXO 1",
+    "obs": "Aguardando Faca",
+    "ordem": null,
+    "metros": "906.6667",
+    "velocidade": "2400",
+    "setup": "40",
+    "mp": "",
+    "largMP": "",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010231:005",
+    "pedido": "010231",
+    "item": "005",
+    "cliente": "001709-PERI",
+    "produto": "PA000000004572",
+    "descricao": "ETIQUETA POLIESTER 265 - 80 X 150",
+    "qtd": "10",
+    "un": "MI",
+    "entrega": "24/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "FLEXO 250",
+    "sub": "FLEXO 1",
+    "obs": "Aguardando Faca",
+    "ordem": null,
+    "metros": "906.6667",
+    "velocidade": "2400",
+    "setup": "40",
+    "mp": "",
+    "largMP": "",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010231:006",
+    "pedido": "010231",
+    "item": "006",
+    "cliente": "001709-PERI",
+    "produto": "PA000000004573",
+    "descricao": "ETIQUETA POLIESTER 295 - 80 X 150",
+    "qtd": "10",
+    "un": "MI",
+    "entrega": "24/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "FLEXO 250",
+    "sub": "FLEXO 1",
+    "obs": "Aguardando Faca",
+    "ordem": null,
+    "metros": "906.6667",
+    "velocidade": "2400",
+    "setup": "40",
+    "mp": "",
+    "largMP": "",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010235:001",
@@ -3148,7 +2780,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010235:002",
@@ -3171,7 +2803,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010235:003",
@@ -3194,7 +2826,7 @@
     "mp": "MP000000000757 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 195MM",
     "largMP": "195",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010235:004",
@@ -3217,7 +2849,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010235:005",
@@ -3240,7 +2872,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010235:006",
@@ -3263,7 +2895,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010235:007",
@@ -3286,7 +2918,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010235:008",
@@ -3309,7 +2941,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010235:009",
@@ -3332,7 +2964,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010235:010",
@@ -3355,7 +2987,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010235:011",
@@ -3378,7 +3010,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010235:012",
@@ -3401,7 +3033,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010235:013",
@@ -3424,7 +3056,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010300:002",
@@ -3447,7 +3079,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010300:003",
@@ -3470,7 +3102,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010300:004",
@@ -3493,7 +3125,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010300:005",
@@ -3516,7 +3148,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010300:006",
@@ -3539,7 +3171,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010300:007",
@@ -3562,7 +3194,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010368:001",
@@ -3585,7 +3217,7 @@
     "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000158 - TRANSTERMICO BORRACHA C2075 - 222MM",
     "largMP": "222",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010369:001",
@@ -3608,7 +3240,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010369:002",
@@ -3631,7 +3263,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010372:001",
@@ -3643,7 +3275,7 @@
     "qtd": "11",
     "un": "ROLO",
     "entrega": "24/06/2026",
-    "status": "PRONTA PARA INÍCIO",
+    "status": "MATERIAL EMPENHADO",
     "grupo": "BATIDA",
     "sub": "",
     "obs": "",
@@ -3651,10 +3283,10 @@
     "metros": "1225.7895",
     "velocidade": "5000",
     "setup": "10",
-    "mp": "",
-    "largMP": "",
+    "mp": "MP000000000431 - COUCHE BORRACHA 20G (ECOPRINT) - 112MM",
+    "largMP": "112",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010373:001",
@@ -3667,8 +3299,8 @@
     "un": "ROLO",
     "entrega": "24/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "TROQUELADORAS",
-    "sub": "PULMÃO",
+    "grupo": "__FIN__",
+    "sub": "",
     "obs": "",
     "ordem": null,
     "metros": "1911.4815",
@@ -3676,8 +3308,8 @@
     "setup": "10",
     "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000043 - COUCHE BORRACHA 20G (ECOPRINT) - 214MM",
     "largMP": "214",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "finalizado": true,
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010374:001",
@@ -3690,8 +3322,8 @@
     "un": "ROLO",
     "entrega": "24/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "TROQUELADORAS",
-    "sub": "PULMÃO",
+    "grupo": "__FIN__",
+    "sub": "",
     "obs": "",
     "ordem": null,
     "metros": "1676.2963",
@@ -3699,8 +3331,8 @@
     "setup": "10",
     "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000043 - COUCHE BORRACHA 20G (ECOPRINT) - 214MM",
     "largMP": "214",
-    "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "finalizado": true,
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010375:001",
@@ -3716,14 +3348,14 @@
     "grupo": "TROQUELADORAS",
     "sub": "PULMÃO",
     "obs": "",
-    "ordem": null,
+    "ordem": 90,
     "metros": "2675.8333",
     "velocidade": "2400",
     "setup": "10",
     "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000043 - COUCHE BORRACHA 20G (ECOPRINT) - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010376:001",
@@ -3746,7 +3378,7 @@
     "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000043 - COUCHE BORRACHA 20G (ECOPRINT) - 214MM",
     "largMP": "214",
     "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010377:001",
@@ -3762,14 +3394,14 @@
     "grupo": "TROQUELADORAS",
     "sub": "PULMÃO",
     "obs": "",
-    "ordem": null,
+    "ordem": 100,
     "metros": "2029.0741",
     "velocidade": "2400",
     "setup": "10",
     "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000043 - COUCHE BORRACHA 20G (ECOPRINT) - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010388:001",
@@ -3785,14 +3417,14 @@
     "grupo": "TROQUELADORAS",
     "sub": "PULMÃO",
     "obs": "",
-    "ordem": 100,
+    "ordem": 110,
     "metros": "53483.6842",
     "velocidade": "2400",
     "setup": "10",
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010388:002",
@@ -3815,7 +3447,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010388:003",
@@ -3838,7 +3470,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010388:004",
@@ -3851,8 +3483,8 @@
     "un": "ROLO",
     "entrega": "24/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "BROTECH",
+    "grupo": "REVISORAS",
+    "sub": "",
     "obs": "",
     "ordem": null,
     "metros": "1805.9184",
@@ -3861,7 +3493,7 @@
     "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000042 - COUCHE BORRACHA 20G (ECOPRINT) - 200MM",
     "largMP": "200",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010388:005",
@@ -3877,14 +3509,14 @@
     "grupo": "TROQUELADORAS",
     "sub": "TROQUELADORA 1",
     "obs": "",
-    "ordem": 40,
+    "ordem": 30,
     "metros": "2416.3158",
     "velocidade": "2400",
     "setup": "10",
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010391:001",
@@ -3907,7 +3539,7 @@
     "mp": "MP000000000409 - TRANSTERMICO ACRILICO ADC1000 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010393:001",
@@ -3930,7 +3562,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010393:002",
@@ -3953,7 +3585,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010393:003",
@@ -3976,7 +3608,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010393:004",
@@ -3999,7 +3631,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010393:005",
@@ -4022,7 +3654,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010393:006",
@@ -4045,30 +3677,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
-  },
-  {
-    "id": "010398:001",
-    "pedido": "010398",
-    "item": "001",
-    "cliente": "000158-GDS GROW DIETARY SUPPLEME",
-    "produto": "PA000000000186",
-    "descricao": "ETIQ. 34 X 23 - 3 CARREIRAS",
-    "qtd": "243000",
-    "un": "UN",
-    "entrega": "24/06/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "ordem": 140,
-    "metros": "2243.3576",
-    "velocidade": "2400",
-    "setup": "10",
-    "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000461 - COUCHE BORRACHA 20G (ECOPRINT) - 146MM",
-    "largMP": "146",
-    "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010070:011",
@@ -4091,7 +3700,7 @@
     "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000043 - COUCHE BORRACHA 20G (ECOPRINT) - 214MM",
     "largMP": "214",
     "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010378:001",
@@ -4114,7 +3723,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010392:001",
@@ -4137,7 +3746,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010442:001",
@@ -4149,7 +3758,7 @@
     "qtd": "63000",
     "un": "UN",
     "entrega": "25/06/2026",
-    "status": "PRONTA PARA INÍCIO",
+    "status": "MATERIAL EMPENHADO",
     "grupo": "BATIDA",
     "sub": "",
     "obs": "",
@@ -4157,10 +3766,10 @@
     "metros": "248.7368",
     "velocidade": "5000",
     "setup": "15",
-    "mp": "",
-    "largMP": "",
+    "mp": "PR000000000059 - RIBBON MISTO APR6 - 110 X 450 - CSO/MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
+    "largMP": "214",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010442:002",
@@ -4183,7 +3792,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010443:001",
@@ -4206,7 +3815,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010448:002",
@@ -4229,7 +3838,30 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010458:001",
+    "pedido": "010458",
+    "item": "001",
+    "cliente": "000118-SYNGENTA",
+    "produto": "PA000000001839",
+    "descricao": "ETIQ. BRANCA LABORATÓRIO - 100 X 85 + RIBBON",
+    "qtd": "100",
+    "un": "MI",
+    "entrega": "25/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "TROQUELADORAS",
+    "sub": "TROQUELADORA 1",
+    "obs": "",
+    "ordem": 40,
+    "metros": "4633.2421",
+    "velocidade": "2400",
+    "setup": "10",
+    "mp": "",
+    "largMP": "",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010175:004",
@@ -4252,7 +3884,7 @@
     "mp": "MP000000000533 - COUCHE BORRACHA 20G (ECOPRINT) - 322MM",
     "largMP": "322",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010175:005",
@@ -4275,7 +3907,7 @@
     "mp": "MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010221:001",
@@ -4298,7 +3930,7 @@
     "mp": "MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010221:002",
@@ -4321,7 +3953,7 @@
     "mp": "MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": true,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010394:001",
@@ -4344,7 +3976,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010394:002",
@@ -4367,7 +3999,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010394:003",
@@ -4390,7 +4022,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010394:004",
@@ -4413,7 +4045,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010394:005",
@@ -4436,7 +4068,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010394:006",
@@ -4459,7 +4091,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010430:001",
@@ -4482,7 +4114,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010350:004",
@@ -4505,7 +4137,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010431:001",
@@ -4521,14 +4153,14 @@
     "grupo": "TROQUELADORAS",
     "sub": "TROQUELADORA 1",
     "obs": "",
-    "ordem": 30,
+    "ordem": 20,
     "metros": "1225.8316",
     "velocidade": "2400",
     "setup": "10",
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010432:001",
@@ -4551,7 +4183,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010433:001",
@@ -4574,7 +4206,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010434:001",
@@ -4597,7 +4229,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010434:002",
@@ -4620,7 +4252,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010437:001",
@@ -4643,7 +4275,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010437:002",
@@ -4666,7 +4298,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010437:003",
@@ -4689,7 +4321,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010437:004",
@@ -4712,7 +4344,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010437:005",
@@ -4735,7 +4367,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010437:006",
@@ -4758,7 +4390,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010437:007",
@@ -4781,7 +4413,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010437:008",
@@ -4804,7 +4436,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010437:009",
@@ -4827,7 +4459,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
   },
   {
     "id": "010439:001",
@@ -4850,6 +4482,512 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "18/06/2026, 07:27:01"
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010451:001",
+    "pedido": "010451",
+    "item": "001",
+    "cliente": "001493-FCI",
+    "produto": "PA000000004651",
+    "descricao": "ETIQUETA FCI - 100 X 130 + RIBBON",
+    "qtd": "20000",
+    "un": "UN",
+    "entrega": "26/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "FLEXO 250",
+    "sub": "FLEXO 1",
+    "obs": "",
+    "ordem": null,
+    "metros": "1541.6667",
+    "velocidade": "2400",
+    "setup": "60",
+    "mp": "",
+    "largMP": "",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010451:007",
+    "pedido": "010451",
+    "item": "007",
+    "cliente": "001493-FCI",
+    "produto": "PA000000003667",
+    "descricao": "RÓTULO RESINA EPOXI 2004 670G - 130 X 295",
+    "qtd": "15000",
+    "un": "UN",
+    "entrega": "26/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "FLEXO 250",
+    "sub": "FLEXO 1",
+    "obs": "",
+    "ordem": null,
+    "metros": "5170",
+    "velocidade": "2400",
+    "setup": "90",
+    "mp": "",
+    "largMP": "",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010124:001",
+    "pedido": "010124",
+    "item": "001",
+    "cliente": "000763-ITALAC - GOIAS",
+    "produto": "PA000000001472",
+    "descricao": "ETIQ. BRANCA ITALAC - 100 X 150",
+    "qtd": "20",
+    "un": "MI",
+    "entrega": "29/06/2026",
+    "status": "INICIADA (fase 2 de 2)",
+    "grupo": "REVISORAS",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "3048",
+    "velocidade": "",
+    "setup": "",
+    "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000158 - TRANSTERMICO BORRACHA C2075 - 222MM",
+    "largMP": "222",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010387:001",
+    "pedido": "010387",
+    "item": "001",
+    "cliente": "000609-VPJ COMERCIO DE PRODUTOS",
+    "produto": "PA000000004408",
+    "descricao": "ROTULO EXTERNO BLACK ANGUS CONGELADA SEM OSSO 60,4 X 80",
+    "qtd": "22",
+    "un": "MI",
+    "entrega": "29/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "FLEXO 350",
+    "sub": "ETIRAMA",
+    "obs": "",
+    "ordem": null,
+    "metros": "792.6296",
+    "velocidade": "3000",
+    "setup": "120",
+    "mp": "",
+    "largMP": "",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010387:002",
+    "pedido": "010387",
+    "item": "002",
+    "cliente": "000609-VPJ COMERCIO DE PRODUTOS",
+    "produto": "PA000000004352",
+    "descricao": "RÓTULO ANGUS BEEF CONGELADO S/ OSSO  - 60,4 X 80",
+    "qtd": "17",
+    "un": "MI",
+    "entrega": "29/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "FLEXO 350",
+    "sub": "ETIRAMA",
+    "obs": "",
+    "ordem": null,
+    "metros": "639.7593",
+    "velocidade": "3000",
+    "setup": "120",
+    "mp": "",
+    "largMP": "",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010387:003",
+    "pedido": "010387",
+    "item": "003",
+    "cliente": "000609-VPJ COMERCIO DE PRODUTOS",
+    "produto": "PA000000004636",
+    "descricao": "ROTULO EXTERNO BLACK ANGUS RESFRIADA COM OSSO 75,5  X 100",
+    "qtd": "1",
+    "un": "MI",
+    "entrega": "29/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "FLEXO 350",
+    "sub": "ETIRAMA",
+    "obs": "",
+    "ordem": null,
+    "metros": "176.4444",
+    "velocidade": "3000",
+    "setup": "120",
+    "mp": "",
+    "largMP": "",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010385:001",
+    "pedido": "010385",
+    "item": "001",
+    "cliente": "000143-BARRY CALLEBAUT - ITABUNA",
+    "produto": "PA000000001876",
+    "descricao": "ETIQ. BRANCA - 80 X 40 + RIBBON",
+    "qtd": "100",
+    "un": "MI",
+    "entrega": "30/06/2026",
+    "status": "",
+    "grupo": "TROQUELADORAS",
+    "sub": "",
+    "obs": "Aguardando Faca",
+    "ordem": 120,
+    "metros": "",
+    "velocidade": "",
+    "setup": "",
+    "mp": "",
+    "largMP": "",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010397:001",
+    "pedido": "010397",
+    "item": "001",
+    "cliente": "000206-KLABIN SÃO LEOPOLDO",
+    "produto": "PA000000000116",
+    "descricao": "107234 - ETIQ. VERDE - 110 X 170",
+    "qtd": "19",
+    "un": "ROLO",
+    "entrega": "30/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "FLEXO 250",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "1944.7155",
+    "velocidade": "2400",
+    "setup": "20",
+    "mp": "MP000000000368 - COUCHE CARTÃO TAG L2 115G - 128MM",
+    "largMP": "128",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010445:001",
+    "pedido": "010445",
+    "item": "001",
+    "cliente": "000029-KLABIN - OTACILIO",
+    "produto": "PA000000000162",
+    "descricao": "ETIQ. ADESIVA BRANCA/VERDE - FSC (COM REMALINA)",
+    "qtd": "20",
+    "un": "CX",
+    "entrega": "30/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "FLEXO 350",
+    "sub": "NACBRAS",
+    "obs": "",
+    "ordem": null,
+    "metros": "9745.5556",
+    "velocidade": "3000",
+    "setup": "150",
+    "mp": "",
+    "largMP": "",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010446:003",
+    "pedido": "010446",
+    "item": "003",
+    "cliente": "000223-KLABIN ORTIGUEIRA",
+    "produto": "PA000000000623",
+    "descricao": "ETIQ. ADESIVA BRANCA/VERDE - (SEM REMALINA)",
+    "qtd": "37",
+    "un": "CX",
+    "entrega": "30/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "FLEXO 350",
+    "sub": "NACBRAS",
+    "obs": "",
+    "ordem": null,
+    "metros": "9025.8889",
+    "velocidade": "3000",
+    "setup": "75",
+    "mp": "",
+    "largMP": "",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010447:002",
+    "pedido": "010447",
+    "item": "002",
+    "cliente": "000013-KLABIN - TELEMACO BORBA",
+    "produto": "PA000000000087",
+    "descricao": "COD.10504 - ETIQ ADESIVA MATRICIAL 95 X 35",
+    "qtd": "160",
+    "un": "MI",
+    "entrega": "30/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "TROQUELADORAS",
+    "sub": "TROQUELADORA 2",
+    "obs": "",
+    "ordem": 140,
+    "metros": "3218.4211",
+    "velocidade": "2400",
+    "setup": "10",
+    "mp": "",
+    "largMP": "",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010447:003",
+    "pedido": "010447",
+    "item": "003",
+    "cliente": "000013-KLABIN - TELEMACO BORBA",
+    "produto": "PA000000000623",
+    "descricao": "ETIQ. ADESIVA BRANCA/VERDE - (SEM REMALINA)",
+    "qtd": "60",
+    "un": "CX",
+    "entrega": "30/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "FLEXO 350",
+    "sub": "NACBRAS",
+    "obs": "",
+    "ordem": null,
+    "metros": "14543.3333",
+    "velocidade": "3000",
+    "setup": "75",
+    "mp": "",
+    "largMP": "",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010447:004",
+    "pedido": "010447",
+    "item": "004",
+    "cliente": "000013-KLABIN - TELEMACO BORBA",
+    "produto": "PA000000000162",
+    "descricao": "ETIQ. ADESIVA BRANCA/VERDE - FSC (COM REMALINA)",
+    "qtd": "100",
+    "un": "CX",
+    "entrega": "30/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "FLEXO 350",
+    "sub": "NACBRAS",
+    "obs": "",
+    "ordem": null,
+    "metros": "48127.7778",
+    "velocidade": "3000",
+    "setup": "150",
+    "mp": "",
+    "largMP": "",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010451:002",
+    "pedido": "010451",
+    "item": "002",
+    "cliente": "001493-FCI",
+    "produto": "PA000000003669",
+    "descricao": "RÓTULO ENDURECEDOR 3154 50G - 60 X 50",
+    "qtd": "15000",
+    "un": "UN",
+    "entrega": "30/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "DIGITAL",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "230.8333",
+    "velocidade": "2400",
+    "setup": "10",
+    "mp": "",
+    "largMP": "",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010451:003",
+    "pedido": "010451",
+    "item": "003",
+    "cliente": "001493-FCI",
+    "produto": "PA000000004323",
+    "descricao": "ETIQUETA REDELEASE - 20 X 8 X 2 CARREIRAS",
+    "qtd": "10000",
+    "un": "UN",
+    "entrega": "30/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "FLEXO 250",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "91.1111",
+    "velocidade": "2400",
+    "setup": "30",
+    "mp": "",
+    "largMP": "",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010451:004",
+    "pedido": "010451",
+    "item": "004",
+    "cliente": "001493-FCI",
+    "produto": "PA000000004652",
+    "descricao": "ETIQUETA REDELEASE - 100 X 130 + RIBBON",
+    "qtd": "15000",
+    "un": "UN",
+    "entrega": "30/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "FLEXO 250",
+    "sub": "FLEXO 1",
+    "obs": "",
+    "ordem": null,
+    "metros": "1171.25",
+    "velocidade": "2400",
+    "setup": "60",
+    "mp": "",
+    "largMP": "",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010451:005",
+    "pedido": "010451",
+    "item": "005",
+    "cliente": "001493-FCI",
+    "produto": "PA000000003934",
+    "descricao": "ETIQUETA CORROSIVO - 160 X 180",
+    "qtd": "10000",
+    "un": "UN",
+    "entrega": "30/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "FLEXO 250",
+    "sub": "FLEXO 1",
+    "obs": "",
+    "ordem": null,
+    "metros": "2106.1111",
+    "velocidade": "2400",
+    "setup": "60",
+    "mp": "",
+    "largMP": "",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010451:006",
+    "pedido": "010451",
+    "item": "006",
+    "cliente": "001493-FCI",
+    "produto": "PA000000004200",
+    "descricao": "ETIQUETA SUBSTANCIAS 9 - 160 X 180",
+    "qtd": "10000",
+    "un": "UN",
+    "entrega": "30/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "FLEXO 250",
+    "sub": "FLEXO 1",
+    "obs": "",
+    "ordem": null,
+    "metros": "2106.1111",
+    "velocidade": "2400",
+    "setup": "60",
+    "mp": "",
+    "largMP": "",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010453:002",
+    "pedido": "010453",
+    "item": "002",
+    "cliente": "000329-REGATTIERI TINTAS",
+    "produto": "PA000000001459",
+    "descricao": "ETIQ. REGATTIERI - 32 X 75",
+    "qtd": "2",
+    "un": "MI",
+    "entrega": "30/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "DIGITAL",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "29.2593",
+    "velocidade": "2400",
+    "setup": "10",
+    "mp": "",
+    "largMP": "",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010454:001",
+    "pedido": "010454",
+    "item": "001",
+    "cliente": "001696-MAIRA HADDAD",
+    "produto": "PA000000004395",
+    "descricao": "RÓTULO COALHADA SECA COM SAL - 200G - 57 X 275",
+    "qtd": "2000",
+    "un": "UN",
+    "entrega": "30/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "DIGITAL",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "133.5556",
+    "velocidade": "2400",
+    "setup": "10",
+    "mp": "",
+    "largMP": "",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010454:002",
+    "pedido": "010454",
+    "item": "002",
+    "cliente": "001696-MAIRA HADDAD",
+    "produto": "PA000000004394",
+    "descricao": "RÓTULO COALHADA SECA COM AZEITE ZAATAR - 200G - 57 X 275",
+    "qtd": "1000",
+    "un": "UN",
+    "entrega": "30/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "DIGITAL",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "71.7778",
+    "velocidade": "2400",
+    "setup": "10",
+    "mp": "",
+    "largMP": "",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
+  },
+  {
+    "id": "010454:003",
+    "pedido": "010454",
+    "item": "003",
+    "cliente": "001696-MAIRA HADDAD",
+    "produto": "PA000000004396",
+    "descricao": "RÓTULO COALHADA SECA - HOMUS - 200G - 57 X 275",
+    "qtd": "1000",
+    "un": "UN",
+    "entrega": "30/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "DIGITAL",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "71.7778",
+    "velocidade": "2400",
+    "setup": "10",
+    "mp": "",
+    "largMP": "",
+    "finalizado": false,
+    "atualizado": "19/06/2026, 07:00:42"
   }
 ]
