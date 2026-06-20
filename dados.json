@@ -608,8 +608,8 @@
     "un": "UN",
     "entrega": "19/06/2026",
     "status": "PRONTA PARA INÍCIO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "",
+    "grupo": "FLEXO 350",
+    "sub": "ETIRAMA",
     "obs": "",
     "ordem": null,
     "metros": "4706.1111",
@@ -618,7 +618,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "20/06/2026, 13:29:37"
+    "atualizado": "19/06/2026, 08:13:03"
   },
   {
     "id": "010342:002",
@@ -631,8 +631,8 @@
     "un": "UN",
     "entrega": "19/06/2026",
     "status": "PRONTA PARA INÍCIO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "",
+    "grupo": "FLEXO 350",
+    "sub": "ETIRAMA",
     "obs": "",
     "ordem": null,
     "metros": "4706.1111",
@@ -641,7 +641,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "20/06/2026, 13:29:48"
+    "atualizado": "19/06/2026, 08:13:03"
   },
   {
     "id": "010342:003",
@@ -2908,7 +2908,7 @@
     "un": "MI",
     "entrega": "25/06/2026",
     "status": "PRONTA PARA INÍCIO",
-    "grupo": "DIGITAL",
+    "grupo": "CORTE BROTECH / VOREY",
     "sub": "",
     "obs": "",
     "ordem": null,
@@ -2918,7 +2918,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "19/06/2026, 08:13:03"
+    "atualizado": "20/06/2026, 13:45:24"
   },
   {
     "id": "010442:001",
