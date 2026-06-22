@@ -81,7 +81,7 @@
     "status": "INICIADA (fase 2 de 2)",
     "grupo": "REVISORAS",
     "sub": "",
-    "obs": "Aguardando Cliche",
+    "obs": "",
     "ordem": null,
     "metros": "457.2",
     "velocidade": "",
@@ -89,7 +89,7 @@
     "mp": "MP000000000909 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 156MM",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "22/06/2026, 06:54:17"
+    "atualizado": "22/06/2026, 07:06:27"
   },
   {
     "id": "010230:001",
@@ -104,7 +104,7 @@
     "status": "INICIADA (fase 2 de 2)",
     "grupo": "REVISORAS",
     "sub": "",
-    "obs": "Aguardando Cliche",
+    "obs": "",
     "ordem": null,
     "metros": "1651",
     "velocidade": "",
@@ -112,7 +112,7 @@
     "mp": "MP000000000908 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 146MM",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "22/06/2026, 06:54:17"
+    "atualizado": "22/06/2026, 07:06:25"
   },
   {
     "id": "010230:002",
@@ -127,7 +127,7 @@
     "status": "INICIADA (fase 2 de 2)",
     "grupo": "REVISORAS",
     "sub": "",
-    "obs": "Aguardando Cliche",
+    "obs": "",
     "ordem": null,
     "metros": "1651",
     "velocidade": "",
@@ -135,7 +135,7 @@
     "mp": "MP000000000908 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 146MM",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "22/06/2026, 06:54:17"
+    "atualizado": "22/06/2026, 07:06:23"
   },
   {
     "id": "010263:001",
@@ -286,8 +286,8 @@
     "un": "UN",
     "entrega": "19/06/2026",
     "status": "PRONTA PARA INÍCIO",
-    "grupo": "FLEXO 350",
-    "sub": "ETIRAMA",
+    "grupo": "CORTE BROTECH / VOREY",
+    "sub": "",
     "obs": "",
     "ordem": null,
     "metros": "4706.1111",
@@ -296,7 +296,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "22/06/2026, 06:54:17"
+    "atualizado": "22/06/2026, 07:07:10"
   },
   {
     "id": "010342:002",
@@ -319,7 +319,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "22/06/2026, 07:06:01"
+    "atualizado": "22/06/2026, 07:07:08"
   },
   {
     "id": "010342:003",
