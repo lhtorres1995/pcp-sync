@@ -1897,7 +1897,7 @@
     "entrega": "24/06/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
-    "sub": "",
+    "sub": "BROTECH",
     "obs": "",
     "ordem": 450,
     "metros": "102.2222",
@@ -1906,7 +1906,7 @@
     "mp": "MP000000000010 - BOPP BRANCO BRILHO ACRILICO ADC210 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "22/06/2026, 06:54:17"
+    "atualizado": "22/06/2026, 07:13:03"
   },
   {
     "id": "010368:001",
