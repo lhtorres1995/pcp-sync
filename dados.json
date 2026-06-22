@@ -2310,7 +2310,7 @@
     "un": "PEÇA",
     "entrega": "26/06/2026",
     "status": "INICIADA (fase 2 de 2)",
-    "grupo": "FLEXO 350",
+    "grupo": "__FIN__",
     "sub": "ETIRAMA",
     "obs": "",
     "ordem": null,
@@ -2319,8 +2319,8 @@
     "setup": "",
     "mp": "MP000000000244 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 222MM",
     "largMP": "222",
-    "finalizado": false,
-    "atualizado": "22/06/2026, 06:54:17"
+    "finalizado": true,
+    "atualizado": "22/06/2026, 07:18:57"
   },
   {
     "id": "010228:002",
