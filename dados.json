@@ -539,7 +539,7 @@
     "un": "UN",
     "entrega": "22/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
     "ordem": null,
@@ -548,8 +548,8 @@
     "setup": "120",
     "mp": "PR000000000064 - RIBBON MISTO APR600 - 220 X 600 - CSI - NOVEXX/MP000000000413 - TRANSTERMICO ACRILICO ADC1000 - 260MM",
     "largMP": "260",
-    "finalizado": false,
-    "atualizado": "22/06/2026, 06:54:17"
+    "finalizado": true,
+    "atualizado": "22/06/2026, 07:16:27"
   },
   {
     "id": "010350:001",
