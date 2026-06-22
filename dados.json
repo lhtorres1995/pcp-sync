@@ -355,8 +355,8 @@
     "un": "UN",
     "entrega": "19/06/2026",
     "status": "PRONTA PARA INÍCIO",
-    "grupo": "FLEXO 350",
-    "sub": "ETIRAMA",
+    "grupo": "CORTE BROTECH / VOREY",
+    "sub": "",
     "obs": "",
     "ordem": null,
     "metros": "2871.6667",
@@ -365,7 +365,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "22/06/2026, 06:54:17"
+    "atualizado": "22/06/2026, 07:05:37"
   },
   {
     "id": "010345:002",
