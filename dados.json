@@ -424,7 +424,7 @@
     "un": "MI",
     "entrega": "22/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
     "ordem": null,
@@ -433,8 +433,8 @@
     "setup": "120",
     "mp": "PR000000000064 - RIBBON MISTO APR600 - 220 X 600 - CSI - NOVEXX/MP000000000476 - ECOTRANSFER C2075 - 259MM",
     "largMP": "259",
-    "finalizado": false,
-    "atualizado": "22/06/2026, 06:54:17"
+    "finalizado": true,
+    "atualizado": "22/06/2026, 07:17:09"
   },
   {
     "id": "010306:001",
@@ -470,7 +470,7 @@
     "un": "UN",
     "entrega": "22/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
     "ordem": null,
@@ -479,8 +479,8 @@
     "setup": "10",
     "mp": "MP000000000461 - COUCHE BORRACHA 20G (ECOPRINT) - 146MM",
     "largMP": "146",
-    "finalizado": false,
-    "atualizado": "22/06/2026, 06:54:17"
+    "finalizado": true,
+    "atualizado": "22/06/2026, 07:17:06"
   },
   {
     "id": "010330:001",
@@ -562,7 +562,7 @@
     "un": "UN",
     "entrega": "22/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
     "ordem": null,
@@ -571,8 +571,8 @@
     "setup": "10",
     "mp": "MP000000000226 - COUCHE BORRACHA 20G (ECOPRINT) - 168MM",
     "largMP": "165",
-    "finalizado": false,
-    "atualizado": "22/06/2026, 06:54:17"
+    "finalizado": true,
+    "atualizado": "22/06/2026, 07:16:29"
   },
   {
     "id": "010350:002",
@@ -585,7 +585,7 @@
     "un": "UN",
     "entrega": "22/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
     "ordem": null,
@@ -594,8 +594,8 @@
     "setup": "10",
     "mp": "MP000000000226 - COUCHE BORRACHA 20G (ECOPRINT) - 168MM",
     "largMP": "165",
-    "finalizado": false,
-    "atualizado": "22/06/2026, 06:54:17"
+    "finalizado": true,
+    "atualizado": "22/06/2026, 07:16:31"
   },
   {
     "id": "010350:003",
@@ -608,7 +608,7 @@
     "un": "UN",
     "entrega": "22/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
     "ordem": null,
@@ -617,8 +617,8 @@
     "setup": "10",
     "mp": "MP000000000226 - COUCHE BORRACHA 20G (ECOPRINT) - 168MM",
     "largMP": "165",
-    "finalizado": false,
-    "atualizado": "22/06/2026, 06:54:17"
+    "finalizado": true,
+    "atualizado": "22/06/2026, 07:16:33"
   },
   {
     "id": "010381:001",
@@ -631,7 +631,7 @@
     "un": "MI",
     "entrega": "22/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
     "ordem": null,
@@ -640,8 +640,8 @@
     "setup": "20",
     "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000158 - TRANSTERMICO BORRACHA C2075 - 222MM",
     "largMP": "222",
-    "finalizado": false,
-    "atualizado": "22/06/2026, 06:54:17"
+    "finalizado": true,
+    "atualizado": "22/06/2026, 07:16:36"
   },
   {
     "id": "010382:001",
@@ -677,7 +677,7 @@
     "un": "UN",
     "entrega": "22/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
     "ordem": null,
@@ -686,8 +686,8 @@
     "setup": "20",
     "mp": "MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
-    "finalizado": false,
-    "atualizado": "22/06/2026, 07:12:34"
+    "finalizado": true,
+    "atualizado": "22/06/2026, 07:16:39"
   },
   {
     "id": "009960:001",
@@ -953,7 +953,7 @@
     "un": "UN",
     "entrega": "23/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
     "ordem": null,
@@ -962,8 +962,8 @@
     "setup": "10",
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
-    "finalizado": false,
-    "atualizado": "22/06/2026, 06:54:17"
+    "finalizado": true,
+    "atualizado": "22/06/2026, 07:16:42"
   },
   {
     "id": "010232:001",
@@ -1068,7 +1068,7 @@
     "un": "CONJ",
     "entrega": "23/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
     "ordem": 470,
@@ -1077,8 +1077,8 @@
     "setup": "10",
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
-    "finalizado": false,
-    "atualizado": "22/06/2026, 07:04:39"
+    "finalizado": true,
+    "atualizado": "22/06/2026, 07:17:17"
   },
   {
     "id": "010289:003",
@@ -1183,7 +1183,7 @@
     "un": "UN",
     "entrega": "23/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
     "ordem": 270,
@@ -1192,8 +1192,8 @@
     "setup": "10",
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
-    "finalizado": false,
-    "atualizado": "22/06/2026, 06:54:17"
+    "finalizado": true,
+    "atualizado": "22/06/2026, 07:17:36"
   },
   {
     "id": "010313:001",
@@ -1229,7 +1229,7 @@
     "un": "UN",
     "entrega": "23/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
+    "grupo": "__FIN__",
     "sub": "",
     "obs": "",
     "ordem": null,
@@ -1238,8 +1238,8 @@
     "setup": "120",
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
-    "finalizado": false,
-    "atualizado": "22/06/2026, 07:04:41"
+    "finalizado": true,
+    "atualizado": "22/06/2026, 07:16:46"
   },
   {
     "id": "010353:001",
@@ -4334,7 +4334,7 @@
     "un": "UN",
     "entrega": "01/07/2026",
     "status": "INICIADA (fase 3 de 3)",
-    "grupo": "REVISORAS",
+    "grupo": "BATIDA",
     "sub": "",
     "obs": "",
     "ordem": null,
@@ -4344,7 +4344,7 @@
     "mp": "MP000000000665 - SINTETICO BCD - 220MM",
     "largMP": "220",
     "finalizado": false,
-    "atualizado": "22/06/2026, 06:54:17"
+    "atualizado": "22/06/2026, 07:16:57"
   },
   {
     "id": "009843:002",
@@ -4357,7 +4357,7 @@
     "un": "UN",
     "entrega": "01/07/2026",
     "status": "INICIADA (fase 3 de 3)",
-    "grupo": "REVISORAS",
+    "grupo": "BATIDA",
     "sub": "",
     "obs": "",
     "ordem": null,
@@ -4367,7 +4367,7 @@
     "mp": "MP000000000665 - SINTETICO BCD - 220MM",
     "largMP": "220",
     "finalizado": false,
-    "atualizado": "22/06/2026, 06:54:17"
+    "atualizado": "22/06/2026, 07:17:01"
   },
   {
     "id": "010288:002",
