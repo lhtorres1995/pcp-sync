@@ -217,8 +217,8 @@
     "un": "UN",
     "entrega": "19/06/2026",
     "status": "PRONTA PARA INÍCIO",
-    "grupo": "FLEXO 350",
-    "sub": "ETIRAMA",
+    "grupo": "REVISORAS",
+    "sub": "",
     "obs": "",
     "ordem": null,
     "metros": "1037.2222",
@@ -227,7 +227,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "22/06/2026, 06:54:17"
+    "atualizado": "22/06/2026, 14:31:38"
   },
   {
     "id": "010308:001",
@@ -4046,29 +4046,6 @@
     "largMP": "220",
     "finalizado": false,
     "atualizado": "22/06/2026, 07:17:01"
-  },
-  {
-    "id": "010288:002",
-    "pedido": "010288",
-    "item": "002",
-    "cliente": "000309-OLEAK",
-    "produto": "PA000000000670",
-    "descricao": "ROTULO E CONTRA ROTULO - GARRA OXIATIVO - 121 X 76",
-    "qtd": "1000",
-    "un": "CONJ",
-    "entrega": "01/07/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "__FIN__",
-    "sub": "",
-    "obs": "",
-    "ordem": null,
-    "metros": "53.8889",
-    "velocidade": "780",
-    "setup": "10",
-    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
-    "largMP": "330",
-    "finalizado": true,
-    "atualizado": "22/06/2026, 07:21:21"
   },
   {
     "id": "010424:001",
