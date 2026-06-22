@@ -2080,8 +2080,8 @@
     "un": "MI",
     "entrega": "25/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "FLEXO 350",
-    "sub": "KROMIA",
+    "grupo": "REVISORAS",
+    "sub": "",
     "obs": "",
     "ordem": null,
     "metros": "17523.7037",
@@ -2090,7 +2090,7 @@
     "mp": "MP000000000634 - SINTETICO BCD - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "22/06/2026, 06:54:17"
+    "atualizado": "22/06/2026, 07:18:44"
   },
   {
     "id": "010442:001",
