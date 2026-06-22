@@ -493,8 +493,8 @@
     "un": "MI",
     "entrega": "22/06/2026",
     "status": "INICIADA (fase 2 de 2)",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "BROTECH",
+    "grupo": "REVISORAS",
+    "sub": "",
     "obs": "",
     "ordem": null,
     "metros": "600",
@@ -503,7 +503,7 @@
     "mp": "MP000000000398 - BOPP TRANSPARENTE ACRILICO ADC220 - 180MM",
     "largMP": "180",
     "finalizado": false,
-    "atualizado": "22/06/2026, 06:54:17"
+    "atualizado": "22/06/2026, 07:12:25"
   },
   {
     "id": "010331:007",
