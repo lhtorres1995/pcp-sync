@@ -815,7 +815,7 @@
     "un": "CX",
     "entrega": "23/06/2026",
     "status": "PRONTA PARA INÍCIO",
-    "grupo": "FLEXO 350",
+    "grupo": "__FIN__",
     "sub": "NACBRAS",
     "obs": "",
     "ordem": null,
@@ -824,8 +824,8 @@
     "setup": "150",
     "mp": "",
     "largMP": "",
-    "finalizado": false,
-    "atualizado": "22/06/2026, 06:54:17"
+    "finalizado": true,
+    "atualizado": "22/06/2026, 07:18:40"
   },
   {
     "id": "010270:001",
