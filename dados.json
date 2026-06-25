@@ -424,7 +424,7 @@
     "un": "MI",
     "entrega": "25/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
+    "grupo": "__FIN__",
     "sub": "KROMIA",
     "obs": "",
     "ordem": null,
@@ -433,8 +433,8 @@
     "setup": "80",
     "mp": "MP000000000634 - SINTETICO BCD - 330MM",
     "largMP": "330",
-    "finalizado": false,
-    "atualizado": "25/06/2026, 07:11:09"
+    "finalizado": true,
+    "atualizado": "25/06/2026, 18:54:49"
   },
   {
     "id": "010442:001",
