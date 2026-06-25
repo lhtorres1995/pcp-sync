@@ -401,8 +401,8 @@
     "un": "MI",
     "entrega": "26/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "VOREY",
+    "grupo": "REVISORAS",
+    "sub": "",
     "obs": "",
     "ordem": 430,
     "metros": "79.6296",
@@ -411,7 +411,7 @@
     "mp": "MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "25/06/2026, 07:11:09"
+    "atualizado": "25/06/2026, 18:55:55"
   },
   {
     "id": "010217:005",
