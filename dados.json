@@ -1459,8 +1459,8 @@
     "un": "MI",
     "entrega": "29/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "FLEXO 350",
-    "sub": "ETIRAMA",
+    "grupo": "REVISORAS",
+    "sub": "",
     "obs": "",
     "ordem": null,
     "metros": "856.1108",
@@ -1469,7 +1469,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "25/06/2026, 07:11:23"
+    "atualizado": "25/06/2026, 18:33:18"
   },
   {
     "id": "010235:005",
