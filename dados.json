@@ -1645,7 +1645,7 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
-    "obs": "Aguardando Faca",
+    "obs": "",
     "ordem": null,
     "metros": "715",
     "velocidade": "2400",
@@ -1653,7 +1653,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "25/06/2026, 07:11:09"
+    "atualizado": "25/06/2026, 07:11:32"
   },
   {
     "id": "010235:013",
