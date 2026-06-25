@@ -1323,7 +1323,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 250",
     "sub": "",
-    "obs": "Aguardando Aprovação",
+    "obs": "Aguardando Aprovacao",
     "ordem": null,
     "metros": "5170",
     "velocidade": "2400",
@@ -1331,7 +1331,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "25/06/2026, 07:11:09"
+    "atualizado": "25/06/2026, 13:08:14"
   },
   {
     "id": "010484:001",
