@@ -631,8 +631,8 @@
     "un": "PEÇA",
     "entrega": "26/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "BATIDA",
-    "sub": "CHINESA",
+    "grupo": "REVISORAS",
+    "sub": "",
     "obs": "",
     "ordem": null,
     "metros": "510.7222",
@@ -641,7 +641,7 @@
     "mp": "MP000000000042 - COUCHE BORRACHA 20G (ECOPRINT) - 200MM",
     "largMP": "200",
     "finalizado": false,
-    "atualizado": "25/06/2026, 07:11:09"
+    "atualizado": "25/06/2026, 18:55:09"
   },
   {
     "id": "010300:006",
@@ -654,8 +654,8 @@
     "un": "PEÇA",
     "entrega": "26/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "BATIDA",
-    "sub": "CHINESA",
+    "grupo": "REVISORAS",
+    "sub": "",
     "obs": "",
     "ordem": null,
     "metros": "775.3",
@@ -664,7 +664,7 @@
     "mp": "MP000000000042 - COUCHE BORRACHA 20G (ECOPRINT) - 200MM",
     "largMP": "200",
     "finalizado": false,
-    "atualizado": "25/06/2026, 07:11:09"
+    "atualizado": "25/06/2026, 18:55:11"
   },
   {
     "id": "010300:007",
