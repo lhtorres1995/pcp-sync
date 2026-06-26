@@ -1323,7 +1323,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "REVISORAS",
     "sub": "ETIRAMA",
-    "obs": "Aguardando Faca",
+    "obs": "",
     "ordem": null,
     "metros": "1011.3333",
     "velocidade": "2400",
@@ -1331,7 +1331,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:14:49"
   },
   {
     "id": "010235:005",
@@ -1346,7 +1346,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "REVISORAS",
     "sub": "ETIRAMA",
-    "obs": "Aguardando Faca",
+    "obs": "",
     "ordem": null,
     "metros": "1011.3333",
     "velocidade": "2400",
@@ -1354,7 +1354,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:14:50"
   },
   {
     "id": "010235:006",
@@ -1369,7 +1369,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "REVISORAS",
     "sub": "ETIRAMA",
-    "obs": "Aguardando Faca",
+    "obs": "",
     "ordem": null,
     "metros": "3805.3333",
     "velocidade": "2400",
@@ -1377,7 +1377,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:14:51"
   },
   {
     "id": "010235:007",
@@ -1392,7 +1392,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "REVISORAS",
     "sub": "ETIRAMA",
-    "obs": "Aguardando Faca",
+    "obs": "",
     "ordem": null,
     "metros": "2874",
     "velocidade": "2400",
@@ -1400,7 +1400,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:14:53"
   },
   {
     "id": "010235:008",
@@ -1530,7 +1530,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "REVISORAS",
     "sub": "",
-    "obs": "Aguardando Faca",
+    "obs": "",
     "ordem": null,
     "metros": "2408.3333",
     "velocidade": "2400",
@@ -1538,7 +1538,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:14:53"
   },
   {
     "id": "010387:001",
