@@ -1438,7 +1438,7 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
-    "obs": "Aguardando Faca",
+    "obs": "",
     "ordem": null,
     "metros": "1350",
     "velocidade": "2400",
@@ -1446,7 +1446,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:13:53"
   },
   {
     "id": "010235:010",
@@ -1461,7 +1461,7 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
-    "obs": "Aguardando Faca",
+    "obs": "",
     "ordem": null,
     "metros": "1350",
     "velocidade": "2400",
@@ -1469,7 +1469,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:13:54"
   },
   {
     "id": "010235:011",
@@ -1484,7 +1484,7 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
-    "obs": "Aguardando Faca",
+    "obs": "",
     "ordem": null,
     "metros": "926.6667",
     "velocidade": "2400",
@@ -1492,7 +1492,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:13:55"
   },
   {
     "id": "010235:012",
@@ -1507,7 +1507,7 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
-    "obs": "Aguardando Faca",
+    "obs": "",
     "ordem": null,
     "metros": "715",
     "velocidade": "2400",
@@ -1515,7 +1515,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:13:56"
   },
   {
     "id": "010235:013",
