@@ -219,7 +219,7 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "NACBRAS",
-    "obs": "",
+    "obs": "Aguardando MP",
     "ordem": null,
     "metros": "3028.6667",
     "velocidade": "3000",
@@ -227,7 +227,7 @@
     "mp": "MP000000000409 - TRANSTERMICO ACRILICO ADC1000 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:14:09"
   },
   {
     "id": "010306:001",
