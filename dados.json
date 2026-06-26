@@ -20,7 +20,7 @@
     "mp": "MP000000000300 - FITA DE MATERIAL PLASTICO SY - BCD 150 - 100MM",
     "largMP": "200",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "009721:001",
@@ -35,7 +35,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "CORTE BROTECH / VOREY",
     "sub": "VOREY",
-    "obs": "Aguardando AprovaÃ§Ã£o",
+    "obs": "Aguardando AprovaÃÂ§ÃÂ£o",
     "ordem": null,
     "metros": "141.7407",
     "velocidade": "",
@@ -43,7 +43,30 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
+  },
+  {
+    "id": "010302:001",
+    "pedido": "010302",
+    "item": "001",
+    "cliente": "000514-PROSEGUR - PORTO ALEGRE",
+    "produto": "PA000000000567",
+    "descricao": "40025 - ETIQUETA ADESIVA 90 X 30",
+    "qtd": "50",
+    "un": "ROLO",
+    "entrega": "05/06/2026",
+    "status": "",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "",
+    "velocidade": "",
+    "setup": "",
+    "mp": "",
+    "largMP": "",
+    "finalizado": true,
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010367:001",
@@ -66,7 +89,53 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:14:04"
+    "atualizado": "26/06/2026, 07:17:36"
+  },
+  {
+    "id": "010401:002",
+    "pedido": "010401",
+    "item": "002",
+    "cliente": "000495-PROSEGUR - JOÃO PESSOA",
+    "produto": "PA000000000567",
+    "descricao": "40025 - ETIQUETA ADESIVA 90 X 30",
+    "qtd": "30",
+    "un": "ROLO",
+    "entrega": "19/06/2026",
+    "status": "",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "",
+    "velocidade": "",
+    "setup": "",
+    "mp": "",
+    "largMP": "",
+    "finalizado": true,
+    "atualizado": "26/06/2026, 07:17:36"
+  },
+  {
+    "id": "010429:002",
+    "pedido": "010429",
+    "item": "002",
+    "cliente": "000805-PROSEGUR - SANTO ANGELO",
+    "produto": "PA000000000567",
+    "descricao": "40025 - ETIQUETA ADESIVA 90 X 30",
+    "qtd": "30",
+    "un": "ROLO",
+    "entrega": "19/06/2026",
+    "status": "",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "",
+    "velocidade": "",
+    "setup": "",
+    "mp": "",
+    "largMP": "",
+    "finalizado": true,
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010181:001",
@@ -89,7 +158,7 @@
     "mp": "MP000000000044 - COUCHE BORRACHA 20G (ECOPRINT) - 222MM",
     "largMP": "222",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010266:001",
@@ -112,7 +181,30 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
+  },
+  {
+    "id": "010275:001",
+    "pedido": "010275",
+    "item": "001",
+    "cliente": "000206-KLABIN SÃO LEOPOLDO",
+    "produto": "PA000000000116",
+    "descricao": "107234 - ETIQ. VERDE - 110 X 170",
+    "qtd": "10",
+    "un": "ROLO",
+    "entrega": "23/06/2026",
+    "status": "INICIADA (fase 2 de 2)",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "906.9705",
+    "velocidade": "33",
+    "setup": "10",
+    "mp": "MP000000000368 - COUCHE CARTÃO TAG L2 115G - 128MM",
+    "largMP": "128",
+    "finalizado": true,
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010353:001",
@@ -135,7 +227,7 @@
     "mp": "MP000000000044 - COUCHE BORRACHA 20G (ECOPRINT) - 222MM",
     "largMP": "222",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010353:002",
@@ -158,7 +250,53 @@
     "mp": "MP000000000873 - COUCHE ACRILICO S0518 - 212MM",
     "largMP": "212",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
+  },
+  {
+    "id": "010441:001",
+    "pedido": "010441",
+    "item": "001",
+    "cliente": "001804-CONGREGAÇÃO - BELO HORIZ.",
+    "produto": "PA000000002842",
+    "descricao": "ETIQ. VERDE - 80 X 20 + RIBBON",
+    "qtd": "15000",
+    "un": "UN",
+    "entrega": "23/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "221.6667",
+    "velocidade": "2400",
+    "setup": "30",
+    "mp": "PR000000000051 - RIBBON CERA AWR1 - 110 X 74  CSO/MP000000000226 - COUCHE BORRACHA 20G (ECOPRINT) - 168MM",
+    "largMP": "165",
+    "finalizado": true,
+    "atualizado": "26/06/2026, 07:17:36"
+  },
+  {
+    "id": "010441:002",
+    "pedido": "010441",
+    "item": "002",
+    "cliente": "001804-CONGREGAÇÃO - BELO HORIZ.",
+    "produto": "PA000000002913",
+    "descricao": "ETIQUETA IDENTIFICAÇÃO BRANCA - 80 X 20 + RIBBON",
+    "qtd": "5000",
+    "un": "UN",
+    "entrega": "23/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "70.5263",
+    "velocidade": "900",
+    "setup": "10",
+    "mp": "PR000000000051 - RIBBON CERA AWR1 - 110 X 74  CSO/MP000000000226 - COUCHE BORRACHA 20G (ECOPRINT) - 168MM",
+    "largMP": "165",
+    "finalizado": true,
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010452:001",
@@ -181,7 +319,7 @@
     "mp": "PR000000000051 - RIBBON CERA AWR1 - 110 X 74  CSO/MP000000000226 - COUCHE BORRACHA 20G (ECOPRINT) - 168MM",
     "largMP": "165",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010234:001",
@@ -204,7 +342,7 @@
     "mp": "MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010391:001",
@@ -227,7 +365,7 @@
     "mp": "MP000000000409 - TRANSTERMICO ACRILICO ADC1000 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:14:09"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010306:001",
@@ -250,7 +388,7 @@
     "mp": "MP000000000039 - COUCHE ACRILICO S0518 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010357:001",
@@ -273,7 +411,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010392:001",
@@ -296,7 +434,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010435:001",
@@ -319,7 +457,7 @@
     "mp": "MP000000000634 - SINTETICO BCD - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010442:001",
@@ -342,7 +480,7 @@
     "mp": "PR000000000059 - RIBBON MISTO APR6 - 110 X 450 - CSO/MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010442:002",
@@ -365,7 +503,30 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
+  },
+  {
+    "id": "010175:004",
+    "pedido": "010175",
+    "item": "004",
+    "cliente": "001487-MARCO BONI",
+    "produto": "PA000000003877",
+    "descricao": "ETIQUETA ADESIVO KIT 2 PENTES REF 615BT / 616BT - 30 X 30",
+    "qtd": "2",
+    "un": "MI",
+    "entrega": "26/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": 420,
+    "metros": "18.1481",
+    "velocidade": "2400",
+    "setup": "10",
+    "mp": "MP000000000533 - COUCHE BORRACHA 20G (ECOPRINT) - 322MM",
+    "largMP": "322",
+    "finalizado": true,
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010175:005",
@@ -388,7 +549,7 @@
     "mp": "MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010217:005",
@@ -411,7 +572,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010217:011",
@@ -434,7 +595,30 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
+  },
+  {
+    "id": "010217:047",
+    "pedido": "010217",
+    "item": "047",
+    "cliente": "000309-OLEAK",
+    "produto": "PA000000002940",
+    "descricao": "OPTIGERM - DESINFETANTE HOSPITALAR 2L - 75 X 490",
+    "qtd": "1000",
+    "un": "UN",
+    "entrega": "26/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": 290,
+    "metros": "192.5926",
+    "velocidade": "780",
+    "setup": "10",
+    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000029 - BOPP TRANSPARENTE ACRÍLICO ADC210 - 330MM",
+    "largMP": "330",
+    "finalizado": true,
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010221:001",
@@ -457,7 +641,7 @@
     "mp": "MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010228:002",
@@ -480,7 +664,7 @@
     "mp": "MP000000000244 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 222MM",
     "largMP": "222",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010279:001",
@@ -503,7 +687,7 @@
     "mp": "PR000000000061 - RIBBON MISTO APR6 - 170 X 450 - CSO/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010289:003",
@@ -526,7 +710,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010300:002",
@@ -549,7 +733,7 @@
     "mp": "MP000000000226 - COUCHE BORRACHA 20G (ECOPRINT) - 168MM",
     "largMP": "165",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010300:003",
@@ -572,7 +756,7 @@
     "mp": "MP000000000226 - COUCHE BORRACHA 20G (ECOPRINT) - 168MM",
     "largMP": "165",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010300:004",
@@ -595,7 +779,7 @@
     "mp": "MP000000000042 - COUCHE BORRACHA 20G (ECOPRINT) - 200MM",
     "largMP": "200",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010300:005",
@@ -618,7 +802,7 @@
     "mp": "MP000000000042 - COUCHE BORRACHA 20G (ECOPRINT) - 200MM",
     "largMP": "200",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010300:006",
@@ -641,7 +825,7 @@
     "mp": "MP000000000042 - COUCHE BORRACHA 20G (ECOPRINT) - 200MM",
     "largMP": "200",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010300:007",
@@ -664,7 +848,30 @@
     "mp": "MP000000000042 - COUCHE BORRACHA 20G (ECOPRINT) - 200MM",
     "largMP": "200",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
+  },
+  {
+    "id": "010313:001",
+    "pedido": "010313",
+    "item": "001",
+    "cliente": "000309-OLEAK",
+    "produto": "PA000000003732",
+    "descricao": "RÓTULO E CONTRA RÓTULO - KITCH CARE - DETERGENTE NEUTRO 1L -  80 X 93",
+    "qtd": "1500",
+    "un": "CONJ",
+    "entrega": "26/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": 160,
+    "metros": "63.3333",
+    "velocidade": "780",
+    "setup": "10",
+    "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
+    "largMP": "330",
+    "finalizado": true,
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010321:001",
@@ -687,7 +894,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010321:002",
@@ -710,7 +917,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010321:003",
@@ -733,7 +940,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010321:004",
@@ -756,7 +963,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010321:006",
@@ -779,7 +986,7 @@
     "mp": "MP000000000242 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 180MM",
     "largMP": "180",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010321:007",
@@ -802,7 +1009,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010395:002",
@@ -825,7 +1032,7 @@
     "mp": "MP000000000043 - COUCHE BORRACHA 20G (ECOPRINT) - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010350:004",
@@ -848,7 +1055,7 @@
     "mp": "MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010432:001",
@@ -871,7 +1078,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "320",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010433:001",
@@ -894,7 +1101,7 @@
     "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000039 - COUCHE ACRILICO S0518 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010434:001",
@@ -917,7 +1124,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010434:002",
@@ -940,7 +1147,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010437:001",
@@ -963,7 +1170,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010437:002",
@@ -986,7 +1193,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010437:003",
@@ -1009,7 +1216,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000706 - BOPP TRANSPARENTE ACRILICO ADC220 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010437:004",
@@ -1032,7 +1239,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010437:005",
@@ -1055,7 +1262,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010437:006",
@@ -1078,7 +1285,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010437:007",
@@ -1101,7 +1308,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010437:008",
@@ -1124,7 +1331,7 @@
     "mp": "MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010437:009",
@@ -1147,7 +1354,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010439:001",
@@ -1170,7 +1377,30 @@
     "mp": "MP000000000533 - COUCHE BORRACHA 20G (ECOPRINT) - 322MM",
     "largMP": "322",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
+  },
+  {
+    "id": "010449:001",
+    "pedido": "010449",
+    "item": "001",
+    "cliente": "001388-CONGREGACAO - ITAPEVI",
+    "produto": "PA000000002842",
+    "descricao": "ETIQ. VERDE - 80 X 20 + RIBBON",
+    "qtd": "10000",
+    "un": "UN",
+    "entrega": "26/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "157.7778",
+    "velocidade": "2400",
+    "setup": "30",
+    "mp": "PR000000000051 - RIBBON CERA AWR1 - 110 X 74  CSO/MP000000000226 - COUCHE BORRACHA 20G (ECOPRINT) - 168MM",
+    "largMP": "165",
+    "finalizado": true,
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010451:007",
@@ -1193,7 +1423,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010484:001",
@@ -1216,7 +1446,30 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
+  },
+  {
+    "id": "010500:002",
+    "pedido": "010500",
+    "item": "002",
+    "cliente": "000813-PROSEGUR - CERES",
+    "produto": "PA000000000567",
+    "descricao": "40025 - ETIQUETA ADESIVA 90 X 30",
+    "qtd": "24",
+    "un": "ROLO",
+    "entrega": "26/06/2026",
+    "status": "",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "",
+    "velocidade": "",
+    "setup": "",
+    "mp": "",
+    "largMP": "",
+    "finalizado": true,
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "009878:001",
@@ -1239,7 +1492,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010235:001",
@@ -1254,7 +1507,7 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
-    "obs": "",
+    "obs": "Aguardando Faca",
     "ordem": null,
     "metros": "2408.3333",
     "velocidade": "2400",
@@ -1262,7 +1515,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:13:48"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010235:002",
@@ -1277,7 +1530,7 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
-    "obs": "",
+    "obs": "Aguardando Faca",
     "ordem": null,
     "metros": "926.6667",
     "velocidade": "2400",
@@ -1285,7 +1538,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:13:49"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010235:003",
@@ -1300,7 +1553,7 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
-    "obs": "",
+    "obs": "Aguardando Faca",
     "ordem": null,
     "metros": "1477",
     "velocidade": "2400",
@@ -1308,7 +1561,7 @@
     "mp": "MP000000000757 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 195MM",
     "largMP": "195",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:13:50"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010235:004",
@@ -1323,7 +1576,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "REVISORAS",
     "sub": "ETIRAMA",
-    "obs": "",
+    "obs": "Aguardando Faca",
     "ordem": null,
     "metros": "1011.3333",
     "velocidade": "2400",
@@ -1331,7 +1584,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:14:49"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010235:005",
@@ -1346,7 +1599,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "REVISORAS",
     "sub": "ETIRAMA",
-    "obs": "",
+    "obs": "Aguardando Faca",
     "ordem": null,
     "metros": "1011.3333",
     "velocidade": "2400",
@@ -1354,7 +1607,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:14:50"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010235:006",
@@ -1369,7 +1622,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "REVISORAS",
     "sub": "ETIRAMA",
-    "obs": "",
+    "obs": "Aguardando Faca",
     "ordem": null,
     "metros": "3805.3333",
     "velocidade": "2400",
@@ -1377,7 +1630,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:14:51"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010235:007",
@@ -1392,7 +1645,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "REVISORAS",
     "sub": "ETIRAMA",
-    "obs": "",
+    "obs": "Aguardando Faca",
     "ordem": null,
     "metros": "2874",
     "velocidade": "2400",
@@ -1400,7 +1653,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:14:53"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010235:008",
@@ -1415,7 +1668,7 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
-    "obs": "",
+    "obs": "Aguardando Faca",
     "ordem": null,
     "metros": "1350",
     "velocidade": "2400",
@@ -1423,7 +1676,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:13:51"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010235:009",
@@ -1438,7 +1691,7 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
-    "obs": "",
+    "obs": "Aguardando Faca",
     "ordem": null,
     "metros": "1350",
     "velocidade": "2400",
@@ -1446,7 +1699,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:13:53"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010235:010",
@@ -1461,7 +1714,7 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
-    "obs": "",
+    "obs": "Aguardando Faca",
     "ordem": null,
     "metros": "1350",
     "velocidade": "2400",
@@ -1469,7 +1722,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:13:54"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010235:011",
@@ -1484,7 +1737,7 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
-    "obs": "",
+    "obs": "Aguardando Faca",
     "ordem": null,
     "metros": "926.6667",
     "velocidade": "2400",
@@ -1492,7 +1745,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:13:55"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010235:012",
@@ -1507,7 +1760,7 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
-    "obs": "",
+    "obs": "Aguardando Faca",
     "ordem": null,
     "metros": "715",
     "velocidade": "2400",
@@ -1515,7 +1768,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:13:56"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010235:013",
@@ -1530,7 +1783,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "REVISORAS",
     "sub": "",
-    "obs": "",
+    "obs": "Aguardando Faca",
     "ordem": null,
     "metros": "2408.3333",
     "velocidade": "2400",
@@ -1538,7 +1791,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:14:53"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010387:001",
@@ -1561,7 +1814,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010387:002",
@@ -1584,7 +1837,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010387:003",
@@ -1607,7 +1860,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010459:001",
@@ -1630,7 +1883,7 @@
     "mp": "MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010460:001",
@@ -1653,7 +1906,7 @@
     "mp": "PR000000000061 - RIBBON MISTO APR6 - 170 X 450 - CSO/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010466:001",
@@ -1676,7 +1929,7 @@
     "mp": "MP000000000874 - FILME DE LAMINAÇÃO BRILHO DUREX - 210MM/MP000000000022 - BOPP BRANCO FOSCO BORRACHA C2075 - 222MM",
     "largMP": "222",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010466:002",
@@ -1699,7 +1952,7 @@
     "mp": "MP000000000874 - FILME DE LAMINAÇÃO BRILHO DUREX - 210MM/MP000000000022 - BOPP BRANCO FOSCO BORRACHA C2075 - 222MM",
     "largMP": "222",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010466:003",
@@ -1722,7 +1975,7 @@
     "mp": "MP000000000874 - FILME DE LAMINAÇÃO BRILHO DUREX - 210MM/MP000000000022 - BOPP BRANCO FOSCO BORRACHA C2075 - 222MM",
     "largMP": "222",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010466:004",
@@ -1745,7 +1998,7 @@
     "mp": "MP000000000874 - FILME DE LAMINAÇÃO BRILHO DUREX - 210MM/MP000000000022 - BOPP BRANCO FOSCO BORRACHA C2075 - 222MM",
     "largMP": "222",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010466:005",
@@ -1768,7 +2021,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "320",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010466:006",
@@ -1791,7 +2044,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "320",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010466:007",
@@ -1814,7 +2067,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "320",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010466:008",
@@ -1837,7 +2090,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "320",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "009828:001",
@@ -1860,7 +2113,7 @@
     "mp": "MP000000000469 - ECOTRANSFER C2075 - 155MM",
     "largMP": "155",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "009960:001",
@@ -1883,7 +2136,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010340:001",
@@ -1906,7 +2159,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010340:002",
@@ -1929,7 +2182,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010382:001",
@@ -1952,7 +2205,7 @@
     "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000369 - TT2 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010385:001",
@@ -1975,7 +2228,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010388:001",
@@ -1989,7 +2242,7 @@
     "entrega": "30/06/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "TROQUELADORAS",
-    "sub": "PULMÃO",
+    "sub": "PULMÃÂO",
     "obs": "",
     "ordem": 110,
     "metros": "53483.6842",
@@ -1998,7 +2251,7 @@
     "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000901 - TT2 - 318MM",
     "largMP": "326",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010388:002",
@@ -2021,7 +2274,7 @@
     "mp": "PR000000000114 - RIBBON CERA AWR1 - 110 X 450 - CSI/MP000000000043 - COUCHE BORRACHA 20G (ECOPRINT) - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010388:003",
@@ -2044,7 +2297,7 @@
     "mp": "PR000000000114 - RIBBON CERA AWR1 - 110 X 450 - CSI/MP000000000043 - COUCHE BORRACHA 20G (ECOPRINT) - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010397:001",
@@ -2067,7 +2320,7 @@
     "mp": "MP000000000368 - COUCHE CARTÃO TAG L2 115G - 128MM",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010446:003",
@@ -2090,7 +2343,7 @@
     "mp": "MP000000000701 - TT2 - 310MM",
     "largMP": "310",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010447:002",
@@ -2113,7 +2366,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:14:21"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010447:003",
@@ -2136,7 +2389,30 @@
     "mp": "MP000000000701 - TT2 - 310MM",
     "largMP": "310",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
+  },
+  {
+    "id": "010447:004",
+    "pedido": "010447",
+    "item": "004",
+    "cliente": "000013-KLABIN - TELEMACO BORBA",
+    "produto": "PA000000000162",
+    "descricao": "ETIQ. ADESIVA BRANCA/VERDE - FSC (COM REMALINA)",
+    "qtd": "100",
+    "un": "CX",
+    "entrega": "30/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "48127.7778",
+    "velocidade": "3000",
+    "setup": "150",
+    "mp": "MP000000000062 - TRANSTERMICO BORRACHA C2075 - 326MM",
+    "largMP": "326",
+    "finalizado": true,
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010451:002",
@@ -2159,7 +2435,7 @@
     "mp": "MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010451:004",
@@ -2182,7 +2458,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010451:005",
@@ -2205,7 +2481,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010451:006",
@@ -2228,7 +2504,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010453:002",
@@ -2251,7 +2527,7 @@
     "mp": "MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010467:001",
@@ -2274,7 +2550,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010467:002",
@@ -2297,7 +2573,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010467:003",
@@ -2320,7 +2596,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010467:004",
@@ -2343,7 +2619,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010467:005",
@@ -2366,7 +2642,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010467:006",
@@ -2389,7 +2665,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010467:007",
@@ -2412,7 +2688,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010468:001",
@@ -2435,7 +2711,7 @@
     "mp": "MP000000000701 - TT2 - 310MM",
     "largMP": "310",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010469:001",
@@ -2458,7 +2734,7 @@
     "mp": "MP000000000244 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 222MM",
     "largMP": "222",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010469:002",
@@ -2481,7 +2757,7 @@
     "mp": "PR000000000059 - RIBBON MISTO APR6 - 110 X 450 - CSO/MP000000000794 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 320MM",
     "largMP": "320",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010469:003",
@@ -2504,7 +2780,7 @@
     "mp": "MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010329:001",
@@ -2527,7 +2803,7 @@
     "mp": "MP000000000383 - PET BRANCO ACRÍLICO ADC210 - 132MM",
     "largMP": "132",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010475:001",
@@ -2550,7 +2826,7 @@
     "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000158 - TRANSTERMICO BORRACHA C2075 - 222MM",
     "largMP": "222",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010477:001",
@@ -2573,7 +2849,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010478:001",
@@ -2596,7 +2872,30 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
+  },
+  {
+    "id": "010478:002",
+    "pedido": "010478",
+    "item": "002",
+    "cliente": "000218-FERTILABEL",
+    "produto": "PA000000000320",
+    "descricao": "ETIQ. MOSAIC - 95 X 115",
+    "qtd": "108000",
+    "un": "UN",
+    "entrega": "30/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "4801.332",
+    "velocidade": "3000",
+    "setup": "30",
+    "mp": "",
+    "largMP": "",
+    "finalizado": true,
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010478:003",
@@ -2619,7 +2918,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "009843:001",
@@ -2642,7 +2941,7 @@
     "mp": "MP000000000665 - SINTETICO BCD - 220MM",
     "largMP": "220",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "009843:002",
@@ -2665,7 +2964,7 @@
     "mp": "MP000000000665 - SINTETICO BCD - 220MM",
     "largMP": "220",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010231:001",
@@ -2688,7 +2987,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010231:002",
@@ -2711,7 +3010,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010231:003",
@@ -2734,7 +3033,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010231:004",
@@ -2757,7 +3056,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010231:005",
@@ -2780,7 +3079,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010231:006",
@@ -2803,7 +3102,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010288:002",
@@ -2826,7 +3125,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010424:001",
@@ -2849,7 +3148,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010476:001",
@@ -2872,7 +3171,7 @@
     "mp": "MP000000000545 - BOPP FOSCO INKJET - 156MM",
     "largMP": "156",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010476:002",
@@ -2895,7 +3194,7 @@
     "mp": "MP000000000598 - BOPP FOSCO INKJET - 126MM",
     "largMP": "126",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010476:003",
@@ -2918,7 +3217,7 @@
     "mp": "MP000000000893 - BOPP FOSCO M141 - 175MM",
     "largMP": "175",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010483:001",
@@ -2941,7 +3240,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010503:001",
@@ -2964,7 +3263,7 @@
     "mp": "MP000000000634 - SINTETICO BCD - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010504:001",
@@ -2987,7 +3286,7 @@
     "mp": "PR000000000114 - RIBBON CERA AWR1 - 110 X 450 - CSI/MP000000000043 - COUCHE BORRACHA 20G (ECOPRINT) - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010133:001",
@@ -3010,7 +3309,7 @@
     "mp": "MP000000000894 - COUCHE BRILHO INKJET - 163MM/MP000000000894 - COUCHE BRILHO INKJET - 163MM",
     "largMP": "163",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010349:002",
@@ -3033,7 +3332,7 @@
     "mp": "MP000000000735 - BOPP BRILHO INKJET - 130MM",
     "largMP": "130",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010133:005",
@@ -3056,7 +3355,7 @@
     "mp": "MP000000000843 - COUCHE BRILHO INKJET - 106MM",
     "largMP": "106",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010486:001",
@@ -3079,7 +3378,7 @@
     "mp": "MP000000000461 - COUCHE BORRACHA 20G (ECOPRINT) - 146MM",
     "largMP": "146",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010486:003",
@@ -3102,7 +3401,7 @@
     "mp": "MP000000000226 - COUCHE BORRACHA 20G (ECOPRINT) - 168MM",
     "largMP": "165",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010486:004",
@@ -3125,7 +3424,7 @@
     "mp": "MP000000000431 - COUCHE BORRACHA 20G (ECOPRINT) - 112MM",
     "largMP": "112",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010486:005",
@@ -3148,7 +3447,7 @@
     "mp": "MP000000000431 - COUCHE BORRACHA 20G (ECOPRINT) - 112MM",
     "largMP": "112",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010486:006",
@@ -3171,7 +3470,7 @@
     "mp": "MP000000000431 - COUCHE BORRACHA 20G (ECOPRINT) - 112MM",
     "largMP": "112",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010486:007",
@@ -3194,7 +3493,7 @@
     "mp": "MP000000000431 - COUCHE BORRACHA 20G (ECOPRINT) - 112MM",
     "largMP": "112",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010487:001",
@@ -3217,7 +3516,7 @@
     "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000043 - COUCHE BORRACHA 20G (ECOPRINT) - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010488:001",
@@ -3240,7 +3539,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010502:001",
@@ -3263,7 +3562,7 @@
     "mp": "PR000000000060 - RIBBON MISTO APR6 - 110 X 74 - CSO/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010507:001",
@@ -3286,7 +3585,7 @@
     "mp": "MP000000000735 - BOPP BRILHO INKJET - 130MM",
     "largMP": "130",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010507:002",
@@ -3309,7 +3608,7 @@
     "mp": "MP000000000545 - BOPP FOSCO INKJET - 156MM",
     "largMP": "156",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010394:001",
@@ -3324,7 +3623,7 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
     "sub": "VOREY",
-    "obs": "Aguardando AprovaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
+    "obs": "Aguardando AprovaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
     "ordem": null,
     "metros": "21.2778",
     "velocidade": "2400",
@@ -3332,7 +3631,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000028 - BOPP METALIZADO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010394:002",
@@ -3347,7 +3646,7 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
     "sub": "VOREY",
-    "obs": "Aguardando AprovaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
+    "obs": "Aguardando AprovaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
     "ordem": null,
     "metros": "21.2778",
     "velocidade": "2400",
@@ -3355,7 +3654,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000028 - BOPP METALIZADO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010394:003",
@@ -3370,7 +3669,7 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
     "sub": "VOREY",
-    "obs": "Aguardando AprovaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
+    "obs": "Aguardando AprovaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
     "ordem": null,
     "metros": "21.2778",
     "velocidade": "2400",
@@ -3378,7 +3677,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000028 - BOPP METALIZADO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010394:004",
@@ -3393,7 +3692,7 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
     "sub": "VOREY",
-    "obs": "Aguardando AprovaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
+    "obs": "Aguardando AprovaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
     "ordem": null,
     "metros": "21.2778",
     "velocidade": "2400",
@@ -3401,7 +3700,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000028 - BOPP METALIZADO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010394:005",
@@ -3416,7 +3715,7 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
     "sub": "VOREY",
-    "obs": "Aguardando AprovaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
+    "obs": "Aguardando AprovaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
     "ordem": null,
     "metros": "21.2778",
     "velocidade": "2400",
@@ -3424,7 +3723,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000028 - BOPP METALIZADO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010394:006",
@@ -3439,7 +3738,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "CORTE BROTECH / VOREY",
     "sub": "VOREY",
-    "obs": "Aguardando AprovaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
+    "obs": "Aguardando AprovaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
     "ordem": null,
     "metros": "21.2778",
     "velocidade": "2400",
@@ -3447,7 +3746,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010456:001",
@@ -3470,7 +3769,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010456:002",
@@ -3493,7 +3792,7 @@
     "mp": "MP000000000804 - PE TRANSPARENTE ACRILICO TC - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010495:001",
@@ -3516,7 +3815,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010495:002",
@@ -3539,7 +3838,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010495:003",
@@ -3562,7 +3861,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010495:004",
@@ -3585,7 +3884,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000706 - BOPP TRANSPARENTE ACRILICO ADC220 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010495:005",
@@ -3608,7 +3907,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000029 - BOPP TRANSPARENTE ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010495:006",
@@ -3631,7 +3930,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010495:007",
@@ -3654,7 +3953,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000028 - BOPP METALIZADO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010495:008",
@@ -3677,7 +3976,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010448:002",
@@ -3700,7 +3999,7 @@
     "mp": "MP000000000043 - COUCHE BORRACHA 20G (ECOPRINT) - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   },
   {
     "id": "010448:003",
@@ -3723,6 +4022,6 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:12:59"
+    "atualizado": "26/06/2026, 07:17:36"
   }
 ]
