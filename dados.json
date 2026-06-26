@@ -861,7 +861,7 @@
     "un": "UN",
     "entrega": "26/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "DIGITAL",
+    "grupo": "CORTE BROTECH / VOREY",
     "sub": "",
     "obs": "",
     "ordem": null,
@@ -871,7 +871,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "320",
     "finalizado": false,
-    "atualizado": "26/06/2026, 07:17:49"
+    "atualizado": "26/06/2026, 11:27:31"
   },
   {
     "id": "010433:001",
