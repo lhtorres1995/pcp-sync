@@ -20,7 +20,7 @@
     "mp": "MP000000000300 - FITA DE MATERIAL PLASTICO SY - BCD 150 - 100MM",
     "largMP": "200",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "009721:001",
@@ -35,7 +35,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "CORTE BROTECH / VOREY",
     "sub": "VOREY",
-    "obs": "Aguardando AprovaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
+    "obs": "Aguardando AprovaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
     "ordem": null,
     "metros": "141.7407",
     "velocidade": "",
@@ -43,7 +43,30 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
+  },
+  {
+    "id": "010302:001",
+    "pedido": "010302",
+    "item": "001",
+    "cliente": "000514-PROSEGUR - PORTO ALEGRE",
+    "produto": "PA000000000567",
+    "descricao": "40025 - ETIQUETA ADESIVA 90 X 30",
+    "qtd": "50",
+    "un": "ROLO",
+    "entrega": "05/06/2026",
+    "status": "",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "",
+    "velocidade": "",
+    "setup": "",
+    "mp": "",
+    "largMP": "",
+    "finalizado": true,
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010367:001",
@@ -66,7 +89,53 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
+  },
+  {
+    "id": "010401:002",
+    "pedido": "010401",
+    "item": "002",
+    "cliente": "000495-PROSEGUR - JOÃO PESSOA",
+    "produto": "PA000000000567",
+    "descricao": "40025 - ETIQUETA ADESIVA 90 X 30",
+    "qtd": "30",
+    "un": "ROLO",
+    "entrega": "19/06/2026",
+    "status": "",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "",
+    "velocidade": "",
+    "setup": "",
+    "mp": "",
+    "largMP": "",
+    "finalizado": true,
+    "atualizado": "28/06/2026, 12:11:46"
+  },
+  {
+    "id": "010429:002",
+    "pedido": "010429",
+    "item": "002",
+    "cliente": "000805-PROSEGUR - SANTO ANGELO",
+    "produto": "PA000000000567",
+    "descricao": "40025 - ETIQUETA ADESIVA 90 X 30",
+    "qtd": "30",
+    "un": "ROLO",
+    "entrega": "19/06/2026",
+    "status": "",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "",
+    "velocidade": "",
+    "setup": "",
+    "mp": "",
+    "largMP": "",
+    "finalizado": true,
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010434:001",
@@ -89,7 +158,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010434:002",
@@ -112,7 +181,30 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
+  },
+  {
+    "id": "010500:002",
+    "pedido": "010500",
+    "item": "002",
+    "cliente": "000813-PROSEGUR - CERES",
+    "produto": "PA000000000567",
+    "descricao": "40025 - ETIQUETA ADESIVA 90 X 30",
+    "qtd": "24",
+    "un": "ROLO",
+    "entrega": "26/06/2026",
+    "status": "",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "",
+    "velocidade": "",
+    "setup": "",
+    "mp": "",
+    "largMP": "",
+    "finalizado": true,
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "009878:001",
@@ -135,7 +227,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010235:001",
@@ -158,7 +250,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010235:002",
@@ -181,7 +273,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010235:003",
@@ -204,7 +296,7 @@
     "mp": "MP000000000757 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 195MM",
     "largMP": "195",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010235:004",
@@ -227,7 +319,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010235:005",
@@ -250,7 +342,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010235:006",
@@ -273,7 +365,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010235:007",
@@ -296,7 +388,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010235:008",
@@ -319,7 +411,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010235:009",
@@ -342,7 +434,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010235:010",
@@ -365,7 +457,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010235:011",
@@ -388,7 +480,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010235:012",
@@ -411,7 +503,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010235:013",
@@ -434,7 +526,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010391:001",
@@ -457,7 +549,53 @@
     "mp": "MP000000000409 - TRANSTERMICO ACRILICO ADC1000 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
+  },
+  {
+    "id": "010392:001",
+    "pedido": "010392",
+    "item": "001",
+    "cliente": "001519-MAMMA FRANCHINI",
+    "produto": "PA000000003730",
+    "descricao": "RÓTULO MAMMA FRANCHINI - 80 X 80",
+    "qtd": "5",
+    "un": "MI",
+    "entrega": "29/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "163.7037",
+    "velocidade": "2400",
+    "setup": "10",
+    "mp": "",
+    "largMP": "",
+    "finalizado": true,
+    "atualizado": "28/06/2026, 12:11:46"
+  },
+  {
+    "id": "010459:001",
+    "pedido": "010459",
+    "item": "001",
+    "cliente": "000624-AQUA SMART",
+    "produto": "PA000000002902",
+    "descricao": "RÓTULO - BLOODWORM - 95 X 23",
+    "qtd": "1000",
+    "un": "UN",
+    "entrega": "29/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "19.6296",
+    "velocidade": "780",
+    "setup": "10",
+    "mp": "MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
+    "largMP": "330",
+    "finalizado": true,
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "009828:001",
@@ -480,7 +618,7 @@
     "mp": "MP000000000469 - ECOTRANSFER C2075 - 155MM",
     "largMP": "155",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "009960:001",
@@ -503,7 +641,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010266:001",
@@ -526,7 +664,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010340:001",
@@ -549,7 +687,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010340:002",
@@ -572,7 +710,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010357:001",
@@ -595,7 +733,30 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
+  },
+  {
+    "id": "010382:001",
+    "pedido": "010382",
+    "item": "001",
+    "cliente": "000143-BARRY CALLEBAUT - ITABUNA",
+    "produto": "PA000000000871",
+    "descricao": "ETIQ. AUTOMÁTICA - 101 X 150",
+    "qtd": "200000",
+    "un": "UN",
+    "entrega": "30/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": 60,
+    "metros": "16052.1053",
+    "velocidade": "2400",
+    "setup": "10",
+    "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000369 - TT2 - 214MM",
+    "largMP": "214",
+    "finalizado": true,
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010385:001",
@@ -618,7 +779,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010446:003",
@@ -641,7 +802,7 @@
     "mp": "MP000000000701 - TT2 - 310MM",
     "largMP": "310",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010447:002",
@@ -664,7 +825,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010447:003",
@@ -687,7 +848,30 @@
     "mp": "MP000000000701 - TT2 - 310MM",
     "largMP": "310",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
+  },
+  {
+    "id": "010447:004",
+    "pedido": "010447",
+    "item": "004",
+    "cliente": "000013-KLABIN - TELEMACO BORBA",
+    "produto": "PA000000000162",
+    "descricao": "ETIQ. ADESIVA BRANCA/VERDE - FSC (COM REMALINA)",
+    "qtd": "100",
+    "un": "CX",
+    "entrega": "30/06/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "48127.7778",
+    "velocidade": "3000",
+    "setup": "150",
+    "mp": "MP000000000062 - TRANSTERMICO BORRACHA C2075 - 326MM",
+    "largMP": "326",
+    "finalizado": true,
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010453:002",
@@ -710,7 +894,7 @@
     "mp": "MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010467:001",
@@ -733,7 +917,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010467:002",
@@ -756,7 +940,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010467:003",
@@ -779,7 +963,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010467:004",
@@ -802,7 +986,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010467:005",
@@ -825,7 +1009,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010467:006",
@@ -848,7 +1032,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010467:007",
@@ -871,7 +1055,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010468:001",
@@ -894,7 +1078,7 @@
     "mp": "MP000000000701 - TT2 - 310MM",
     "largMP": "310",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010329:001",
@@ -917,7 +1101,7 @@
     "mp": "MP000000000383 - PET BRANCO ACRÍLICO ADC210 - 132MM",
     "largMP": "132",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010475:001",
@@ -940,7 +1124,7 @@
     "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000158 - TRANSTERMICO BORRACHA C2075 - 222MM",
     "largMP": "222",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010477:001",
@@ -963,7 +1147,30 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
+  },
+  {
+    "id": "010478:002",
+    "pedido": "010478",
+    "item": "002",
+    "cliente": "000218-FERTILABEL",
+    "produto": "PA000000000320",
+    "descricao": "ETIQ. MOSAIC - 95 X 115",
+    "qtd": "108000",
+    "un": "UN",
+    "entrega": "30/06/2026",
+    "status": "PRONTA PARA INÍCIO",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "4801.332",
+    "velocidade": "3000",
+    "setup": "30",
+    "mp": "",
+    "largMP": "",
+    "finalizado": true,
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010478:003",
@@ -986,7 +1193,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010329:002",
@@ -1009,7 +1216,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010175:004",
@@ -1032,7 +1239,7 @@
     "mp": "MP000000000533 - COUCHE BORRACHA 20G (ECOPRINT) - 322MM",
     "largMP": "322",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010181:001",
@@ -1055,7 +1262,7 @@
     "mp": "MP000000000044 - COUCHE BORRACHA 20G (ECOPRINT) - 222MM",
     "largMP": "222",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010221:001",
@@ -1078,7 +1285,7 @@
     "mp": "MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010231:001",
@@ -1101,7 +1308,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010231:002",
@@ -1124,7 +1331,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010231:003",
@@ -1147,7 +1354,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010231:004",
@@ -1170,7 +1377,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010231:005",
@@ -1193,7 +1400,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010231:006",
@@ -1216,7 +1423,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010234:001",
@@ -1239,7 +1446,7 @@
     "mp": "MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010321:001",
@@ -1262,7 +1469,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010321:002",
@@ -1285,7 +1492,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010321:003",
@@ -1308,7 +1515,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010321:004",
@@ -1331,7 +1538,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010321:006",
@@ -1354,7 +1561,7 @@
     "mp": "MP000000000242 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 180MM",
     "largMP": "180",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010321:007",
@@ -1377,7 +1584,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010353:001",
@@ -1400,7 +1607,7 @@
     "mp": "MP000000000044 - COUCHE BORRACHA 20G (ECOPRINT) - 222MM",
     "largMP": "222",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010353:002",
@@ -1423,7 +1630,7 @@
     "mp": "MP000000000873 - COUCHE ACRILICO S0518 - 212MM",
     "largMP": "212",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010424:001",
@@ -1446,7 +1653,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010432:001",
@@ -1469,7 +1676,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "320",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010433:001",
@@ -1492,7 +1699,7 @@
     "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000039 - COUCHE ACRILICO S0518 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010439:001",
@@ -1515,7 +1722,7 @@
     "mp": "MP000000000533 - COUCHE BORRACHA 20G (ECOPRINT) - 322MM",
     "largMP": "322",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010451:002",
@@ -1538,7 +1745,7 @@
     "mp": "MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010451:004",
@@ -1561,7 +1768,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010451:005",
@@ -1584,7 +1791,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010451:006",
@@ -1607,7 +1814,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010451:007",
@@ -1622,7 +1829,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 250",
     "sub": "",
-    "obs": "Aguardando AprovaÃÂ§ÃÂ£o",
+    "obs": "Aguardando AprovaÃÂÃÂ§ÃÂÃÂ£o",
     "ordem": null,
     "metros": "5170",
     "velocidade": "2400",
@@ -1630,7 +1837,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010466:001",
@@ -1653,7 +1860,7 @@
     "mp": "MP000000000874 - FILME DE LAMINAÇÃO BRILHO DUREX - 210MM/MP000000000022 - BOPP BRANCO FOSCO BORRACHA C2075 - 222MM",
     "largMP": "222",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010466:002",
@@ -1676,7 +1883,7 @@
     "mp": "MP000000000874 - FILME DE LAMINAÇÃO BRILHO DUREX - 210MM/MP000000000022 - BOPP BRANCO FOSCO BORRACHA C2075 - 222MM",
     "largMP": "222",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010466:003",
@@ -1699,7 +1906,7 @@
     "mp": "MP000000000874 - FILME DE LAMINAÇÃO BRILHO DUREX - 210MM/MP000000000022 - BOPP BRANCO FOSCO BORRACHA C2075 - 222MM",
     "largMP": "222",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010466:004",
@@ -1722,7 +1929,7 @@
     "mp": "MP000000000874 - FILME DE LAMINAÇÃO BRILHO DUREX - 210MM/MP000000000022 - BOPP BRANCO FOSCO BORRACHA C2075 - 222MM",
     "largMP": "222",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010466:005",
@@ -1745,7 +1952,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "320",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010466:006",
@@ -1768,7 +1975,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "320",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010466:007",
@@ -1791,7 +1998,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "320",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010466:008",
@@ -1814,7 +2021,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "320",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010476:001",
@@ -1837,7 +2044,7 @@
     "mp": "MP000000000545 - BOPP FOSCO INKJET - 156MM",
     "largMP": "156",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010476:002",
@@ -1860,7 +2067,7 @@
     "mp": "MP000000000598 - BOPP FOSCO INKJET - 126MM",
     "largMP": "126",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010476:003",
@@ -1883,7 +2090,7 @@
     "mp": "MP000000000893 - BOPP FOSCO M141 - 175MM",
     "largMP": "175",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010483:001",
@@ -1906,7 +2113,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010503:001",
@@ -1929,7 +2136,7 @@
     "mp": "MP000000000634 - SINTETICO BCD - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010504:001",
@@ -1952,7 +2159,7 @@
     "mp": "PR000000000114 - RIBBON CERA AWR1 - 110 X 450 - CSI/MP000000000043 - COUCHE BORRACHA 20G (ECOPRINT) - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010517:002",
@@ -1975,7 +2182,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010133:001",
@@ -1998,7 +2205,7 @@
     "mp": "MP000000000894 - COUCHE BRILHO INKJET - 163MM/MP000000000894 - COUCHE BRILHO INKJET - 163MM",
     "largMP": "163",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010306:001",
@@ -2021,7 +2228,7 @@
     "mp": "MP000000000039 - COUCHE ACRILICO S0518 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010349:002",
@@ -2044,7 +2251,7 @@
     "mp": "MP000000000735 - BOPP BRILHO INKJET - 130MM",
     "largMP": "130",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010133:005",
@@ -2067,7 +2274,7 @@
     "mp": "MP000000000843 - COUCHE BRILHO INKJET - 106MM",
     "largMP": "106",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010486:001",
@@ -2090,7 +2297,7 @@
     "mp": "MP000000000461 - COUCHE BORRACHA 20G (ECOPRINT) - 146MM",
     "largMP": "146",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010486:003",
@@ -2113,7 +2320,7 @@
     "mp": "MP000000000226 - COUCHE BORRACHA 20G (ECOPRINT) - 168MM",
     "largMP": "165",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010486:004",
@@ -2136,7 +2343,7 @@
     "mp": "MP000000000431 - COUCHE BORRACHA 20G (ECOPRINT) - 112MM",
     "largMP": "112",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010486:005",
@@ -2159,7 +2366,7 @@
     "mp": "MP000000000431 - COUCHE BORRACHA 20G (ECOPRINT) - 112MM",
     "largMP": "112",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010486:006",
@@ -2182,7 +2389,7 @@
     "mp": "MP000000000431 - COUCHE BORRACHA 20G (ECOPRINT) - 112MM",
     "largMP": "112",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010486:007",
@@ -2205,7 +2412,7 @@
     "mp": "MP000000000431 - COUCHE BORRACHA 20G (ECOPRINT) - 112MM",
     "largMP": "112",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010487:001",
@@ -2228,7 +2435,7 @@
     "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000043 - COUCHE BORRACHA 20G (ECOPRINT) - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010488:001",
@@ -2251,7 +2458,7 @@
     "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000533 - COUCHE BORRACHA 20G (ECOPRINT) - 322MM",
     "largMP": "322",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010502:001",
@@ -2274,7 +2481,7 @@
     "mp": "PR000000000060 - RIBBON MISTO APR6 - 110 X 74 - CSO/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010507:001",
@@ -2297,7 +2504,7 @@
     "mp": "MP000000000735 - BOPP BRILHO INKJET - 130MM",
     "largMP": "130",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010507:002",
@@ -2320,7 +2527,7 @@
     "mp": "MP000000000545 - BOPP FOSCO INKJET - 156MM",
     "largMP": "156",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010502:002",
@@ -2343,7 +2550,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010518:001",
@@ -2366,7 +2573,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010275:001",
@@ -2389,7 +2596,7 @@
     "mp": "MP000000000368 - COUCHE CARTÃO TAG L2 115G - 128MM",
     "largMP": "128",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010279:001",
@@ -2412,7 +2619,7 @@
     "mp": "PR000000000061 - RIBBON MISTO APR6 - 170 X 450 - CSO/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010288:002",
@@ -2435,7 +2642,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010313:001",
@@ -2458,7 +2665,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010388:001",
@@ -2481,7 +2688,7 @@
     "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000901 - TT2 - 318MM",
     "largMP": "326",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010388:002",
@@ -2504,7 +2711,7 @@
     "mp": "PR000000000114 - RIBBON CERA AWR1 - 110 X 450 - CSI/MP000000000043 - COUCHE BORRACHA 20G (ECOPRINT) - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010388:003",
@@ -2527,7 +2734,7 @@
     "mp": "PR000000000114 - RIBBON CERA AWR1 - 110 X 450 - CSI/MP000000000043 - COUCHE BORRACHA 20G (ECOPRINT) - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010394:001",
@@ -2542,7 +2749,7 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
     "sub": "VOREY",
-    "obs": "Aguardando AprovaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
+    "obs": "Aguardando AprovaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
     "ordem": null,
     "metros": "21.2778",
     "velocidade": "2400",
@@ -2550,7 +2757,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000028 - BOPP METALIZADO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010394:002",
@@ -2565,7 +2772,7 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
     "sub": "VOREY",
-    "obs": "Aguardando AprovaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
+    "obs": "Aguardando AprovaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
     "ordem": null,
     "metros": "21.2778",
     "velocidade": "2400",
@@ -2573,7 +2780,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000028 - BOPP METALIZADO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010394:003",
@@ -2588,7 +2795,7 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
     "sub": "VOREY",
-    "obs": "Aguardando AprovaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
+    "obs": "Aguardando AprovaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
     "ordem": null,
     "metros": "21.2778",
     "velocidade": "2400",
@@ -2596,7 +2803,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000028 - BOPP METALIZADO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010394:004",
@@ -2611,7 +2818,7 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
     "sub": "VOREY",
-    "obs": "Aguardando AprovaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
+    "obs": "Aguardando AprovaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
     "ordem": null,
     "metros": "21.2778",
     "velocidade": "2400",
@@ -2619,7 +2826,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000028 - BOPP METALIZADO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010394:005",
@@ -2634,7 +2841,7 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
     "sub": "VOREY",
-    "obs": "Aguardando AprovaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
+    "obs": "Aguardando AprovaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
     "ordem": null,
     "metros": "21.2778",
     "velocidade": "2400",
@@ -2642,7 +2849,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000028 - BOPP METALIZADO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010394:006",
@@ -2657,7 +2864,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "CORTE BROTECH / VOREY",
     "sub": "VOREY",
-    "obs": "Aguardando AprovaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
+    "obs": "Aguardando AprovaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
     "ordem": null,
     "metros": "21.2778",
     "velocidade": "2400",
@@ -2665,7 +2872,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010395:002",
@@ -2688,7 +2895,7 @@
     "mp": "MP000000000043 - COUCHE BORRACHA 20G (ECOPRINT) - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010397:001",
@@ -2711,7 +2918,7 @@
     "mp": "MP000000000368 - COUCHE CARTÃO TAG L2 115G - 128MM",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:09:27"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010437:001",
@@ -2734,7 +2941,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010437:002",
@@ -2757,7 +2964,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010437:003",
@@ -2780,7 +2987,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000706 - BOPP TRANSPARENTE ACRILICO ADC220 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010437:007",
@@ -2803,7 +3010,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010437:008",
@@ -2826,7 +3033,7 @@
     "mp": "MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010442:001",
@@ -2849,7 +3056,7 @@
     "mp": "PR000000000059 - RIBBON MISTO APR6 - 110 X 450 - CSO/MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010442:002",
@@ -2872,7 +3079,7 @@
     "mp": "MP000000000225 - COUCHE BORRACHA 20G (ECOPRINT) - 156MM",
     "largMP": "156",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010456:001",
@@ -2895,7 +3102,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010456:002",
@@ -2918,7 +3125,7 @@
     "mp": "MP000000000804 - PE TRANSPARENTE ACRILICO TC - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010457:001",
@@ -2941,7 +3148,7 @@
     "mp": "MP000000000022 - BOPP BRANCO FOSCO BORRACHA C2075 - 222MM",
     "largMP": "222",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010460:001",
@@ -2964,7 +3171,7 @@
     "mp": "PR000000000061 - RIBBON MISTO APR6 - 170 X 450 - CSO/MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010469:001",
@@ -2987,7 +3194,7 @@
     "mp": "MP000000000244 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 222MM",
     "largMP": "222",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010469:002",
@@ -3010,7 +3217,7 @@
     "mp": "PR000000000059 - RIBBON MISTO APR6 - 110 X 450 - CSO/MP000000000794 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 320MM",
     "largMP": "320",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010469:003",
@@ -3033,7 +3240,7 @@
     "mp": "MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010495:001",
@@ -3056,7 +3263,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010495:002",
@@ -3079,7 +3286,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010495:003",
@@ -3102,7 +3309,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010495:004",
@@ -3125,7 +3332,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000706 - BOPP TRANSPARENTE ACRILICO ADC220 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010495:005",
@@ -3148,7 +3355,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000029 - BOPP TRANSPARENTE ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010495:006",
@@ -3171,7 +3378,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010495:007",
@@ -3194,7 +3401,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000028 - BOPP METALIZADO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010495:008",
@@ -3217,7 +3424,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010512:001",
@@ -3240,7 +3447,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010519:001",
@@ -3263,7 +3470,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010519:002",
@@ -3286,7 +3493,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010448:002",
@@ -3309,7 +3516,7 @@
     "mp": "MP000000000043 - COUCHE BORRACHA 20G (ECOPRINT) - 214MM/MP000000000043 - COUCHE BORRACHA 20G (ECOPRINT) - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010448:003",
@@ -3332,7 +3539,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010096:003",
@@ -3355,7 +3562,7 @@
     "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000043 - COUCHE BORRACHA 20G (ECOPRINT) - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010096:004",
@@ -3378,7 +3585,7 @@
     "mp": "PR000000000051 - RIBBON CERA AWR1 - 110 X 74  CSO/MP000000000043 - COUCHE BORRACHA 20G (ECOPRINT) - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010291:004",
@@ -3401,7 +3608,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010291:005",
@@ -3424,7 +3631,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010291:006",
@@ -3447,7 +3654,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010291:007",
@@ -3470,7 +3677,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010291:008",
@@ -3493,7 +3700,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010291:009",
@@ -3516,7 +3723,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010291:010",
@@ -3539,7 +3746,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010335:001",
@@ -3562,7 +3769,7 @@
     "mp": "MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010335:002",
@@ -3585,7 +3792,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010387:001",
@@ -3608,7 +3815,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010387:002",
@@ -3631,7 +3838,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010387:003",
@@ -3654,7 +3861,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010485:001",
@@ -3677,7 +3884,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010508:001",
@@ -3700,7 +3907,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010399:001",
@@ -3723,7 +3930,7 @@
     "mp": "PR000000000064 - RIBBON MISTO APR600 - 220 X 600 - CSI - NOVEXX/MP000000000476 - ECOTRANSFER C2075 - 259MM",
     "largMP": "259",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010444:001",
@@ -3746,7 +3953,53 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
+  },
+  {
+    "id": "010444:002",
+    "pedido": "010444",
+    "item": "002",
+    "cliente": "000014-HENKEL - ITAPEVI",
+    "produto": "PA000000001489",
+    "descricao": "VERSO - CASCOLA ARTESANATO 100G",
+    "qtd": "5000",
+    "un": "PEÇA",
+    "entrega": "07/07/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "444.5833",
+    "velocidade": "",
+    "setup": "",
+    "mp": "MP000000000226 - COUCHE BORRACHA 20G (ECOPRINT) - 168MM",
+    "largMP": "165",
+    "finalizado": true,
+    "atualizado": "28/06/2026, 12:11:46"
+  },
+  {
+    "id": "010444:003",
+    "pedido": "010444",
+    "item": "003",
+    "cliente": "000014-HENKEL - ITAPEVI",
+    "produto": "PA000000001490",
+    "descricao": "FRENTE - CASCOLA ARTESANATO 100G",
+    "qtd": "5000",
+    "un": "PEÇA",
+    "entrega": "07/07/2026",
+    "status": "MATERIAL EMPENHADO",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "444.5833",
+    "velocidade": "4800",
+    "setup": "180",
+    "mp": "MP000000000226 - COUCHE BORRACHA 20G (ECOPRINT) - 168MM",
+    "largMP": "165",
+    "finalizado": true,
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010444:004",
@@ -3769,7 +4022,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010450:001",
@@ -3792,7 +4045,7 @@
     "mp": "PR000000000053 - RIBBON CERA AWR1 - 170 X 450 - CSO/MP000000000461 - COUCHE BORRACHA 20G (ECOPRINT) - 146MM",
     "largMP": "146",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010455:001",
@@ -3815,7 +4068,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010489:001",
@@ -3838,7 +4091,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010489:002",
@@ -3861,7 +4114,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010490:001",
@@ -3884,7 +4137,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010491:001",
@@ -3907,7 +4160,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010492:001",
@@ -3930,7 +4183,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010496:001",
@@ -3953,7 +4206,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010505:001",
@@ -3976,7 +4229,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010509:001",
@@ -3999,7 +4252,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010510:001",
@@ -4022,7 +4275,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010510:002",
@@ -4045,7 +4298,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010510:003",
@@ -4068,7 +4321,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010510:004",
@@ -4091,7 +4344,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010510:005",
@@ -4114,7 +4367,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010510:006",
@@ -4137,7 +4390,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010510:007",
@@ -4160,7 +4413,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010510:008",
@@ -4183,7 +4436,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010514:001",
@@ -4206,7 +4459,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010515:001",
@@ -4229,7 +4482,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010517:001",
@@ -4252,7 +4505,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010517:003",
@@ -4275,7 +4528,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010148:001",
@@ -4298,7 +4551,30 @@
     "mp": "MP000000000480 - BOPP FOSCO INKJET - 220MM/MP000000000480 - BOPP FOSCO INKJET - 220MM/MP000000000480 - BOPP FOSCO INKJET - 220MM",
     "largMP": "220",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
+  },
+  {
+    "id": "010151:001",
+    "pedido": "010151",
+    "item": "001",
+    "cliente": "000031-HENKEL - JUNDIAI",
+    "produto": "PA000000003708",
+    "descricao": "ETIQ. GEN. 274 X 63 - VEGAM",
+    "qtd": "350",
+    "un": "PEÇA",
+    "entrega": "08/07/2026",
+    "status": "INICIADA (fase 3 de 3)",
+    "grupo": "__FIN__",
+    "sub": "",
+    "obs": "",
+    "ordem": null,
+    "metros": "51.6731",
+    "velocidade": "",
+    "setup": "",
+    "mp": "MP000000000480 - BOPP FOSCO INKJET - 220MM",
+    "largMP": "220",
+    "finalizado": true,
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010359:001",
@@ -4321,7 +4597,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010359:002",
@@ -4344,7 +4620,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010359:003",
@@ -4367,7 +4643,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010363:001",
@@ -4390,7 +4666,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010363:002",
@@ -4413,7 +4689,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010363:003",
@@ -4436,7 +4712,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010363:004",
@@ -4459,7 +4735,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010416:001",
@@ -4482,7 +4758,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010417:001",
@@ -4505,7 +4781,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010418:001",
@@ -4528,7 +4804,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010419:001",
@@ -4551,7 +4827,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010420:001",
@@ -4574,7 +4850,7 @@
     "mp": "MP000000000465 - BOPP FOSCO INKJET - 200MM",
     "largMP": "200",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010422:001",
@@ -4597,7 +4873,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010423:001",
@@ -4620,7 +4896,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010290:003",
@@ -4643,7 +4919,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010290:004",
@@ -4666,7 +4942,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010355:001",
@@ -4689,7 +4965,7 @@
     "mp": "MP000000000706 - BOPP TRANSPARENTE ACRILICO ADC220 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010494:001",
@@ -4712,7 +4988,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010494:002",
@@ -4735,7 +5011,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010494:003",
@@ -4758,7 +5034,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010494:004",
@@ -4781,7 +5057,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010494:005",
@@ -4804,7 +5080,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010494:006",
@@ -4827,7 +5103,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010494:007",
@@ -4850,7 +5126,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010494:008",
@@ -4873,7 +5149,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010494:009",
@@ -4896,7 +5172,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010494:010",
@@ -4919,7 +5195,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010494:011",
@@ -4942,7 +5218,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010293:001",
@@ -4965,6 +5241,6 @@
     "mp": "MP000000000706 - BOPP TRANSPARENTE ACRILICO ADC220 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:08:55"
+    "atualizado": "28/06/2026, 12:11:46"
   }
 ]
