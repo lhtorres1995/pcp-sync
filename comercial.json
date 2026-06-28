@@ -404,7 +404,64 @@
         "id": "mqy8lexbuhmjc7t8fdo"
       }
     ],
-    "outros": [],
+    "outros": [
+      {
+        "desc": "Tinta Flexográfica",
+        "unid": "G",
+        "coef": 0.003,
+        "valor": 79.25,
+        "id": "mqy8lh05dfqkyzcqi9k"
+      },
+      {
+        "desc": "Insumo Konica",
+        "unid": "M²",
+        "coef": 1,
+        "valor": 6.793,
+        "id": "mqy8lh052dv47a63d6f"
+      },
+      {
+        "desc": "Clichê",
+        "unid": "CM²",
+        "coef": 1,
+        "valor": 0.17,
+        "id": "mqy8lh050ewjbejcd5gc"
+      },
+      {
+        "desc": "Hot Stamping",
+        "unid": "M²",
+        "coef": 1,
+        "valor": 2,
+        "id": "mqy8lh05ov69r10xmrq"
+      },
+      {
+        "desc": "VERNIZ FLEXOGRÁFICO",
+        "unid": "G",
+        "coef": 0.003,
+        "valor": 66.05,
+        "id": "mqy8lh05xfo6agt82jh"
+      },
+      {
+        "desc": "Cold Stamping",
+        "unid": "M²",
+        "coef": 1,
+        "valor": 2,
+        "id": "mqy8lh05toq5v85eqb"
+      },
+      {
+        "desc": "Insumo Bobst (CMYK)",
+        "unid": "M²",
+        "coef": 1,
+        "valor": 2.5,
+        "id": "mqy8lh05c11ea9teh4u"
+      },
+      {
+        "desc": "Insumo Bobst (BRANCO)",
+        "unid": "M²",
+        "coef": 1,
+        "valor": 5,
+        "id": "mqy8lh052avgkp86nda"
+      }
+    ],
     "maquinas": []
   }
 }
