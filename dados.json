@@ -2381,7 +2381,7 @@
     "status": "INICIADA (fase 2 de 2)",
     "grupo": "FLEXO 250",
     "sub": "FLEXO 2",
-    "obs": "",
+    "obs": "Aguardando Faca",
     "ordem": null,
     "metros": "906.9705",
     "velocidade": "33",
@@ -2389,7 +2389,7 @@
     "mp": "MP000000000368 - COUCHE CARTÃO TAG L2 115G - 128MM",
     "largMP": "128",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:11:46"
+    "atualizado": "28/06/2026, 20:00:17"
   },
   {
     "id": "010279:001",
