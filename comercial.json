@@ -21,7 +21,7 @@
       "pis": 41.74,
       "cofins": 192.65,
       "frete": 0,
-      "custo": 2451.09961915875,
+      "custo": 3951.09961915875,
       "invest": 100,
       "vendedor": "ALEXANDRE FRANC",
       "comissaoPct": 0,
@@ -35,7 +35,7 @@
       "origem": "importacao",
       "criadoEm": "2026-06-28T20:37:54.645Z",
       "custoMaq": 209.9110269548611,
-      "custoTotal": 2661.010646113611,
+      "custoTotal": 4161.010646113611,
       "m2Total": 157.06725
     }
   ],
