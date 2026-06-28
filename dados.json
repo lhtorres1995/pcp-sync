@@ -35,7 +35,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "CORTE BROTECH / VOREY",
     "sub": "VOREY",
-    "obs": "Aguardando Aprovacao",
+    "obs": "Aguardando AprovaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o",
     "ordem": null,
     "metros": "141.7407",
     "velocidade": "",
@@ -43,7 +43,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 19:59:39"
+    "atualizado": "28/06/2026, 12:11:46"
   },
   {
     "id": "010367:001",
@@ -150,7 +150,7 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "REVISORAS",
     "sub": "",
-    "obs": "Aguardando Faca",
+    "obs": "",
     "ordem": null,
     "metros": "2408.3333",
     "velocidade": "2400",
@@ -158,7 +158,7 @@
     "mp": "MP000000000557 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:11:46"
+    "atualizado": "28/06/2026, 19:59:47"
   },
   {
     "id": "010235:002",
@@ -219,7 +219,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "REVISORAS",
     "sub": "ETIRAMA",
-    "obs": "Aguardando Faca",
+    "obs": "",
     "ordem": null,
     "metros": "1011.3333",
     "velocidade": "2400",
@@ -227,7 +227,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:11:46"
+    "atualizado": "28/06/2026, 19:59:48"
   },
   {
     "id": "010235:005",
@@ -242,7 +242,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "REVISORAS",
     "sub": "ETIRAMA",
-    "obs": "Aguardando Faca",
+    "obs": "",
     "ordem": null,
     "metros": "1011.3333",
     "velocidade": "2400",
@@ -250,7 +250,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:11:46"
+    "atualizado": "28/06/2026, 19:59:49"
   },
   {
     "id": "010235:006",
@@ -265,7 +265,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "REVISORAS",
     "sub": "ETIRAMA",
-    "obs": "Aguardando Faca",
+    "obs": "",
     "ordem": null,
     "metros": "3805.3333",
     "velocidade": "2400",
@@ -273,7 +273,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:11:46"
+    "atualizado": "28/06/2026, 19:59:49"
   },
   {
     "id": "010235:007",
@@ -288,7 +288,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "REVISORAS",
     "sub": "ETIRAMA",
-    "obs": "Aguardando Faca",
+    "obs": "",
     "ordem": null,
     "metros": "2874",
     "velocidade": "2400",
@@ -296,7 +296,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:11:46"
+    "atualizado": "28/06/2026, 19:59:50"
   },
   {
     "id": "010235:008",
@@ -426,7 +426,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "REVISORAS",
     "sub": "ETIRAMA",
-    "obs": "Aguardando Faca",
+    "obs": "",
     "ordem": null,
     "metros": "2408.3333",
     "velocidade": "2400",
@@ -434,7 +434,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:11:46"
+    "atualizado": "28/06/2026, 19:59:51"
   },
   {
     "id": "010391:001",
