@@ -292,7 +292,118 @@
         "id": "mqy8lcynmojmpngjdb8"
       }
     ],
-    "ribbons": [],
+    "ribbons": [
+      {
+        "cod": "PR000000000050",
+        "desc": "RIBBON CERA AWR1 - 110 X 450 - CSO",
+        "forn": "ARMOR",
+        "larg": 0.11,
+        "alt": 450,
+        "custo": 0.09653,
+        "acrescimo": 0.05,
+        "id": "mqy8lexbbt77h5qxb69"
+      },
+      {
+        "cod": "PR000000000051",
+        "desc": "RIBBON CERA AWR1 - 110 X 74 CSO",
+        "forn": "ARMOR",
+        "larg": 0.11,
+        "alt": 74,
+        "custo": 0.10265,
+        "acrescimo": 0.05,
+        "id": "mqy8lexbgwclwnseoc"
+      },
+      {
+        "cod": "PR000000000104",
+        "desc": "RIBBON CERA AWR1 - 150 X 500 - CSI",
+        "forn": "ARMOR",
+        "larg": 0.15,
+        "alt": 500,
+        "custo": 0.11357,
+        "acrescimo": 0.05,
+        "id": "mqy8lexbu3ve6qvtqv"
+      },
+      {
+        "cod": "PR000000000053",
+        "desc": "RIBBON CERA AWR1 - 170 X 450 - CSO",
+        "forn": "ARMOR",
+        "larg": 0.17,
+        "alt": 450,
+        "custo": 0.11357,
+        "acrescimo": 0.05,
+        "id": "mqy8lexb4z4gdro0rx9"
+      },
+      {
+        "cod": "PR000000000058",
+        "desc": "RIBBON CERA AWXFH - 110 X 450 - CSO",
+        "forn": "ARMOR",
+        "larg": 0.11,
+        "alt": 450,
+        "custo": 0.19293,
+        "acrescimo": 0.05,
+        "id": "mqy8lexbcbwdutmprrt"
+      },
+      {
+        "cod": "PR000000000059",
+        "desc": "RIBBON MISTO APR6 - 110 X 450 - CSO",
+        "forn": "ARMOR",
+        "larg": 0.11,
+        "alt": 450,
+        "custo": 0.27846,
+        "acrescimo": 0.05,
+        "id": "mqy8lexbn0lz39msjx"
+      },
+      {
+        "cod": "PR000000000060",
+        "desc": "RIBBON MISTO APR6 - 110 X 74 - CSO",
+        "forn": "ARMOR",
+        "larg": 0.11,
+        "alt": 74,
+        "custo": 0.28938,
+        "acrescimo": 0.05,
+        "id": "mqy8lexblzhhz4nh5l"
+      },
+      {
+        "cod": "PR000000000061",
+        "desc": "RIBBON MISTO APR6 - 170 X 450 - CSO",
+        "forn": "ARMOR",
+        "larg": 0.17,
+        "alt": 450,
+        "custo": 0.27846,
+        "acrescimo": 0.05,
+        "id": "mqy8lexbh6oyglom68m"
+      },
+      {
+        "cod": "PR000000000064",
+        "desc": "RIBBON MISTO APR600 - 220 X 600 - CSI - NOVEXX",
+        "forn": "ARMOR",
+        "larg": 0.22,
+        "alt": 600,
+        "custo": 0.25553,
+        "acrescimo": 0.05,
+        "id": "mqy8lexbgwd0cbgh1xl"
+      },
+      {
+        "cod": "PR000000000067",
+        "desc": "RIBBON MISTO APR600 64 X 600 - CSI",
+        "forn": "ARMOR",
+        "larg": 0.064,
+        "alt": 600,
+        "custo": 0.18564,
+        "acrescimo": 0.05,
+        "id": "mqy8lexbwexukxff8o"
+      },
+      {
+        "cod": "PR000000000101",
+        "desc": "RIBBONS NOVEXX MISTO NEAR EDGE",
+        "forn": "ARMOR",
+        "larg": 0.06,
+        "alt": 600,
+        "custo": 0.26099,
+        "acrescimo": 0.05,
+        "id": "mqy8lexbuhmjc7t8fdo"
+      }
+    ],
     "outros": [],
     "maquinas": []
   }
