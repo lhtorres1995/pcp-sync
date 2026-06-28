@@ -978,7 +978,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 350",
     "sub": "KROMIA",
-    "obs": "",
+    "obs": "Aguardando MP",
     "ordem": null,
     "metros": "11432.4074",
     "velocidade": "2400",
@@ -986,7 +986,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:11:46"
+    "atualizado": "28/06/2026, 20:00:56"
   },
   {
     "id": "010329:002",
