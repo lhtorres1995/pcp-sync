@@ -1,1 +1,299 @@
-{"vendas":[],"produtos":[],"params":{"substratos":[],"ribbons":[],"outros":[],"maquinas":[]}}
+{
+  "vendas": [],
+  "produtos": [],
+  "params": {
+    "substratos": [
+      {
+        "desc": "BOPP BRANCO ACRILICO - ADC210",
+        "preco": 3.8461,
+        "garantia": 0.05,
+        "ipi": 0.0975,
+        "icms": 0.04,
+        "fornecedor": "Colacril",
+        "id": "mqy8lcynqmgqa6j0zsi"
+      },
+      {
+        "desc": "BOPP BRANCO BRILHO",
+        "preco": 6.01,
+        "garantia": 0.05,
+        "ipi": 0.0975,
+        "icms": 0.18,
+        "fornecedor": "",
+        "id": "mqy8lcyn52sjjyp4lrn"
+      },
+      {
+        "desc": "BOPP BRANCO BRILHO DIGITAL - HAVIR",
+        "preco": 24.8668,
+        "garantia": 0.05,
+        "ipi": 0.0975,
+        "icms": 0.18,
+        "fornecedor": "Havir",
+        "id": "mqy8lcynp2wk8y58td"
+      },
+      {
+        "desc": "BOPP BRANCO FOSCO ACRILICO NTC - S0290",
+        "preco": 3.79,
+        "garantia": 0.05,
+        "ipi": 0.0975,
+        "icms": 0.18,
+        "fornecedor": "Fasson",
+        "id": "mqy8lcynphl6vwufpfm"
+      },
+      {
+        "desc": "BOPP BRANCO FOSCO BORRACHA - C2075",
+        "preco": 3.87,
+        "garantia": 0.05,
+        "ipi": 0.0975,
+        "icms": 0.18,
+        "fornecedor": "Fasson",
+        "id": "mqy8lcyn1apu3f0qoyj"
+      },
+      {
+        "desc": "BOPP BRANCO FOSCO DIGITAL - HAVIR",
+        "preco": 14.8623,
+        "garantia": 0.05,
+        "ipi": 0.0975,
+        "icms": 0.18,
+        "fornecedor": "Havir",
+        "id": "mqy8lcynhgqb057iku"
+      },
+      {
+        "desc": "BOPP METALIZADO",
+        "preco": 6.527,
+        "garantia": 0.05,
+        "ipi": 0.0975,
+        "icms": 0.18,
+        "fornecedor": "",
+        "id": "mqy8lcynewugxg6hojh"
+      },
+      {
+        "desc": "BOPP METALIZADO ACRILICO - S0290",
+        "preco": 3.66,
+        "garantia": 0.05,
+        "ipi": 0.0975,
+        "icms": 0.18,
+        "fornecedor": "Fasson",
+        "id": "mqy8lcynv85x0hkp4pj"
+      },
+      {
+        "desc": "BOPP TRANSPARENTE",
+        "preco": 5.2216,
+        "garantia": 0.05,
+        "ipi": 0.0975,
+        "icms": 0.18,
+        "fornecedor": "",
+        "id": "mqy8lcynq9h1kiuc5qa"
+      },
+      {
+        "desc": "BOPP TRANSPARENTE ACRILICO NTC - S0290",
+        "preco": 4.04,
+        "garantia": 0.05,
+        "ipi": 0.0975,
+        "icms": 0.18,
+        "fornecedor": "Fasson",
+        "id": "mqy8lcyn9uv61bxtv9m"
+      },
+      {
+        "desc": "BOPP TRANSPARENTE DIGITAL - HAVIR",
+        "preco": 26.9533,
+        "garantia": 0.05,
+        "ipi": 0.0975,
+        "icms": 0.18,
+        "fornecedor": "Havir",
+        "id": "mqy8lcynempa4bidsl"
+      },
+      {
+        "desc": "COUCHE ACRILICO - S0518",
+        "preco": 2.89,
+        "garantia": 0.05,
+        "ipi": 0.0325,
+        "icms": 0.18,
+        "fornecedor": "Fasson",
+        "id": "mqy8lcyn5g0h4kg3236"
+      },
+      {
+        "desc": "COUCHE BORRACHA - DFAM450",
+        "preco": 6.51,
+        "garantia": 0.05,
+        "ipi": 0.0325,
+        "icms": 0.18,
+        "fornecedor": "Fasson",
+        "id": "mqy8lcyni7w1hdy5ky"
+      },
+      {
+        "desc": "COUCHE BORRACHA - S2045",
+        "preco": 2.66,
+        "garantia": 0.05,
+        "ipi": 0.0325,
+        "icms": 0.18,
+        "fornecedor": "Fasson",
+        "id": "mqy8lcynzq68b4k4f8"
+      },
+      {
+        "desc": "COUCHE TAG",
+        "preco": 2,
+        "garantia": 0.05,
+        "ipi": 0.0975,
+        "icms": 0.18,
+        "fornecedor": "",
+        "id": "mqy8lcyn6dshr9w7jrp"
+      },
+      {
+        "desc": "ECOTRANSFER - C2075",
+        "preco": 3.74,
+        "garantia": 0.08,
+        "ipi": 0.0325,
+        "icms": 0.18,
+        "fornecedor": "Fasson",
+        "id": "mqy8lcyn2wgofbl150j"
+      },
+      {
+        "desc": "FASVINYL CLEAR - S695",
+        "preco": 25.172,
+        "garantia": 0.05,
+        "ipi": 0.0975,
+        "icms": 0.18,
+        "fornecedor": "Fasson",
+        "id": "mqy8lcyn937f60sjc5v"
+      },
+      {
+        "desc": "LAMINAÇÃO BRILHO",
+        "preco": 1.3,
+        "garantia": 0,
+        "ipi": 0,
+        "icms": 0,
+        "fornecedor": "",
+        "id": "mqy8lcynpmh23jt156"
+      },
+      {
+        "desc": "LAMINAÇÃO BRILHO - BITRATADA",
+        "preco": 0.73,
+        "garantia": 0,
+        "ipi": 0,
+        "icms": 0,
+        "fornecedor": "",
+        "id": "mqy8lcynwqzg9ooepxs"
+      },
+      {
+        "desc": "LAMINAÇÃO FOSCA",
+        "preco": 1.9,
+        "garantia": 0,
+        "ipi": 0,
+        "icms": 0,
+        "fornecedor": "",
+        "id": "mqy8lcyn7yc95qu4x4h"
+      },
+      {
+        "desc": "NÃO",
+        "preco": 0,
+        "garantia": 0,
+        "ipi": 0,
+        "icms": 0,
+        "fornecedor": "",
+        "id": "mqy8lcynrzvyycwevk9"
+      },
+      {
+        "desc": "PE BRANCO ACRILICO TC - S0290",
+        "preco": 12.5,
+        "garantia": 0.05,
+        "ipi": 0.0975,
+        "icms": 0.18,
+        "fornecedor": "",
+        "id": "mqy8lcynwn8elc7zn2j"
+      },
+      {
+        "desc": "PE TRANSPARENTE ACRILICO TC - S0290",
+        "preco": 12.5,
+        "garantia": 0.05,
+        "ipi": 0.0975,
+        "icms": 0.18,
+        "fornecedor": "",
+        "id": "mqy8lcyn1xyfchw3oqu"
+      },
+      {
+        "desc": "PET ACRILICO - ADC210",
+        "preco": 14.7361,
+        "garantia": 0.05,
+        "ipi": 0.0975,
+        "icms": 0.04,
+        "fornecedor": "Colacril",
+        "id": "mqy8lcyn90wtwygod8t"
+      },
+      {
+        "desc": "SINTETICO",
+        "preco": 2.22,
+        "garantia": 0.05,
+        "ipi": 0.0975,
+        "icms": 0.18,
+        "fornecedor": "",
+        "id": "mqy8lcyntpqku9z1rvk"
+      },
+      {
+        "desc": "TERMICO DIRETO",
+        "preco": 3.4047,
+        "garantia": 0.05,
+        "ipi": 0.0325,
+        "icms": 0.18,
+        "fornecedor": "",
+        "id": "mqy8lcynv5n33gndhg"
+      },
+      {
+        "desc": "TRANSTERMICO ACRILICO - ADC1000",
+        "preco": 3.7362,
+        "garantia": 0.05,
+        "ipi": 0.0325,
+        "icms": 0.12,
+        "fornecedor": "Colacril",
+        "id": "mqy8lcynfmrzi0dbf1p"
+      },
+      {
+        "desc": "TRANSTERMICO BORRACHA - C2075",
+        "preco": 4.13,
+        "garantia": 0.05,
+        "ipi": 0.0325,
+        "icms": 0.18,
+        "fornecedor": "Fasson",
+        "id": "mqy8lcynperhuvchd0m"
+      },
+      {
+        "desc": "TRANSTERMICO BORRACHA - ADC6000",
+        "preco": 3.6153,
+        "garantia": 0.05,
+        "ipi": 0.0325,
+        "icms": 0.12,
+        "fornecedor": "Colacril",
+        "id": "mqy8lcynbhlozfkaycp"
+      },
+      {
+        "desc": "TT2",
+        "preco": 3.59,
+        "garantia": 0.05,
+        "ipi": 0.0975,
+        "icms": 0.18,
+        "fornecedor": "Fasson",
+        "id": "mqy8lcynpnmrb1kcrs"
+      },
+      {
+        "desc": "TYVEK",
+        "preco": 12.4558,
+        "garantia": 0.05,
+        "ipi": 0,
+        "icms": 0,
+        "fornecedor": "",
+        "id": "mqy8lcyn1z9dsntutl5"
+      },
+      {
+        "desc": "VINIL",
+        "preco": 7.5238,
+        "garantia": 0.05,
+        "ipi": 0.0975,
+        "icms": 0,
+        "fornecedor": "",
+        "id": "mqy8lcynmojmpngjdb8"
+      }
+    ],
+    "ribbons": [],
+    "outros": [],
+    "maquinas": []
+  }
+}
