@@ -1,7 +1,7 @@
 {
   "vendas": [
     {
-      "id": "mqy8wv8hsqfj2xt90yr",
+      "id": "mqy93dclfbhfd0sfpqd",
       "emissao": "2026-06-16",
       "pedido": "010420",
       "cliente": "HENKEL - JUNDIAI",
@@ -22,7 +22,7 @@
       "cofins": 192.65,
       "frete": 0,
       "custo": 2451.09961915875,
-      "custoMaq": 209.9110269548611,
+      "invest": 100,
       "vendedor": "ALEXANDRE FRANC",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -33,7 +33,8 @@
       "ribbon": "NÃO",
       "qntdModelos": 1,
       "origem": "importacao",
-      "criadoEm": "2026-06-28T20:32:51.233Z",
+      "criadoEm": "2026-06-28T20:37:54.645Z",
+      "custoMaq": 209.9110269548611,
       "custoTotal": 2661.010646113611,
       "m2Total": 157.06725
     }
