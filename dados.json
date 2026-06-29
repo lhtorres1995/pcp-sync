@@ -2586,7 +2586,7 @@
     "entrega": "03/07/2026",
     "status": "INICIADA (fase 2 de 2)",
     "grupo": "FLEXO 250",
-    "sub": "FLEXO 2",
+    "sub": "",
     "obs": "Aguardando Faca",
     "ordem": 160,
     "finalizadoEm": "",
@@ -2597,7 +2597,7 @@
     "mp": "MP000000000368 - COUCHE CARTÃO TAG L2 115G - 128MM",
     "largMP": "128",
     "finalizado": false,
-    "atualizado": "29/06/2026, 20:40:36"
+    "atualizado": "29/06/2026, 20:41:38"
   },
   {
     "id": "010279:001",
@@ -2911,7 +2911,7 @@
     "entrega": "03/07/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 250",
-    "sub": "FLEXO 2",
+    "sub": "",
     "obs": "Aguardando Faca",
     "ordem": 170,
     "finalizadoEm": "",
@@ -2922,7 +2922,7 @@
     "mp": "MP000000000368 - COUCHE CARTÃO TAG L2 115G - 128MM",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "29/06/2026, 20:40:36"
+    "atualizado": "29/06/2026, 20:41:39"
   },
   {
     "id": "010416:001",
