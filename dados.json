@@ -1762,7 +1762,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 250",
     "sub": "",
-    "obs": "Aguardando AprovaÃ§Ã£o",
+    "obs": "Aguardando Aprovacao",
     "ordem": 10,
     "finalizadoEm": "",
     "noPrazo": null,
@@ -1772,7 +1772,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "29/06/2026, 20:40:36"
+    "atualizado": "29/06/2026, 20:41:31"
   },
   {
     "id": "010466:001",
