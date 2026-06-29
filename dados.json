@@ -2472,8 +2472,8 @@
     "entrega": "03/07/2026",
     "status": "INICIADA (fase 1 de 1)",
     "grupo": "TROQUELADORAS",
-    "sub": "TROQUELADORA 2",
-    "obs": "Aguardando Faca",
+    "sub": "",
+    "obs": "",
     "ordem": null,
     "metros": "2635.3294",
     "velocidade": "16256",
@@ -2481,7 +2481,7 @@
     "mp": "MP000000000480 - BOPP FOSCO INKJET - 220MM/MP000000000480 - BOPP FOSCO INKJET - 220MM/MP000000000480 - BOPP FOSCO INKJET - 220MM",
     "largMP": "220",
     "finalizado": false,
-    "atualizado": "29/06/2026, 07:56:42"
+    "atualizado": "29/06/2026, 07:59:23"
   },
   {
     "id": "010275:001",
