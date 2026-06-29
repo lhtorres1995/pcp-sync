@@ -4861,7 +4861,7 @@
     "entrega": "08/07/2026",
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 250",
-    "sub": "FLEXO 2",
+    "sub": "",
     "obs": "Aguardando Faca",
     "ordem": 180,
     "finalizadoEm": "",
@@ -4872,7 +4872,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "29/06/2026, 20:51:57"
+    "atualizado": "29/06/2026, 20:54:47"
   },
   {
     "id": "010363:002",
