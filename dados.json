@@ -2537,7 +2537,7 @@
     "status": "INICIADA (fase 1 de 1)",
     "grupo": "FLEXO 250",
     "sub": "FLEXO 3",
-    "obs": "Aguardando Faca",
+    "obs": "",
     "ordem": 20,
     "finalizadoEm": "",
     "noPrazo": null,
@@ -2547,7 +2547,7 @@
     "mp": "MP000000000480 - BOPP FOSCO INKJET - 220MM/MP000000000480 - BOPP FOSCO INKJET - 220MM/MP000000000480 - BOPP FOSCO INKJET - 220MM",
     "largMP": "220",
     "finalizado": false,
-    "atualizado": "29/06/2026, 20:40:36"
+    "atualizado": "29/06/2026, 20:41:26"
   },
   {
     "id": "010151:001",
