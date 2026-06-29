@@ -4449,8 +4449,8 @@
     "un": "MI",
     "entrega": "07/07/2026",
     "status": "PRONTA PARA INÍCIO",
-    "grupo": "TROQUELADORAS",
-    "sub": "TROQUELADORA 2",
+    "grupo": "FLEXO 250",
+    "sub": "",
     "obs": "",
     "ordem": 190,
     "metros": "1396.9726",
@@ -4459,7 +4459,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "29/06/2026, 07:56:42"
+    "atualizado": "29/06/2026, 08:00:24"
   },
   {
     "id": "010510:006",
