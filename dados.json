@@ -1686,8 +1686,8 @@
     "entrega": "01/07/2026",
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 250",
-    "sub": "FLEXO 1",
-    "obs": "Aguardando ClichÃÂª",
+    "sub": "",
+    "obs": "Aguardando Cliche",
     "ordem": 160,
     "finalizadoEm": "",
     "noPrazo": null,
@@ -1697,7 +1697,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "29/06/2026, 20:51:57"
+    "atualizado": "29/06/2026, 20:54:56"
   },
   {
     "id": "010451:005",
