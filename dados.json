@@ -677,8 +677,8 @@
     "un": "UN",
     "entrega": "30/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "TROQUELADORAS",
-    "sub": "TROQUELADORA 2",
+    "grupo": "REVISORAS",
+    "sub": "",
     "obs": "",
     "ordem": 80,
     "metros": "16052.1053",
@@ -687,7 +687,7 @@
     "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000369 - TT2 - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "29/06/2026, 07:56:42"
+    "atualizado": "29/06/2026, 07:59:47"
   },
   {
     "id": "010385:001",
