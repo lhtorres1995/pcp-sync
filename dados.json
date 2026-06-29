@@ -3852,7 +3852,7 @@
     "entrega": "06/07/2026",
     "status": "INICIADA (fase 2 de 2)",
     "grupo": "TROQUELADORAS",
-    "sub": "TROQUELADORA 2",
+    "sub": "TROQUELADORA 1",
     "obs": "",
     "ordem": 160,
     "metros": "26880",
@@ -3861,7 +3861,7 @@
     "mp": "MP000000000550 - BOPP BRANCO FOSCO BORRACHA C2075 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "29/06/2026, 07:56:42"
+    "atualizado": "29/06/2026, 08:07:43"
   },
   {
     "id": "010335:002",
