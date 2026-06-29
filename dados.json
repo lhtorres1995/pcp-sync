@@ -1622,7 +1622,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 250",
     "sub": "",
-    "obs": "Aguardando AprovaÃÂÃÂ§ÃÂÃÂ£o",
+    "obs": "Aguardando Aprovacao",
     "ordem": null,
     "metros": "5170",
     "velocidade": "2400",
@@ -1630,7 +1630,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:11:46"
+    "atualizado": "29/06/2026, 06:51:16"
   },
   {
     "id": "010466:001",
@@ -4405,7 +4405,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 250",
     "sub": "",
-    "obs": "",
+    "obs": "Aguardando Faca",
     "ordem": null,
     "metros": "3446.6667",
     "velocidade": "3000",
@@ -4413,7 +4413,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:11:46"
+    "atualizado": "29/06/2026, 06:51:17"
   },
   {
     "id": "010363:003",
