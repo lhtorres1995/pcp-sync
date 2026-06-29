@@ -2104,7 +2104,7 @@
     "entrega": "02/07/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "TROQUELADORAS",
-    "sub": "TROQUELADORA 1",
+    "sub": "TROQUELADORA 2",
     "obs": "",
     "ordem": 110,
     "metros": "2000",
@@ -2113,7 +2113,7 @@
     "mp": "MP000000000735 - BOPP BRILHO INKJET - 130MM",
     "largMP": "130",
     "finalizado": false,
-    "atualizado": "29/06/2026, 08:19:07"
+    "atualizado": "29/06/2026, 10:11:53"
   },
   {
     "id": "010133:005",
