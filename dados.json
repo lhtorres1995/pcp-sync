@@ -2680,7 +2680,7 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "TROQUELADORAS",
     "sub": "TROQUELADORA 1",
-    "obs": "Aguardando Faca",
+    "obs": "",
     "ordem": 130,
     "metros": "2783.9453",
     "velocidade": "2400",
@@ -2688,7 +2688,7 @@
     "mp": "MP000000000043 - COUCHE BORRACHA 20G (ECOPRINT) - 214MM",
     "largMP": "214",
     "finalizado": false,
-    "atualizado": "28/06/2026, 12:11:46"
+    "atualizado": "29/06/2026, 06:52:03"
   },
   {
     "id": "010397:001",
