@@ -1111,7 +1111,7 @@
     "entrega": "01/07/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
-    "sub": "",
+    "sub": "VOREY",
     "obs": "",
     "ordem": 30,
     "finalizadoEm": "",
@@ -1122,7 +1122,7 @@
     "mp": "MP000000000533 - COUCHE BORRACHA 20G (ECOPRINT) - 322MM",
     "largMP": "322",
     "finalizado": false,
-    "atualizado": "30/06/2026, 08:26:20"
+    "atualizado": "30/06/2026, 12:02:01"
   },
   {
     "id": "010181:001",
