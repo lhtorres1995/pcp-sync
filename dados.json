@@ -1687,7 +1687,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 250",
     "sub": "FLEXO 1",
-    "obs": "Aguardando Cliche",
+    "obs": "",
     "ordem": 160,
     "finalizadoEm": "",
     "noPrazo": null,
@@ -1697,7 +1697,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "29/06/2026, 21:31:56"
+    "atualizado": "29/06/2026, 21:33:00"
   },
   {
     "id": "010451:005",
