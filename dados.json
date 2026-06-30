@@ -1636,7 +1636,7 @@
     "entrega": "01/07/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
-    "sub": "",
+    "sub": "VOREY",
     "obs": "",
     "ordem": 40,
     "finalizadoEm": "",
@@ -1647,7 +1647,7 @@
     "mp": "MP000000000533 - COUCHE BORRACHA 20G (ECOPRINT) - 322MM",
     "largMP": "322",
     "finalizado": false,
-    "atualizado": "30/06/2026, 08:26:24"
+    "atualizado": "30/06/2026, 12:02:03"
   },
   {
     "id": "010451:002",
@@ -2411,7 +2411,7 @@
     "entrega": "02/07/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
-    "sub": "",
+    "sub": "VOREY",
     "obs": "",
     "ordem": 80,
     "finalizadoEm": "",
@@ -2422,7 +2422,7 @@
     "mp": "PR000000000060 - RIBBON MISTO APR6 - 110 X 74 - CSO/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "30/06/2026, 08:26:35"
+    "atualizado": "30/06/2026, 12:02:05"
   },
   {
     "id": "010507:001",
@@ -2486,7 +2486,7 @@
     "entrega": "02/07/2026",
     "status": "PRONTA PARA INÍCIO",
     "grupo": "CORTE BROTECH / VOREY",
-    "sub": "",
+    "sub": "VOREY",
     "obs": "",
     "ordem": 170,
     "finalizadoEm": "",
@@ -2497,7 +2497,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "30/06/2026, 08:26:43"
+    "atualizado": "30/06/2026, 12:02:07"
   },
   {
     "id": "010518:001",
