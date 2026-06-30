@@ -1187,7 +1187,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 250",
     "sub": "FLEXO 1",
-    "obs": "Aguardando Faca",
+    "obs": "",
     "ordem": 100,
     "finalizadoEm": "",
     "noPrazo": null,
@@ -1197,7 +1197,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "29/06/2026, 21:31:56"
+    "atualizado": "29/06/2026, 21:32:54"
   },
   {
     "id": "010231:002",
@@ -1212,7 +1212,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 250",
     "sub": "FLEXO 1",
-    "obs": "Aguardando Faca",
+    "obs": "",
     "ordem": 110,
     "finalizadoEm": "",
     "noPrazo": null,
@@ -1222,7 +1222,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "29/06/2026, 21:31:56"
+    "atualizado": "29/06/2026, 21:32:55"
   },
   {
     "id": "010231:003",
@@ -1237,7 +1237,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 250",
     "sub": "FLEXO 1",
-    "obs": "Aguardando Faca",
+    "obs": "",
     "ordem": 120,
     "finalizadoEm": "",
     "noPrazo": null,
@@ -1247,7 +1247,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "29/06/2026, 21:31:56"
+    "atualizado": "29/06/2026, 21:32:56"
   },
   {
     "id": "010231:004",
@@ -1262,7 +1262,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 250",
     "sub": "FLEXO 1",
-    "obs": "Aguardando Faca",
+    "obs": "",
     "ordem": 130,
     "finalizadoEm": "",
     "noPrazo": null,
@@ -1272,7 +1272,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "29/06/2026, 21:31:56"
+    "atualizado": "29/06/2026, 21:32:56"
   },
   {
     "id": "010231:005",
@@ -1287,7 +1287,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 250",
     "sub": "FLEXO 1",
-    "obs": "Aguardando Faca",
+    "obs": "",
     "ordem": 140,
     "finalizadoEm": "",
     "noPrazo": null,
@@ -1297,7 +1297,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "29/06/2026, 21:31:56"
+    "atualizado": "29/06/2026, 21:32:57"
   },
   {
     "id": "010231:006",
@@ -1312,7 +1312,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 250",
     "sub": "FLEXO 1",
-    "obs": "Aguardando Faca",
+    "obs": "",
     "ordem": 150,
     "finalizadoEm": "",
     "noPrazo": null,
@@ -1322,7 +1322,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "29/06/2026, 21:31:56"
+    "atualizado": "29/06/2026, 21:32:59"
   },
   {
     "id": "010234:001",
