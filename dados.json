@@ -660,7 +660,7 @@
     "un": "MI",
     "entrega": "30/06/2026",
     "status": "PRONTA PARA INÍCIO",
-    "grupo": "TROQUELADORAS",
+    "grupo": "BATIDA",
     "sub": "",
     "obs": "Aguardando Faca",
     "ordem": 10,
@@ -672,7 +672,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "29/06/2026, 21:34:46"
+    "atualizado": "30/06/2026, 09:57:15"
   },
   {
     "id": "010446:003",
