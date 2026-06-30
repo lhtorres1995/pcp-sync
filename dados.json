@@ -511,7 +511,7 @@
     "entrega": "30/06/2026",
     "status": "INICIADA (fase 2 de 2)",
     "grupo": "FLEXO 250",
-    "sub": "FLEXO 1",
+    "sub": "",
     "obs": "Aguardando MP",
     "ordem": 90,
     "finalizadoEm": "",
@@ -522,7 +522,7 @@
     "mp": "MP000000000469 - ECOTRANSFER C2075 - 155MM",
     "largMP": "155",
     "finalizado": false,
-    "atualizado": "29/06/2026, 20:51:57"
+    "atualizado": "29/06/2026, 21:06:39"
   },
   {
     "id": "009960:001",
