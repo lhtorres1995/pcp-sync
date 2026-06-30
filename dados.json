@@ -635,8 +635,8 @@
     "un": "UN",
     "entrega": "30/06/2026",
     "status": "INICIADA",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "VOREY",
+    "grupo": "REVISORAS",
+    "sub": "",
     "obs": "",
     "ordem": 10,
     "finalizadoEm": "",
@@ -647,7 +647,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "29/06/2026, 21:34:46"
+    "atualizado": "30/06/2026, 14:20:21"
   },
   {
     "id": "010385:001",
