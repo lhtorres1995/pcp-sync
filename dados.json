@@ -2185,7 +2185,7 @@
     "un": "ROLO",
     "entrega": "02/07/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "TROQUELADORAS",
+    "grupo": "__FIN__",
     "sub": "TROQUELADORA 2",
     "obs": "",
     "ordem": 20,
@@ -2196,8 +2196,8 @@
     "setup": "10",
     "mp": "MP000000000735 - BOPP BRILHO INKJET - 130MM",
     "largMP": "130",
-    "finalizado": false,
-    "atualizado": "29/06/2026, 21:34:46"
+    "finalizado": true,
+    "atualizado": "30/06/2026, 12:02:22"
   },
   {
     "id": "010133:005",
