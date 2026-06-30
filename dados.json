@@ -2135,8 +2135,8 @@
     "un": "UN",
     "entrega": "02/07/2026",
     "status": "INICIADA (fase 2 de 2)",
-    "grupo": "TROQUELADORAS",
-    "sub": "TROQUELADORA 1",
+    "grupo": "REVISORAS",
+    "sub": "",
     "obs": "",
     "ordem": 20,
     "finalizadoEm": "",
@@ -2147,7 +2147,7 @@
     "mp": "MP000000000894 - COUCHE BRILHO INKJET - 163MM/MP000000000894 - COUCHE BRILHO INKJET - 163MM",
     "largMP": "163",
     "finalizado": false,
-    "atualizado": "29/06/2026, 21:34:46"
+    "atualizado": "30/06/2026, 14:20:32"
   },
   {
     "id": "010306:001",
