@@ -3136,7 +3136,7 @@
     "entrega": "03/07/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
-    "sub": "",
+    "sub": "ETIRAMA",
     "obs": "",
     "ordem": 10,
     "finalizadoEm": "",
@@ -3147,7 +3147,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000751 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 330MM",
     "largMP": "285",
     "finalizado": false,
-    "atualizado": "30/06/2026, 08:26:05"
+    "atualizado": "30/06/2026, 12:06:44"
   },
   {
     "id": "010437:008",
