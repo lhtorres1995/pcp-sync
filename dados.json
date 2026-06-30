@@ -210,8 +210,8 @@
     "un": "MI",
     "entrega": "29/06/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "FLEXO 350",
-    "sub": "ETIRAMA",
+    "grupo": "REVISORAS",
+    "sub": "",
     "obs": "",
     "ordem": 140,
     "finalizadoEm": "",
@@ -222,7 +222,7 @@
     "mp": "MP000000000757 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 195MM",
     "largMP": "195",
     "finalizado": false,
-    "atualizado": "29/06/2026, 21:37:13"
+    "atualizado": "30/06/2026, 12:05:43"
   },
   {
     "id": "010235:004",
@@ -2173,31 +2173,6 @@
     "largMP": "330",
     "finalizado": false,
     "atualizado": "29/06/2026, 21:34:46"
-  },
-  {
-    "id": "010349:002",
-    "pedido": "010349",
-    "item": "002",
-    "cliente": "000945-LOT NUTRITION  NUTRACEUTI",
-    "produto": "PA000000001910",
-    "descricao": "ETIQUETA BOPP BRILHO - 70MM X 40M",
-    "qtd": "25",
-    "un": "ROLO",
-    "entrega": "02/07/2026",
-    "status": "MATERIAL EMPENHADO",
-    "grupo": "__FIN__",
-    "sub": "TROQUELADORA 2",
-    "obs": "",
-    "ordem": 20,
-    "finalizadoEm": "",
-    "noPrazo": null,
-    "metros": "2000",
-    "velocidade": "2400",
-    "setup": "10",
-    "mp": "MP000000000735 - BOPP BRILHO INKJET - 130MM",
-    "largMP": "130",
-    "finalizado": true,
-    "atualizado": "30/06/2026, 12:02:22"
   },
   {
     "id": "010133:005",
