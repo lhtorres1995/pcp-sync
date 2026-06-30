@@ -1737,7 +1737,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 250",
     "sub": "FLEXO 2",
-    "obs": "Aguardando Faca",
+    "obs": "",
     "ordem": 150,
     "finalizadoEm": "",
     "noPrazo": null,
@@ -1747,7 +1747,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "29/06/2026, 21:34:46"
+    "atualizado": "29/06/2026, 21:35:54"
   },
   {
     "id": "010451:007",
