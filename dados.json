@@ -2535,7 +2535,7 @@
     "un": "PEÇA",
     "entrega": "03/07/2026",
     "status": "INICIADA (fase 1 de 1)",
-    "grupo": "FLEXO 250",
+    "grupo": "__FIN__",
     "sub": "FLEXO 3",
     "obs": "",
     "ordem": 20,
@@ -2546,8 +2546,8 @@
     "setup": "10",
     "mp": "MP000000000480 - BOPP FOSCO INKJET - 220MM/MP000000000480 - BOPP FOSCO INKJET - 220MM/MP000000000480 - BOPP FOSCO INKJET - 220MM",
     "largMP": "220",
-    "finalizado": false,
-    "atualizado": "29/06/2026, 21:35:51"
+    "finalizado": true,
+    "atualizado": "30/06/2026, 09:53:45"
   },
   {
     "id": "010151:001",
