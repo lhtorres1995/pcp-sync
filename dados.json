@@ -1460,8 +1460,8 @@
     "un": "UN",
     "entrega": "01/07/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "BATIDA",
-    "sub": "CHINESA",
+    "grupo": "REVISORAS",
+    "sub": "",
     "obs": "",
     "ordem": 10,
     "finalizadoEm": "",
@@ -1472,7 +1472,7 @@
     "mp": "MP000000000242 - BOPP BRANCO FOSCO ACRÍLICO NTC S0290 - 180MM",
     "largMP": "180",
     "finalizado": false,
-    "atualizado": "29/06/2026, 21:34:46"
+    "atualizado": "30/06/2026, 14:21:09"
   },
   {
     "id": "010321:007",
