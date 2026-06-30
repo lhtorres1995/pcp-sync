@@ -1660,7 +1660,7 @@
     "un": "UN",
     "entrega": "01/07/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "DIGITAL",
+    "grupo": "FLEXO 250",
     "sub": "",
     "obs": "",
     "ordem": 70,
@@ -1672,7 +1672,7 @@
     "mp": "MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "29/06/2026, 21:34:46"
+    "atualizado": "30/06/2026, 15:45:53"
   },
   {
     "id": "010451:004",
