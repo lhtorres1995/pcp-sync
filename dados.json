@@ -4860,8 +4860,8 @@
     "un": "PEÇA",
     "entrega": "07/07/2026",
     "status": "PRONTA PARA INÍCIO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "BROTECH",
+    "grupo": "REVISORAS",
+    "sub": "",
     "obs": "",
     "ordem": 50,
     "finalizadoEm": "",
@@ -4872,7 +4872,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "01/07/2026, 07:12:01"
+    "atualizado": "01/07/2026, 10:16:21"
   },
   {
     "id": "010517:001",
