@@ -136,7 +136,7 @@
     "entrega": "29/06/2026",
     "status": "INICIADA",
     "grupo": "CORTE BROTECH / VOREY",
-    "sub": "",
+    "sub": "VOREY",
     "obs": "",
     "ordem": 10,
     "finalizadoEm": "",
@@ -147,7 +147,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "01/07/2026, 07:12:01"
+    "atualizado": "01/07/2026, 07:18:28"
   },
   {
     "id": "010235:002",
