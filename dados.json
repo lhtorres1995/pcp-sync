@@ -1185,8 +1185,8 @@
     "un": "MI",
     "entrega": "01/07/2026",
     "status": "PRONTA PARA INÍCIO",
-    "grupo": "FLEXO 250",
-    "sub": "FLEXO 1",
+    "grupo": "REVISORAS",
+    "sub": "",
     "obs": "",
     "ordem": 150,
     "finalizadoEm": "",
@@ -1197,7 +1197,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "01/07/2026, 07:12:01"
+    "atualizado": "01/07/2026, 07:13:49"
   },
   {
     "id": "010234:001",
