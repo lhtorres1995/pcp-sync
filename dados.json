@@ -1360,7 +1360,7 @@
     "un": "UN",
     "entrega": "01/07/2026",
     "status": "PRONTA PARA INÍCIO",
-    "grupo": "CORTE BROTECH / VOREY",
+    "grupo": "__FIN__",
     "sub": "VOREY",
     "obs": "",
     "ordem": 20,
@@ -1371,8 +1371,8 @@
     "setup": "10",
     "mp": "",
     "largMP": "",
-    "finalizado": false,
-    "atualizado": "01/07/2026, 07:12:01"
+    "finalizado": true,
+    "atualizado": "01/07/2026, 16:46:57"
   },
   {
     "id": "010353:001",
