@@ -4235,7 +4235,7 @@
     "un": "MI",
     "entrega": "06/07/2026",
     "status": "PRONTA PARA INÍCIO",
-    "grupo": "TROQUELADORAS",
+    "grupo": "__FIN__",
     "sub": "TROQUELADORA 2",
     "obs": "",
     "ordem": null,
@@ -4246,8 +4246,8 @@
     "setup": "10",
     "mp": "",
     "largMP": "",
-    "finalizado": false,
-    "atualizado": "01/07/2026, 07:12:01"
+    "finalizado": true,
+    "atualizado": "01/07/2026, 16:46:16"
   },
   {
     "id": "010399:001",
