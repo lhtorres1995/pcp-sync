@@ -1962,7 +1962,7 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "KROMIA",
-    "obs": "",
+    "obs": "Aguardando MP",
     "ordem": 20,
     "finalizadoEm": "",
     "noPrazo": null,
@@ -1972,7 +1972,7 @@
     "mp": "MP000000000634 - SINTETICO BCD - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "01/07/2026, 07:12:01"
+    "atualizado": "01/07/2026, 07:17:42"
   },
   {
     "id": "010133:001",
