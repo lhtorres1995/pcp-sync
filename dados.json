@@ -1610,8 +1610,8 @@
     "un": "UN",
     "entrega": "01/07/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "FLEXO 250",
-    "sub": "FLEXO 2",
+    "grupo": "REVISORAS",
+    "sub": "",
     "obs": "Aguardando Faca",
     "ordem": 150,
     "finalizadoEm": "",
@@ -1622,7 +1622,7 @@
     "mp": "MP000000000015 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 180MM",
     "largMP": "180",
     "finalizado": false,
-    "atualizado": "01/07/2026, 07:12:01"
+    "atualizado": "01/07/2026, 07:15:29"
   },
   {
     "id": "010451:007",
