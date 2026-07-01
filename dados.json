@@ -412,7 +412,7 @@
     "status": "INICIADA (fase 2 de 2)",
     "grupo": "FLEXO 350",
     "sub": "NACBRAS",
-    "obs": "Aguardando MP",
+    "obs": "",
     "ordem": 40,
     "finalizadoEm": "",
     "noPrazo": null,
@@ -422,7 +422,7 @@
     "mp": "MP000000000409 - TRANSTERMICO ACRILICO ADC1000 - 333MM",
     "largMP": "333",
     "finalizado": false,
-    "atualizado": "01/07/2026, 07:12:01"
+    "atualizado": "01/07/2026, 10:19:53"
   },
   {
     "id": "010459:001",
