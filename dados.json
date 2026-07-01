@@ -3210,7 +3210,7 @@
     "un": "PEÇA",
     "entrega": "03/07/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "TROQUELADORAS",
+    "grupo": "__FIN__",
     "sub": "TROQUELADORA 1",
     "obs": "",
     "ordem": 10,
@@ -3221,8 +3221,8 @@
     "setup": "10",
     "mp": "MP000000000797 - BOPP FOSCO INKJET - 176MM",
     "largMP": "176",
-    "finalizado": false,
-    "atualizado": "01/07/2026, 07:12:01"
+    "finalizado": true,
+    "atualizado": "01/07/2026, 16:45:39"
   },
   {
     "id": "010519:001",
