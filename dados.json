@@ -62,7 +62,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
-    "obs": "Aguardando Aprovação",
+    "obs": "Aguardando Aprovacao",
     "ordem": 130,
     "finalizadoEm": "",
     "noPrazo": null,
@@ -72,7 +72,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "01/07/2026, 07:12:01"
+    "atualizado": "01/07/2026, 07:16:49"
   },
   {
     "id": "010434:001",
