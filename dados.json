@@ -4011,7 +4011,7 @@
     "entrega": "06/07/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "CORTE BROTECH / VOREY",
-    "sub": "",
+    "sub": "BROTECH",
     "obs": "",
     "ordem": 10,
     "finalizadoEm": "",
@@ -4022,7 +4022,7 @@
     "mp": "MP000000000480 - BOPP FOSCO INKJET - 220MM",
     "largMP": "220",
     "finalizado": false,
-    "atualizado": "01/07/2026, 10:15:52"
+    "atualizado": "01/07/2026, 10:16:03"
   },
   {
     "id": "010485:001",
