@@ -4185,8 +4185,8 @@
     "un": "PEÇA",
     "entrega": "06/07/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "CORTE BROTECH / VOREY",
-    "sub": "BROTECH",
+    "grupo": "REVISORAS",
+    "sub": "",
     "obs": "",
     "ordem": null,
     "finalizadoEm": "",
@@ -4197,7 +4197,7 @@
     "mp": "MP000000000480 - BOPP FOSCO INKJET - 220MM",
     "largMP": "220",
     "finalizado": false,
-    "atualizado": "01/07/2026, 10:16:09"
+    "atualizado": "01/07/2026, 16:47:29"
   },
   {
     "id": "010560:001",
