@@ -4310,7 +4310,7 @@
     "un": "PEÇA",
     "entrega": "07/07/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "TROQUELADORAS",
+    "grupo": "__FIN__",
     "sub": "TROQUELADORA 2",
     "obs": "",
     "ordem": 80,
@@ -4321,8 +4321,8 @@
     "setup": "10",
     "mp": "PR000000000050 - RIBBON CERA AWR1 - 110 X 450 - CSO/MP000000000158 - TRANSTERMICO BORRACHA C2075 - 222MM",
     "largMP": "222",
-    "finalizado": false,
-    "atualizado": "01/07/2026, 07:12:01"
+    "finalizado": true,
+    "atualizado": "01/07/2026, 16:46:22"
   },
   {
     "id": "010450:001",
