@@ -2388,7 +2388,7 @@
     "un": "UN",
     "entrega": "06/07/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "DIGITAL",
+    "grupo": "REVISORAS",
     "sub": "",
     "obs": "",
     "ordem": 150,
@@ -2399,7 +2399,7 @@
     "mp": "MP000000000561 - FILME DE LAMINAÇÃO BRILHO DUREX - 320MM/MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "03/07/2026, 07:11:20"
+    "atualizado": "03/07/2026, 07:18:00"
   },
   {
     "id": "010291:005",
