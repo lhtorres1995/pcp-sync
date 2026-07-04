@@ -1235,8 +1235,8 @@
     "un": "MI",
     "entrega": "07/07/2026",
     "status": "MATERIAL EMPENHADO",
-    "grupo": "REVISORAS",
-    "sub": "",
+    "grupo": "FLEXO 350",
+    "sub": "KROMIA",
     "obs": "Aguardando MP",
     "ordem": 20,
     "metros": 399.42,
@@ -1246,7 +1246,7 @@
     "mp": "MP000000000634 - SINTETICO BCD - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "04/07/2026, 12:41:42"
+    "atualizado": "04/07/2026, 12:39:25"
   },
   {
     "id": "010505:001",
@@ -1334,7 +1334,7 @@
     "entrega": "07/07/2026",
     "status": "PRONTA PARA INÍCIO",
     "grupo": "TROQUELADORAS",
-    "sub": "TROQUELADORA 2",
+    "sub": "TROQUELADORA 1",
     "obs": "",
     "ordem": null,
     "metros": 317.5,
@@ -1344,7 +1344,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "04/07/2026, 12:39:25"
+    "atualizado": "04/07/2026, 12:45:09"
   },
   {
     "id": "010564:002",
