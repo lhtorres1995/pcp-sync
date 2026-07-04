@@ -1165,7 +1165,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 350",
     "sub": "KROMIA",
-    "obs": "Aguardando Faca",
+    "obs": "",
     "ordem": 30,
     "metros": 2114.55,
     "saldo": 6,
@@ -1174,7 +1174,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "04/07/2026, 12:39:25"
+    "atualizado": "04/07/2026, 12:52:56"
   },
   {
     "id": "010491:001",
