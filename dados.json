@@ -949,7 +949,7 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
-    "obs": "Aguardando Faca",
+    "obs": "",
     "ordem": 10,
     "metros": 4572,
     "saldo": 15000,
@@ -958,7 +958,7 @@
     "mp": "MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "04/07/2026, 12:39:25"
+    "atualizado": "04/07/2026, 12:52:39"
   },
   {
     "id": "010455:001",
