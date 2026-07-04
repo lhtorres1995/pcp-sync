@@ -949,7 +949,7 @@
     "status": "MATERIAL EMPENHADO",
     "grupo": "FLEXO 350",
     "sub": "ETIRAMA",
-    "obs": "",
+    "obs": "Aguardando Faca",
     "ordem": 10,
     "metros": 4572,
     "saldo": 15000,
@@ -958,7 +958,7 @@
     "mp": "MP000000000291 - BOPP BRANCO FOSCO ACRÍLICO ADC210 - 330MM",
     "largMP": "330",
     "finalizado": false,
-    "atualizado": "04/07/2026, 12:52:39"
+    "atualizado": "04/07/2026, 12:39:25"
   },
   {
     "id": "010455:001",
@@ -1165,7 +1165,7 @@
     "status": "PRONTA PARA INÍCIO",
     "grupo": "FLEXO 350",
     "sub": "KROMIA",
-    "obs": "",
+    "obs": "Aguardando Faca",
     "ordem": 30,
     "metros": 2114.55,
     "saldo": 6,
@@ -1174,7 +1174,7 @@
     "mp": "",
     "largMP": "",
     "finalizado": false,
-    "atualizado": "04/07/2026, 12:52:56"
+    "atualizado": "04/07/2026, 12:39:25"
   },
   {
     "id": "010491:001",
@@ -1430,7 +1430,7 @@
     "entrega": "08/07/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "BATIDA",
-    "sub": "CHINESA",
+    "sub": "TURO",
     "obs": "",
     "ordem": 130,
     "metros": 399.58,
@@ -1440,7 +1440,7 @@
     "mp": "MP000000000044 - COUCHE BORRACHA 20G (ECOPRINT) - 222MM",
     "largMP": "222",
     "finalizado": false,
-    "atualizado": "04/07/2026, 12:51:36",
+    "atualizado": "04/07/2026, 12:39:25",
     "imagens": 4
   },
   {
@@ -1489,7 +1489,7 @@
     "mp": "MP000000000044 - COUCHE BORRACHA 20G (ECOPRINT) - 222MM",
     "largMP": "222",
     "finalizado": false,
-    "atualizado": "04/07/2026, 12:51:27",
+    "atualizado": "04/07/2026, 12:53:36",
     "imagens": 4
   },
   {
@@ -2248,7 +2248,7 @@
     "entrega": "08/07/2026",
     "status": "MATERIAL EMPENHADO",
     "grupo": "BATIDA",
-    "sub": "CHINESA",
+    "sub": "TURO",
     "obs": "",
     "ordem": null,
     "metros": 899.05,
@@ -2258,7 +2258,7 @@
     "mp": "MP000000000044 - COUCHE BORRACHA 20G (ECOPRINT) - 222MM",
     "largMP": "222",
     "finalizado": false,
-    "atualizado": "04/07/2026, 12:51:39",
+    "atualizado": "04/07/2026, 12:39:25",
     "imagens": 4
   },
   {
