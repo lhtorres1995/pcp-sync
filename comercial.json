@@ -99487,6 +99487,45 @@
         "mmin": 0,
         "acor": 0,
         "id": "mqy8lj7pspr7ay4o9sg"
+      },
+      {
+        "nome": "TROQUELADORA",
+        "vel": 2400,
+        "un": "Metros",
+        "hora": 82.16,
+        "perda": 0.05,
+        "acerto1": 0.1667,
+        "acerto2": 0.1667,
+        "tmin": 0.1667,
+        "mmin": 400,
+        "acor": 10,
+        "id": "msltoqz26ari90xq3x9"
+      },
+      {
+        "nome": "TROQUELADORA 350",
+        "vel": 3600,
+        "un": "Metros",
+        "hora": 82.16,
+        "perda": 0.05,
+        "acerto1": 0.1667,
+        "acerto2": 0.1667,
+        "tmin": 0.1667,
+        "mmin": 600,
+        "acor": 10,
+        "id": "msltoqz2186ehyvleqr"
+      },
+      {
+        "nome": "IMPRESSORA TÉRMICA",
+        "vel": 365,
+        "un": "Metros",
+        "hora": 100,
+        "perda": 0,
+        "acerto1": 0,
+        "acerto2": 0,
+        "tmin": 0,
+        "mmin": 0,
+        "acor": 0,
+        "id": "msltoqz2rbuyrfmlhuj"
       }
     ]
   },
