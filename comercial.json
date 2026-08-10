@@ -55,7 +55,45 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.751Z",
-      "atualizadoEm": "2026-08-09T20:15:02.973Z"
+      "atualizadoEm": "2026-08-10T00:22:47.319Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "BOPP BRANCO FOSCO ACRILICO NTC - S0290",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 82.14285714285714,
+      "m2SetupPerda": 27.107142857142858,
+      "maquinas": [
+        {
+          "nome": "BOBST",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.19066666666666665,
+          "hora": 893.08,
+          "custo": 170.28058666666666
+        },
+        {
+          "nome": "TURO",
+          "processo": "CORTE PLANO",
+          "un": "Batidas",
+          "tempo": 0.845,
+          "hora": 117.29,
+          "custo": 99.11005
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 3000
     },
     {
       "id": "msi0ui1krlql7it3h6a",
@@ -112,7 +150,45 @@
       "invest": 160,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.752Z",
-      "atualizadoEm": "2026-08-09T20:15:02.974Z"
+      "atualizadoEm": "2026-08-10T00:22:47.320Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 10,
+      "substrato1": "COUCHE ACRILICO - S0518",
+      "substrato2": "NÃO",
+      "ribbonQtd": 2,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 320.23809523809524,
+      "m2SetupPerda": 105.67857142857143,
+      "maquinas": [
+        {
+          "nome": "BOBST",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.28966666666666663,
+          "hora": 893.08,
+          "custo": 258.69550666666663
+        },
+        {
+          "nome": "VOREY",
+          "processo": "CORTE VOREY/BROTECH",
+          "un": "Metros",
+          "tempo": 0.4946666666666667,
+          "hora": 208.9,
+          "custo": 103.33586666666667
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 8000
     },
     {
       "id": "msi0ui1kq42wouemy4s",
@@ -169,7 +245,20 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.752Z",
-      "atualizadoEm": "2026-08-09T20:15:02.974Z"
+      "atualizadoEm": "2026-08-10T00:22:47.321Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "NÃO",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 0,
+      "m2SetupPerda": 0,
+      "maquinas": [],
+      "qtdEtiquetas": 2
     },
     {
       "id": "msi0ui1kdgrzbfi2ki",
@@ -226,7 +315,29 @@
       "invest": 18000,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.752Z",
-      "atualizadoEm": "2026-08-09T20:15:02.974Z"
+      "atualizadoEm": "2026-08-10T00:22:47.322Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 200,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 21661.84210526316,
+      "m2SetupPerda": 6975.113157894738,
+      "maquinas": [
+        {
+          "nome": "TROQUELADORA 350",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 6.182666666666667,
+          "hora": 82.16,
+          "custo": 507.96789333333334
+        }
+      ],
+      "qtdEtiquetas": 240000
     },
     {
       "id": "msi0ui1leonxpvg6eiu",
@@ -283,7 +394,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.753Z",
-      "atualizadoEm": "2026-08-09T20:15:02.975Z"
+      "atualizadoEm": "2026-08-10T00:22:47.323Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 35.436328886597934,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "BOPP BRANCO FOSCO BORRACHA - C2075",
+      "substrato2": "NÃO",
+      "ribbonQtd": 2,
+      "ribbonMetros": 600,
+      "mlSetupPerda": 805.5670103092783,
+      "m2SetupPerda": 178.8358762886598,
+      "maquinas": [
+        {
+          "nome": "BROTECH",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.66,
+          "hora": 261.07,
+          "custo": 172.3062
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.38466666666666666,
+          "hora": 98.03,
+          "custo": 37.70887333333333
+        }
+      ],
+      "qtdEtiquetas": 2500
     },
     {
       "id": "msi0ui1lfnoh6xflzyc",
@@ -340,7 +481,29 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.753Z",
-      "atualizadoEm": "2026-08-09T20:15:02.976Z"
+      "atualizadoEm": "2026-08-10T00:22:47.324Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "TRANSTERMICO BORRACHA - C2075",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 3347.105263157895,
+      "m2SetupPerda": 743.0573684210527,
+      "maquinas": [
+        {
+          "nome": "TROQUELADORA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 1.5596666666666668,
+          "hora": 82.16,
+          "custo": 128.14221333333333
+        }
+      ],
+      "qtdEtiquetas": 100000
     },
     {
       "id": "msi0ui1ldjg1ed898ac",
@@ -397,7 +560,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.753Z",
-      "atualizadoEm": "2026-08-09T20:15:02.976Z"
+      "atualizadoEm": "2026-08-10T00:22:47.325Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "PET ACRILICO - ADC210",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 1040.618556701031,
+      "m2SetupPerda": 137.3616494845361,
+      "maquinas": [
+        {
+          "nome": "BROTECH",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.758,
+          "hora": 261.07,
+          "custo": 197.89106
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.45066666666666666,
+          "hora": 98.03,
+          "custo": 44.178853333333336
+        }
+      ],
+      "qtdEtiquetas": 60000
     },
     {
       "id": "msi0ui1mpolb1ig438d",
@@ -454,7 +647,20 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.754Z",
-      "atualizadoEm": "2026-08-09T20:15:02.977Z"
+      "atualizadoEm": "2026-08-10T00:22:47.326Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "NÃO",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 0,
+      "m2SetupPerda": 0,
+      "maquinas": [],
+      "qtdEtiquetas": 5
     },
     {
       "id": "msi0ui1mrnbw88btqj",
@@ -511,7 +717,20 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.754Z",
-      "atualizadoEm": "2026-08-09T20:15:02.977Z"
+      "atualizadoEm": "2026-08-10T00:22:47.327Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "NÃO",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 0,
+      "m2SetupPerda": 0,
+      "maquinas": [],
+      "qtdEtiquetas": 3
     },
     {
       "id": "msi0ui1mvx1cyfunt2",
@@ -568,7 +787,20 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.754Z",
-      "atualizadoEm": "2026-08-09T20:15:02.977Z"
+      "atualizadoEm": "2026-08-10T00:22:47.327Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "NÃO",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 0,
+      "m2SetupPerda": 0,
+      "maquinas": [],
+      "qtdEtiquetas": 3
     },
     {
       "id": "msi0ui1nr7mkp9108s",
@@ -625,7 +857,20 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.755Z",
-      "atualizadoEm": "2026-08-09T20:15:02.977Z"
+      "atualizadoEm": "2026-08-10T00:22:47.327Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "NÃO",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 0,
+      "m2SetupPerda": 0,
+      "maquinas": [],
+      "qtdEtiquetas": 3
     },
     {
       "id": "msi0ui1nzezmfopf47j",
@@ -682,7 +927,20 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.755Z",
-      "atualizadoEm": "2026-08-09T20:15:02.978Z"
+      "atualizadoEm": "2026-08-10T00:22:47.328Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "NÃO",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 0,
+      "m2SetupPerda": 0,
+      "maquinas": [],
+      "qtdEtiquetas": 3
     },
     {
       "id": "msi0ui1nhug75ytuh2o",
@@ -739,7 +997,37 @@
       "invest": 3750,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.755Z",
-      "atualizadoEm": "2026-08-09T20:15:02.978Z"
+      "atualizadoEm": "2026-08-10T00:22:47.328Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "BOPP BRANCO FOSCO DIGITAL - HAVIR",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 1371.3829787234042,
+      "m2SetupPerda": 222.16404255319148,
+      "maquinas": [
+        {
+          "nome": "TURO",
+          "processo": "",
+          "un": "Batidas",
+          "tempo": 2.443,
+          "hora": 117.29,
+          "custo": 286.53947
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.5436666666666666,
+          "hora": 98.03,
+          "custo": 53.29564333333333
+        }
+      ],
+      "qtdEtiquetas": 25000
     },
     {
       "id": "msi0ui1ns5bk2qjj7",
@@ -796,7 +1084,29 @@
       "invest": 4500,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.755Z",
-      "atualizadoEm": "2026-08-09T20:15:02.978Z"
+      "atualizadoEm": "2026-08-10T00:22:47.329Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 100,
+      "substrato1": "BOPP BRANCO FOSCO DIGITAL - HAVIR",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 2661.9736842105262,
+      "m2SetupPerda": 415.2678947368421,
+      "maquinas": [
+        {
+          "nome": "TROQUELADORA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 1.2736666666666667,
+          "hora": 82.16,
+          "custo": 104.64445333333333
+        }
+      ],
+      "qtdEtiquetas": 15000
     },
     {
       "id": "msi0ui1ow0fs82p2qy",
@@ -853,7 +1163,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.756Z",
-      "atualizadoEm": "2026-08-09T20:15:02.978Z"
+      "atualizadoEm": "2026-08-10T00:22:47.329Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 100,
+      "substrato1": "TRANSTERMICO BORRACHA - C2075",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 615.1685393258426,
+      "m2SetupPerda": 200.54494382022472,
+      "maquinas": [
+        {
+          "nome": "NACBRAS",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 1.25,
+          "hora": 266.2,
+          "custo": 332.75
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 1000
     },
     {
       "id": "msi0ui1oi7vkacfvvl",
@@ -910,7 +1250,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.756Z",
-      "atualizadoEm": "2026-08-09T20:15:02.979Z"
+      "atualizadoEm": "2026-08-10T00:22:47.330Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 100,
+      "substrato1": "TRANSTERMICO BORRACHA - C2075",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 9833.370786516854,
+      "m2SetupPerda": 3205.6788764044945,
+      "maquinas": [
+        {
+          "nome": "NACBRAS",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 4.234,
+          "hora": 266.2,
+          "custo": 1127.0908
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 2.8616666666666664,
+          "hora": 98.03,
+          "custo": 280.5291833333333
+        }
+      ],
+      "qtdEtiquetas": 20000
     },
     {
       "id": "msi0ui1o8nbngghfx4",
@@ -967,7 +1337,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.756Z",
-      "atualizadoEm": "2026-08-09T20:15:02.979Z"
+      "atualizadoEm": "2026-08-10T00:22:47.330Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 100,
+      "substrato1": "TRANSTERMICO BORRACHA - C2075",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 7892.696629213483,
+      "m2SetupPerda": 2573.0191011235956,
+      "maquinas": [
+        {
+          "nome": "NACBRAS",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 3.588,
+          "hora": 266.2,
+          "custo": 955.1256
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 2.3226666666666667,
+          "hora": 98.03,
+          "custo": 227.69101333333333
+        }
+      ],
+      "qtdEtiquetas": 16000
     },
     {
       "id": "msi0ui1pv5zo9qugwij",
@@ -1024,7 +1424,29 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.757Z",
-      "atualizadoEm": "2026-08-09T20:15:02.979Z"
+      "atualizadoEm": "2026-08-10T00:22:47.331Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "COUCHE TAG",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 1045.8117894736843,
+      "m2SetupPerda": 132.8180972631579,
+      "maquinas": [
+        {
+          "nome": "TROQUELADORA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.6006666666666667,
+          "hora": 82.16,
+          "custo": 49.35077333333333
+        }
+      ],
+      "qtdEtiquetas": 9732
     },
     {
       "id": "msi0ui1pp2ysjfe552m",
@@ -1081,7 +1503,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.757Z",
-      "atualizadoEm": "2026-08-09T20:15:02.979Z"
+      "atualizadoEm": "2026-08-10T00:22:47.331Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "TRANSTERMICO BORRACHA - C2075",
+      "substrato2": "NÃO",
+      "ribbonQtd": 2,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 320.8421052631579,
+      "m2SetupPerda": 71.22694736842107,
+      "maquinas": [
+        {
+          "nome": "TROQUELADORA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.16666666666666666,
+          "hora": 82.16,
+          "custo": 13.693333333333332
+        },
+        {
+          "nome": "IMPRESSORA TÉRMICA",
+          "processo": "DADOS VARIÁVEIS",
+          "un": "Metros",
+          "tempo": 1.758,
+          "hora": 100,
+          "custo": 175.8
+        }
+      ],
+      "qtdEtiquetas": 16000
     },
     {
       "id": "msi0ui1pynf8pu09i9",
@@ -1138,7 +1590,45 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.757Z",
-      "atualizadoEm": "2026-08-09T20:15:02.980Z"
+      "atualizadoEm": "2026-08-10T00:22:47.332Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "BOPP BRANCO BRILHO",
+      "substrato2": "LAMINAÇÃO BRILHO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 256.4655172413793,
+      "m2SetupPerda": 84.63362068965517,
+      "maquinas": [
+        {
+          "nome": "BOBST",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.25766666666666665,
+          "hora": 893.08,
+          "custo": 230.11694666666668
+        },
+        {
+          "nome": "BROTECH",
+          "processo": "CORTE VOREY/BROTECH",
+          "un": "Metros",
+          "tempo": 0.4996666666666667,
+          "hora": 261.07,
+          "custo": 130.44797666666668
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 3000
     },
     {
       "id": "msi0ui1qih2b4wwjpq",
@@ -1195,7 +1685,45 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.758Z",
-      "atualizadoEm": "2026-08-09T20:15:02.980Z"
+      "atualizadoEm": "2026-08-10T00:22:47.332Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "BOPP BRANCO BRILHO",
+      "substrato2": "LAMINAÇÃO BRILHO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 146.42857142857144,
+      "m2SetupPerda": 48.32142857142858,
+      "maquinas": [
+        {
+          "nome": "BOBST",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.21766666666666665,
+          "hora": 893.08,
+          "custo": 194.39374666666666
+        },
+        {
+          "nome": "VOREY",
+          "processo": "CORTE VOREY/BROTECH",
+          "un": "Metros",
+          "tempo": 0.41666666666666663,
+          "hora": 208.9,
+          "custo": 87.04166666666666
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 2000
     },
     {
       "id": "msi0ui1qy69r86mvw7",
@@ -1252,7 +1780,45 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.758Z",
-      "atualizadoEm": "2026-08-09T20:15:02.980Z"
+      "atualizadoEm": "2026-08-10T00:22:47.333Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "COUCHE ACRILICO - S0518",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 655.952380952381,
+      "m2SetupPerda": 216.46428571428572,
+      "maquinas": [
+        {
+          "nome": "BOBST",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.42966666666666664,
+          "hora": 893.08,
+          "custo": 383.72670666666664
+        },
+        {
+          "nome": "VOREY",
+          "processo": "CORTE VOREY/BROTECH",
+          "un": "Metros",
+          "tempo": 0.8676666666666666,
+          "hora": 208.9,
+          "custo": 181.25556666666665
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3416666666666667,
+          "hora": 98.03,
+          "custo": 33.49358333333333
+        }
+      ],
+      "qtdEtiquetas": 50000
     },
     {
       "id": "msi0ui1qgw51uzq3oq4",
@@ -1309,7 +1875,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.758Z",
-      "atualizadoEm": "2026-08-09T20:15:02.980Z"
+      "atualizadoEm": "2026-08-10T00:22:47.333Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "TT2",
+      "substrato2": "NÃO",
+      "ribbonQtd": 7,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 1752.3595505617977,
+      "m2SetupPerda": 375.0049438202247,
+      "maquinas": [
+        {
+          "nome": "FLEXO 250",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 1.0463333333333333,
+          "hora": 143.04,
+          "custo": 149.66752
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.6426666666666666,
+          "hora": 98.03,
+          "custo": 63.00061333333333
+        }
+      ],
+      "qtdEtiquetas": 20000
     },
     {
       "id": "msi0ui1qsy53es6rj3n",
@@ -1366,7 +1962,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.758Z",
-      "atualizadoEm": "2026-08-09T20:15:02.981Z"
+      "atualizadoEm": "2026-08-10T00:22:47.334Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "TT2",
+      "substrato2": "NÃO",
+      "ribbonQtd": 7,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 1752.3595505617977,
+      "m2SetupPerda": 375.0049438202247,
+      "maquinas": [
+        {
+          "nome": "FLEXO 250",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 1.0463333333333333,
+          "hora": 143.04,
+          "custo": 149.66752
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.6426666666666666,
+          "hora": 98.03,
+          "custo": 63.00061333333333
+        }
+      ],
+      "qtdEtiquetas": 20000
     },
     {
       "id": "msi0ui1ryjgrl6mc1q",
@@ -1423,7 +2049,37 @@
       "invest": 2800,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.759Z",
-      "atualizadoEm": "2026-08-09T20:15:02.981Z"
+      "atualizadoEm": "2026-08-10T00:22:47.334Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "BOPP BRANCO FOSCO DIGITAL - HAVIR",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 1322.3333333333333,
+      "m2SetupPerda": 290.9133333333333,
+      "maquinas": [
+        {
+          "nome": "TROQUELADORA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.7136666666666667,
+          "hora": 82.16,
+          "custo": 58.63485333333333
+        },
+        {
+          "nome": "TURO",
+          "processo": "CORTE PLANO",
+          "un": "Batidas",
+          "tempo": 1.731,
+          "hora": 117.29,
+          "custo": 203.02899000000002
+        }
+      ],
+      "qtdEtiquetas": 8000
     },
     {
       "id": "msi0ui1rq4mnxjz5kq",
@@ -1480,7 +2136,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.759Z",
-      "atualizadoEm": "2026-08-09T20:15:02.981Z"
+      "atualizadoEm": "2026-08-10T00:22:47.335Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 50,
+      "substrato1": "BOPP BRANCO FOSCO BORRACHA - C2075",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 298.314606741573,
+      "m2SetupPerda": 63.839325842696624,
+      "maquinas": [
+        {
+          "nome": "FLEXO 250",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 1.1666666666666665,
+          "hora": 143.04,
+          "custo": 166.87999999999997
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 4000
     },
     {
       "id": "msi0ui1rai8cb6aa97p",
@@ -1537,7 +2223,37 @@
       "invest": 1500,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.759Z",
-      "atualizadoEm": "2026-08-09T20:15:02.981Z"
+      "atualizadoEm": "2026-08-10T00:22:47.335Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 100,
+      "substrato1": "BOPP BRANCO FOSCO DIGITAL - HAVIR",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 813.75,
+      "m2SetupPerda": 162.75,
+      "maquinas": [
+        {
+          "nome": "BROTECH",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.664,
+          "hora": 261.07,
+          "custo": 173.35048
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.38666666666666666,
+          "hora": 98.03,
+          "custo": 37.90493333333333
+        }
+      ],
+      "qtdEtiquetas": 5000
     },
     {
       "id": "msi0ui1s02345r6iiros",
@@ -1594,7 +2310,45 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.760Z",
-      "atualizadoEm": "2026-08-09T20:15:02.982Z"
+      "atualizadoEm": "2026-08-10T00:22:47.336Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 341.95402298850576,
+      "m2SetupPerda": 73.17816091954023,
+      "maquinas": [
+        {
+          "nome": "FLEXO 250",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.8333333333333333,
+          "hora": 143.04,
+          "custo": 119.19999999999999
+        },
+        {
+          "nome": "BROTECH",
+          "processo": "CORTE VOREY/BROTECH",
+          "un": "Metros",
+          "tempo": 0.4996666666666667,
+          "hora": 261.07,
+          "custo": 130.44797666666668
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 10000
     },
     {
       "id": "msi0ui1sioxb9v0uu2",
@@ -1651,7 +2405,29 @@
       "invest": 16500,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.760Z",
-      "atualizadoEm": "2026-08-09T20:15:02.982Z"
+      "atualizadoEm": "2026-08-10T00:22:47.336Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 100,
+      "substrato1": "BOPP BRANCO FOSCO DIGITAL - HAVIR",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 34194.73684210526,
+      "m2SetupPerda": 7522.8421052631575,
+      "maquinas": [
+        {
+          "nome": "TROQUELADORA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 14.412666666666667,
+          "hora": 82.16,
+          "custo": 1184.1446933333332
+        }
+      ],
+      "qtdEtiquetas": 110000
     },
     {
       "id": "msi0ui1sxni5zrt4ww",
@@ -1708,7 +2484,37 @@
       "invest": 11000,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.760Z",
-      "atualizadoEm": "2026-08-09T20:15:02.982Z"
+      "atualizadoEm": "2026-08-10T00:22:47.336Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 100,
+      "substrato1": "BOPP BRANCO FOSCO DIGITAL - HAVIR",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 3368.4793814432987,
+      "m2SetupPerda": 673.6958762886597,
+      "maquinas": [
+        {
+          "nome": "BROTECH",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 1.728,
+          "hora": 261.07,
+          "custo": 451.12896
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 1.0966666666666667,
+          "hora": 98.03,
+          "custo": 107.50623333333334
+        }
+      ],
+      "qtdEtiquetas": 11000
     },
     {
       "id": "msi0ui1sc0fvdmh7629",
@@ -1765,7 +2571,45 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.760Z",
-      "atualizadoEm": "2026-08-09T20:15:02.982Z"
+      "atualizadoEm": "2026-08-10T00:22:47.337Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 268.9655172413793,
+      "m2SetupPerda": 57.55862068965517,
+      "maquinas": [
+        {
+          "nome": "FLEXO 250",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.8333333333333333,
+          "hora": 143.04,
+          "custo": 119.19999999999999
+        },
+        {
+          "nome": "BROTECH",
+          "processo": "CORTE VOREY/BROTECH",
+          "un": "Metros",
+          "tempo": 0.4996666666666667,
+          "hora": 261.07,
+          "custo": 130.44797666666668
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 7500
     },
     {
       "id": "msi0ui1tvuhc6d9bdsg",
@@ -1822,7 +2666,37 @@
       "invest": 12000,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.761Z",
-      "atualizadoEm": "2026-08-09T20:15:02.984Z"
+      "atualizadoEm": "2026-08-10T00:22:47.337Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 100,
+      "substrato1": "BOPP BRANCO FOSCO BORRACHA - C2075",
+      "substrato2": "NÃO",
+      "ribbonQtd": 28,
+      "ribbonMetros": 600,
+      "mlSetupPerda": 18875.955056179773,
+      "m2SetupPerda": 4190.46202247191,
+      "maquinas": [
+        {
+          "nome": "FLEXO 250",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 8.181333333333333,
+          "hora": 143.04,
+          "custo": 1170.2579199999998
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 5.398666666666667,
+          "hora": 98.03,
+          "custo": 529.2312933333334
+        }
+      ],
+      "qtdEtiquetas": 60000
     },
     {
       "id": "msi0ui1tvgla2bfs8y8",
@@ -1879,7 +2753,20 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.761Z",
-      "atualizadoEm": "2026-08-09T20:15:02.984Z"
+      "atualizadoEm": "2026-08-10T00:22:47.338Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "NÃO",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 0,
+      "m2SetupPerda": 0,
+      "maquinas": [],
+      "qtdEtiquetas": 1
     },
     {
       "id": "msi0ui1tkl3uc2lcqa",
@@ -1936,7 +2823,20 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.761Z",
-      "atualizadoEm": "2026-08-09T20:15:02.984Z"
+      "atualizadoEm": "2026-08-10T00:22:47.338Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "NÃO",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 0,
+      "m2SetupPerda": 0,
+      "maquinas": [],
+      "qtdEtiquetas": 1
     },
     {
       "id": "msi0ui1tbfhmvwoolxs",
@@ -1993,7 +2893,20 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.761Z",
-      "atualizadoEm": "2026-08-09T20:15:02.984Z"
+      "atualizadoEm": "2026-08-10T00:22:47.339Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "NÃO",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 0,
+      "m2SetupPerda": 0,
+      "maquinas": [],
+      "qtdEtiquetas": 2
     },
     {
       "id": "msi0ui1uy18ozu2k99",
@@ -2050,7 +2963,20 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.762Z",
-      "atualizadoEm": "2026-08-09T20:15:02.985Z"
+      "atualizadoEm": "2026-08-10T00:22:47.339Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "NÃO",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 0,
+      "m2SetupPerda": 0,
+      "maquinas": [],
+      "qtdEtiquetas": 1
     },
     {
       "id": "msi0ui1umm8mlbi3hj",
@@ -2107,7 +3033,20 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.762Z",
-      "atualizadoEm": "2026-08-09T20:15:02.985Z"
+      "atualizadoEm": "2026-08-10T00:22:47.339Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "NÃO",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 0,
+      "m2SetupPerda": 0,
+      "maquinas": [],
+      "qtdEtiquetas": 1
     },
     {
       "id": "msi0ui1ut3v0q0vb46p",
@@ -2164,7 +3103,20 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.762Z",
-      "atualizadoEm": "2026-08-09T20:15:02.985Z"
+      "atualizadoEm": "2026-08-10T00:22:47.340Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "NÃO",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 0,
+      "m2SetupPerda": 0,
+      "maquinas": [],
+      "qtdEtiquetas": 1
     },
     {
       "id": "msi0ui1u3gj52i1wzgd",
@@ -2221,7 +3173,20 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.762Z",
-      "atualizadoEm": "2026-08-09T20:15:02.985Z"
+      "atualizadoEm": "2026-08-10T00:22:47.340Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "NÃO",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 0,
+      "m2SetupPerda": 0,
+      "maquinas": [],
+      "qtdEtiquetas": 1
     },
     {
       "id": "msi0ui1vxidk2rji41",
@@ -2278,7 +3243,20 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.763Z",
-      "atualizadoEm": "2026-08-09T20:15:02.986Z"
+      "atualizadoEm": "2026-08-10T00:22:47.343Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "NÃO",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 0,
+      "m2SetupPerda": 0,
+      "maquinas": [],
+      "qtdEtiquetas": 1
     },
     {
       "id": "msi0ui1vrxcam5ub04",
@@ -2335,7 +3313,20 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.763Z",
-      "atualizadoEm": "2026-08-09T20:15:02.986Z"
+      "atualizadoEm": "2026-08-10T00:22:47.344Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "NÃO",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 0,
+      "m2SetupPerda": 0,
+      "maquinas": [],
+      "qtdEtiquetas": 4
     },
     {
       "id": "msi0ui1vdeyf12x4k3b",
@@ -2392,7 +3383,20 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.763Z",
-      "atualizadoEm": "2026-08-09T20:15:02.986Z"
+      "atualizadoEm": "2026-08-10T00:22:47.344Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "NÃO",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 0,
+      "m2SetupPerda": 0,
+      "maquinas": [],
+      "qtdEtiquetas": 1
     },
     {
       "id": "msi0ui1wy3rid0ldhlm",
@@ -2449,7 +3453,20 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.764Z",
-      "atualizadoEm": "2026-08-09T20:15:02.986Z"
+      "atualizadoEm": "2026-08-10T00:22:47.344Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "NÃO",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 0,
+      "m2SetupPerda": 0,
+      "maquinas": [],
+      "qtdEtiquetas": 1
     },
     {
       "id": "msi0ui1w7idnwnl5fi",
@@ -2506,7 +3523,29 @@
       "invest": 6800.000000000001,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.764Z",
-      "atualizadoEm": "2026-08-09T20:15:02.987Z"
+      "atualizadoEm": "2026-08-10T00:22:47.345Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 100,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 34,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 8026.0526315789475,
+      "m2SetupPerda": 1717.5752631578948,
+      "maquinas": [
+        {
+          "nome": "TROQUELADORA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 3.5086666666666666,
+          "hora": 82.16,
+          "custo": 288.2720533333333
+        }
+      ],
+      "qtdEtiquetas": 400000
     },
     {
       "id": "msi0ui1wqrg3et2n8pc",
@@ -2563,7 +3602,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.764Z",
-      "atualizadoEm": "2026-08-09T20:15:02.987Z"
+      "atualizadoEm": "2026-08-10T00:22:47.345Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 50,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 458.5294117647058,
+      "m2SetupPerda": 50.89676470588235,
+      "maquinas": [
+        {
+          "nome": "FLEXO 250",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.8333333333333333,
+          "hora": 143.04,
+          "custo": 119.19999999999999
+        },
+        {
+          "nome": "TURO",
+          "processo": "CORTE PLANO",
+          "un": "Batidas",
+          "tempo": 4.172000000000001,
+          "hora": 117.29,
+          "custo": 489.3338800000001
+        }
+      ],
+      "qtdEtiquetas": 100000
     },
     {
       "id": "msi0ui1wluze7phohh",
@@ -2620,7 +3689,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.764Z",
-      "atualizadoEm": "2026-08-09T20:15:02.987Z"
+      "atualizadoEm": "2026-08-10T00:22:47.346Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 4856.011235955056,
+      "m2SetupPerda": 815.8098876404495,
+      "maquinas": [
+        {
+          "nome": "FLEXO 250",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 2.3403333333333336,
+          "hora": 143.04,
+          "custo": 334.76128
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 1.5046666666666668,
+          "hora": 98.03,
+          "custo": 147.50247333333334
+        }
+      ],
+      "qtdEtiquetas": 100000
     },
     {
       "id": "msi0ui1xb048izg7o86",
@@ -2677,7 +3776,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.765Z",
-      "atualizadoEm": "2026-08-09T20:15:02.987Z"
+      "atualizadoEm": "2026-08-10T00:22:47.346Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 100,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 3971.8900343642613,
+      "m2SetupPerda": 440.879793814433,
+      "maquinas": [
+        {
+          "nome": "BROTECH",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 1.98,
+          "hora": 261.07,
+          "custo": 516.9186
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 1.2646666666666668,
+          "hora": 98.03,
+          "custo": 123.97527333333335
+        }
+      ],
+      "qtdEtiquetas": 500000
     },
     {
       "id": "msi0ui1xhfqydw5kyu",
@@ -2734,7 +3863,45 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.765Z",
-      "atualizadoEm": "2026-08-09T20:15:02.988Z"
+      "atualizadoEm": "2026-08-10T00:22:47.347Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "BOPP METALIZADO",
+      "substrato2": "LAMINAÇÃO BRILHO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 154.16666666666669,
+      "m2SetupPerda": 50.87500000000001,
+      "maquinas": [
+        {
+          "nome": "BOBST",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.22066666666666665,
+          "hora": 893.08,
+          "custo": 197.07298666666665
+        },
+        {
+          "nome": "VOREY",
+          "processo": "CORTE VOREY/BROTECH",
+          "un": "Metros",
+          "tempo": 0.41666666666666663,
+          "hora": 208.9,
+          "custo": 87.04166666666666
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 1000
     },
     {
       "id": "msi0ui1xmh5o3vndgg",
@@ -2791,7 +3958,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.765Z",
-      "atualizadoEm": "2026-08-09T20:15:02.988Z"
+      "atualizadoEm": "2026-08-10T00:22:47.347Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 2965.2764044943815,
+      "m2SetupPerda": 403.2775910112359,
+      "maquinas": [
+        {
+          "nome": "FLEXO 250",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 1.5523333333333333,
+          "hora": 143.04,
+          "custo": 222.04576
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.9796666666666666,
+          "hora": 98.03,
+          "custo": 96.03672333333333
+        }
+      ],
+      "qtdEtiquetas": 120000
     },
     {
       "id": "msi0ui1yyapagcaqllq",
@@ -2848,7 +4045,37 @@
       "invest": 5,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.766Z",
-      "atualizadoEm": "2026-08-09T20:15:02.988Z"
+      "atualizadoEm": "2026-08-10T00:22:47.348Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 2,
+      "ribbonMetros": 74,
+      "mlSetupPerda": 104.21348314606742,
+      "m2SetupPerda": 20.842696629213485,
+      "maquinas": [
+        {
+          "nome": "FLEXO 250",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.8333333333333333,
+          "hora": 143.04,
+          "custo": 119.19999999999999
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 5000
     },
     {
       "id": "msi0ui1yr91ussliuw",
@@ -2905,7 +4132,45 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.766Z",
-      "atualizadoEm": "2026-08-09T20:15:02.988Z"
+      "atualizadoEm": "2026-08-10T00:22:47.348Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 10,
+      "substrato1": "BOPP BRANCO BRILHO",
+      "substrato2": "LAMINAÇÃO BRILHO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 239.58333333333334,
+      "m2SetupPerda": 79.0625,
+      "maquinas": [
+        {
+          "nome": "BOBST",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.25566666666666665,
+          "hora": 893.08,
+          "custo": 228.33078666666665
+        },
+        {
+          "nome": "VOREY",
+          "processo": "CORTE VOREY/BROTECH",
+          "un": "Metros",
+          "tempo": 0.41666666666666663,
+          "hora": 208.9,
+          "custo": 87.04166666666666
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 7000
     },
     {
       "id": "msi0ui1y2urg8gn3swb",
@@ -2962,7 +4227,29 @@
       "invest": 6000,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.766Z",
-      "atualizadoEm": "2026-08-09T20:15:02.989Z"
+      "atualizadoEm": "2026-08-10T00:22:47.349Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 6,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 2762.2315789473682,
+      "m2SetupPerda": 309.36993684210523,
+      "maquinas": [
+        {
+          "nome": "TROQUELADORA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 1.3156666666666668,
+          "hora": 82.16,
+          "custo": 108.09517333333334
+        }
+      ],
+      "qtdEtiquetas": 300000
     },
     {
       "id": "msi0ui1ycjz56ue5gsd",
@@ -3019,7 +4306,29 @@
       "invest": 1300,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.766Z",
-      "atualizadoEm": "2026-08-09T20:15:02.989Z"
+      "atualizadoEm": "2026-08-10T00:22:47.349Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 7,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 1609.2105263157896,
+      "m2SetupPerda": 344.37105263157895,
+      "maquinas": [
+        {
+          "nome": "TROQUELADORA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.8346666666666667,
+          "hora": 82.16,
+          "custo": 68.57621333333333
+        }
+      ],
+      "qtdEtiquetas": 20000
     },
     {
       "id": "msi0ui1zdzzj0ksynwm",
@@ -3076,7 +4385,20 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.767Z",
-      "atualizadoEm": "2026-08-09T20:15:02.989Z"
+      "atualizadoEm": "2026-08-10T00:22:47.350Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "NÃO",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 0,
+      "m2SetupPerda": 0,
+      "maquinas": [],
+      "qtdEtiquetas": 2
     },
     {
       "id": "msi0ui1zfbxm9sc6bgn",
@@ -3133,7 +4455,37 @@
       "invest": 699.2,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.767Z",
-      "atualizadoEm": "2026-08-09T20:15:02.990Z"
+      "atualizadoEm": "2026-08-10T00:22:47.350Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "BOPP BRANCO FOSCO ACRILICO - ADC210",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 3033.204494382023,
+      "m2SetupPerda": 649.1057617977528,
+      "maquinas": [
+        {
+          "nome": "FLEXO 250",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 1.5803333333333334,
+          "hora": 143.04,
+          "custo": 226.05088
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.9976666666666666,
+          "hora": 98.03,
+          "custo": 97.80126333333332
+        }
+      ],
+      "qtdEtiquetas": 34960
     },
     {
       "id": "msi0ui1zepo71k994",
@@ -3190,7 +4542,29 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.767Z",
-      "atualizadoEm": "2026-08-09T20:15:02.990Z"
+      "atualizadoEm": "2026-08-10T00:22:47.351Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 10,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 2141.8421052631584,
+      "m2SetupPerda": 334.1273684210527,
+      "maquinas": [
+        {
+          "nome": "TURO",
+          "processo": "",
+          "un": "Batidas",
+          "tempo": 2.004,
+          "hora": 117.29,
+          "custo": 235.04916
+        }
+      ],
+      "qtdEtiquetas": 20000
     },
     {
       "id": "msi0ui1zg3865e6mvki",
@@ -3247,7 +4621,29 @@
       "invest": 336.25,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.767Z",
-      "atualizadoEm": "2026-08-09T20:15:02.990Z"
+      "atualizadoEm": "2026-08-10T00:22:47.352Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "TRANSTERMICO ACRILICO - ADC1000",
+      "substrato2": "NÃO",
+      "ribbonQtd": 11,
+      "ribbonMetros": 500,
+      "mlSetupPerda": 2804.013157894737,
+      "m2SetupPerda": 925.3243421052633,
+      "maquinas": [
+        {
+          "nome": "TROQUELADORA 350",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.9446666666666667,
+          "hora": 82.16,
+          "custo": 77.61381333333333
+        }
+      ],
+      "qtdEtiquetas": 25000
     },
     {
       "id": "msi0ui20mtpzxaycy7o",
@@ -3304,7 +4700,37 @@
       "invest": 300,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.768Z",
-      "atualizadoEm": "2026-08-09T20:15:02.991Z"
+      "atualizadoEm": "2026-08-10T00:22:47.352Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 12,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 3210.952808988764,
+      "m2SetupPerda": 687.1439011235955,
+      "maquinas": [
+        {
+          "nome": "FLEXO 250",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 3.9006666666666665,
+          "hora": 143.04,
+          "custo": 557.9513599999999
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.9886666666666666,
+          "hora": 98.03,
+          "custo": 96.91899333333333
+        }
+      ],
+      "qtdEtiquetas": 60000
     },
     {
       "id": "msi0ui20kdnptvix48m",
@@ -3361,7 +4787,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.768Z",
-      "atualizadoEm": "2026-08-09T20:15:02.991Z"
+      "atualizadoEm": "2026-08-10T00:22:47.353Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 111.60223595505619,
+      "vernizPTotal": 0,
+      "facaTotal": 500,
+      "substrato1": "BOPP BRANCO FOSCO ACRILICO NTC - S0290",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 2252.8838951310863,
+      "m2SetupPerda": 563.2209737827716,
+      "maquinas": [
+        {
+          "nome": "ETIRAMA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 1.2693333333333332,
+          "hora": 391.07,
+          "custo": 496.3981866666666
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.7476666666666666,
+          "hora": 98.03,
+          "custo": 73.29376333333333
+        }
+      ],
+      "qtdEtiquetas": 400000
     },
     {
       "id": "msi0ui21vuddmbwyumg",
@@ -3418,7 +4874,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.769Z",
-      "atualizadoEm": "2026-08-09T20:15:02.991Z"
+      "atualizadoEm": "2026-08-10T00:22:47.353Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 111.60223595505619,
+      "facaTotal": 500,
+      "substrato1": "BOPP BRANCO FOSCO ACRILICO NTC - S0290",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 2252.8838951310863,
+      "m2SetupPerda": 563.2209737827716,
+      "maquinas": [
+        {
+          "nome": "ETIRAMA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 1.2693333333333332,
+          "hora": 391.07,
+          "custo": 496.3981866666666
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.7476666666666666,
+          "hora": 98.03,
+          "custo": 73.29376333333333
+        }
+      ],
+      "qtdEtiquetas": 400000
     },
     {
       "id": "msi0ui21yoglshhfpvp",
@@ -3475,7 +4961,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.769Z",
-      "atualizadoEm": "2026-08-09T20:15:02.991Z"
+      "atualizadoEm": "2026-08-10T00:22:47.354Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "BOPP BRANCO FOSCO DIGITAL - HAVIR",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 20,
+      "m2SetupPerda": 3.2,
+      "maquinas": [
+        {
+          "nome": "BROTECH",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.4996666666666667,
+          "hora": 261.07,
+          "custo": 130.44797666666668
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 15
     },
     {
       "id": "msi0ui219tlsf178eo",
@@ -3532,7 +5048,20 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.769Z",
-      "atualizadoEm": "2026-08-09T20:15:02.992Z"
+      "atualizadoEm": "2026-08-10T00:22:47.354Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "NÃO",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 0,
+      "m2SetupPerda": 0,
+      "maquinas": [],
+      "qtdEtiquetas": 2
     },
     {
       "id": "msi0ui21hjm8qksybi",
@@ -3589,7 +5118,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.769Z",
-      "atualizadoEm": "2026-08-09T20:15:02.992Z"
+      "atualizadoEm": "2026-08-10T00:22:47.354Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 100,
+      "substrato1": "BOPP BRANCO BRILHO DIGITAL - HAVIR",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 215,
+      "m2SetupPerda": 43,
+      "maquinas": [
+        {
+          "nome": "TURO",
+          "processo": "",
+          "un": "Batidas",
+          "tempo": 0.75,
+          "hora": 117.29,
+          "custo": 87.9675
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 2000
     },
     {
       "id": "msi0ui22of28l21opvc",
@@ -3646,7 +5205,37 @@
       "invest": 228,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.770Z",
-      "atualizadoEm": "2026-08-09T20:15:02.993Z"
+      "atualizadoEm": "2026-08-10T00:22:47.355Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "TT2",
+      "substrato2": "NÃO",
+      "ribbonQtd": 6,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 1341.3932584269662,
+      "m2SetupPerda": 287.05815730337076,
+      "maquinas": [
+        {
+          "nome": "FLEXO 250",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.8753333333333333,
+          "hora": 143.04,
+          "custo": 125.20767999999998
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.5276666666666666,
+          "hora": 98.03,
+          "custo": 51.72716333333333
+        }
+      ],
+      "qtdEtiquetas": 15200
     },
     {
       "id": "msi0ui22hxtdwqhoq5",
@@ -3703,7 +5292,29 @@
       "invest": 3000,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.770Z",
-      "atualizadoEm": "2026-08-09T20:15:02.993Z"
+      "atualizadoEm": "2026-08-10T00:22:47.355Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "BOPP BRANCO FOSCO BORRACHA - C2075",
+      "substrato2": "NÃO",
+      "ribbonQtd": 11,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 2511.5789473684213,
+      "m2SetupPerda": 557.5705263157895,
+      "maquinas": [
+        {
+          "nome": "TROQUELADORA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 1.2106666666666668,
+          "hora": 82.16,
+          "custo": 99.46837333333333
+        }
+      ],
+      "qtdEtiquetas": 60000
     },
     {
       "id": "msi0ui22n4eabp2ug6s",
@@ -3760,7 +5371,29 @@
       "invest": 76,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.770Z",
-      "atualizadoEm": "2026-08-09T20:15:02.993Z"
+      "atualizadoEm": "2026-08-10T00:22:47.356Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "TT2",
+      "substrato2": "NÃO",
+      "ribbonQtd": 3,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 614.6,
+      "m2SetupPerda": 131.5244,
+      "maquinas": [
+        {
+          "nome": "TROQUELADORA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.42066666666666663,
+          "hora": 82.16,
+          "custo": 34.56197333333333
+        }
+      ],
+      "qtdEtiquetas": 7600
     },
     {
       "id": "msi0ui22nwygy0p27h",
@@ -3817,7 +5450,29 @@
       "invest": 10800,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.770Z",
-      "atualizadoEm": "2026-08-09T20:15:02.993Z"
+      "atualizadoEm": "2026-08-10T00:22:47.356Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 100,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 51,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 12036.578947368422,
+      "m2SetupPerda": 3779.4857894736842,
+      "maquinas": [
+        {
+          "nome": "TROQUELADORA 350",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 3.5086666666666666,
+          "hora": 82.16,
+          "custo": 288.2720533333333
+        }
+      ],
+      "qtdEtiquetas": 90000
     },
     {
       "id": "msi0ui23yfaa5rlnmv8",
@@ -3874,7 +5529,20 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-06T21:22:09.771Z",
-      "atualizadoEm": "2026-08-09T20:15:02.994Z"
+      "atualizadoEm": "2026-08-10T00:22:47.357Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "NÃO",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 0,
+      "m2SetupPerda": 0,
+      "maquinas": [],
+      "qtdEtiquetas": 25
     },
     {
       "id": "mskxyguttcj94rycnt",
@@ -3931,7 +5599,37 @@
       "invest": 30,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-08T22:24:34.517Z",
-      "atualizadoEm": "2026-08-09T20:15:02.994Z"
+      "atualizadoEm": "2026-08-10T00:22:47.357Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 162.50299311235952,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "TT2",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 2733.669662921348,
+      "m2SetupPerda": 820.1008988764044,
+      "maquinas": [
+        {
+          "nome": "NACBRAS",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 1.388,
+          "hora": 266.2,
+          "custo": 369.4856
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "CORTE VOREY/BROTECH",
+          "un": "Metros",
+          "tempo": 0.9066666666666666,
+          "hora": 98.03,
+          "custo": 88.88053333333333
+        }
+      ],
+      "qtdEtiquetas": 60000
     },
     {
       "id": "mskxyguutqbw0bb1pxj",
@@ -3988,7 +5686,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-08T22:24:34.518Z",
-      "atualizadoEm": "2026-08-09T20:15:02.994Z"
+      "atualizadoEm": "2026-08-10T00:22:47.358Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 50,
+      "substrato1": "BOPP BRANCO FOSCO BORRACHA - C2075",
+      "substrato2": "NÃO",
+      "ribbonQtd": 1,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 55.69662921348315,
+      "m2SetupPerda": 11.919078651685394,
+      "maquinas": [
+        {
+          "nome": "FLEXO 250",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.8333333333333333,
+          "hora": 143.04,
+          "custo": 119.19999999999999
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 1000
     },
     {
       "id": "mskxyguurynbyl35zhf",
@@ -4045,7 +5773,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-08T22:24:34.518Z",
-      "atualizadoEm": "2026-08-09T20:15:02.994Z"
+      "atualizadoEm": "2026-08-10T00:22:47.358Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 50,
+      "substrato1": "BOPP BRANCO FOSCO BORRACHA - C2075",
+      "substrato2": "NÃO",
+      "ribbonQtd": 1,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 147.02247191011236,
+      "m2SetupPerda": 32.638988764044946,
+      "maquinas": [
+        {
+          "nome": "FLEXO 250",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.8333333333333333,
+          "hora": 143.04,
+          "custo": 119.19999999999999
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 3000
     },
     {
       "id": "mskxyguvmp9rjvox0fj",
@@ -4102,7 +5860,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-08T22:24:34.519Z",
-      "atualizadoEm": "2026-08-09T20:15:02.995Z"
+      "atualizadoEm": "2026-08-10T00:22:47.359Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 115.01249393258426,
+      "vernizPTotal": 0,
+      "facaTotal": 50,
+      "substrato1": "BOPP BRANCO FOSCO ACRILICO NTC - S0290",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 1872.3595505617977,
+      "m2SetupPerda": 580.4314606741573,
+      "maquinas": [
+        {
+          "nome": "ETIRAMA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 1.1903333333333332,
+          "hora": 391.07,
+          "custo": 465.50365666666664
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.6426666666666666,
+          "hora": 98.03,
+          "custo": 63.00061333333333
+        }
+      ],
+      "qtdEtiquetas": 20000
     },
     {
       "id": "mskxyguw0qvelp9vwsb",
@@ -4159,7 +5947,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-08T22:24:34.520Z",
-      "atualizadoEm": "2026-08-09T20:15:02.995Z"
+      "atualizadoEm": "2026-08-10T00:22:47.359Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 4915.460674157303,
+      "m2SetupPerda": 668.5026516853933,
+      "maquinas": [
+        {
+          "nome": "FLEXO 250",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 2.3643333333333336,
+          "hora": 143.04,
+          "custo": 338.19424000000004
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 1.5206666666666668,
+          "hora": 98.03,
+          "custo": 149.07095333333336
+        }
+      ],
+      "qtdEtiquetas": 200000
     },
     {
       "id": "mskxygv0rfwxx3es4w",
@@ -4216,7 +6034,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-08T22:24:34.525Z",
-      "atualizadoEm": "2026-08-09T20:15:02.995Z"
+      "atualizadoEm": "2026-08-10T00:22:47.360Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 19304.044943820223,
+      "m2SetupPerda": 3243.0795505617975,
+      "maquinas": [
+        {
+          "nome": "FLEXO 250",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 8.360333333333333,
+          "hora": 143.04,
+          "custo": 1195.8620799999999
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 5.517666666666667,
+          "hora": 98.03,
+          "custo": 540.8968633333334
+        }
+      ],
+      "qtdEtiquetas": 400000
     },
     {
       "id": "mskxygv1mkevd6lf05",
@@ -4273,7 +6121,29 @@
       "invest": 10200,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-08T22:24:34.525Z",
-      "atualizadoEm": "2026-08-09T20:15:02.995Z"
+      "atualizadoEm": "2026-08-10T00:22:47.360Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 100,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 51,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 12036.578947368422,
+      "m2SetupPerda": 2575.827894736842,
+      "maquinas": [
+        {
+          "nome": "TROQUELADORA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 5.179666666666667,
+          "hora": 82.16,
+          "custo": 425.56141333333335
+        }
+      ],
+      "qtdEtiquetas": 600000
     },
     {
       "id": "mskxygv2kxrda3gnyc",
@@ -4330,7 +6200,37 @@
       "invest": 400,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-08T22:24:34.526Z",
-      "atualizadoEm": "2026-08-09T20:15:02.996Z"
+      "atualizadoEm": "2026-08-10T00:22:47.360Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 100,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 1793.1958762886597,
+      "m2SetupPerda": 261.8065979381443,
+      "maquinas": [
+        {
+          "nome": "BROTECH",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 1.072,
+          "hora": 261.07,
+          "custo": 279.86704000000003
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.6596666666666666,
+          "hora": 98.03,
+          "custo": 64.66712333333334
+        }
+      ],
+      "qtdEtiquetas": 200000
     },
     {
       "id": "mskxygv20dt22xg819w7",
@@ -4387,7 +6287,29 @@
       "invest": 4500,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-08T22:24:34.526Z",
-      "atualizadoEm": "2026-08-09T20:15:02.996Z"
+      "atualizadoEm": "2026-08-10T00:22:47.361Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 26,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 6020.789473684211,
+      "m2SetupPerda": 1288.4489473684212,
+      "maquinas": [
+        {
+          "nome": "TROQUELADORA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 2.6736666666666666,
+          "hora": 82.16,
+          "custo": 219.66845333333333
+        }
+      ],
+      "qtdEtiquetas": 150000
     },
     {
       "id": "mskxygv3d88w7zsft8w",
@@ -4444,7 +6366,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-08T22:24:34.527Z",
-      "atualizadoEm": "2026-08-09T20:15:02.996Z"
+      "atualizadoEm": "2026-08-10T00:22:47.361Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 4,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 546.4285714285714,
+      "m2SetupPerda": 116.93571428571428,
+      "maquinas": [
+        {
+          "nome": "BROTECH",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.228,
+          "hora": 261.07,
+          "custo": 59.52396
+        },
+        {
+          "nome": "IMPRESSORA TÉRMICA",
+          "processo": "DADOS VARIÁVEIS",
+          "un": "Metros",
+          "tempo": 4.4910000000000005,
+          "hora": 100,
+          "custo": 449.1000000000001
+        }
+      ],
+      "qtdEtiquetas": 21000
     },
     {
       "id": "mskxygv4ugklq0nkyi",
@@ -4501,7 +6453,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-08T22:24:34.528Z",
-      "atualizadoEm": "2026-08-09T20:15:02.996Z"
+      "atualizadoEm": "2026-08-10T00:22:47.362Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 100,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 2391.134020618557,
+      "m2SetupPerda": 265.41587628865983,
+      "maquinas": [
+        {
+          "nome": "BROTECH",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 1.321,
+          "hora": 261.07,
+          "custo": 344.87347
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.8256666666666667,
+          "hora": 98.03,
+          "custo": 80.94010333333334
+        }
+      ],
+      "qtdEtiquetas": 300000
     },
     {
       "id": "mskxygv4va95zal5a6p",
@@ -4558,7 +6540,37 @@
       "invest": 114.75,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-08T22:24:34.528Z",
-      "atualizadoEm": "2026-08-09T20:15:02.997Z"
+      "atualizadoEm": "2026-08-10T00:22:47.362Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 481.81825271376397,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "TT2",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 8105.278033707865,
+      "m2SetupPerda": 2431.583410112359,
+      "maquinas": [
+        {
+          "nome": "NACBRAS",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 3.418,
+          "hora": 266.2,
+          "custo": 909.8716000000001
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 2.3906666666666667,
+          "hora": 98.03,
+          "custo": 234.35705333333334
+        }
+      ],
+      "qtdEtiquetas": 229500
     },
     {
       "id": "mskxygv5ut8xa1pkzp",
@@ -4615,7 +6627,37 @@
       "invest": 1500,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-08T22:24:34.529Z",
-      "atualizadoEm": "2026-08-09T20:15:02.997Z"
+      "atualizadoEm": "2026-08-10T00:22:47.363Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "BOPP BRANCO FOSCO ACRILICO NTC - S0290",
+      "substrato2": "NÃO",
+      "ribbonQtd": 11,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 5267.078651685393,
+      "m2SetupPerda": 874.3350561797753,
+      "maquinas": [
+        {
+          "nome": "FLEXO 250",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 3.4733333333333336,
+          "hora": 143.04,
+          "custo": 496.8256
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 1.5936666666666668,
+          "hora": 98.03,
+          "custo": 156.22714333333334
+        }
+      ],
+      "qtdEtiquetas": 15000
     },
     {
       "id": "mskxygv6h6wx0pa6m0r",
@@ -4672,7 +6714,29 @@
       "invest": 6000,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-08T22:24:34.530Z",
-      "atualizadoEm": "2026-08-09T20:15:03.000Z"
+      "atualizadoEm": "2026-08-10T00:22:47.367Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 36,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 8360.263157894737,
+      "m2SetupPerda": 1855.9784210526316,
+      "maquinas": [
+        {
+          "nome": "TROQUELADORA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 3.6476666666666664,
+          "hora": 82.16,
+          "custo": 299.6922933333333
+        }
+      ],
+      "qtdEtiquetas": 200000
     },
     {
       "id": "mskxygv6aja7pnhlkvk",
@@ -4729,7 +6793,29 @@
       "invest": 504,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-08T22:24:34.530Z",
-      "atualizadoEm": "2026-08-09T20:15:03.000Z"
+      "atualizadoEm": "2026-08-10T00:22:47.367Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "TT2",
+      "substrato2": "NÃO",
+      "ribbonQtd": 15,
+      "ribbonMetros": 500,
+      "mlSetupPerda": 3766.8736842105263,
+      "m2SetupPerda": 1167.7308421052633,
+      "maquinas": [
+        {
+          "nome": "TROQUELADORA 350",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 1.2116666666666667,
+          "hora": 82.16,
+          "custo": 99.55053333333333
+        }
+      ],
+      "qtdEtiquetas": 33600
     },
     {
       "id": "mskxygv7hmpclv5q80w",
@@ -4786,7 +6872,29 @@
       "invest": 480,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-08T22:24:34.531Z",
-      "atualizadoEm": "2026-08-09T20:15:03.000Z"
+      "atualizadoEm": "2026-08-10T00:22:47.368Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 14,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 3213.421052631579,
+      "m2SetupPerda": 687.672105263158,
+      "maquinas": [
+        {
+          "nome": "TROQUELADORA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 1.5036666666666667,
+          "hora": 82.16,
+          "custo": 123.54125333333333
+        }
+      ],
+      "qtdEtiquetas": 40000
     },
     {
       "id": "mskxygvdoxc77z9bx8f",
@@ -4843,7 +6951,20 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-08T22:24:34.537Z",
-      "atualizadoEm": "2026-08-09T20:15:03.000Z"
+      "atualizadoEm": "2026-08-10T00:22:47.368Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "NÃO",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 0,
+      "m2SetupPerda": 0,
+      "maquinas": [],
+      "qtdEtiquetas": 100
     },
     {
       "id": "mskxygved9amrkrdvbf",
@@ -4900,7 +7021,20 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-08T22:24:34.538Z",
-      "atualizadoEm": "2026-08-09T20:15:03.001Z"
+      "atualizadoEm": "2026-08-10T00:22:47.369Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "NÃO",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 0,
+      "m2SetupPerda": 0,
+      "maquinas": [],
+      "qtdEtiquetas": 20000
     },
     {
       "id": "mskxygvfwaeu49gowc",
@@ -4957,7 +7091,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-08T22:24:34.539Z",
-      "atualizadoEm": "2026-08-09T20:15:03.001Z"
+      "atualizadoEm": "2026-08-10T00:22:47.369Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 200,
+      "substrato1": "BOPP BRANCO FOSCO BORRACHA - C2075",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 1060.2808988764045,
+      "m2SetupPerda": 235.3823595505618,
+      "maquinas": [
+        {
+          "nome": "FLEXO 250",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.8333333333333333,
+          "hora": 143.04,
+          "custo": 119.19999999999999
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.44966666666666666,
+          "hora": 98.03,
+          "custo": 44.080823333333335
+        }
+      ],
+      "qtdEtiquetas": 22000
     },
     {
       "id": "mskxygvf9b7l6ljx8pi",
@@ -5014,7 +7178,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-08T22:24:34.539Z",
-      "atualizadoEm": "2026-08-09T20:15:03.001Z"
+      "atualizadoEm": "2026-08-10T00:22:47.370Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 2717.1276595744685,
+      "m2SetupPerda": 581.4653191489363,
+      "maquinas": [
+        {
+          "nome": "TROQUELADORA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 1.2926666666666666,
+          "hora": 82.16,
+          "custo": 106.20549333333332
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.9176666666666666,
+          "hora": 98.03,
+          "custo": 89.95886333333333
+        }
+      ],
+      "qtdEtiquetas": 50000
     },
     {
       "id": "mskxygvgxbooy3s2zt",
@@ -5071,7 +7265,29 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-08T22:24:34.540Z",
-      "atualizadoEm": "2026-08-09T20:15:03.002Z"
+      "atualizadoEm": "2026-08-10T00:22:47.370Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 20,
+      "substrato1": "BOPP BRANCO ACRILICO - ADC210",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 347.10526315789474,
+      "m2SetupPerda": 39.9171052631579,
+      "maquinas": [
+        {
+          "nome": "TURO",
+          "processo": "",
+          "un": "Batidas",
+          "tempo": 2.443,
+          "hora": 117.29,
+          "custo": 286.53947
+        }
+      ],
+      "qtdEtiquetas": 100000
     },
     {
       "id": "mskxygvgnaostubj97o",
@@ -5128,7 +7344,20 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-08T22:24:34.540Z",
-      "atualizadoEm": "2026-08-09T20:15:03.002Z"
+      "atualizadoEm": "2026-08-10T00:22:47.370Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "NÃO",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 0,
+      "m2SetupPerda": 0,
+      "maquinas": [],
+      "qtdEtiquetas": 1
     },
     {
       "id": "mskxygvhktmex44z4qo",
@@ -5185,7 +7414,45 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-08T22:24:34.541Z",
-      "atualizadoEm": "2026-08-09T20:15:03.002Z"
+      "atualizadoEm": "2026-08-10T00:22:47.371Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "BOPP BRANCO FOSCO ACRILICO NTC - S0290",
+      "substrato2": "NÃO",
+      "ribbonQtd": 1,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 142.26190476190476,
+      "m2SetupPerda": 46.94642857142857,
+      "maquinas": [
+        {
+          "nome": "BOBST",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.21566666666666667,
+          "hora": 893.08,
+          "custo": 192.6075866666667
+        },
+        {
+          "nome": "VOREY",
+          "processo": "CORTE VOREY/BROTECH",
+          "un": "Metros",
+          "tempo": 0.41666666666666663,
+          "hora": 208.9,
+          "custo": 87.04166666666666
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 2000
     },
     {
       "id": "mskxygvigop5cgex5f",
@@ -5242,7 +7509,45 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-08T22:24:34.542Z",
-      "atualizadoEm": "2026-08-09T20:15:03.002Z"
+      "atualizadoEm": "2026-08-10T00:22:47.371Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "BOPP BRANCO FOSCO ACRILICO NTC - S0290",
+      "substrato2": "NÃO",
+      "ribbonQtd": 2,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 200.89285714285714,
+      "m2SetupPerda": 66.29464285714286,
+      "maquinas": [
+        {
+          "nome": "BOBST",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.23966666666666664,
+          "hora": 893.08,
+          "custo": 214.04150666666666
+        },
+        {
+          "nome": "VOREY",
+          "processo": "CORTE VOREY/BROTECH",
+          "un": "Metros",
+          "tempo": 0.41666666666666663,
+          "hora": 208.9,
+          "custo": 87.04166666666666
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 3000
     },
     {
       "id": "mskxygvir3yamfwf5ll",
@@ -5299,7 +7604,45 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-08T22:24:34.542Z",
-      "atualizadoEm": "2026-08-09T20:15:03.003Z"
+      "atualizadoEm": "2026-08-10T00:22:47.372Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "BOPP BRANCO FOSCO ACRILICO NTC - S0290",
+      "substrato2": "NÃO",
+      "ribbonQtd": 1,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 54.31547619047619,
+      "m2SetupPerda": 17.924107142857142,
+      "maquinas": [
+        {
+          "nome": "BOBST",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.17866666666666667,
+          "hora": 893.08,
+          "custo": 159.56362666666666
+        },
+        {
+          "nome": "VOREY",
+          "processo": "CORTE VOREY/BROTECH",
+          "un": "Metros",
+          "tempo": 0.41666666666666663,
+          "hora": 208.9,
+          "custo": 87.04166666666666
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 500
     },
     {
       "id": "mskxygvjuvixn7uiywn",
@@ -5356,7 +7699,45 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-08T22:24:34.543Z",
-      "atualizadoEm": "2026-08-09T20:15:03.003Z"
+      "atualizadoEm": "2026-08-10T00:22:47.372Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "BOPP BRANCO FOSCO ACRILICO NTC - S0290",
+      "substrato2": "NÃO",
+      "ribbonQtd": 3,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 318.1547619047619,
+      "m2SetupPerda": 104.99107142857144,
+      "maquinas": [
+        {
+          "nome": "BOBST",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.2886666666666666,
+          "hora": 893.08,
+          "custo": 257.80242666666663
+        },
+        {
+          "nome": "VOREY",
+          "processo": "CORTE VOREY/BROTECH",
+          "un": "Metros",
+          "tempo": 0.4926666666666667,
+          "hora": 208.9,
+          "custo": 102.91806666666668
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 5000
     },
     {
       "id": "mskxygvjvji0x6fiofe",
@@ -5413,7 +7794,45 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-08T22:24:34.543Z",
-      "atualizadoEm": "2026-08-09T20:15:03.003Z"
+      "atualizadoEm": "2026-08-10T00:22:47.373Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "BOPP BRANCO FOSCO ACRILICO NTC - S0290",
+      "substrato2": "NÃO",
+      "ribbonQtd": 1,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 87.47126436781609,
+      "m2SetupPerda": 28.86551724137931,
+      "maquinas": [
+        {
+          "nome": "BOBST",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.19066666666666665,
+          "hora": 893.08,
+          "custo": 170.28058666666666
+        },
+        {
+          "nome": "BROTECH",
+          "processo": "CORTE VOREY/BROTECH",
+          "un": "Metros",
+          "tempo": 0.4996666666666667,
+          "hora": 261.07,
+          "custo": 130.44797666666668
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 3000
     },
     {
       "id": "mskxygvkjbxk93o5sga",
@@ -5470,7 +7889,29 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-08T22:24:34.544Z",
-      "atualizadoEm": "2026-08-09T20:15:03.003Z"
+      "atualizadoEm": "2026-08-10T00:22:47.373Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 50,
+      "substrato1": "BOPP BRANCO FOSCO ACRILICO NTC - S0290",
+      "substrato2": "NÃO",
+      "ribbonQtd": 1,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 14.190771929824562,
+      "m2SetupPerda": 1.5893664561403509,
+      "maquinas": [
+        {
+          "nome": "TROQUELADORA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 82.16,
+          "custo": 27.386666666666663
+        }
+      ],
+      "qtdEtiquetas": 1000
     },
     {
       "id": "mskxygvkxbxpw43a3h",
@@ -5527,7 +7968,29 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-08T22:24:34.544Z",
-      "atualizadoEm": "2026-08-09T20:15:03.004Z"
+      "atualizadoEm": "2026-08-10T00:22:47.374Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 50,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 147.03947368421052,
+      "m2SetupPerda": 31.46644736842105,
+      "maquinas": [
+        {
+          "nome": "TROQUELADORA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 82.16,
+          "custo": 27.386666666666663
+        }
+      ],
+      "qtdEtiquetas": 5000
     },
     {
       "id": "mskxygvlfgbusy3nyob",
@@ -5584,7 +8047,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-08T22:24:34.545Z",
-      "atualizadoEm": "2026-08-09T20:15:03.004Z"
+      "atualizadoEm": "2026-08-10T00:22:47.374Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 100,
+      "substrato1": "BOPP BRANCO FOSCO ACRILICO NTC - S0290",
+      "substrato2": "NÃO",
+      "ribbonQtd": 2,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 432.4157303370786,
+      "m2SetupPerda": 92.53696629213482,
+      "maquinas": [
+        {
+          "nome": "FLEXO 250",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.8333333333333333,
+          "hora": 143.04,
+          "custo": 119.19999999999999
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "NÃO HÁ",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 5000
     },
     {
       "id": "mskxygvl26p69sfkvab",
@@ -5641,7 +8134,53 @@
       "invest": 50,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-08T22:24:34.545Z",
-      "atualizadoEm": "2026-08-09T20:15:03.004Z"
+      "atualizadoEm": "2026-08-10T00:22:47.375Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 10,
+      "substrato1": "BOPP BRANCO FOSCO ACRILICO NTC - S0290",
+      "substrato2": "NÃO",
+      "ribbonQtd": 1,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 136.6260162601626,
+      "m2SetupPerda": 45.08658536585366,
+      "maquinas": [
+        {
+          "nome": "BOBST",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.20866666666666667,
+          "hora": 893.08,
+          "custo": 186.35602666666668
+        },
+        {
+          "nome": "BROTECH",
+          "processo": "VERNIZ FLEXO",
+          "un": "Metros",
+          "tempo": 0.4996666666666667,
+          "hora": 261.07,
+          "custo": 130.44797666666668
+        },
+        {
+          "nome": "VOREY",
+          "processo": "CORTE VOREY/BROTECH",
+          "un": "Metros",
+          "tempo": 0.41666666666666663,
+          "hora": 208.9,
+          "custo": 87.04166666666666
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 5000
     },
     {
       "id": "msm885t8mw8osbu1ws",
@@ -5698,7 +8237,29 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.100Z",
-      "atualizadoEm": "2026-08-09T20:15:03.004Z"
+      "atualizadoEm": "2026-08-10T00:22:47.375Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 100,
+      "substrato1": "BOPP BRANCO FOSCO DIGITAL - HAVIR",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 473.42105263157896,
+      "m2SetupPerda": 104.15263157894738,
+      "maquinas": [
+        {
+          "nome": "TURO",
+          "processo": "",
+          "un": "Batidas",
+          "tempo": 0.75,
+          "hora": 117.29,
+          "custo": 87.9675
+        }
+      ],
+      "qtdEtiquetas": 5000
     },
     {
       "id": "msm885t802eupsicsuzq",
@@ -5755,7 +8316,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.100Z",
-      "atualizadoEm": "2026-08-09T20:15:03.005Z"
+      "atualizadoEm": "2026-08-10T00:22:47.376Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 100,
+      "substrato1": "BOPP TRANSPARENTE ACRILICO NTC - S0290",
+      "substrato2": "LAMINAÇÃO BRILHO - BITRATADA",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 6981.067415730337,
+      "m2SetupPerda": 1493.9484269662921,
+      "maquinas": [
+        {
+          "nome": "ETIRAMA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 3.0566666666666666,
+          "hora": 391.07,
+          "custo": 1195.3706333333332
+        },
+        {
+          "nome": "EVO",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 1.2786666666666668,
+          "hora": 98.03,
+          "custo": 125.34769333333335
+        }
+      ],
+      "qtdEtiquetas": 170000
     },
     {
       "id": "msm885t9hvt97yrujku",
@@ -5812,7 +8403,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.101Z",
-      "atualizadoEm": "2026-08-09T20:15:03.005Z"
+      "atualizadoEm": "2026-08-10T00:22:47.378Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 100,
+      "substrato1": "BOPP TRANSPARENTE ACRILICO NTC - S0290",
+      "substrato2": "LAMINAÇÃO BRILHO - BITRATADA",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 2902.388014981273,
+      "m2SetupPerda": 621.1110352059924,
+      "maquinas": [
+        {
+          "nome": "ETIRAMA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 1.2446666666666666,
+          "hora": 391.07,
+          "custo": 486.7517933333333
+        },
+        {
+          "nome": "EVO",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.6286666666666667,
+          "hora": 98.03,
+          "custo": 61.628193333333336
+        }
+      ],
+      "qtdEtiquetas": 170000
     },
     {
       "id": "msm885t9jde80gncgxl",
@@ -5869,7 +8490,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.101Z",
-      "atualizadoEm": "2026-08-09T20:15:03.005Z"
+      "atualizadoEm": "2026-08-10T00:22:47.378Z",
+      "coldTotal": 1361.3044943820223,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 100,
+      "substrato1": "BOPP TRANSPARENTE ACRILICO NTC - S0290",
+      "substrato2": "LAMINAÇÃO BRILHO - BITRATADA",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 2544.4943820224717,
+      "m2SetupPerda": 544.5217977528089,
+      "maquinas": [
+        {
+          "nome": "ETIRAMA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 1.491,
+          "hora": 391.07,
+          "custo": 583.08537
+        },
+        {
+          "nome": "EVO",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.5586666666666666,
+          "hora": 98.03,
+          "custo": 54.76609333333333
+        }
+      ],
+      "qtdEtiquetas": 60000
     },
     {
       "id": "msm885tar1k2ogaws9o",
@@ -5926,7 +8577,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.102Z",
-      "atualizadoEm": "2026-08-09T20:15:03.005Z"
+      "atualizadoEm": "2026-08-10T00:22:47.379Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 100,
+      "substrato1": "BOPP TRANSPARENTE ACRILICO NTC - S0290",
+      "substrato2": "LAMINAÇÃO BRILHO - BITRATADA",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 1048.4898876404493,
+      "m2SetupPerda": 224.37683595505615,
+      "maquinas": [
+        {
+          "nome": "ETIRAMA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.5373333333333333,
+          "hora": 391.07,
+          "custo": 210.13494666666665
+        },
+        {
+          "nome": "EVO",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 60000
     },
     {
       "id": "msm885ta5r0do5olz7p",
@@ -5983,7 +8664,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.102Z",
-      "atualizadoEm": "2026-08-09T20:15:03.006Z"
+      "atualizadoEm": "2026-08-10T00:22:47.379Z",
+      "coldTotal": 1250.677715355805,
+      "hotTotal": 0,
+      "vernizTTotal": 99.12871571910111,
+      "vernizPTotal": 99.12871571910111,
+      "facaTotal": 50,
+      "substrato1": "BOPP BRANCO FOSCO BORRACHA - C2075",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 2337.7153558052432,
+      "m2SetupPerda": 500.271086142322,
+      "maquinas": [
+        {
+          "nome": "ETIRAMA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 4.335,
+          "hora": 391.07,
+          "custo": 1695.28845
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.6136666666666667,
+          "hora": 98.03,
+          "custo": 60.157743333333336
+        }
+      ],
+      "qtdEtiquetas": 52000
     },
     {
       "id": "msm885tbbrq5oq3eetd",
@@ -6040,7 +8751,45 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.103Z",
-      "atualizadoEm": "2026-08-09T20:15:03.006Z"
+      "atualizadoEm": "2026-08-10T00:22:47.380Z",
+      "coldTotal": 263.821875,
+      "hotTotal": 0,
+      "vernizTTotal": 20.9105218125,
+      "vernizPTotal": 20.9105218125,
+      "facaTotal": 0,
+      "substrato1": "BOPP BRANCO FOSCO BORRACHA - C2075",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 493.125,
+      "m2SetupPerda": 105.52875,
+      "maquinas": [
+        {
+          "nome": "ETIRAMA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 1.3833333333333333,
+          "hora": 391.07,
+          "custo": 540.9801666666666
+        },
+        {
+          "nome": "VOREY",
+          "processo": "CORTE VOREY/BROTECH",
+          "un": "Metros",
+          "tempo": 0.43166666666666664,
+          "hora": 208.9,
+          "custo": 90.17516666666667
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 3000
     },
     {
       "id": "msm885tbmfxo7hki03",
@@ -6097,7 +8846,45 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.103Z",
-      "atualizadoEm": "2026-08-09T20:15:03.006Z"
+      "atualizadoEm": "2026-08-10T00:22:47.380Z",
+      "coldTotal": 256.41071428571433,
+      "hotTotal": 0,
+      "vernizTTotal": 20.323113214285716,
+      "vernizPTotal": 20.323113214285716,
+      "facaTotal": 0,
+      "substrato1": "BOPP BRANCO FOSCO BORRACHA - C2075",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 617.8571428571429,
+      "m2SetupPerda": 102.56428571428573,
+      "maquinas": [
+        {
+          "nome": "ETIRAMA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 1.4093333333333333,
+          "hora": 391.07,
+          "custo": 551.1479866666666
+        },
+        {
+          "nome": "VOREY",
+          "processo": "CORTE VOREY/BROTECH",
+          "un": "Metros",
+          "tempo": 0.5696666666666667,
+          "hora": 208.9,
+          "custo": 119.00336666666666
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 6000
     },
     {
       "id": "msm885tbqby0bqvez6a",
@@ -6154,7 +8941,37 @@
       "invest": 6000,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.103Z",
-      "atualizadoEm": "2026-08-09T20:15:03.006Z"
+      "atualizadoEm": "2026-08-10T00:22:47.381Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 100,
+      "substrato1": "BOPP BRANCO FOSCO DIGITAL - HAVIR",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 3195,
+      "m2SetupPerda": 639,
+      "maquinas": [
+        {
+          "nome": "BROTECH",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 1.656,
+          "hora": 261.07,
+          "custo": 432.33191999999997
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 1.0486666666666666,
+          "hora": 98.03,
+          "custo": 102.80079333333333
+        }
+      ],
+      "qtdEtiquetas": 20000
     },
     {
       "id": "msm885tchfd815a019d",
@@ -6211,7 +9028,45 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.104Z",
-      "atualizadoEm": "2026-08-09T20:15:03.007Z"
+      "atualizadoEm": "2026-08-10T00:22:47.381Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 60.2316213362069,
+      "vernizPTotal": 0,
+      "facaTotal": 10,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 1842.2413793103449,
+      "m2SetupPerda": 303.9698275862069,
+      "maquinas": [
+        {
+          "nome": "FLEXO 250",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 2.684,
+          "hora": 143.04,
+          "custo": 383.91936
+        },
+        {
+          "nome": "BROTECH",
+          "processo": "CORTE VOREY/BROTECH",
+          "un": "Metros",
+          "tempo": 1.0170000000000001,
+          "hora": 261.07,
+          "custo": 265.50819
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "NÃO HÁ",
+          "un": "Metros",
+          "tempo": 0.6226666666666667,
+          "hora": 98.03,
+          "custo": 61.040013333333334
+        }
+      ],
+      "qtdEtiquetas": 60000
     },
     {
       "id": "msm885tcb5dyz08k2j9",
@@ -6268,7 +9123,45 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.104Z",
-      "atualizadoEm": "2026-08-09T20:15:03.007Z"
+      "atualizadoEm": "2026-08-10T00:22:47.382Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 41.82217672413793,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 1055.316091954023,
+      "m2SetupPerda": 211.06321839080462,
+      "maquinas": [
+        {
+          "nome": "FLEXO 250",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 2.5,
+          "hora": 143.04,
+          "custo": 357.59999999999997
+        },
+        {
+          "nome": "BROTECH",
+          "processo": "CORTE VOREY/BROTECH",
+          "un": "Metros",
+          "tempo": 0.6890000000000001,
+          "hora": 261.07,
+          "custo": 179.87723
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.4046666666666666,
+          "hora": 98.03,
+          "custo": 39.66947333333333
+        }
+      ],
+      "qtdEtiquetas": 25000
     },
     {
       "id": "msm885tcr0osulx7jv",
@@ -6325,7 +9218,45 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.104Z",
-      "atualizadoEm": "2026-08-09T20:15:03.007Z"
+      "atualizadoEm": "2026-08-10T00:22:47.382Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 24.19616482758621,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 610.551724137931,
+      "m2SetupPerda": 122.11034482758622,
+      "maquinas": [
+        {
+          "nome": "FLEXO 250",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 2.5,
+          "hora": 143.04,
+          "custo": 357.59999999999997
+        },
+        {
+          "nome": "BROTECH",
+          "processo": "CORTE VOREY/BROTECH",
+          "un": "Metros",
+          "tempo": 0.504,
+          "hora": 261.07,
+          "custo": 131.57928
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 12000
     },
     {
       "id": "msm885tdoi78wykpm8q",
@@ -6382,7 +9313,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.105Z",
-      "atualizadoEm": "2026-08-09T20:15:03.007Z"
+      "atualizadoEm": "2026-08-10T00:22:47.383Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 30.940903952205883,
+      "vernizPTotal": 0,
+      "facaTotal": 50,
+      "substrato1": "BOPP BRANCO FOSCO ACRILICO NTC - S0290",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 624.5955882352941,
+      "m2SetupPerda": 156.14889705882354,
+      "maquinas": [
+        {
+          "nome": "FLEXO 250",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 1.8333333333333333,
+          "hora": 143.04,
+          "custo": 262.23999999999995
+        },
+        {
+          "nome": "TURO",
+          "processo": "CORTE PLANO",
+          "un": "Batidas",
+          "tempo": 0.75,
+          "hora": 117.29,
+          "custo": 87.9675
+        }
+      ],
+      "qtdEtiquetas": 2500
     },
     {
       "id": "msm885tdu4w1biyea18",
@@ -6439,7 +9400,29 @@
       "invest": 240,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.105Z",
-      "atualizadoEm": "2026-08-09T20:15:03.008Z"
+      "atualizadoEm": "2026-08-10T00:22:47.383Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "BOPP BRANCO FOSCO DIGITAL - HAVIR",
+      "substrato2": "NÃO",
+      "ribbonQtd": 1,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 63.10526315789474,
+      "m2SetupPerda": 10.980315789473684,
+      "maquinas": [
+        {
+          "nome": "TURO",
+          "processo": "",
+          "un": "Batidas",
+          "tempo": 0.75,
+          "hora": 117.29,
+          "custo": 87.9675
+        }
+      ],
+      "qtdEtiquetas": 3000
     },
     {
       "id": "msm885tdjj5nr0uva5c",
@@ -6496,7 +9479,29 @@
       "invest": 7500,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.105Z",
-      "atualizadoEm": "2026-08-09T20:15:03.008Z"
+      "atualizadoEm": "2026-08-10T00:22:47.384Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 100,
+      "substrato1": "BOPP BRANCO FOSCO DIGITAL - HAVIR",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 4433.289473684211,
+      "m2SetupPerda": 691.5931578947369,
+      "maquinas": [
+        {
+          "nome": "TROQUELADORA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 2.0116666666666667,
+          "hora": 82.16,
+          "custo": 165.27853333333334
+        }
+      ],
+      "qtdEtiquetas": 25000
     },
     {
       "id": "msm885te76fu2rmt7ok",
@@ -6553,7 +9558,29 @@
       "invest": 8750,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.106Z",
-      "atualizadoEm": "2026-08-09T20:15:03.008Z"
+      "atualizadoEm": "2026-08-10T00:22:47.384Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "BOPP BRANCO FOSCO DIGITAL - HAVIR",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 1244.3631578947366,
+      "m2SetupPerda": 214.03046315789467,
+      "maquinas": [
+        {
+          "nome": "TURO",
+          "processo": "",
+          "un": "Batidas",
+          "tempo": 3.174,
+          "hora": 117.29,
+          "custo": 372.27846
+        }
+      ],
+      "qtdEtiquetas": 50000
     },
     {
       "id": "msm885tesa9vppwplxm",
@@ -6610,7 +9637,37 @@
       "invest": 9800.000000000002,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.106Z",
-      "atualizadoEm": "2026-08-09T20:15:03.008Z"
+      "atualizadoEm": "2026-08-10T00:22:47.385Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "BOPP BRANCO FOSCO DIGITAL - HAVIR",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 4717.0360824742265,
+      "m2SetupPerda": 811.3302061855669,
+      "maquinas": [
+        {
+          "nome": "BROTECH",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 2.29,
+          "hora": 261.07,
+          "custo": 597.8503
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 1.4716666666666667,
+          "hora": 98.03,
+          "custo": 144.26748333333333
+        }
+      ],
+      "qtdEtiquetas": 70000
     },
     {
       "id": "msm885tejp9i04g440j",
@@ -6667,7 +9724,29 @@
       "invest": 600,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.106Z",
-      "atualizadoEm": "2026-08-09T20:15:03.009Z"
+      "atualizadoEm": "2026-08-10T00:22:47.385Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "BOPP BRANCO FOSCO DIGITAL - HAVIR",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 278.6842105263158,
+      "m2SetupPerda": 55.73684210526316,
+      "maquinas": [
+        {
+          "nome": "TURO",
+          "processo": "",
+          "un": "Batidas",
+          "tempo": 2.004,
+          "hora": 117.29,
+          "custo": 235.04916
+        }
+      ],
+      "qtdEtiquetas": 40000
     },
     {
       "id": "msm885tee6f83lyoh2o",
@@ -6724,7 +9803,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.106Z",
-      "atualizadoEm": "2026-08-09T20:15:03.009Z"
+      "atualizadoEm": "2026-08-10T00:22:47.386Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "COUCHE ACRILICO - S0518",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 362.6470588235294,
+      "m2SetupPerda": 119.6735294117647,
+      "maquinas": [
+        {
+          "nome": "BOBST",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.7986666666666666,
+          "hora": 893.08,
+          "custo": 713.2732266666667
+        },
+        {
+          "nome": "TURO",
+          "processo": "CORTE PLANO",
+          "un": "Batidas",
+          "tempo": 6.132,
+          "hora": 117.29,
+          "custo": 719.22228
+        }
+      ],
+      "qtdEtiquetas": 30000
     },
     {
       "id": "msm885tf40vebkmxupv",
@@ -6781,7 +9890,29 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.107Z",
-      "atualizadoEm": "2026-08-09T20:15:03.009Z"
+      "atualizadoEm": "2026-08-10T00:22:47.386Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 200,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 162.7288507368421,
+      "m2SetupPerda": 36.12580486357895,
+      "maquinas": [
+        {
+          "nome": "TROQUELADORA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 82.16,
+          "custo": 27.386666666666663
+        }
+      ],
+      "qtdEtiquetas": 5172
     },
     {
       "id": "msm885tfpliqbnykmei",
@@ -6838,7 +9969,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.107Z",
-      "atualizadoEm": "2026-08-09T20:15:03.010Z"
+      "atualizadoEm": "2026-08-10T00:22:47.387Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 50,
+      "substrato1": "COUCHE ACRILICO - S0518",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 95.99415730337078,
+      "m2SetupPerda": 20.54274966292135,
+      "maquinas": [
+        {
+          "nome": "FLEXO 250",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.8333333333333333,
+          "hora": 143.04,
+          "custo": 119.19999999999999
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 654
     },
     {
       "id": "msm885tg9htr3ci3i7",
@@ -6895,7 +10056,37 @@
       "invest": 24,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.108Z",
-      "atualizadoEm": "2026-08-09T20:15:03.010Z"
+      "atualizadoEm": "2026-08-10T00:22:47.387Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 130.83462448988763,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "TT2",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 2200.9357303370784,
+      "m2SetupPerda": 660.2807191011235,
+      "maquinas": [
+        {
+          "nome": "NACBRAS",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 1.21,
+          "hora": 266.2,
+          "custo": 322.102
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "CORTE VOREY/BROTECH",
+          "un": "Metros",
+          "tempo": 0.7586666666666666,
+          "hora": 98.03,
+          "custo": 74.37209333333332
+        }
+      ],
+      "qtdEtiquetas": 48000
     },
     {
       "id": "msm885tg4b411apuejs",
@@ -6952,7 +10143,29 @@
       "invest": 504,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.108Z",
-      "atualizadoEm": "2026-08-09T20:15:03.010Z"
+      "atualizadoEm": "2026-08-10T00:22:47.387Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "TT2",
+      "substrato2": "NÃO",
+      "ribbonQtd": 15,
+      "ribbonMetros": 500,
+      "mlSetupPerda": 3766.8736842105263,
+      "m2SetupPerda": 1167.7308421052633,
+      "maquinas": [
+        {
+          "nome": "TROQUELADORA 350",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 1.2116666666666667,
+          "hora": 82.16,
+          "custo": 99.55053333333333
+        }
+      ],
+      "qtdEtiquetas": 33600
     },
     {
       "id": "msm885tgwpj5eu1rzq",
@@ -6982,7 +10195,7 @@
       "largura": 0,
       "altura": 0,
       "substrato": "",
-      "ribbon": "",
+      "ribbon": "NÃO",
       "qntdModelos": 1,
       "origem": "importacao",
       "custoMP": 0,
@@ -7009,7 +10222,20 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.108Z",
-      "atualizadoEm": "2026-08-09T20:15:03.010Z"
+      "atualizadoEm": "2026-08-10T00:22:47.388Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "NÃO",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 0,
+      "m2SetupPerda": 0,
+      "maquinas": [],
+      "qtdEtiquetas": 20
     },
     {
       "id": "msm885tg7d2meqqi22w",
@@ -7066,7 +10292,29 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.108Z",
-      "atualizadoEm": "2026-08-09T20:15:03.011Z"
+      "atualizadoEm": "2026-08-10T00:22:47.388Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 475.88544263157905,
+      "m2SetupPerda": 95.17708852631581,
+      "maquinas": [
+        {
+          "nome": "TROQUELADORA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.3626666666666667,
+          "hora": 82.16,
+          "custo": 29.796693333333334
+        }
+      ],
+      "qtdEtiquetas": 27270
     },
     {
       "id": "msm885th0r8diy56r53",
@@ -7123,7 +10371,29 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.109Z",
-      "atualizadoEm": "2026-08-09T20:15:03.011Z"
+      "atualizadoEm": "2026-08-10T00:22:47.389Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "COUCHE BRILHO - HAVIR",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 6415.526315789474,
+      "m2SetupPerda": 513.2421052631579,
+      "maquinas": [
+        {
+          "nome": "TURO",
+          "processo": "",
+          "un": "Batidas",
+          "tempo": 5.513,
+          "hora": 117.29,
+          "custo": 646.61977
+        }
+      ],
+      "qtdEtiquetas": 30000
     },
     {
       "id": "msm885th3klxibdji2z",
@@ -7180,7 +10450,29 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.109Z",
-      "atualizadoEm": "2026-08-09T20:15:03.011Z"
+      "atualizadoEm": "2026-08-10T00:22:47.389Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "COUCHE BRILHO - HAVIR",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 166.05263157894737,
+      "m2SetupPerda": 18.26578947368421,
+      "maquinas": [
+        {
+          "nome": "TURO",
+          "processo": "",
+          "un": "Batidas",
+          "tempo": 0.75,
+          "hora": 117.29,
+          "custo": 87.9675
+        }
+      ],
+      "qtdEtiquetas": 1000
     },
     {
       "id": "msm885thf22gdnlc3e",
@@ -7237,7 +10529,29 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.109Z",
-      "atualizadoEm": "2026-08-09T20:15:03.011Z"
+      "atualizadoEm": "2026-08-10T00:22:47.390Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 20,
+      "substrato1": "COUCHE BRILHO - HAVIR",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 129.21052631578948,
+      "m2SetupPerda": 6.460526315789474,
+      "maquinas": [
+        {
+          "nome": "TURO",
+          "processo": "",
+          "un": "Batidas",
+          "tempo": 0.75,
+          "hora": 117.29,
+          "custo": 87.9675
+        }
+      ],
+      "qtdEtiquetas": 1000
     },
     {
       "id": "msm885thzdcqqdm1kzj",
@@ -7294,7 +10608,45 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.109Z",
-      "atualizadoEm": "2026-08-09T20:15:03.012Z"
+      "atualizadoEm": "2026-08-10T00:22:47.390Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "BOPP BRANCO BRILHO",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 52.5,
+      "m2SetupPerda": 17.325,
+      "maquinas": [
+        {
+          "nome": "BOBST",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.17766666666666667,
+          "hora": 893.08,
+          "custo": 158.67054666666667
+        },
+        {
+          "nome": "VOREY",
+          "processo": "CORTE VOREY/BROTECH",
+          "un": "Metros",
+          "tempo": 0.41666666666666663,
+          "hora": 208.9,
+          "custo": 87.04166666666666
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 3000
     },
     {
       "id": "msm885tig7669nukfrq",
@@ -7351,7 +10703,45 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.110Z",
-      "atualizadoEm": "2026-08-09T20:15:03.012Z"
+      "atualizadoEm": "2026-08-10T00:22:47.391Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "BOPP BRANCO BRILHO",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 174.20634920634922,
+      "m2SetupPerda": 57.48809523809524,
+      "maquinas": [
+        {
+          "nome": "BOBST",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.22866666666666666,
+          "hora": 893.08,
+          "custo": 204.21762666666666
+        },
+        {
+          "nome": "VOREY",
+          "processo": "CORTE VOREY/BROTECH",
+          "un": "Metros",
+          "tempo": 0.41666666666666663,
+          "hora": 208.9,
+          "custo": 87.04166666666666
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 2000
     },
     {
       "id": "msm885tie57xzfo7ufd",
@@ -7408,7 +10798,45 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.110Z",
-      "atualizadoEm": "2026-08-09T20:15:03.012Z"
+      "atualizadoEm": "2026-08-10T00:22:47.391Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 116.42857142857143,
+      "m2SetupPerda": 38.42142857142857,
+      "maquinas": [
+        {
+          "nome": "BOBST",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.20466666666666666,
+          "hora": 893.08,
+          "custo": 182.78370666666666
+        },
+        {
+          "nome": "VOREY",
+          "processo": "CORTE VOREY/BROTECH",
+          "un": "Metros",
+          "tempo": 0.41666666666666663,
+          "hora": 208.9,
+          "custo": 87.04166666666666
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 8000
     },
     {
       "id": "msm885ti1e4yztml73",
@@ -7465,7 +10893,45 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.110Z",
-      "atualizadoEm": "2026-08-09T20:15:03.012Z"
+      "atualizadoEm": "2026-08-10T00:22:47.392Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 10,
+      "substrato1": "BOPP BRANCO BRILHO",
+      "substrato2": "LAMINAÇÃO BRILHO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 109.81292517006803,
+      "m2SetupPerda": 36.23826530612245,
+      "maquinas": [
+        {
+          "nome": "BOBST",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.20066666666666666,
+          "hora": 893.08,
+          "custo": 179.21138666666667
+        },
+        {
+          "nome": "VOREY",
+          "processo": "CORTE VOREY/BROTECH",
+          "un": "Metros",
+          "tempo": 0.41666666666666663,
+          "hora": 208.9,
+          "custo": 87.04166666666666
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 5500
     },
     {
       "id": "msm885tjhdnizwo3t3",
@@ -7522,7 +10988,45 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.111Z",
-      "atualizadoEm": "2026-08-09T20:15:03.013Z"
+      "atualizadoEm": "2026-08-10T00:22:47.392Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "BOPP BRANCO BRILHO",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 147.02380952380952,
+      "m2SetupPerda": 48.517857142857146,
+      "maquinas": [
+        {
+          "nome": "BOBST",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.21766666666666665,
+          "hora": 893.08,
+          "custo": 194.39374666666666
+        },
+        {
+          "nome": "VOREY",
+          "processo": "CORTE VOREY/BROTECH",
+          "un": "Metros",
+          "tempo": 0.41666666666666663,
+          "hora": 208.9,
+          "custo": 87.04166666666666
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 3000
     },
     {
       "id": "msm885tjz2euni73xb",
@@ -7579,7 +11083,45 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.111Z",
-      "atualizadoEm": "2026-08-09T20:15:03.013Z"
+      "atualizadoEm": "2026-08-10T00:22:47.393Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "substrato1": "BOPP BRANCO BRILHO",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 49.642857142857146,
+      "m2SetupPerda": 16.38214285714286,
+      "maquinas": [
+        {
+          "nome": "BOBST",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.17666666666666667,
+          "hora": 893.08,
+          "custo": 157.77746666666667
+        },
+        {
+          "nome": "VOREY",
+          "processo": "CORTE VOREY/BROTECH",
+          "un": "Metros",
+          "tempo": 0.41666666666666663,
+          "hora": 208.9,
+          "custo": 87.04166666666666
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.3333333333333333,
+          "hora": 98.03,
+          "custo": 32.67666666666666
+        }
+      ],
+      "qtdEtiquetas": 1500
     },
     {
       "id": "msm885tk1rouferkggfi",
@@ -7636,7 +11178,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.112Z",
-      "atualizadoEm": "2026-08-09T20:15:03.013Z"
+      "atualizadoEm": "2026-08-10T00:22:47.393Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 50,
+      "substrato1": "COUCHE BORRACHA - S2045",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 1420.758426966292,
+      "m2SetupPerda": 234.4251404494382,
+      "maquinas": [
+        {
+          "nome": "FLEXO 250",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 2.513,
+          "hora": 143.04,
+          "custo": 359.45951999999994
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "NÃO HÁ",
+          "un": "Metros",
+          "tempo": 0.5086666666666667,
+          "hora": 98.03,
+          "custo": 49.86459333333334
+        }
+      ],
+      "qtdEtiquetas": 46000
     },
     {
       "id": "msm885tktx1n1tov8ec",
@@ -7693,7 +11265,29 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.112Z",
-      "atualizadoEm": "2026-08-09T20:15:03.013Z"
+      "atualizadoEm": "2026-08-10T00:22:47.394Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "BOPP BRANCO FOSCO BORRACHA - C2075",
+      "substrato2": "NÃO",
+      "ribbonQtd": 13,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 3046.315789473684,
+      "m2SetupPerda": 651.9115789473684,
+      "maquinas": [
+        {
+          "nome": "TROQUELADORA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 1.4336666666666666,
+          "hora": 82.16,
+          "custo": 117.79005333333333
+        }
+      ],
+      "qtdEtiquetas": 40000
     },
     {
       "id": "msm885tlxpzi167sls",
@@ -7750,7 +11344,29 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.113Z",
-      "atualizadoEm": "2026-08-09T20:15:03.014Z"
+      "atualizadoEm": "2026-08-10T00:22:47.394Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "BOPP BRANCO FOSCO BORRACHA - C2075",
+      "substrato2": "NÃO",
+      "ribbonQtd": 13,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 3046.315789473684,
+      "m2SetupPerda": 651.9115789473684,
+      "maquinas": [
+        {
+          "nome": "TROQUELADORA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 1.4336666666666666,
+          "hora": 82.16,
+          "custo": 117.79005333333333
+        }
+      ],
+      "qtdEtiquetas": 40000
     },
     {
       "id": "msm885tllddatu8nyi8",
@@ -7807,7 +11423,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.113Z",
-      "atualizadoEm": "2026-08-09T20:15:03.014Z"
+      "atualizadoEm": "2026-08-10T00:22:47.395Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "TRANSTERMICO BORRACHA - C2075",
+      "substrato2": "NÃO",
+      "ribbonQtd": 2,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 401.0526315789474,
+      "m2SetupPerda": 89.03368421052632,
+      "maquinas": [
+        {
+          "nome": "TROQUELADORA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.167,
+          "hora": 82.16,
+          "custo": 13.72072
+        },
+        {
+          "nome": "IMPRESSORA TÉRMICA",
+          "processo": "DADOS VARIÁVEIS",
+          "un": "Metros",
+          "tempo": 2.198,
+          "hora": 100,
+          "custo": 219.79999999999998
+        }
+      ],
+      "qtdEtiquetas": 20000
     },
     {
       "id": "msm885tm7hw3fnewasy",
@@ -7864,7 +11510,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.114Z",
-      "atualizadoEm": "2026-08-09T20:15:03.014Z"
+      "atualizadoEm": "2026-08-10T00:22:47.395Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "substrato1": "TRANSTERMICO BORRACHA - C2075",
+      "substrato2": "NÃO",
+      "ribbonQtd": 3,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 481.26315789473693,
+      "m2SetupPerda": 106.8404210526316,
+      "maquinas": [
+        {
+          "nome": "TROQUELADORA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 0.201,
+          "hora": 82.16,
+          "custo": 16.51416
+        },
+        {
+          "nome": "IMPRESSORA TÉRMICA",
+          "processo": "DADOS VARIÁVEIS",
+          "un": "Metros",
+          "tempo": 2.638,
+          "hora": 100,
+          "custo": 263.8
+        }
+      ],
+      "qtdEtiquetas": 24000
     },
     {
       "id": "msm885tmpefxd8wzp1",
@@ -7921,7 +11597,37 @@
       "invest": 0,
       "fonteCusto": "planilha",
       "criadoEm": "2026-08-09T19:59:49.114Z",
-      "atualizadoEm": "2026-08-09T20:15:03.014Z"
+      "atualizadoEm": "2026-08-10T00:22:47.396Z",
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 100,
+      "substrato1": "TRANSTERMICO BORRACHA - C2075",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 3526.179775280899,
+      "m2SetupPerda": 1149.534606741573,
+      "maquinas": [
+        {
+          "nome": "NACBRAS",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 2.1319999999999997,
+          "hora": 266.2,
+          "custo": 567.5383999999999
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 1.1096666666666666,
+          "hora": 98.03,
+          "custo": 108.78062333333332
+        }
+      ],
+      "qtdEtiquetas": 7000
     }
   ],
   "produtos": [
