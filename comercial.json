@@ -113977,9 +113977,7 @@
       "criadoEm": "2026-08-10T21:47:53.185Z"
     }
   ],
-  "custosFixos": {
-    "2026-08": 500000
-  },
+  "custosFixos": {},
   "params": {
     "substratos": [
       {
