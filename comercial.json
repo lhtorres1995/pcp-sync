@@ -1,7 +1,7 @@
 {
   "vendas": [
     {
-      "id": "msmht8xk1a2t3ybjkcl",
+      "id": "msmiiomb82o55dcqqax",
       "emissao": "2026-08-02",
       "pedido": "10834",
       "cliente": "OLEAK",
@@ -20,7 +20,8 @@
       "ipi": 0,
       "pis": 6.54,
       "cofins": 30.18,
-      "frete": 0,
+      "frete": 30.675,
+      "fretePct": 0.025,
       "vendedor": "WILLIAM",
       "comissaoPct": 15,
       "comissaoVal": 184.05,
@@ -92,10 +93,10 @@
       "custoMaq": 302.0673033333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.466Z"
+      "criadoEm": "2026-08-10T00:47:56.197Z"
     },
     {
-      "id": "msmht8xmvl0dkxss8eh",
+      "id": "msmiiomd4kukf3a32ub",
       "emissao": "2026-08-02",
       "pedido": "10835",
       "cliente": "NOVAK GOUVEIA",
@@ -114,7 +115,8 @@
       "ipi": 0,
       "pis": 14.42,
       "cofins": 66.53,
-      "frete": 0,
+      "frete": 67.616,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -186,10 +188,10 @@
       "custoMaq": 394.70804,
       "invest": 160,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.466Z"
+      "criadoEm": "2026-08-10T00:47:56.197Z"
     },
     {
-      "id": "msmht8xm26m68maz9ed",
+      "id": "msmiiomdc2aeklt3w1j",
       "emissao": "2026-08-02",
       "pedido": "10836",
       "cliente": "SOMMATECH",
@@ -208,7 +210,8 @@
       "ipi": 750.7,
       "pis": 75.07,
       "cofins": 346.48,
-      "frete": 0,
+      "frete": 288.7325,
+      "fretePct": 0.025,
       "vendedor": "IAGO GARCIA",
       "comissaoPct": 5,
       "comissaoVal": 577.465,
@@ -255,10 +258,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.467Z"
+      "criadoEm": "2026-08-10T00:47:56.198Z"
     },
     {
-      "id": "msmht8xn5hm037mw2k5",
+      "id": "msmiiomez9tknfg332p",
       "emissao": "2026-08-02",
       "pedido": "10837",
       "cliente": "BARRY CALLEBAUT - EXTREMA",
@@ -277,7 +280,8 @@
       "ipi": 0,
       "pis": 332.53,
       "cofins": 1534.77,
-      "frete": 0,
+      "frete": 1453.38,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -333,10 +337,10 @@
       "custoMaq": 507.96789333333334,
       "invest": 18000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.468Z"
+      "criadoEm": "2026-08-10T00:47:56.199Z"
     },
     {
-      "id": "msmht8xonyn3x87a3nt",
+      "id": "msmiiomfscjmjdaw9mo",
       "emissao": "2026-08-02",
       "pedido": "10838",
       "cliente": "SYNGENTA",
@@ -355,7 +359,8 @@
       "ipi": 1194.38,
       "pis": 65.3,
       "cofins": 301.35,
-      "frete": 0,
+      "frete": 306.25,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -419,10 +424,10 @@
       "custoMaq": 210.0150733333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.468Z"
+      "criadoEm": "2026-08-10T00:47:56.199Z"
     },
     {
-      "id": "msmht8xoqnzese84ei9",
+      "id": "msmiiomfd0t974oi2kp",
       "emissao": "2026-08-02",
       "pedido": "10839",
       "cliente": "AUMOVIO - GRU",
@@ -441,7 +446,8 @@
       "ipi": 0,
       "pis": 28.34,
       "cofins": 130.8,
-      "frete": 0,
+      "frete": 132.92550000000003,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -497,10 +503,10 @@
       "custoMaq": 128.14221333333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.469Z"
+      "criadoEm": "2026-08-10T00:47:56.200Z"
     },
     {
-      "id": "msmht8xpp8jff7im6k",
+      "id": "msmiiomggqrbk9eweou",
       "emissao": "2026-08-02",
       "pedido": "10840",
       "cliente": "AUMOVIO - GRU",
@@ -519,7 +525,8 @@
       "ipi": 0,
       "pis": 20.83,
       "cofins": 96.13,
-      "frete": 0,
+      "frete": 97.69125000000001,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -583,10 +590,10 @@
       "custoMaq": 242.06991333333335,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.469Z"
+      "criadoEm": "2026-08-10T00:47:56.201Z"
     },
     {
-      "id": "msmht8xpnoukvjecjhb",
+      "id": "msmiiomhocv9j95rngi",
       "emissao": "2026-08-02",
       "pedido": "10841",
       "cliente": "HENKEL - CD JUNDIAÍ",
@@ -605,7 +612,8 @@
       "ipi": 0,
       "pis": 27.28,
       "cofins": 125.89,
-      "frete": 0,
+      "frete": 127.9325,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -652,10 +660,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.470Z"
+      "criadoEm": "2026-08-10T00:47:56.201Z"
     },
     {
-      "id": "msmht8xqwrtiyet7ws",
+      "id": "msmiiomhqlpgl97eaz",
       "emissao": "2026-08-02",
       "pedido": "10841",
       "cliente": "HENKEL - CD JUNDIAÍ",
@@ -674,7 +682,8 @@
       "ipi": 0,
       "pis": 16.37,
       "cofins": 75.53,
-      "frete": 0,
+      "frete": 76.7595,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -721,10 +730,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.470Z"
+      "criadoEm": "2026-08-10T00:47:56.202Z"
     },
     {
-      "id": "msmht8xqz8u37ibdjsb",
+      "id": "msmiiomi2yrp3nf9g9d",
       "emissao": "2026-08-02",
       "pedido": "10841",
       "cliente": "HENKEL - CD JUNDIAÍ",
@@ -743,7 +752,8 @@
       "ipi": 0,
       "pis": 16.37,
       "cofins": 75.53,
-      "frete": 0,
+      "frete": 76.7595,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -790,10 +800,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.471Z"
+      "criadoEm": "2026-08-10T00:47:56.202Z"
     },
     {
-      "id": "msmht8xr39ml2vjj9p9",
+      "id": "msmiiomiq65wwozxes",
       "emissao": "2026-08-02",
       "pedido": "10841",
       "cliente": "HENKEL - CD JUNDIAÍ",
@@ -812,7 +822,8 @@
       "ipi": 0,
       "pis": 16.37,
       "cofins": 75.53,
-      "frete": 0,
+      "frete": 76.7595,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -859,10 +870,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.471Z"
+      "criadoEm": "2026-08-10T00:47:56.204Z"
     },
     {
-      "id": "msmht8xr80u61h7xe1q",
+      "id": "msmiiomkhpywdntw9r8",
       "emissao": "2026-08-02",
       "pedido": "10841",
       "cliente": "HENKEL - CD JUNDIAÍ",
@@ -881,7 +892,8 @@
       "ipi": 0,
       "pis": 8.18,
       "cofins": 37.77,
-      "frete": 0,
+      "frete": 38.37975,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -928,10 +940,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.471Z"
+      "criadoEm": "2026-08-10T00:47:56.204Z"
     },
     {
-      "id": "msmht8xru2dfe6wdx8c",
+      "id": "msmiiomk5ytxroksf6m",
       "emissao": "2026-08-02",
       "pedido": "10841",
       "cliente": "HENKEL - CD JUNDIAÍ",
@@ -950,7 +962,8 @@
       "ipi": 1194.38,
       "pis": 65.29,
       "cofins": 301.35,
-      "frete": 0,
+      "frete": 306.25,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -1014,10 +1027,10 @@
       "custoMaq": 339.8351133333333,
       "invest": 3750,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.473Z"
+      "criadoEm": "2026-08-10T00:47:56.205Z"
     },
     {
-      "id": "msmht8xto7anla9ttrk",
+      "id": "msmiiomlvq0yevcaox8",
       "emissao": "2026-08-02",
       "pedido": "10841",
       "cliente": "HENKEL - CD JUNDIAÍ",
@@ -1036,7 +1049,8 @@
       "ipi": 1755,
       "pis": 95.94,
       "cofins": 442.8,
-      "frete": 0,
+      "frete": 450,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -1092,10 +1106,10 @@
       "custoMaq": 104.64445333333333,
       "invest": 4500,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.474Z"
+      "criadoEm": "2026-08-10T00:47:56.205Z"
     },
     {
-      "id": "msmht8xu2mm12lsdela",
+      "id": "msmiiomlzsze2fdcqif",
       "emissao": "2026-08-02",
       "pedido": "10842",
       "cliente": "KLABIN ANGATUBA",
@@ -1114,7 +1128,8 @@
       "ipi": 0,
       "pis": 5.95,
       "cofins": 27.46,
-      "frete": 0,
+      "frete": 27.904000000000003,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -1178,10 +1193,10 @@
       "custoMaq": 365.4266666666667,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.474Z"
+      "criadoEm": "2026-08-10T00:47:56.206Z"
     },
     {
-      "id": "msmht8xuayinkhoy048",
+      "id": "msmiiommp7btgn40e3o",
       "emissao": "2026-08-02",
       "pedido": "10843",
       "cliente": "KLABIN - OTACILIO",
@@ -1200,7 +1215,8 @@
       "ipi": 0,
       "pis": 118.98,
       "cofins": 549.15,
-      "frete": 0,
+      "frete": 520.03,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -1264,10 +1280,10 @@
       "custoMaq": 1407.6199833333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.475Z"
+      "criadoEm": "2026-08-10T00:47:56.206Z"
     },
     {
-      "id": "msmht8xv3qusezwh6er",
+      "id": "msmiiommu1tojg97we",
       "emissao": "2026-08-02",
       "pedido": "10844",
       "cliente": "KLABIN CORREIA PINTO",
@@ -1286,7 +1302,8 @@
       "ipi": 0,
       "pis": 95.19,
       "cofins": 439.32,
-      "frete": 0,
+      "frete": 416.024,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -1350,10 +1367,10 @@
       "custoMaq": 1182.8166133333334,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.475Z"
+      "criadoEm": "2026-08-10T00:47:56.207Z"
     },
     {
-      "id": "msmht8xvmlwh4yf783p",
+      "id": "msmiiomnd1xbyd72a1",
       "emissao": "2026-08-02",
       "pedido": "10845",
       "cliente": "KLABIN SÃO LEOPOLDO",
@@ -1372,7 +1389,8 @@
       "ipi": 0,
       "pis": 2.79,
       "cofins": 12.89,
-      "frete": 0,
+      "frete": 12.21,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -1428,10 +1446,10 @@
       "custoMaq": 49.35077333333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.476Z"
+      "criadoEm": "2026-08-10T00:47:56.207Z"
     },
     {
-      "id": "msmht8xwb1gmhclx7du",
+      "id": "msmiiomnk1g0z7d6zih",
       "emissao": "2026-08-02",
       "pedido": "10846",
       "cliente": "KLABIN - OTACILIO",
@@ -1450,7 +1468,8 @@
       "ipi": 0,
       "pis": 14.61,
       "cofins": 67.44,
-      "frete": 0,
+      "frete": 63.864000000000004,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -1514,10 +1533,10 @@
       "custoMaq": 189.49333333333334,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.476Z"
+      "criadoEm": "2026-08-10T00:47:56.208Z"
     },
     {
-      "id": "msmht8xwvnajz6boit",
+      "id": "msmiiomoy0nc8u0x8lr",
       "emissao": "2026-08-03",
       "pedido": "10847",
       "cliente": "VELLARE",
@@ -1536,7 +1555,8 @@
       "ipi": 221.06,
       "pis": 12.08,
       "cofins": 55.78,
-      "frete": 0,
+      "frete": 56.68275,
+      "fretePct": 0.025,
       "vendedor": "WILLIAM",
       "comissaoPct": 10,
       "comissaoVal": 226.731,
@@ -1608,10 +1628,10 @@
       "custoMaq": 393.24159000000003,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.477Z"
+      "criadoEm": "2026-08-10T00:47:56.208Z"
     },
     {
-      "id": "msmht8xx1lup6eza90th",
+      "id": "msmiiomoashup4sgub8",
       "emissao": "2026-08-03",
       "pedido": "10847",
       "cliente": "VELLARE",
@@ -1630,7 +1650,8 @@
       "ipi": 157.52,
       "pis": 8.61,
       "cofins": 39.74,
-      "frete": 0,
+      "frete": 40.391,
+      "fretePct": 0.025,
       "vendedor": "WILLIAM",
       "comissaoPct": 10,
       "comissaoVal": 161.56399999999996,
@@ -1702,10 +1723,10 @@
       "custoMaq": 314.11208,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.477Z"
+      "criadoEm": "2026-08-10T00:47:56.209Z"
     },
     {
-      "id": "msmht8xxv3su9sz0zvp",
+      "id": "msmiiomp261bvln0mpb",
       "emissao": "2026-08-03",
       "pedido": "10848",
       "cliente": "CONGREGACAO - FRENTE",
@@ -1724,7 +1745,8 @@
       "ipi": 0,
       "pis": 25.4,
       "cofins": 117.25,
-      "frete": 0,
+      "frete": 119.17500000000001,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -1796,10 +1818,10 @@
       "custoMaq": 598.4758566666667,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.478Z"
+      "criadoEm": "2026-08-10T00:47:56.210Z"
     },
     {
-      "id": "msmht8xy0dtag9qstxxu",
+      "id": "msmiiomqrsgnbqe65sr",
       "emissao": "2026-08-03",
       "pedido": "10849",
       "cliente": "HENKEL - JUNDIAI",
@@ -1818,7 +1840,8 @@
       "ipi": 0,
       "pis": 20.28,
       "cofins": 93.61,
-      "frete": 0,
+      "frete": 95.13000000000001,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -1882,10 +1905,10 @@
       "custoMaq": 212.66813333333332,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.478Z"
+      "criadoEm": "2026-08-10T00:47:56.210Z"
     },
     {
-      "id": "msmht8xy17s271i0zem",
+      "id": "msmiiomqq44e5701wub",
       "emissao": "2026-08-03",
       "pedido": "10850",
       "cliente": "HENKEL - JUNDIAI",
@@ -1904,7 +1927,8 @@
       "ipi": 0,
       "pis": 20.28,
       "cofins": 93.61,
-      "frete": 0,
+      "frete": 95.13000000000001,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -1968,10 +1992,10 @@
       "custoMaq": 212.66813333333332,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.479Z"
+      "criadoEm": "2026-08-10T00:47:56.211Z"
     },
     {
-      "id": "msmht8xztnhb2s8j0l",
+      "id": "msmiiomrdfp0ugyjqpu",
       "emissao": "2026-08-03",
       "pedido": "10851",
       "cliente": "HENKEL - JUNDIAI",
@@ -1990,7 +2014,8 @@
       "ipi": 1524.39,
       "pis": 83.33,
       "cofins": 384.62,
-      "frete": 0,
+      "frete": 390.8690604,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -2054,10 +2079,10 @@
       "custoMaq": 261.6638433333334,
       "invest": 2800,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.479Z"
+      "criadoEm": "2026-08-10T00:47:56.211Z"
     },
     {
-      "id": "msmht8xzqiev4xicmp",
+      "id": "msmiiomr6w88lsq5z7k",
       "emissao": "2026-08-03",
       "pedido": "10852",
       "cliente": "HENKEL - JUNDIAI",
@@ -2076,7 +2101,8 @@
       "ipi": 74.31,
       "pis": 4.06,
       "cofins": 18.75,
-      "frete": 0,
+      "frete": 19.053052200000003,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -2140,10 +2166,10 @@
       "custoMaq": 199.55666666666662,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.480Z"
+      "criadoEm": "2026-08-10T00:47:56.212Z"
     },
     {
-      "id": "msmht8y0dfam1n7g13j",
+      "id": "msmiiomsv738orxl8ml",
       "emissao": "2026-08-03",
       "pedido": "10853",
       "cliente": "HENKEL - JUNDIAI",
@@ -2162,7 +2188,8 @@
       "ipi": 763.54,
       "pis": 41.74,
       "cofins": 192.65,
-      "frete": 0,
+      "frete": 195.7790835,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -2226,10 +2253,10 @@
       "custoMaq": 211.25541333333334,
       "invest": 1500,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.480Z"
+      "criadoEm": "2026-08-10T00:47:56.213Z"
     },
     {
-      "id": "msmht8y0ew6j10uh1s8",
+      "id": "msmiiomtd0h33gqxct",
       "emissao": "2026-08-03",
       "pedido": "10854",
       "cliente": "HENKEL - JUNDIAI",
@@ -2248,7 +2275,8 @@
       "ipi": 125.24,
       "pis": 6.85,
       "cofins": 31.6,
-      "frete": 0,
+      "frete": 32.11339950000001,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -2320,10 +2348,10 @@
       "custoMaq": 282.3246433333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.481Z"
+      "criadoEm": "2026-08-10T00:47:56.214Z"
     },
     {
-      "id": "msmht8y11grwb8sfz4a",
+      "id": "msmiiomuke6ms4lp49",
       "emissao": "2026-08-03",
       "pedido": "10855",
       "cliente": "HENKEL - JUNDIAI",
@@ -2342,7 +2370,8 @@
       "ipi": 19338.96,
       "pis": 1057.2,
       "cofins": 4879.37,
-      "frete": 0,
+      "frete": 4958.706753,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -2398,10 +2427,10 @@
       "custoMaq": 1184.1446933333332,
       "invest": 16500,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.481Z"
+      "criadoEm": "2026-08-10T00:47:56.214Z"
     },
     {
-      "id": "msmht8y1atpy8eejbst",
+      "id": "msmiiomurg7k9sqi9e",
       "emissao": "2026-08-03",
       "pedido": "10856",
       "cliente": "HENKEL - JUNDIAI",
@@ -2420,7 +2449,8 @@
       "ipi": 3867.79,
       "pis": 211.44,
       "cofins": 975.87,
-      "frete": 0,
+      "frete": 991.7413506000001,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -2484,10 +2514,10 @@
       "custoMaq": 558.6351933333333,
       "invest": 11000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.482Z"
+      "criadoEm": "2026-08-10T00:47:56.215Z"
     },
     {
-      "id": "msmht8y2vedfp5h2wof",
+      "id": "msmiiomv6gt27zdyfeg",
       "emissao": "2026-08-03",
       "pedido": "10857",
       "cliente": "HENKEL - JUNDIAI",
@@ -2506,7 +2536,8 @@
       "ipi": 161.54,
       "pis": 8.83,
       "cofins": 40.76,
-      "frete": 0,
+      "frete": 41.419491750000006,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -2578,10 +2609,10 @@
       "custoMaq": 282.3246433333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.482Z"
+      "criadoEm": "2026-08-10T00:47:56.215Z"
     },
     {
-      "id": "msmht8y2zhy2agbqorb",
+      "id": "msmiiomvb8glz6tqoyq",
       "emissao": "2026-08-03",
       "pedido": "10858",
       "cliente": "ECOLAB SUZANO",
@@ -2600,7 +2631,8 @@
       "ipi": 7663.68,
       "pis": 418.94,
       "cofins": 1933.6,
-      "frete": 0,
+      "frete": 1965.045,
+      "fretePct": 0.025,
       "vendedor": "NILSON",
       "comissaoPct": 8,
       "comissaoVal": 6288.144,
@@ -2664,10 +2696,10 @@
       "custoMaq": 1699.4892133333333,
       "invest": 12000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.483Z"
+      "criadoEm": "2026-08-10T00:47:56.216Z"
     },
     {
-      "id": "msmht8y343cq0hriz6m",
+      "id": "msmiiomwj2g72tmyqq",
       "emissao": "2026-08-03",
       "pedido": "10859",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -2687,6 +2719,7 @@
       "pis": 12.62,
       "cofins": 58.23,
       "frete": 0,
+      "fretePct": 0,
       "vendedor": "IAGO GARCIA",
       "comissaoPct": 10,
       "comissaoVal": 194.08599999999998,
@@ -2733,10 +2766,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.483Z"
+      "criadoEm": "2026-08-10T00:47:56.216Z"
     },
     {
-      "id": "msmht8y3gm1bu284ma",
+      "id": "msmiiomwdsmwrjzqixs",
       "emissao": "2026-08-03",
       "pedido": "10860",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -2756,6 +2789,7 @@
       "pis": 55.25,
       "cofins": 255,
       "frete": 0,
+      "fretePct": 0,
       "vendedor": "IAGO GARCIA",
       "comissaoPct": 10,
       "comissaoVal": 850,
@@ -2802,10 +2836,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.484Z"
+      "criadoEm": "2026-08-10T00:47:56.217Z"
     },
     {
-      "id": "msmht8y478thaz28hrn",
+      "id": "msmiiomxq8uridwtvw9",
       "emissao": "2026-08-03",
       "pedido": "10861",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -2825,6 +2859,7 @@
       "pis": 59.68,
       "cofins": 275.45,
       "frete": 0,
+      "fretePct": 0,
       "vendedor": "IAGO GARCIA",
       "comissaoPct": 10,
       "comissaoVal": 918.182,
@@ -2871,10 +2906,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.484Z"
+      "criadoEm": "2026-08-10T00:47:56.217Z"
     },
     {
-      "id": "msmht8y4cdmdzbt6u3",
+      "id": "msmiiomx8dn4a2pcto",
       "emissao": "2026-08-03",
       "pedido": "10862",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -2894,6 +2929,7 @@
       "pis": 0,
       "cofins": 0,
       "frete": 0,
+      "fretePct": 0,
       "vendedor": "IAGO GARCIA",
       "comissaoPct": 10,
       "comissaoVal": 4971.2660000000005,
@@ -2940,10 +2976,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.485Z"
+      "criadoEm": "2026-08-10T00:47:56.217Z"
     },
     {
-      "id": "msmht8y5adhqjy0jdy6",
+      "id": "msmiiomxjx2rvoehqr",
       "emissao": "2026-08-03",
       "pedido": "10864",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -2963,6 +2999,7 @@
       "pis": 10.09,
       "cofins": 46.58,
       "frete": 0,
+      "fretePct": 0,
       "vendedor": "IAGO GARCIA",
       "comissaoPct": 10,
       "comissaoVal": 155.27,
@@ -3009,10 +3046,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.485Z"
+      "criadoEm": "2026-08-10T00:47:56.218Z"
     },
     {
-      "id": "msmht8y5xfpvlowrxk",
+      "id": "msmiiomyj5bcsnotju",
       "emissao": "2026-08-03",
       "pedido": "10866",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -3032,6 +3069,7 @@
       "pis": 0.01,
       "cofins": 0.02,
       "frete": 0,
+      "fretePct": 0,
       "vendedor": "IAGO GARCIA",
       "comissaoPct": 10,
       "comissaoVal": 0.079,
@@ -3078,10 +3116,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.485Z"
+      "criadoEm": "2026-08-10T00:47:56.219Z"
     },
     {
-      "id": "msmht8y5mz5nap30scm",
+      "id": "msmiiomzhtyw4sgfjwr",
       "emissao": "2026-08-03",
       "pedido": "10867",
       "cliente": "KLABIN - TELEMACO BORBA",
@@ -3101,6 +3139,7 @@
       "pis": 55.25,
       "cofins": 255,
       "frete": 0,
+      "fretePct": 0,
       "vendedor": "IAGO GARCIA",
       "comissaoPct": 10,
       "comissaoVal": 850,
@@ -3147,10 +3186,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.486Z"
+      "criadoEm": "2026-08-10T00:47:56.220Z"
     },
     {
-      "id": "msmht8y6zg5orkcb2si",
+      "id": "msmiion0xbg15elm1l",
       "emissao": "2026-08-03",
       "pedido": "10868",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -3170,6 +3209,7 @@
       "pis": 55.25,
       "cofins": 255,
       "frete": 0,
+      "fretePct": 0,
       "vendedor": "IAGO GARCIA",
       "comissaoPct": 10,
       "comissaoVal": 850,
@@ -3216,10 +3256,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.486Z"
+      "criadoEm": "2026-08-10T00:47:56.220Z"
     },
     {
-      "id": "msmht8y6bklj488b03k",
+      "id": "msmiion0os0qxzts02l",
       "emissao": "2026-08-03",
       "pedido": "10869",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -3239,6 +3279,7 @@
       "pis": 50.46,
       "cofins": 232.9,
       "frete": 0,
+      "fretePct": 0,
       "vendedor": "IAGO GARCIA",
       "comissaoPct": 10,
       "comissaoVal": 776.3439999999999,
@@ -3285,10 +3326,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.487Z"
+      "criadoEm": "2026-08-10T00:47:56.221Z"
     },
     {
-      "id": "msmht8y749qlk0fuado",
+      "id": "msmiion17baswimtftr",
       "emissao": "2026-08-03",
       "pedido": "10871",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -3308,6 +3349,7 @@
       "pis": 55.25,
       "cofins": 255,
       "frete": 0,
+      "fretePct": 0,
       "vendedor": "IAGO GARCIA",
       "comissaoPct": 10,
       "comissaoVal": 850,
@@ -3354,10 +3396,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.487Z"
+      "criadoEm": "2026-08-10T00:47:56.222Z"
     },
     {
-      "id": "msmht8y7yjgcir67sc",
+      "id": "msmiion2q0i9f2q6bim",
       "emissao": "2026-08-03",
       "pedido": "10872",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -3377,6 +3419,7 @@
       "pis": 55.25,
       "cofins": 255,
       "frete": 0,
+      "fretePct": 0,
       "vendedor": "IAGO GARCIA",
       "comissaoPct": 10,
       "comissaoVal": 850,
@@ -3423,10 +3466,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.487Z"
+      "criadoEm": "2026-08-10T00:47:56.223Z"
     },
     {
-      "id": "msmht8y7qxh9xybbnfe",
+      "id": "msmiion3xjdkq0kzexn",
       "emissao": "2026-08-03",
       "pedido": "10873",
       "cliente": "HEALTH QUALITY",
@@ -3445,7 +3488,8 @@
       "ipi": 0,
       "pis": 117.15,
       "cofins": 540.67,
-      "frete": 0,
+      "frete": 549.4608000000001,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -3501,10 +3545,10 @@
       "custoMaq": 288.2720533333333,
       "invest": 6800.000000000001,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.488Z"
+      "criadoEm": "2026-08-10T00:47:56.224Z"
     },
     {
-      "id": "msmht8y8ncjs719evc",
+      "id": "msmiion4pbv5mk8rbib",
       "emissao": "2026-08-03",
       "pedido": "10873",
       "cliente": "HEALTH QUALITY",
@@ -3523,7 +3567,8 @@
       "ipi": 0,
       "pis": 11.47,
       "cofins": 52.96,
-      "frete": 0,
+      "frete": 53.81999999999999,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -3587,10 +3632,10 @@
       "custoMaq": 608.5338800000001,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.488Z"
+      "criadoEm": "2026-08-10T00:47:56.225Z"
     },
     {
-      "id": "msmht8y8j5abwx07wo",
+      "id": "msmiion5lk4wpg585k",
       "emissao": "2026-08-03",
       "pedido": "10873",
       "cliente": "HEALTH QUALITY",
@@ -3609,7 +3654,8 @@
       "ipi": 0,
       "pis": 45.31,
       "cofins": 209.1,
-      "frete": 0,
+      "frete": 212.5,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -3673,10 +3719,10 @@
       "custoMaq": 482.26375333333334,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.489Z"
+      "criadoEm": "2026-08-10T00:47:56.225Z"
     },
     {
-      "id": "msmht8y96fhaljidp0w",
+      "id": "msmiion584z6nwx3ulf",
       "emissao": "2026-08-03",
       "pedido": "10873",
       "cliente": "HEALTH QUALITY",
@@ -3695,7 +3741,8 @@
       "ipi": 0,
       "pis": 80.34,
       "cofins": 370.76,
-      "frete": 0,
+      "frete": 376.79175000000004,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -3759,10 +3806,10 @@
       "custoMaq": 640.8938733333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.491Z"
+      "criadoEm": "2026-08-10T00:47:56.226Z"
     },
     {
-      "id": "msmht8ybgtivitt4gj",
+      "id": "msmiion63bu4y1102sj",
       "emissao": "2026-08-03",
       "pedido": "10874",
       "cliente": "POLITEC",
@@ -3781,7 +3828,8 @@
       "ipi": 0,
       "pis": 0,
       "cofins": 0,
-      "frete": 0,
+      "frete": 0.025,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -3853,10 +3901,10 @@
       "custoMaq": 316.79132,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.491Z"
+      "criadoEm": "2026-08-10T00:47:56.226Z"
     },
     {
-      "id": "msmht8yb3qtu0afucki",
+      "id": "msmiion6mhhrwzdkd58",
       "emissao": "2026-08-05",
       "pedido": "10875",
       "cliente": "HEALTH QUALITY",
@@ -3875,7 +3923,8 @@
       "ipi": 0,
       "pis": 27.48,
       "cofins": 126.85,
-      "frete": 0,
+      "frete": 128.91000000000003,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -3939,10 +3988,10 @@
       "custoMaq": 318.08248333333336,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.492Z"
+      "criadoEm": "2026-08-10T00:47:56.227Z"
     },
     {
-      "id": "msmht8ycatqvu5n2r9c",
+      "id": "msmiion7ej76thp9ay",
       "emissao": "2026-08-05",
       "pedido": "10876",
       "cliente": "CONGREGAÇÃO - CARAPICUIBA",
@@ -3961,7 +4010,8 @@
       "ipi": 0,
       "pis": 0.5,
       "cofins": 2.32,
-      "frete": 0,
+      "frete": 2.36125,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -4025,10 +4075,10 @@
       "custoMaq": 151.87666666666667,
       "invest": 5,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.492Z"
+      "criadoEm": "2026-08-10T00:47:56.227Z"
     },
     {
-      "id": "msmht8yc2k9dg5b0ked",
+      "id": "msmiion7k48vcuehcwd",
       "emissao": "2026-08-05",
       "pedido": "10877",
       "cliente": "OPPORTUNA - OLEAK",
@@ -4047,7 +4097,8 @@
       "ipi": 197.94,
       "pis": 10.83,
       "cofins": 49.93,
-      "frete": 0,
+      "frete": 50.75,
+      "fretePct": 0.025,
       "vendedor": "WILLIAM",
       "comissaoPct": 15,
       "comissaoVal": 304.49999999999994,
@@ -4119,10 +4170,10 @@
       "custoMaq": 348.04911999999996,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.493Z"
+      "criadoEm": "2026-08-10T00:47:56.228Z"
     },
     {
-      "id": "msmht8yd6el0jf11knn",
+      "id": "msmiion8ba5w43qetpp",
       "emissao": "2026-08-05",
       "pedido": "10878",
       "cliente": "GDS GROW DIETARY SUPPLEME",
@@ -4141,7 +4192,8 @@
       "ipi": 0,
       "pis": 63.96,
       "cofins": 295.2,
-      "frete": 0,
+      "frete": 300,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -4197,10 +4249,10 @@
       "custoMaq": 108.09517333333334,
       "invest": 6000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.493Z"
+      "criadoEm": "2026-08-10T00:47:56.228Z"
     },
     {
-      "id": "msmht8yd0q3am6juiq9o",
+      "id": "msmiion885mfeq5mc05",
       "emissao": "2026-08-05",
       "pedido": "10879",
       "cliente": "CONGREGAÇÃO - FUNDO",
@@ -4219,7 +4271,8 @@
       "ipi": 0,
       "pis": 23.9,
       "cofins": 110.31,
-      "frete": 0,
+      "frete": 112.10000000000001,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -4275,10 +4328,10 @@
       "custoMaq": 68.57621333333333,
       "invest": 1300,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.494Z"
+      "criadoEm": "2026-08-10T00:47:56.229Z"
     },
     {
-      "id": "msmht8yei6cfcrm7jlp",
+      "id": "msmiion9tyta2wfvhko",
       "emissao": "2026-08-05",
       "pedido": "10880",
       "cliente": "TRAMONTINA",
@@ -4297,7 +4350,8 @@
       "ipi": 396.88,
       "pis": 79.38,
       "cofins": 366.35,
-      "frete": 0,
+      "frete": 305.2945,
+      "fretePct": 0.025,
       "vendedor": "IAGO GARCIA",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -4344,10 +4398,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.494Z"
+      "criadoEm": "2026-08-10T00:47:56.229Z"
     },
     {
-      "id": "msmht8ye4fa4n9rp044",
+      "id": "msmiion9jl6i69jj06i",
       "emissao": "2026-08-05",
       "pedido": "10881",
       "cliente": "C. PETROP. - S. DO CAPIM",
@@ -4366,7 +4420,8 @@
       "ipi": 477.26,
       "pis": 28,
       "cofins": 129.23,
-      "frete": 0,
+      "frete": 122.375,
+      "fretePct": 0.025,
       "vendedor": "ANTONIO SOLER",
       "comissaoPct": 5,
       "comissaoVal": 244.75,
@@ -4430,10 +4485,10 @@
       "custoMaq": 323.85214333333334,
       "invest": 699.2,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.495Z"
+      "criadoEm": "2026-08-10T00:47:56.230Z"
     },
     {
-      "id": "msmht8yfyweaw39w1gl",
+      "id": "msmiionaycftnib0b4g",
       "emissao": "2026-08-05",
       "pedido": "10882",
       "cliente": "SIEGWERK - DIADEMA",
@@ -4452,7 +4507,8 @@
       "ipi": 0,
       "pis": 19.77,
       "cofins": 91.23,
-      "frete": 0,
+      "frete": 92.71500000000002,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -4508,10 +4564,10 @@
       "custoMaq": 235.04916,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.495Z"
+      "criadoEm": "2026-08-10T00:47:56.230Z"
     },
     {
-      "id": "msmht8yfokn27d4v4ib",
+      "id": "msmiionacxcyo3ymkgc",
       "emissao": "2026-08-05",
       "pedido": "10883",
       "cliente": "ITALAC - PASSO FUNDO",
@@ -4530,7 +4586,8 @@
       "ipi": 0,
       "pis": 38.61,
       "cofins": 178.2,
-      "frete": 0,
+      "frete": 168.75,
+      "fretePct": 0.025,
       "vendedor": "EDGAR GITTI",
       "comissaoPct": 3,
       "comissaoVal": 202.5,
@@ -4586,10 +4643,10 @@
       "custoMaq": 77.61381333333333,
       "invest": 336.25,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.496Z"
+      "criadoEm": "2026-08-10T00:47:56.231Z"
     },
     {
-      "id": "msmht8ygol7qz5a1vnc",
+      "id": "msmiionb1tkhfw0tz0v",
       "emissao": "2026-08-05",
       "pedido": "10883",
       "cliente": "ITALAC - PASSO FUNDO",
@@ -4608,7 +4665,8 @@
       "ipi": 0,
       "pis": 38.61,
       "cofins": 178.2,
-      "frete": 0,
+      "frete": 168.75,
+      "fretePct": 0.025,
       "vendedor": "EDGAR GITTI",
       "comissaoPct": 3,
       "comissaoVal": 202.5,
@@ -4664,10 +4722,10 @@
       "custoMaq": 77.61381333333333,
       "invest": 336.25,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.496Z"
+      "criadoEm": "2026-08-10T00:47:56.231Z"
     },
     {
-      "id": "msmht8ygh3xl2k3dfc9",
+      "id": "msmiionbgaf28fcrh7d",
       "emissao": "2026-08-05",
       "pedido": "10884",
       "cliente": "GUIGUEL",
@@ -4686,7 +4744,8 @@
       "ipi": 0,
       "pis": 27.590000000000003,
       "cofins": 127.28999999999999,
-      "frete": 0,
+      "frete": 129.35999999999999,
+      "fretePct": 0.025,
       "vendedor": "EDGAR GITTI",
       "comissaoPct": 2,
       "comissaoVal": 103.488,
@@ -4750,10 +4809,10 @@
       "custoMaq": 654.8703533333332,
       "invest": 300,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.497Z"
+      "criadoEm": "2026-08-10T00:47:56.232Z"
     },
     {
-      "id": "msmht8yhnbajt0zuy1",
+      "id": "msmiioncdu8w17zad9b",
       "emissao": "2026-08-05",
       "pedido": "10885",
       "cliente": "HENKEL - ITAPEVI",
@@ -4772,7 +4831,8 @@
       "ipi": 1736.28,
       "pis": 94.92,
       "cofins": 438.08,
-      "frete": 0,
+      "frete": 445.20000000000005,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -4836,10 +4896,10 @@
       "custoMaq": 569.6919499999999,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.497Z"
+      "criadoEm": "2026-08-10T00:47:56.232Z"
     },
     {
-      "id": "msmht8yhdbimnw0fexu",
+      "id": "msmiionc72h3zwup877",
       "emissao": "2026-08-05",
       "pedido": "10886",
       "cliente": "HENKEL - ITAPEVI",
@@ -4858,7 +4918,8 @@
       "ipi": 1736.28,
       "pis": 94.92,
       "cofins": 438.08,
-      "frete": 0,
+      "frete": 445.20000000000005,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -4922,10 +4983,10 @@
       "custoMaq": 569.6919499999999,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.498Z"
+      "criadoEm": "2026-08-10T00:47:56.233Z"
     },
     {
-      "id": "msmht8yircqhwvbcir",
+      "id": "msmiiondrunnflx21x",
       "emissao": "2026-08-05",
       "pedido": "10887",
       "cliente": "ATC DO BRASIL",
@@ -4944,7 +5005,8 @@
       "ipi": 626.9,
       "pis": 36.78,
       "cofins": 169.75,
-      "frete": 0,
+      "frete": 160.74375,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -5008,10 +5070,10 @@
       "custoMaq": 163.12464333333332,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.498Z"
+      "criadoEm": "2026-08-10T00:47:56.234Z"
     },
     {
-      "id": "msmht8yi7ivwzpnvzoi",
+      "id": "msmiionexxrva5mcgd9",
       "emissao": "2026-08-05",
       "pedido": "10888",
       "cliente": "CONTINENTAL - CAMAÇARI",
@@ -5030,7 +5092,8 @@
       "ipi": 461.21,
       "pis": 92.24,
       "cofins": 425.73,
-      "frete": 0,
+      "frete": 354.7765,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -5077,10 +5140,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.499Z"
+      "criadoEm": "2026-08-10T00:47:56.234Z"
     },
     {
-      "id": "msmht8yjwa6lyqgr4yo",
+      "id": "msmiionebdqmq0iugio",
       "emissao": "2026-08-05",
       "pedido": "10889",
       "cliente": "M.C. NATURAIS LTDA",
@@ -5099,7 +5162,8 @@
       "ipi": 0,
       "pis": 12.78,
       "cofins": 59,
-      "frete": 0,
+      "frete": 52.8675,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -5163,10 +5227,10 @@
       "custoMaq": 120.64416666666666,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.499Z"
+      "criadoEm": "2026-08-10T00:47:56.235Z"
     },
     {
-      "id": "msmht8yjc75wsrldna",
+      "id": "msmiionfl4lbun26yl",
       "emissao": "2026-08-05",
       "pedido": "10890",
       "cliente": "ICC - JUNDIAI",
@@ -5185,7 +5249,8 @@
       "ipi": 0,
       "pis": 13.81,
       "cofins": 63.75,
-      "frete": 0,
+      "frete": 64.785,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -5249,10 +5314,10 @@
       "custoMaq": 176.9348433333333,
       "invest": 228,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.500Z"
+      "criadoEm": "2026-08-10T00:47:56.235Z"
     },
     {
-      "id": "msmht8yks4pyuvzfk9n",
+      "id": "msmiionf92j5wh9c88e",
       "emissao": "2026-08-05",
       "pedido": "10890",
       "cliente": "ICC - JUNDIAI",
@@ -5271,7 +5336,8 @@
       "ipi": 950.89,
       "pis": 51.98,
       "cofins": 239.92,
-      "frete": 0,
+      "frete": 243.8175,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -5327,10 +5393,10 @@
       "custoMaq": 99.46837333333333,
       "invest": 3000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.500Z"
+      "criadoEm": "2026-08-10T00:47:56.236Z"
     },
     {
-      "id": "msmht8ykpbdrargyw6b",
+      "id": "msmiiongt7nry9xkril",
       "emissao": "2026-08-05",
       "pedido": "10890",
       "cliente": "ICC - JUNDIAI",
@@ -5349,7 +5415,8 @@
       "ipi": 0,
       "pis": 5.93,
       "cofins": 27.36,
-      "frete": 0,
+      "frete": 27.805000000000003,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -5405,10 +5472,10 @@
       "custoMaq": 34.56197333333333,
       "invest": 76,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.501Z"
+      "criadoEm": "2026-08-10T00:47:56.236Z"
     },
     {
-      "id": "msmht8yl3crxy0azt1t",
+      "id": "msmiiongk8im53mgpm",
       "emissao": "2026-08-05",
       "pedido": "10891",
       "cliente": "ICC - JUNDIAI",
@@ -5427,7 +5494,8 @@
       "ipi": 0,
       "pis": 226.49,
       "cofins": 1045.32,
-      "frete": 0,
+      "frete": 1062.315,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -5483,10 +5551,10 @@
       "custoMaq": 288.2720533333333,
       "invest": 10800,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.501Z"
+      "criadoEm": "2026-08-10T00:47:56.236Z"
     },
     {
-      "id": "msmht8ylx7ulxd6v8g",
+      "id": "msmiiongbp1lx5al275",
       "emissao": "2026-08-05",
       "pedido": "10892",
       "cliente": "KLABIN - RIO NEGRO",
@@ -5505,7 +5573,8 @@
       "ipi": 0,
       "pis": 6.6,
       "cofins": 30.44,
-      "frete": 0,
+      "frete": 28.825000000000003,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -5552,10 +5621,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.501Z"
+      "criadoEm": "2026-08-10T00:47:56.237Z"
     },
     {
-      "id": "msmht8yluchzfxb03k",
+      "id": "msmiionhhzbhr8q2kcd",
       "emissao": "2026-08-06",
       "pedido": "10893",
       "cliente": "FERTILABEL",
@@ -5574,7 +5643,8 @@
       "ipi": 0,
       "pis": 24.49,
       "cofins": 113.02,
-      "frete": 0,
+      "frete": 114.855,
+      "fretePct": 0.025,
       "vendedor": "IAGO GARCIA",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -5638,10 +5708,10 @@
       "custoMaq": 458.3661333333333,
       "invest": 30,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.502Z"
+      "criadoEm": "2026-08-10T00:47:56.237Z"
     },
     {
-      "id": "msmht8ymijgrdwqmbd",
+      "id": "msmiionhu32siiiwcv",
       "emissao": "2026-08-06",
       "pedido": "10894",
       "cliente": "MELC",
@@ -5660,7 +5730,8 @@
       "ipi": 62.46,
       "pis": 3.41,
       "cofins": 15.76,
-      "frete": 0,
+      "frete": 16.0155,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -5724,10 +5795,10 @@
       "custoMaq": 151.87666666666667,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.502Z"
+      "criadoEm": "2026-08-10T00:47:56.238Z"
     },
     {
-      "id": "msmht8ym7lpas6r5ru6",
+      "id": "msmiioni3ai97cahtb2",
       "emissao": "2026-08-06",
       "pedido": "10894",
       "cliente": "MELC",
@@ -5746,7 +5817,8 @@
       "ipi": 76.9,
       "pis": 4.2,
       "cofins": 19.4,
-      "frete": 0,
+      "frete": 19.71675,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -5810,10 +5882,10 @@
       "custoMaq": 151.87666666666667,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.503Z"
+      "criadoEm": "2026-08-10T00:47:56.238Z"
     },
     {
-      "id": "msmht8ynvhcy8vbgph",
+      "id": "msmiioniic6oyo1pm1",
       "emissao": "2026-08-06",
       "pedido": "10895",
       "cliente": "KARTER",
@@ -5832,7 +5904,8 @@
       "ipi": 819,
       "pis": 44.77,
       "cofins": 206.64,
-      "frete": 0,
+      "frete": 210,
+      "fretePct": 0.025,
       "vendedor": "MARCIO RAMOS",
       "comissaoPct": 5,
       "comissaoVal": 420,
@@ -5896,10 +5969,10 @@
       "custoMaq": 528.50427,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.503Z"
+      "criadoEm": "2026-08-10T00:47:56.239Z"
     },
     {
-      "id": "msmht8yndc5t7dxvkw8",
+      "id": "msmiionjhwdlu5gb4h",
       "emissao": "2026-08-06",
       "pedido": "10896",
       "cliente": "HEALTH QUALITY",
@@ -5918,7 +5991,8 @@
       "ipi": 0,
       "pis": 45.81,
       "cofins": 211.41,
-      "frete": 0,
+      "frete": 214.85000000000002,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -5982,10 +6056,10 @@
       "custoMaq": 487.2651933333334,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.504Z"
+      "criadoEm": "2026-08-10T00:47:56.239Z"
     },
     {
-      "id": "msmht8yoloyrude297p",
+      "id": "msmiionj8c011nc7ecm",
       "emissao": "2026-08-06",
       "pedido": "10896",
       "cliente": "HEALTH QUALITY",
@@ -6004,7 +6078,8 @@
       "ipi": 0,
       "pis": 181.22,
       "cofins": 836.4,
-      "frete": 0,
+      "frete": 850,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -6068,10 +6143,10 @@
       "custoMaq": 1736.7589433333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.504Z"
+      "criadoEm": "2026-08-10T00:47:56.240Z"
     },
     {
-      "id": "msmht8yoesib8f73s55",
+      "id": "msmiionk2ocj397hpk",
       "emissao": "2026-08-06",
       "pedido": "10896",
       "cliente": "HEALTH QUALITY",
@@ -6090,7 +6165,8 @@
       "ipi": 0,
       "pis": 175.72,
       "cofins": 811,
-      "frete": 0,
+      "frete": 824.1912000000001,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -6146,10 +6222,10 @@
       "custoMaq": 425.56141333333335,
       "invest": 10200,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.505Z"
+      "criadoEm": "2026-08-10T00:47:56.240Z"
     },
     {
-      "id": "msmht8ypp0q3mkuymh",
+      "id": "msmiionkgxf6kvaswah",
       "emissao": "2026-08-06",
       "pedido": "10896",
       "cliente": "HEALTH QUALITY",
@@ -6168,7 +6244,8 @@
       "ipi": 0,
       "pis": 15.37,
       "cofins": 70.94,
-      "frete": 0,
+      "frete": 72.09292500000001,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -6232,10 +6309,10 @@
       "custoMaq": 344.53416333333337,
       "invest": 400,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.505Z"
+      "criadoEm": "2026-08-10T00:47:56.241Z"
     },
     {
-      "id": "msmht8ypjm3dvcnc6g",
+      "id": "msmiionl46b8qq1oxs",
       "emissao": "2026-08-06",
       "pedido": "10896",
       "cliente": "HEALTH QUALITY",
@@ -6254,7 +6331,8 @@
       "ipi": 0,
       "pis": 78.09,
       "cofins": 360.39,
-      "frete": 0,
+      "frete": 366.25415625000005,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -6310,10 +6388,10 @@
       "custoMaq": 219.66845333333333,
       "invest": 4500,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.506Z"
+      "criadoEm": "2026-08-10T00:47:56.241Z"
     },
     {
-      "id": "msmht8yqf2xewh4ardu",
+      "id": "msmiionlk89t9zcqps",
       "emissao": "2026-08-06",
       "pedido": "10896",
       "cliente": "HEALTH QUALITY",
@@ -6332,7 +6410,8 @@
       "ipi": 0,
       "pis": 36.04,
       "cofins": 166.31,
-      "frete": 0,
+      "frete": 169.01679375,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -6396,10 +6475,10 @@
       "custoMaq": 508.62396000000007,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.506Z"
+      "criadoEm": "2026-08-10T00:47:56.242Z"
     },
     {
-      "id": "msmht8yq3vljyvma4t3",
+      "id": "msmiionmb9t1ejzrp7f",
       "emissao": "2026-08-06",
       "pedido": "10896",
       "cliente": "HEALTH QUALITY",
@@ -6418,7 +6497,8 @@
       "ipi": 0,
       "pis": 48.2,
       "cofins": 222.46,
-      "frete": 0,
+      "frete": 226.07505000000003,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -6482,10 +6562,10 @@
       "custoMaq": 425.81357333333335,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.507Z"
+      "criadoEm": "2026-08-10T00:47:56.242Z"
     },
     {
-      "id": "msmht8yr0968lmw8z7e6",
+      "id": "msmiionmo76umip6ngd",
       "emissao": "2026-08-06",
       "pedido": "10897",
       "cliente": "FERTILABEL",
@@ -6504,7 +6584,8 @@
       "ipi": 0,
       "pis": 91.97,
       "cofins": 424.47,
-      "frete": 0,
+      "frete": 431.37617512500003,
+      "fretePct": 0.025,
       "vendedor": "IAGO GARCIA",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -6568,10 +6649,10 @@
       "custoMaq": 1144.2286533333333,
       "invest": 114.75,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.507Z"
+      "criadoEm": "2026-08-10T00:47:56.243Z"
     },
     {
-      "id": "msmht8yrcidodhztfrc",
+      "id": "msmiionnzh5mv0yy3r",
       "emissao": "2026-08-06",
       "pedido": "10898",
       "cliente": "PROZYN INDUSTRIA E COMERC",
@@ -6590,7 +6671,8 @@
       "ipi": 1409,
       "pis": 77.03,
       "cofins": 355.5,
-      "frete": 0,
+      "frete": 361.2825,
+      "fretePct": 0.025,
       "vendedor": "EDGAR GITTI",
       "comissaoPct": 5,
       "comissaoVal": 722.565,
@@ -6654,10 +6736,10 @@
       "custoMaq": 653.0527433333334,
       "invest": 1500,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.507Z"
+      "criadoEm": "2026-08-10T00:47:56.243Z"
     },
     {
-      "id": "msmht8ys9pjzkmzrk0b",
+      "id": "msmiionnegk5eyv76up",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -6676,7 +6758,8 @@
       "ipi": 0,
       "pis": 131.98,
       "cofins": 609.12,
-      "frete": 0,
+      "frete": 619.02,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -6732,10 +6815,10 @@
       "custoMaq": 356.9578133333333,
       "invest": 7200,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.508Z"
+      "criadoEm": "2026-08-10T00:47:56.244Z"
     },
     {
-      "id": "msmht8ys919oycz548i",
+      "id": "msmiionog6desz62ac",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -6754,7 +6837,8 @@
       "ipi": 0,
       "pis": 43.71,
       "cofins": 201.73,
-      "frete": 0,
+      "frete": 205.0104,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -6810,10 +6894,10 @@
       "custoMaq": 99.55053333333333,
       "invest": 504,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.509Z"
+      "criadoEm": "2026-08-10T00:47:56.244Z"
     },
     {
-      "id": "msmht8ytdxcywvg3mfl",
+      "id": "msmiionojne16c78bjm",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -6832,7 +6916,8 @@
       "ipi": 0,
       "pis": 12.94,
       "cofins": 59.74,
-      "frete": 0,
+      "frete": 60.71000000000001,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -6888,10 +6973,10 @@
       "custoMaq": 68.57621333333333,
       "invest": 240,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.509Z"
+      "criadoEm": "2026-08-10T00:47:56.245Z"
     },
     {
-      "id": "msmht8ytmr6yy6woz2",
+      "id": "msmiionpe5hhgfpinyf",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -6910,7 +6995,8 @@
       "ipi": 0,
       "pis": 109.98,
       "cofins": 507.6,
-      "frete": 0,
+      "frete": 515.85,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -6966,10 +7052,10 @@
       "custoMaq": 299.6922933333333,
       "invest": 6000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.510Z"
+      "criadoEm": "2026-08-10T00:47:56.245Z"
     },
     {
-      "id": "msmht8yuzi0kh243ubg",
+      "id": "msmiionpj17y61b8jds",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -6988,7 +7074,8 @@
       "ipi": 0,
       "pis": 43.71,
       "cofins": 201.73,
-      "frete": 0,
+      "frete": 205.0104,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -7044,10 +7131,10 @@
       "custoMaq": 99.55053333333333,
       "invest": 504,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.510Z"
+      "criadoEm": "2026-08-10T00:47:56.246Z"
     },
     {
-      "id": "msmht8yuw89wh660rgb",
+      "id": "msmiionqroio32wji0d",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -7066,7 +7153,8 @@
       "ipi": 0,
       "pis": 25.89,
       "cofins": 119.48,
-      "frete": 0,
+      "frete": 121.42000000000002,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -7122,10 +7210,10 @@
       "custoMaq": 123.54125333333333,
       "invest": 480,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.511Z"
+      "criadoEm": "2026-08-10T00:47:56.246Z"
     },
     {
-      "id": "msmht8yv3d78qsgxp5j",
+      "id": "msmiionq121se464a2s",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -7144,7 +7232,8 @@
       "ipi": 0,
       "pis": 109.98,
       "cofins": 507.6,
-      "frete": 0,
+      "frete": 515.85,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -7200,10 +7289,10 @@
       "custoMaq": 299.6922933333333,
       "invest": 6000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.511Z"
+      "criadoEm": "2026-08-10T00:47:56.247Z"
     },
     {
-      "id": "msmht8yvlixweyb3bem",
+      "id": "msmiionryu797kfmer",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -7222,7 +7311,8 @@
       "ipi": 0,
       "pis": 43.71,
       "cofins": 201.73,
-      "frete": 0,
+      "frete": 205.0104,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -7278,10 +7368,10 @@
       "custoMaq": 99.55053333333333,
       "invest": 504,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.511Z"
+      "criadoEm": "2026-08-10T00:47:56.247Z"
     },
     {
-      "id": "msmht8yvevgnc89d7ls",
+      "id": "msmiionr2i1dxdyr3ro",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -7300,7 +7390,8 @@
       "ipi": 0,
       "pis": 25.89,
       "cofins": 119.48,
-      "frete": 0,
+      "frete": 121.42000000000002,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -7356,10 +7447,10 @@
       "custoMaq": 123.54125333333333,
       "invest": 480,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.512Z"
+      "criadoEm": "2026-08-10T00:47:56.248Z"
     },
     {
-      "id": "msmht8ywl8atdfstmbs",
+      "id": "msmiionsf46uzoqf4ts",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -7378,7 +7469,8 @@
       "ipi": 0,
       "pis": 109.98,
       "cofins": 507.6,
-      "frete": 0,
+      "frete": 515.85,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -7434,10 +7526,10 @@
       "custoMaq": 299.6922933333333,
       "invest": 6000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.512Z"
+      "criadoEm": "2026-08-10T00:47:56.248Z"
     },
     {
-      "id": "msmht8ywvdscf8qfr5",
+      "id": "msmiionsxfpfxxh7ufj",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -7456,7 +7548,8 @@
       "ipi": 0,
       "pis": 43.71,
       "cofins": 201.73,
-      "frete": 0,
+      "frete": 205.0104,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -7512,10 +7605,10 @@
       "custoMaq": 99.55053333333333,
       "invest": 504,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.513Z"
+      "criadoEm": "2026-08-10T00:47:56.248Z"
     },
     {
-      "id": "msmht8yx5maumi4r04a",
+      "id": "msmiionszg9suyxreg",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -7534,7 +7627,8 @@
       "ipi": 0,
       "pis": 25.89,
       "cofins": 119.48,
-      "frete": 0,
+      "frete": 121.42000000000002,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -7590,10 +7684,10 @@
       "custoMaq": 123.54125333333333,
       "invest": 480,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.513Z"
+      "criadoEm": "2026-08-10T00:47:56.249Z"
     },
     {
-      "id": "msmht8yxfw5eemrrgpk",
+      "id": "msmiiontszfrux1ij6",
       "emissao": "2026-08-06",
       "pedido": "10900",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -7612,7 +7706,8 @@
       "ipi": 0,
       "pis": 206.25,
       "cofins": 951.9,
-      "frete": 0,
+      "frete": 901.4250000000001,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -7659,10 +7754,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.514Z"
+      "criadoEm": "2026-08-10T00:47:56.249Z"
     },
     {
-      "id": "msmht8yyluhmlrmwhjl",
+      "id": "msmiiontayx5gufoqen",
       "emissao": "2026-08-06",
       "pedido": "10900",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -7681,7 +7776,8 @@
       "ipi": 0,
       "pis": 86.94,
       "cofins": 401.28,
-      "frete": 0,
+      "frete": 380,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -7728,10 +7824,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.514Z"
+      "criadoEm": "2026-08-10T00:47:56.250Z"
     },
     {
-      "id": "msmht8yyk23o0nvnmyf",
+      "id": "msmiionuxi50pjphovc",
       "emissao": "2026-08-06",
       "pedido": "10901",
       "cliente": "PROSEGUR - RIO DE JANEIRO",
@@ -7750,7 +7846,8 @@
       "ipi": 0,
       "pis": 29.95,
       "cofins": 138.23,
-      "frete": 0,
+      "frete": 130.9,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -7814,10 +7911,10 @@
       "custoMaq": 163.28082333333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.515Z"
+      "criadoEm": "2026-08-10T00:47:56.250Z"
     },
     {
-      "id": "msmht8yz6e1ambc4xcm",
+      "id": "msmiionumg75p7mksv9",
       "emissao": "2026-08-06",
       "pedido": "10901",
       "cliente": "PROSEGUR - RIO DE JANEIRO",
@@ -7836,7 +7933,8 @@
       "ipi": 0,
       "pis": 21.3,
       "cofins": 98.29,
-      "frete": 0,
+      "frete": 93.07499999999999,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -7900,10 +7998,10 @@
       "custoMaq": 196.16435666666666,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.515Z"
+      "criadoEm": "2026-08-10T00:47:56.251Z"
     },
     {
-      "id": "msmht8yz55wxuy2mzcr",
+      "id": "msmiionvn1fwu08p07a",
       "emissao": "2026-08-06",
       "pedido": "10902",
       "cliente": "MARCO BONI",
@@ -7922,7 +8020,8 @@
       "ipi": 128.02,
       "pis": 7,
       "cofins": 32.3,
-      "frete": 0,
+      "frete": 32.825,
+      "fretePct": 0.025,
       "vendedor": "ADRIANA PAVANI",
       "comissaoPct": 5,
       "comissaoVal": 65.65,
@@ -7978,10 +8077,10 @@
       "custoMaq": 286.53947,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.516Z"
+      "criadoEm": "2026-08-10T00:47:56.252Z"
     },
     {
-      "id": "msmht8z0we0x1yz4fb",
+      "id": "msmiionwbm6jr748nlb",
       "emissao": "2026-08-06",
       "pedido": "10903",
       "cliente": "NIVEA",
@@ -8000,7 +8099,8 @@
       "ipi": 0,
       "pis": 0.28,
       "cofins": 1.3,
-      "frete": 0,
+      "frete": 1.31825,
+      "fretePct": 0.025,
       "vendedor": "IAGO GARCIA",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -8047,10 +8147,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.516Z"
+      "criadoEm": "2026-08-10T00:47:56.252Z"
     },
     {
-      "id": "msmht8z09xw34h1lage",
+      "id": "msmiionw3da5bd1nmtp",
       "emissao": "2026-08-06",
       "pedido": "10904",
       "cliente": "FCI",
@@ -8069,7 +8169,8 @@
       "ipi": 130.65,
       "pis": 7.14,
       "cofins": 32.96,
-      "frete": 0,
+      "frete": 33.5,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -8141,10 +8242,10 @@
       "custoMaq": 312.32592000000005,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.516Z"
+      "criadoEm": "2026-08-10T00:47:56.253Z"
     },
     {
-      "id": "msmht8z0pnbk9yqdzof",
+      "id": "msmiionxgkoc55i6q1l",
       "emissao": "2026-08-06",
       "pedido": "10904",
       "cliente": "FCI",
@@ -8163,7 +8264,8 @@
       "ipi": 172.58,
       "pis": 9.43,
       "cofins": 43.54,
-      "frete": 0,
+      "frete": 44.25,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -8235,10 +8337,10 @@
       "custoMaq": 333.75984,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.517Z"
+      "criadoEm": "2026-08-10T00:47:56.253Z"
     },
     {
-      "id": "msmht8z1f4yamz1lnd4",
+      "id": "msmiionxi9in3jn1sc",
       "emissao": "2026-08-06",
       "pedido": "10904",
       "cliente": "FCI",
@@ -8257,7 +8359,8 @@
       "ipi": 89.21,
       "pis": 4.88,
       "cofins": 22.51,
-      "frete": 0,
+      "frete": 22.875,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -8329,10 +8432,10 @@
       "custoMaq": 279.28195999999997,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.517Z"
+      "criadoEm": "2026-08-10T00:47:56.254Z"
     },
     {
-      "id": "msmht8z10l8ktqmcgwn",
+      "id": "msmiiony8kzizf713nt",
       "emissao": "2026-08-06",
       "pedido": "10904",
       "cliente": "FCI",
@@ -8351,7 +8454,8 @@
       "ipi": 243.75,
       "pis": 13.33,
       "cofins": 61.5,
-      "frete": 0,
+      "frete": 62.5,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -8423,10 +8527,10 @@
       "custoMaq": 393.39716,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.518Z"
+      "criadoEm": "2026-08-10T00:47:56.254Z"
     },
     {
-      "id": "msmht8z2aqjxh3jpypd",
+      "id": "msmiionys9ty7l6ksbh",
       "emissao": "2026-08-06",
       "pedido": "10904",
       "cliente": "FCI",
@@ -8445,7 +8549,8 @@
       "ipi": 93.6,
       "pis": 5.12,
       "cofins": 23.62,
-      "frete": 0,
+      "frete": 24,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -8517,10 +8622,10 @@
       "custoMaq": 333.40523,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.518Z"
+      "criadoEm": "2026-08-10T00:47:56.255Z"
     },
     {
-      "id": "msmht8z2fmcyn2ukmm",
+      "id": "msmiionzxva1365sirs",
       "emissao": "2026-08-06",
       "pedido": "10904",
       "cliente": "FCI",
@@ -8539,7 +8644,8 @@
       "ipi": 32.18,
       "pis": 1.76,
       "cofins": 8.12,
-      "frete": 0,
+      "frete": 8.25,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 5,
       "comissaoVal": 16.5,
@@ -8595,10 +8701,10 @@
       "custoMaq": 27.386666666666663,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.519Z"
+      "criadoEm": "2026-08-10T00:47:56.255Z"
     },
     {
-      "id": "msmht8z3bemepte2cpe",
+      "id": "msmiionz6j4nnf3c5t8",
       "emissao": "2026-08-06",
       "pedido": "10904",
       "cliente": "FCI",
@@ -8617,7 +8723,8 @@
       "ipi": 0,
       "pis": 2.93,
       "cofins": 13.53,
-      "frete": 0,
+      "frete": 13.75,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -8673,10 +8780,10 @@
       "custoMaq": 27.386666666666663,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.519Z"
+      "criadoEm": "2026-08-10T00:47:56.256Z"
     },
     {
-      "id": "msmht8z3902pm54f21p",
+      "id": "msmiioo0fxd67ykonyw",
       "emissao": "2026-08-06",
       "pedido": "10904",
       "cliente": "FCI",
@@ -8695,7 +8802,8 @@
       "ipi": 160.88,
       "pis": 8.79,
       "cofins": 40.59,
-      "frete": 0,
+      "frete": 41.25,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -8759,10 +8867,10 @@
       "custoMaq": 151.87666666666667,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.520Z"
+      "criadoEm": "2026-08-10T00:47:56.256Z"
     },
     {
-      "id": "msmht8z4fwpuu46vy9g",
+      "id": "msmiioo0llctdivpcgb",
       "emissao": "2026-08-06",
       "pedido": "10904",
       "cliente": "FCI",
@@ -8781,7 +8889,8 @@
       "ipi": 156,
       "pis": 8.53,
       "cofins": 39.36,
-      "frete": 0,
+      "frete": 40,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -8861,10 +8970,10 @@
       "custoMaq": 436.5223366666667,
       "invest": 50,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.520Z"
+      "criadoEm": "2026-08-10T00:47:56.257Z"
     },
     {
-      "id": "msmht8z4o0eugc15ra",
+      "id": "msmiioo1pg0igxggca",
       "emissao": "2026-08-07",
       "pedido": "10905",
       "cliente": "SINTEQUÍMICA",
@@ -8883,7 +8992,8 @@
       "ipi": 340.76,
       "pis": 18.63,
       "cofins": 85.98,
-      "frete": 0,
+      "frete": 87.375,
+      "fretePct": 0.025,
       "vendedor": "EDGAR GITTI",
       "comissaoPct": 5,
       "comissaoVal": 174.75,
@@ -8939,10 +9049,10 @@
       "custoMaq": 87.9675,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.521Z"
+      "criadoEm": "2026-08-10T00:47:56.257Z"
     },
     {
-      "id": "msmht8z5u1wo0j6095f",
+      "id": "msmiioo1khbry51zni",
       "emissao": "2026-08-07",
       "pedido": "10906",
       "cliente": "CIA DA NATUREZA",
@@ -8961,7 +9071,8 @@
       "ipi": 1326,
       "pis": 82.21000000000001,
       "cofins": 379.44,
-      "frete": 0,
+      "frete": 340,
+      "fretePct": 0.025,
       "vendedor": "SILVANA LIMA",
       "comissaoPct": 5,
       "comissaoVal": 680,
@@ -9025,10 +9136,10 @@
       "custoMaq": 1320.7183266666666,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.521Z"
+      "criadoEm": "2026-08-10T00:47:56.258Z"
     },
     {
-      "id": "msmht8z5rmva4973cc",
+      "id": "msmiioo2geq37dwuooc",
       "emissao": "2026-08-07",
       "pedido": "10906",
       "cliente": "CIA DA NATUREZA",
@@ -9047,7 +9158,8 @@
       "ipi": 530.4,
       "pis": 32.879999999999995,
       "cofins": 151.78,
-      "frete": 0,
+      "frete": 136,
+      "fretePct": 0.025,
       "vendedor": "SILVANA LIMA",
       "comissaoPct": 5,
       "comissaoVal": 272,
@@ -9111,10 +9223,10 @@
       "custoMaq": 548.3799866666666,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.522Z"
+      "criadoEm": "2026-08-10T00:47:56.258Z"
     },
     {
-      "id": "msmht8z604yyqpmfgyrd",
+      "id": "msmiioo2chkhsdebzq",
       "emissao": "2026-08-07",
       "pedido": "10907",
       "cliente": "CIA DA NATUREZA",
@@ -9133,7 +9245,8 @@
       "ipi": 690.3,
       "pis": 42.8,
       "cofins": 197.53,
-      "frete": 0,
+      "frete": 177,
+      "fretePct": 0.025,
       "vendedor": "SILVANA LIMA",
       "comissaoPct": 5,
       "comissaoVal": 354,
@@ -9197,10 +9310,10 @@
       "custoMaq": 637.8514633333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.522Z"
+      "criadoEm": "2026-08-10T00:47:56.259Z"
     },
     {
-      "id": "msmht8z6s0nvwys95a",
+      "id": "msmiioo3blvstirlwtn",
       "emissao": "2026-08-07",
       "pedido": "10907",
       "cliente": "CIA DA NATUREZA",
@@ -9219,7 +9332,8 @@
       "ipi": 222.3,
       "pis": 13.78,
       "cofins": 63.61,
-      "frete": 0,
+      "frete": 57,
+      "fretePct": 0.025,
       "vendedor": "SILVANA LIMA",
       "comissaoPct": 5,
       "comissaoVal": 114,
@@ -9283,10 +9397,10 @@
       "custoMaq": 242.8116133333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.523Z"
+      "criadoEm": "2026-08-10T00:47:56.259Z"
     },
     {
-      "id": "msmht8z7wghjnr6qw3r",
+      "id": "msmiioo39ojbeic1ioq",
       "emissao": "2026-08-07",
       "pedido": "10908",
       "cliente": "VPJ COMERCIO DE PRODUTOS",
@@ -9305,7 +9419,8 @@
       "ipi": 0,
       "pis": 24.12,
       "cofins": 111.28,
-      "frete": 0,
+      "frete": 113.10000000000001,
+      "fretePct": 0.025,
       "vendedor": "MARCIO RAMOS",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -9369,10 +9484,10 @@
       "custoMaq": 1755.4461933333334,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.523Z"
+      "criadoEm": "2026-08-10T00:47:56.260Z"
     },
     {
-      "id": "msmht8z7r46fvnsa7p",
+      "id": "msmiioo407sveaktqzn",
       "emissao": "2026-08-07",
       "pedido": "10908",
       "cliente": "VPJ COMERCIO DE PRODUTOS",
@@ -9391,7 +9506,8 @@
       "ipi": 0,
       "pis": 4.56,
       "cofins": 21.02,
-      "frete": 0,
+      "frete": 21.366,
+      "fretePct": 0.025,
       "vendedor": "MARCIO RAMOS",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -9463,10 +9579,10 @@
       "custoMaq": 663.8319999999999,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.524Z"
+      "criadoEm": "2026-08-10T00:47:56.261Z"
     },
     {
-      "id": "msmht8z839zi31pzep8",
+      "id": "msmiioo51z9kvv0nndw",
       "emissao": "2026-08-07",
       "pedido": "10908",
       "cliente": "VPJ COMERCIO DE PRODUTOS",
@@ -9485,7 +9601,8 @@
       "ipi": 0,
       "pis": 4.15,
       "cofins": 19.15,
-      "frete": 0,
+      "frete": 19.465500000000006,
+      "fretePct": 0.025,
       "vendedor": "MARCIO RAMOS",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -9557,10 +9674,10 @@
       "custoMaq": 702.8280199999999,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.524Z"
+      "criadoEm": "2026-08-10T00:47:56.261Z"
     },
     {
-      "id": "msmht8z88e99yc0z3qi",
+      "id": "msmiioo52joywyzuva",
       "emissao": "2026-08-07",
       "pedido": "10909",
       "cliente": "HENKEL - ITAPEVI",
@@ -9579,7 +9696,8 @@
       "ipi": 3054.15,
       "pis": 166.96,
       "cofins": 770.59,
-      "frete": 0,
+      "frete": 783.116334,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -9643,10 +9761,10 @@
       "custoMaq": 535.1327133333333,
       "invest": 6000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.525Z"
+      "criadoEm": "2026-08-10T00:47:56.262Z"
     },
     {
-      "id": "msmht8z9i3c6p51e6a",
+      "id": "msmiioo6koq8zgqlhl",
       "emissao": "2026-08-07",
       "pedido": "10909",
       "cliente": "HENKEL - ITAPEVI",
@@ -9665,7 +9783,8 @@
       "ipi": 0,
       "pis": 10.6,
       "cofins": 48.9,
-      "frete": 0,
+      "frete": 49.70511,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 5,
       "comissaoVal": 99.41022,
@@ -9737,10 +9856,10 @@
       "custoMaq": 710.4675633333334,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.525Z"
+      "criadoEm": "2026-08-10T00:47:56.262Z"
     },
     {
-      "id": "msmht8z9lkcwb946rxn",
+      "id": "msmiioo66kha6hazp5a",
       "emissao": "2026-08-07",
       "pedido": "10909",
       "cliente": "HENKEL - ITAPEVI",
@@ -9759,7 +9878,8 @@
       "ipi": 0,
       "pis": 9.15,
       "cofins": 42.239999999999995,
-      "frete": 0,
+      "frete": 42.9258375,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -9831,10 +9951,10 @@
       "custoMaq": 577.1467033333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.526Z"
+      "criadoEm": "2026-08-10T00:47:56.263Z"
     },
     {
-      "id": "msmht8zaorx8j7puixm",
+      "id": "msmiioo7mxvsb3a51s8",
       "emissao": "2026-08-07",
       "pedido": "10909",
       "cliente": "HENKEL - ITAPEVI",
@@ -9853,7 +9973,8 @@
       "ipi": 0,
       "pis": 5.04,
       "cofins": 23.26,
-      "frete": 0,
+      "frete": 23.631426,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -9925,10 +10046,10 @@
       "custoMaq": 521.8559466666666,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.527Z"
+      "criadoEm": "2026-08-10T00:47:56.263Z"
     },
     {
-      "id": "msmht8zbifoileyrk4j",
+      "id": "msmiioo75v4v0f3mmk3",
       "emissao": "2026-08-07",
       "pedido": "10909",
       "cliente": "HENKEL - ITAPEVI",
@@ -9947,7 +10068,8 @@
       "ipi": 212.06,
       "pis": 11.59,
       "cofins": 53.51,
-      "frete": 0,
+      "frete": 54.375,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -10011,10 +10133,10 @@
       "custoMaq": 350.2075,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.527Z"
+      "criadoEm": "2026-08-10T00:47:56.264Z"
     },
     {
-      "id": "msmht8zbqtbyyukdafb",
+      "id": "msmiioo830r0f5uxg48",
       "emissao": "2026-08-07",
       "pedido": "10909",
       "cliente": "HENKEL - ITAPEVI",
@@ -10033,7 +10155,8 @@
       "ipi": 74.23,
       "pis": 4.06,
       "cofins": 18.73,
-      "frete": 0,
+      "frete": 19.0335,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -10089,10 +10212,10 @@
       "custoMaq": 87.9675,
       "invest": 240,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.528Z"
+      "criadoEm": "2026-08-10T00:47:56.264Z"
     },
     {
-      "id": "msmht8zcd0ykkq7glh",
+      "id": "msmiioo8vivp6mxfb3p",
       "emissao": "2026-08-07",
       "pedido": "10909",
       "cliente": "HENKEL - ITAPEVI",
@@ -10111,7 +10234,8 @@
       "ipi": 2918.13,
       "pis": 159.52,
       "cofins": 736.27,
-      "frete": 0,
+      "frete": 748.2375,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -10167,10 +10291,10 @@
       "custoMaq": 165.27853333333334,
       "invest": 7500,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.528Z"
+      "criadoEm": "2026-08-10T00:47:56.265Z"
     },
     {
-      "id": "msmht8zc28tjdcsl1ow",
+      "id": "msmiioo9r2i8ycrjw7",
       "emissao": "2026-08-07",
       "pedido": "10909",
       "cliente": "HENKEL - ITAPEVI",
@@ -10189,7 +10313,8 @@
       "ipi": 1979.4,
       "pis": 108.21,
       "cofins": 499.42,
-      "frete": 0,
+      "frete": 507.5375,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -10245,10 +10370,10 @@
       "custoMaq": 372.27846,
       "invest": 8750,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.528Z"
+      "criadoEm": "2026-08-10T00:47:56.265Z"
     },
     {
-      "id": "msmht8zcnrp7ovhub9m",
+      "id": "msmiioo9e6kvy3kfdys",
       "emissao": "2026-08-07",
       "pedido": "10909",
       "cliente": "HENKEL - ITAPEVI",
@@ -10267,7 +10392,8 @@
       "ipi": 3539.81,
       "pis": 193.51,
       "cofins": 893.12,
-      "frete": 0,
+      "frete": 907.6428270000001,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -10331,10 +10457,10 @@
       "custoMaq": 742.1177833333333,
       "invest": 9800.000000000002,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.529Z"
+      "criadoEm": "2026-08-10T00:47:56.266Z"
     },
     {
-      "id": "msmht8zdm9txjmqze9k",
+      "id": "msmiiooayterp2zj63",
       "emissao": "2026-08-07",
       "pedido": "10909",
       "cliente": "HENKEL - ITAPEVI",
@@ -10353,7 +10479,8 @@
       "ipi": 394.68,
       "pis": 21.58,
       "cofins": 99.58,
-      "frete": 0,
+      "frete": 101.2,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -10409,10 +10536,10 @@
       "custoMaq": 235.04916,
       "invest": 600,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.529Z"
+      "criadoEm": "2026-08-10T00:47:56.267Z"
     },
     {
-      "id": "msmht8zds5c8gk4nsa",
+      "id": "msmiioobo6rfawk245",
       "emissao": "2026-08-07",
       "pedido": "10910",
       "cliente": "HEALTH QUALITY",
@@ -10431,7 +10558,8 @@
       "ipi": 0,
       "pis": 8.03,
       "cofins": 37.05,
-      "frete": 0,
+      "frete": 37.64890125,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -10495,10 +10623,10 @@
       "custoMaq": 1432.4955066666666,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.530Z"
+      "criadoEm": "2026-08-10T00:47:56.267Z"
     },
     {
-      "id": "msmht8zejq68y2xavg",
+      "id": "msmiioobg4fgn8wx5wu",
       "emissao": "2026-08-07",
       "pedido": "10911",
       "cliente": "C. PETROP. - NARANDIBA",
@@ -10517,7 +10645,8 @@
       "ipi": 0,
       "pis": 1.26,
       "cofins": 5.84,
-      "frete": 0,
+      "frete": 5.234999999999999,
+      "fretePct": 0.025,
       "vendedor": "ANTONIO SOLER",
       "comissaoPct": 5,
       "comissaoVal": 10.47,
@@ -10573,10 +10702,10 @@
       "custoMaq": 27.386666666666663,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.530Z"
+      "criadoEm": "2026-08-10T00:47:56.268Z"
     },
     {
-      "id": "msmht8zeuqedqcthr8",
+      "id": "msmiiooc9kcdoln5hyb",
       "emissao": "2026-08-07",
       "pedido": "10912",
       "cliente": "C. PETROP. - NARANDIBA",
@@ -10595,7 +10724,8 @@
       "ipi": 0,
       "pis": 0.42,
       "cofins": 1.95,
-      "frete": 0,
+      "frete": 1.7469999999999999,
+      "fretePct": 0.025,
       "vendedor": "ANTONIO SOLER",
       "comissaoPct": 5,
       "comissaoVal": 3.4939999999999998,
@@ -10659,10 +10789,10 @@
       "custoMaq": 151.87666666666667,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.531Z"
+      "criadoEm": "2026-08-10T00:47:56.268Z"
     },
     {
-      "id": "msmht8zfg6dbg0y1oo",
+      "id": "msmiioocrvbzme59tvd",
       "emissao": "2026-08-07",
       "pedido": "10914",
       "cliente": "FERTILABEL",
@@ -10681,7 +10811,8 @@
       "ipi": 0,
       "pis": 19.59,
       "cofins": 90.41,
-      "frete": 0,
+      "frete": 91.88400000000001,
+      "fretePct": 0.025,
       "vendedor": "IAGO GARCIA",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -10745,10 +10876,10 @@
       "custoMaq": 396.4740933333333,
       "invest": 24,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.531Z"
+      "criadoEm": "2026-08-10T00:47:56.269Z"
     },
     {
-      "id": "msmht8zf88b96pxyt8a",
+      "id": "msmiioodakdyzgh7jpj",
       "emissao": "2026-08-07",
       "pedido": "10915",
       "cliente": "SANTHER - BRAGANÇA",
@@ -10767,7 +10898,8 @@
       "ipi": 0,
       "pis": 43.71,
       "cofins": 201.73,
-      "frete": 0,
+      "frete": 205.0104,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -10823,10 +10955,10 @@
       "custoMaq": 99.55053333333333,
       "invest": 504,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.532Z"
+      "criadoEm": "2026-08-10T00:47:56.269Z"
     },
     {
-      "id": "msmht8zgv7ziczrpzs8",
+      "id": "msmiioodvn4gqxer1y",
       "emissao": "2026-08-07",
       "pedido": "10916",
       "cliente": "PROSEGUR - PAULO AFONSO",
@@ -10845,7 +10977,8 @@
       "ipi": 0,
       "pis": 2.41,
       "cofins": 11.12,
-      "frete": 0,
+      "frete": 9.965000000000002,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -10892,10 +11025,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.532Z"
+      "criadoEm": "2026-08-10T00:47:56.270Z"
     },
     {
-      "id": "msmht8zgujc36j1sqm",
+      "id": "msmiiooebt9msawhxmd",
       "emissao": "2026-08-07",
       "pedido": "10916",
       "cliente": "PROSEGUR - PAULO AFONSO",
@@ -10914,7 +11047,8 @@
       "ipi": 0,
       "pis": 2.98,
       "cofins": 13.75,
-      "frete": 0,
+      "frete": 12.3225,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -10970,10 +11104,10 @@
       "custoMaq": 29.796693333333334,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.532Z"
+      "criadoEm": "2026-08-10T00:47:56.270Z"
     },
     {
-      "id": "msmht8zg1ws88kt5q9qj",
+      "id": "msmiiooenpy8mr338z9",
       "emissao": "2026-08-07",
       "pedido": "10917",
       "cliente": "QUIMICA MODERNA",
@@ -10992,7 +11126,8 @@
       "ipi": 0,
       "pis": 60.8,
       "cofins": 280.63,
-      "frete": 0,
+      "frete": 285.195,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -11048,10 +11183,10 @@
       "custoMaq": 646.61977,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.533Z"
+      "criadoEm": "2026-08-10T00:47:56.271Z"
     },
     {
-      "id": "msmht8zhyk5if034zy",
+      "id": "msmiioofed2crblu3lv",
       "emissao": "2026-08-07",
       "pedido": "10917",
       "cliente": "QUIMICA MODERNA",
@@ -11070,7 +11205,8 @@
       "ipi": 0,
       "pis": 2.82,
       "cofins": 13.01,
-      "frete": 0,
+      "frete": 13.22025,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -11126,10 +11262,10 @@
       "custoMaq": 87.9675,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.533Z"
+      "criadoEm": "2026-08-10T00:47:56.271Z"
     },
     {
-      "id": "msmht8zhdnrqag03e9",
+      "id": "msmiioofoftd9ysejdi",
       "emissao": "2026-08-07",
       "pedido": "10917",
       "cliente": "QUIMICA MODERNA",
@@ -11148,7 +11284,8 @@
       "ipi": 0,
       "pis": 1.76,
       "cofins": 8.14,
-      "frete": 0,
+      "frete": 8.27,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -11204,10 +11341,10 @@
       "custoMaq": 87.9675,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.534Z"
+      "criadoEm": "2026-08-10T00:47:56.271Z"
     },
     {
-      "id": "msmht8ziejxgy29cm5v",
+      "id": "msmiioof16dlo6dbpqc",
       "emissao": "2026-08-09",
       "pedido": "10918",
       "cliente": "MARCO BONI",
@@ -11226,7 +11363,8 @@
       "ipi": 28.66,
       "pis": 1.57,
       "cofins": 7.23,
-      "frete": 0,
+      "frete": 7.34925,
+      "fretePct": 0.025,
       "vendedor": "ADRIANA PAVANI",
       "comissaoPct": 5,
       "comissaoVal": 14.6985,
@@ -11298,10 +11436,10 @@
       "custoMaq": 278.38888,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.534Z"
+      "criadoEm": "2026-08-10T00:47:56.272Z"
     },
     {
-      "id": "msmht8zitafkuin0uyc",
+      "id": "msmiioog893aomrtsv",
       "emissao": "2026-08-09",
       "pedido": "10919",
       "cliente": "MARCO BONI",
@@ -11320,7 +11458,8 @@
       "ipi": 110.18,
       "pis": 6.02,
       "cofins": 27.8,
-      "frete": 0,
+      "frete": 28.25,
+      "fretePct": 0.025,
       "vendedor": "ADRIANA PAVANI",
       "comissaoPct": 5,
       "comissaoVal": 56.5,
@@ -11392,10 +11531,10 @@
       "custoMaq": 323.93595999999997,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.535Z"
+      "criadoEm": "2026-08-10T00:47:56.273Z"
     },
     {
-      "id": "msmht8zjw2utxm5e21",
+      "id": "msmiioohaorv37rmmoo",
       "emissao": "2026-08-09",
       "pedido": "10919",
       "cliente": "MARCO BONI",
@@ -11414,7 +11553,8 @@
       "ipi": 0,
       "pis": 2.76,
       "cofins": 12.75,
-      "frete": 0,
+      "frete": 12.958000000000002,
+      "fretePct": 0.025,
       "vendedor": "ADRIANA PAVANI",
       "comissaoPct": 5,
       "comissaoVal": 25.916000000000004,
@@ -11486,10 +11626,10 @@
       "custoMaq": 302.50204,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.535Z"
+      "criadoEm": "2026-08-10T00:47:56.273Z"
     },
     {
-      "id": "msmht8zjs0jmm1mlnpn",
+      "id": "msmiioohhd9mih98cgv",
       "emissao": "2026-08-09",
       "pedido": "10919",
       "cliente": "MARCO BONI",
@@ -11508,7 +11648,8 @@
       "ipi": 65.96000000000001,
       "pis": 3.6100000000000003,
       "cofins": 16.64,
-      "frete": 0,
+      "frete": 16.9125,
+      "fretePct": 0.025,
       "vendedor": "ADRIANA PAVANI",
       "comissaoPct": 5,
       "comissaoVal": 33.825,
@@ -11580,10 +11721,10 @@
       "custoMaq": 298.92972000000003,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.536Z"
+      "criadoEm": "2026-08-10T00:47:56.274Z"
     },
     {
-      "id": "msmht8zk5mn7fcookji",
+      "id": "msmiiooiwrznoa8ld7q",
       "emissao": "2026-08-09",
       "pedido": "10919",
       "cliente": "MARCO BONI",
@@ -11602,7 +11743,8 @@
       "ipi": 63.18,
       "pis": 3.45,
       "cofins": 15.94,
-      "frete": 0,
+      "frete": 16.2,
+      "fretePct": 0.025,
       "vendedor": "ADRIANA PAVANI",
       "comissaoPct": 5,
       "comissaoVal": 32.4,
@@ -11674,10 +11816,10 @@
       "custoMaq": 314.11208,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.536Z"
+      "criadoEm": "2026-08-10T00:47:56.274Z"
     },
     {
-      "id": "msmht8zkclgc1ch8439",
+      "id": "msmiiooi4z475l4yhke",
       "emissao": "2026-08-09",
       "pedido": "10919",
       "cliente": "MARCO BONI",
@@ -11696,7 +11838,8 @@
       "ipi": 0,
       "pis": 1.84,
       "cofins": 8.51,
-      "frete": 0,
+      "frete": 8.646375,
+      "fretePct": 0.025,
       "vendedor": "ADRIANA PAVANI",
       "comissaoPct": 5,
       "comissaoVal": 17.29275,
@@ -11768,10 +11911,10 @@
       "custoMaq": 277.4958,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.537Z"
+      "criadoEm": "2026-08-10T00:47:56.275Z"
     },
     {
-      "id": "msmht8zluz3hjfp1sw8",
+      "id": "msmiioojzdulrs6z3bq",
       "emissao": "2026-08-09",
       "pedido": "10919",
       "cliente": "MARCO BONI",
@@ -11790,7 +11933,8 @@
       "ipi": 0,
       "pis": 6.83,
       "cofins": 31.54,
-      "frete": 0,
+      "frete": 32.0505,
+      "fretePct": 0.025,
       "vendedor": "ADRIANA PAVANI",
       "comissaoPct": 5,
       "comissaoVal": 64.101,
@@ -11854,10 +11998,10 @@
       "custoMaq": 409.3241133333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.537Z"
+      "criadoEm": "2026-08-10T00:47:56.275Z"
     },
     {
-      "id": "msmht8zl7hwuionzruq",
+      "id": "msmiiooj5u6s7oa2io4",
       "emissao": "2026-08-09",
       "pedido": "10920",
       "cliente": "BARRY CALLEBAUT - ITABUNA",
@@ -11876,7 +12020,8 @@
       "ipi": 0,
       "pis": 58.1,
       "cofins": 268.17,
-      "frete": 0,
+      "frete": 240.3,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 5,
       "comissaoVal": 480.6,
@@ -11932,10 +12077,10 @@
       "custoMaq": 117.79005333333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.538Z"
+      "criadoEm": "2026-08-10T00:47:56.276Z"
     },
     {
-      "id": "msmht8zm7bvbu5zvrtg",
+      "id": "msmiiookxinjpbe2wif",
       "emissao": "2026-08-09",
       "pedido": "10921",
       "cliente": "BARRY CALLEBAUT - ILHÉUS",
@@ -11954,7 +12099,8 @@
       "ipi": 0,
       "pis": 58.1,
       "cofins": 268.17,
-      "frete": 0,
+      "frete": 240.3,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 5,
       "comissaoVal": 480.6,
@@ -12010,10 +12156,10 @@
       "custoMaq": 117.79005333333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.538Z"
+      "criadoEm": "2026-08-10T00:47:56.276Z"
     },
     {
-      "id": "msmht8znwme1cbvvt4l",
+      "id": "msmiiookn5pxue28h7",
       "emissao": "2026-08-09",
       "pedido": "10922",
       "cliente": "KLABIN ANGATUBA",
@@ -12032,7 +12178,8 @@
       "ipi": 0,
       "pis": 18.26,
       "cofins": 84.29,
-      "frete": 0,
+      "frete": 85.66500000000002,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -12096,10 +12243,10 @@
       "custoMaq": 233.52071999999998,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.539Z"
+      "criadoEm": "2026-08-10T00:47:56.277Z"
     },
     {
-      "id": "msmht8znuwwhov3543t",
+      "id": "msmiioolcmhvxwpko1k",
       "emissao": "2026-08-09",
       "pedido": "10923",
       "cliente": "KLABIN CORREIA PINTO",
@@ -12118,7 +12265,8 @@
       "ipi": 0,
       "pis": 21.92,
       "cofins": 101.16,
-      "frete": 0,
+      "frete": 95.796,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -12182,10 +12330,10 @@
       "custoMaq": 280.31416,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.539Z"
+      "criadoEm": "2026-08-10T00:47:56.277Z"
     },
     {
-      "id": "msmht8zngtq6f8a1obt",
+      "id": "msmiioolkb71cj74d3",
       "emissao": "2026-08-09",
       "pedido": "10924",
       "cliente": "KLABIN ANGATUBA",
@@ -12204,7 +12352,8 @@
       "ipi": 0,
       "pis": 41.64,
       "cofins": 192.2,
-      "frete": 0,
+      "frete": 195.32800000000003,
+      "fretePct": 0.025,
       "vendedor": "ALEXANDRE FRANCO",
       "comissaoPct": 0,
       "comissaoVal": 0,
@@ -12268,7 +12417,7 @@
       "custoMaq": 676.3190233333332,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-10T00:28:09.540Z"
+      "criadoEm": "2026-08-10T00:47:56.277Z"
     }
   ],
   "produtos": [
