@@ -117169,31 +117169,6 @@
     "2026-08": 500000
   },
   "contratosComodato": {
-    "cmd_1786491853968": {
-      "cliente": "BARRY",
-      "equipamentos": [
-        {
-          "nome": "ZEBRA",
-          "custo": 10000
-        },
-        {
-          "nome": "NOVEXX",
-          "custo": 5000
-        }
-      ],
-      "pecas": [
-        {
-          "desc": "CABEÇA DE IMPRESSÃO",
-          "valor": 5000,
-          "data": "2026-08-11"
-        }
-      ],
-      "atendValor": 500,
-      "atendDias": 90,
-      "jaCobrado": 0,
-      "inicio": "2026-08-11",
-      "prazoMeses": 0
-    },
     "cmd_1786491926490": {
       "cliente": "HENKEL",
       "equipamentos": [
