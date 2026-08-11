@@ -117187,6 +117187,25 @@
       "jaCobrado": 2000,
       "inicio": "2026-08-11",
       "prazoMeses": 0
+    },
+    "cmd_1786491926490": {
+      "cliente": "HENKEL",
+      "equipamentos": [
+        {
+          "nome": "ZEBRA",
+          "custo": 100000
+        },
+        {
+          "nome": "NOVEXX",
+          "custo": 300000
+        }
+      ],
+      "pecas": [],
+      "atendValor": 500,
+      "atendDias": 0,
+      "jaCobrado": 5000,
+      "inicio": "2026-08-11",
+      "prazoMeses": 48
     }
   },
   "params": {
