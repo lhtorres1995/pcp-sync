@@ -119324,7 +119324,9 @@
         "nome": "LEONARDO TORRES",
         "cc": "008-ADMINISTRATIVO",
         "salario": 6000,
-        "outros": 170
+        "outros": 170,
+        "tipo": "PJ",
+        "encargo": 0
       },
       {
         "nome": "LINO (KLABIN)",
