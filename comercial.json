@@ -119527,30 +119527,6 @@
         "cc": "006-TROQUELADORAS",
         "salario": 2400,
         "outros": 170
-      },
-      {
-        "nome": "001-FLEXO 250",
-        "cc": "",
-        "salario": 130.3260926436509,
-        "outros": 0
-      },
-      {
-        "nome": "003-NACBRAS",
-        "cc": "",
-        "salario": 242.9578523960563,
-        "outros": 0
-      },
-      {
-        "nome": "004-BATIDAS",
-        "cc": "",
-        "salario": 106.97649432499246,
-        "outros": 0
-      },
-      {
-        "nome": "005-DIGITAL KONICA",
-        "cc": "",
-        "salario": 329.61,
-        "outros": 0
       }
     ],
     "equipamentos": [
@@ -119672,13 +119648,6 @@
         "valor": 550000,
         "meses": 96,
         "residual": 0.3
-      },
-      {
-        "nome": "HP INDIGO",
-        "cc": "011-DIGITAL HP INDIGO",
-        "valor": 0,
-        "meses": 72,
-        "residual": 0.1
       },
       {
         "nome": "VOREY",
