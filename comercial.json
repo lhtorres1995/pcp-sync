@@ -119208,7 +119208,9 @@
         "nome": "ABNER LENTZ",
         "cc": "009-TI",
         "salario": 3200,
-        "outros": 170
+        "outros": 170,
+        "tipo": "CLT",
+        "encargo": null
       },
       {
         "nome": "ADEILSON ALVES DA SILVA",
