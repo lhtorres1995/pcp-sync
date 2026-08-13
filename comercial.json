@@ -119338,7 +119338,9 @@
         "nome": "MARCOS",
         "cc": "008-ADMINISTRATIVO",
         "salario": 4500,
-        "outros": 170
+        "outros": 170,
+        "tipo": "PJ",
+        "encargo": 0
       },
       {
         "nome": "MARIA FRANCYELMA",
