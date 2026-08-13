@@ -119318,7 +119318,9 @@
         "nome": "JUDITH",
         "cc": "008-ADMINISTRATIVO",
         "salario": 4500,
-        "outros": 0
+        "outros": 0,
+        "tipo": "PJ",
+        "encargo": 0
       },
       {
         "nome": "LEONARDO TORRES",
