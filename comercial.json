@@ -1,7 +1,7 @@
 {
   "vendas": [
     {
-      "id": "msql5wbrx4o6tpo99nk",
+      "id": "mss1bochp9unmua1118",
       "emissao": "2026-08-02",
       "pedido": "10834",
       "cliente": "OLEAK",
@@ -93,10 +93,10 @@
       "custoMaq": 302.0673033333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.208Z"
+      "criadoEm": "2026-08-13T21:33:12.835Z"
     },
     {
-      "id": "msql5wbsm982u82zdu",
+      "id": "mss1bocjgr8xphebs6p",
       "emissao": "2026-08-02",
       "pedido": "10835",
       "cliente": "NOVAK GOUVEIA",
@@ -188,10 +188,10 @@
       "custoMaq": 394.70804,
       "invest": 160,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.209Z"
+      "criadoEm": "2026-08-13T21:33:12.835Z"
     },
     {
-      "id": "msql5wbt4sq989x1jpo",
+      "id": "mss1bocj4nggm4u959p",
       "emissao": "2026-08-02",
       "pedido": "10836",
       "cliente": "SOMMATECH",
@@ -258,10 +258,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.209Z"
+      "criadoEm": "2026-08-13T21:33:12.836Z"
     },
     {
-      "id": "msql5wbturc3v4g1wc",
+      "id": "mss1bockb386558xm7j",
       "emissao": "2026-08-02",
       "pedido": "10837",
       "cliente": "BARRY CALLEBAUT - EXTREMA",
@@ -337,10 +337,10 @@
       "custoMaq": 507.96789333333334,
       "invest": 18000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.210Z"
+      "criadoEm": "2026-08-13T21:33:12.836Z"
     },
     {
-      "id": "msql5wbuybsy722754",
+      "id": "mss1bockd7gtlhyhp07",
       "emissao": "2026-08-02",
       "pedido": "10838",
       "cliente": "SYNGENTA",
@@ -424,10 +424,10 @@
       "custoMaq": 210.0150733333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.211Z"
+      "criadoEm": "2026-08-13T21:33:12.837Z"
     },
     {
-      "id": "msql5wbvwfnhb2ghsi",
+      "id": "mss1boclwh8m43dpmm8",
       "emissao": "2026-08-02",
       "pedido": "10839",
       "cliente": "AUMOVIO - GRU",
@@ -503,10 +503,10 @@
       "custoMaq": 128.14221333333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.211Z"
+      "criadoEm": "2026-08-13T21:33:12.838Z"
     },
     {
-      "id": "msql5wbvtwd4a9zkmc",
+      "id": "mss1bocmij7hp3hksb8",
       "emissao": "2026-08-02",
       "pedido": "10840",
       "cliente": "AUMOVIO - GRU",
@@ -590,10 +590,10 @@
       "custoMaq": 242.06991333333335,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.212Z"
+      "criadoEm": "2026-08-13T21:33:12.838Z"
     },
     {
-      "id": "msql5wbwltkthcl2nse",
+      "id": "mss1bocmkafn53huh1d",
       "emissao": "2026-08-02",
       "pedido": "10841",
       "cliente": "HENKEL - CD JUNDIAÍ",
@@ -660,10 +660,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.212Z"
+      "criadoEm": "2026-08-13T21:33:12.839Z"
     },
     {
-      "id": "msql5wbwd24d2v3z2s",
+      "id": "mss1bocn2kdr214bmqc",
       "emissao": "2026-08-02",
       "pedido": "10841",
       "cliente": "HENKEL - CD JUNDIAÍ",
@@ -730,10 +730,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.213Z"
+      "criadoEm": "2026-08-13T21:33:12.839Z"
     },
     {
-      "id": "msql5wbxkrvu2fa33n7",
+      "id": "mss1bocnm416au12gx8",
       "emissao": "2026-08-02",
       "pedido": "10841",
       "cliente": "HENKEL - CD JUNDIAÍ",
@@ -800,10 +800,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.213Z"
+      "criadoEm": "2026-08-13T21:33:12.840Z"
     },
     {
-      "id": "msql5wbxseygddcpphk",
+      "id": "mss1bocog9d8icy2p2u",
       "emissao": "2026-08-02",
       "pedido": "10841",
       "cliente": "HENKEL - CD JUNDIAÍ",
@@ -870,10 +870,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.214Z"
+      "criadoEm": "2026-08-13T21:33:12.840Z"
     },
     {
-      "id": "msql5wbypzyijuu6lxn",
+      "id": "mss1bocod1uu0lw7f2v",
       "emissao": "2026-08-02",
       "pedido": "10841",
       "cliente": "HENKEL - CD JUNDIAÍ",
@@ -940,10 +940,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.214Z"
+      "criadoEm": "2026-08-13T21:33:12.840Z"
     },
     {
-      "id": "msql5wbyhkaxmamp75t",
+      "id": "mss1boco3nv656hoo56",
       "emissao": "2026-08-02",
       "pedido": "10841",
       "cliente": "HENKEL - CD JUNDIAÍ",
@@ -1027,10 +1027,10 @@
       "custoMaq": 339.8351133333333,
       "invest": 3750,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.215Z"
+      "criadoEm": "2026-08-13T21:33:12.841Z"
     },
     {
-      "id": "msql5wbzl6kkz46416",
+      "id": "mss1bocpp6hgk0k6l9r",
       "emissao": "2026-08-02",
       "pedido": "10841",
       "cliente": "HENKEL - CD JUNDIAÍ",
@@ -1106,10 +1106,10 @@
       "custoMaq": 104.64445333333333,
       "invest": 4500,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.215Z"
+      "criadoEm": "2026-08-13T21:33:12.842Z"
     },
     {
-      "id": "msql5wbz5yafkdrgm2m",
+      "id": "mss1bocqqxuq1s48fy",
       "emissao": "2026-08-02",
       "pedido": "10842",
       "cliente": "KLABIN ANGATUBA",
@@ -1193,10 +1193,10 @@
       "custoMaq": 365.4266666666667,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.216Z"
+      "criadoEm": "2026-08-13T21:33:12.842Z"
     },
     {
-      "id": "msql5wc03y1edrhi98o",
+      "id": "mss1bocqxordwp0g82",
       "emissao": "2026-08-02",
       "pedido": "10843",
       "cliente": "KLABIN - OTACILIO",
@@ -1280,10 +1280,10 @@
       "custoMaq": 1407.6199833333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.216Z"
+      "criadoEm": "2026-08-13T21:33:12.843Z"
     },
     {
-      "id": "msql5wc0migswb1drqj",
+      "id": "mss1bocr4fm684qwwj6",
       "emissao": "2026-08-02",
       "pedido": "10844",
       "cliente": "KLABIN CORREIA PINTO",
@@ -1367,10 +1367,10 @@
       "custoMaq": 1182.8166133333334,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.217Z"
+      "criadoEm": "2026-08-13T21:33:12.843Z"
     },
     {
-      "id": "msql5wc1ps5c29z6by",
+      "id": "mss1bocrj434ttwfck",
       "emissao": "2026-08-02",
       "pedido": "10845",
       "cliente": "KLABIN SÃO LEOPOLDO",
@@ -1446,10 +1446,10 @@
       "custoMaq": 49.35077333333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.217Z"
+      "criadoEm": "2026-08-13T21:33:12.844Z"
     },
     {
-      "id": "msql5wc11ca02ub1kzg",
+      "id": "mss1bocszbezmrwepz",
       "emissao": "2026-08-02",
       "pedido": "10846",
       "cliente": "KLABIN - OTACILIO",
@@ -1533,10 +1533,10 @@
       "custoMaq": 189.49333333333334,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.218Z"
+      "criadoEm": "2026-08-13T21:33:12.844Z"
     },
     {
-      "id": "msql5wc24wmm53uiaf2",
+      "id": "mss1bocs8fpl6fhlk4q",
       "emissao": "2026-08-03",
       "pedido": "10847",
       "cliente": "VELLARE",
@@ -1628,10 +1628,10 @@
       "custoMaq": 393.24159000000003,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.219Z"
+      "criadoEm": "2026-08-13T21:33:12.845Z"
     },
     {
-      "id": "msql5wc3ixyh1j1hrzj",
+      "id": "mss1boctcrs0iw7oox9",
       "emissao": "2026-08-03",
       "pedido": "10847",
       "cliente": "VELLARE",
@@ -1723,10 +1723,10 @@
       "custoMaq": 314.11208,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.219Z"
+      "criadoEm": "2026-08-13T21:33:12.845Z"
     },
     {
-      "id": "msql5wc3lc5whpbgjvr",
+      "id": "mss1boctfaxsx1e58ni",
       "emissao": "2026-08-03",
       "pedido": "10848",
       "cliente": "CONGREGACAO - FRENTE",
@@ -1818,10 +1818,10 @@
       "custoMaq": 598.4758566666667,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.220Z"
+      "criadoEm": "2026-08-13T21:33:12.846Z"
     },
     {
-      "id": "msql5wc43efp8w3t6i2",
+      "id": "mss1bocuc72ko0rh8ip",
       "emissao": "2026-08-03",
       "pedido": "10849",
       "cliente": "HENKEL - JUNDIAI",
@@ -1905,10 +1905,10 @@
       "custoMaq": 212.66813333333332,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.220Z"
+      "criadoEm": "2026-08-13T21:33:12.846Z"
     },
     {
-      "id": "msql5wc47uz69it6iog",
+      "id": "mss1bocuvvxrko69az",
       "emissao": "2026-08-03",
       "pedido": "10850",
       "cliente": "HENKEL - JUNDIAI",
@@ -1992,10 +1992,10 @@
       "custoMaq": 212.66813333333332,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.221Z"
+      "criadoEm": "2026-08-13T21:33:12.847Z"
     },
     {
-      "id": "msql5wc5sphykoe4yol",
+      "id": "mss1bocvff2jivbj6t4",
       "emissao": "2026-08-03",
       "pedido": "10851",
       "cliente": "HENKEL - JUNDIAI",
@@ -2079,10 +2079,10 @@
       "custoMaq": 261.6638433333334,
       "invest": 2800,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.221Z"
+      "criadoEm": "2026-08-13T21:33:12.850Z"
     },
     {
-      "id": "msql5wc5yrsl9kpwm7e",
+      "id": "mss1bocynasp1r75lo",
       "emissao": "2026-08-03",
       "pedido": "10852",
       "cliente": "HENKEL - JUNDIAI",
@@ -2166,10 +2166,10 @@
       "custoMaq": 199.55666666666662,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.222Z"
+      "criadoEm": "2026-08-13T21:33:12.851Z"
     },
     {
-      "id": "msql5wc6kyw18w2atd",
+      "id": "mss1boczeq5ceo4mzuh",
       "emissao": "2026-08-03",
       "pedido": "10853",
       "cliente": "HENKEL - JUNDIAI",
@@ -2253,10 +2253,10 @@
       "custoMaq": 211.25541333333334,
       "invest": 1500,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.222Z"
+      "criadoEm": "2026-08-13T21:33:12.851Z"
     },
     {
-      "id": "msql5wc6a3dcbcphbpl",
+      "id": "mss1boczjgmzftb7tu",
       "emissao": "2026-08-03",
       "pedido": "10854",
       "cliente": "HENKEL - JUNDIAI",
@@ -2348,10 +2348,10 @@
       "custoMaq": 282.3246433333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.223Z"
+      "criadoEm": "2026-08-13T21:33:12.852Z"
     },
     {
-      "id": "msql5wc7ojjowpipd3f",
+      "id": "mss1bod0rbotyu5gi7",
       "emissao": "2026-08-03",
       "pedido": "10855",
       "cliente": "HENKEL - JUNDIAI",
@@ -2427,10 +2427,10 @@
       "custoMaq": 1184.1446933333332,
       "invest": 16500,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.223Z"
+      "criadoEm": "2026-08-13T21:33:12.852Z"
     },
     {
-      "id": "msql5wc71m6r9kzsnya",
+      "id": "mss1bod0qijvjzzrfgb",
       "emissao": "2026-08-03",
       "pedido": "10856",
       "cliente": "HENKEL - JUNDIAI",
@@ -2514,10 +2514,10 @@
       "custoMaq": 558.6351933333333,
       "invest": 11000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.226Z"
+      "criadoEm": "2026-08-13T21:33:12.853Z"
     },
     {
-      "id": "msql5wcafsm8ehymuiw",
+      "id": "mss1bod1keyp2vdrfhm",
       "emissao": "2026-08-03",
       "pedido": "10857",
       "cliente": "HENKEL - JUNDIAI",
@@ -2609,10 +2609,10 @@
       "custoMaq": 282.3246433333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.227Z"
+      "criadoEm": "2026-08-13T21:33:12.853Z"
     },
     {
-      "id": "msql5wcb77vae5ar0lq",
+      "id": "mss1bod1dm5mzqdelog",
       "emissao": "2026-08-03",
       "pedido": "10858",
       "cliente": "ECOLAB SUZANO",
@@ -2696,10 +2696,10 @@
       "custoMaq": 1699.4892133333333,
       "invest": 12000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.228Z"
+      "criadoEm": "2026-08-13T21:33:12.854Z"
     },
     {
-      "id": "msql5wccy18hczxzvod",
+      "id": "mss1bod2qwzbo4mhdb",
       "emissao": "2026-08-03",
       "pedido": "10859",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -2766,10 +2766,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.228Z"
+      "criadoEm": "2026-08-13T21:33:12.854Z"
     },
     {
-      "id": "msql5wccxxsilb95lj",
+      "id": "mss1bod2a49cexhjo2u",
       "emissao": "2026-08-03",
       "pedido": "10860",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -2836,10 +2836,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.228Z"
+      "criadoEm": "2026-08-13T21:33:12.855Z"
     },
     {
-      "id": "msql5wcczu8robjbul8",
+      "id": "mss1bod36jyxbewhdu3",
       "emissao": "2026-08-03",
       "pedido": "10861",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -2906,10 +2906,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.229Z"
+      "criadoEm": "2026-08-13T21:33:12.855Z"
     },
     {
-      "id": "msql5wcdqe0i7plrdhq",
+      "id": "mss1bod376q1suupnu",
       "emissao": "2026-08-03",
       "pedido": "10862",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -2976,10 +2976,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.229Z"
+      "criadoEm": "2026-08-13T21:33:12.855Z"
     },
     {
-      "id": "msql5wcdtj2dd8gmgrq",
+      "id": "mss1bod3evjor72mh4",
       "emissao": "2026-08-03",
       "pedido": "10864",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -3046,10 +3046,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.230Z"
+      "criadoEm": "2026-08-13T21:33:12.856Z"
     },
     {
-      "id": "msql5wceb8wnawtsg1",
+      "id": "mss1bod4b7y793yt27q",
       "emissao": "2026-08-03",
       "pedido": "10866",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -3116,10 +3116,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.230Z"
+      "criadoEm": "2026-08-13T21:33:12.857Z"
     },
     {
-      "id": "msql5wce7z4qak86b0t",
+      "id": "mss1bod5qmyacnu0qw9",
       "emissao": "2026-08-03",
       "pedido": "10867",
       "cliente": "KLABIN - TELEMACO BORBA",
@@ -3186,10 +3186,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.231Z"
+      "criadoEm": "2026-08-13T21:33:12.857Z"
     },
     {
-      "id": "msql5wcfpqhe7lj24wj",
+      "id": "mss1bod5h5tc7o6ah3f",
       "emissao": "2026-08-03",
       "pedido": "10868",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -3256,10 +3256,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.231Z"
+      "criadoEm": "2026-08-13T21:33:12.857Z"
     },
     {
-      "id": "msql5wcf1kgfub44q2s",
+      "id": "mss1bod5m91wbrf8fjp",
       "emissao": "2026-08-03",
       "pedido": "10869",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -3326,10 +3326,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.231Z"
+      "criadoEm": "2026-08-13T21:33:12.858Z"
     },
     {
-      "id": "msql5wcf1wbskrmc3ay",
+      "id": "mss1bod6p320b3u8me",
       "emissao": "2026-08-03",
       "pedido": "10871",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -3396,10 +3396,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.232Z"
+      "criadoEm": "2026-08-13T21:33:12.858Z"
     },
     {
-      "id": "msql5wcgm76ty6oqzhc",
+      "id": "mss1bod65pcmf2i4r1n",
       "emissao": "2026-08-03",
       "pedido": "10872",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -3466,10 +3466,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.232Z"
+      "criadoEm": "2026-08-13T21:33:12.859Z"
     },
     {
-      "id": "msql5wcg2dw9klg5mhk",
+      "id": "mss1bod7rmhjz9wp7l",
       "emissao": "2026-08-03",
       "pedido": "10873",
       "cliente": "HEALTH QUALITY",
@@ -3545,10 +3545,10 @@
       "custoMaq": 288.2720533333333,
       "invest": 6800.000000000001,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.233Z"
+      "criadoEm": "2026-08-13T21:33:12.859Z"
     },
     {
-      "id": "msql5wchozkdw6yssw",
+      "id": "mss1bod7w9vozick4z",
       "emissao": "2026-08-03",
       "pedido": "10873",
       "cliente": "HEALTH QUALITY",
@@ -3632,10 +3632,10 @@
       "custoMaq": 608.5338800000001,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.233Z"
+      "criadoEm": "2026-08-13T21:33:12.860Z"
     },
     {
-      "id": "msql5wchpllt71d82gh",
+      "id": "mss1bod8ttyrgsno3pc",
       "emissao": "2026-08-03",
       "pedido": "10873",
       "cliente": "HEALTH QUALITY",
@@ -3719,10 +3719,10 @@
       "custoMaq": 482.26375333333334,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.234Z"
+      "criadoEm": "2026-08-13T21:33:12.860Z"
     },
     {
-      "id": "msql5wcidz831s0cart",
+      "id": "mss1bod855cv4hgqoe4",
       "emissao": "2026-08-03",
       "pedido": "10873",
       "cliente": "HEALTH QUALITY",
@@ -3806,10 +3806,10 @@
       "custoMaq": 640.8938733333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.235Z"
+      "criadoEm": "2026-08-13T21:33:12.861Z"
     },
     {
-      "id": "msql5wcj3gyviheasvf",
+      "id": "mss1bod9ynsgnboau",
       "emissao": "2026-08-03",
       "pedido": "10874",
       "cliente": "POLITEC",
@@ -3901,10 +3901,10 @@
       "custoMaq": 316.79132,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.235Z"
+      "criadoEm": "2026-08-13T21:33:12.861Z"
     },
     {
-      "id": "msql5wcjlli0285imfp",
+      "id": "mss1bod9zbzk8vs9r6",
       "emissao": "2026-08-05",
       "pedido": "10875",
       "cliente": "HEALTH QUALITY",
@@ -3988,10 +3988,10 @@
       "custoMaq": 318.08248333333336,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.236Z"
+      "criadoEm": "2026-08-13T21:33:12.862Z"
     },
     {
-      "id": "msql5wck7v569pa9ij8",
+      "id": "mss1bodagnj6ut621y",
       "emissao": "2026-08-05",
       "pedido": "10876",
       "cliente": "CONGREGAÇÃO - CARAPICUIBA",
@@ -4075,10 +4075,10 @@
       "custoMaq": 151.87666666666667,
       "invest": 5,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.236Z"
+      "criadoEm": "2026-08-13T21:33:12.862Z"
     },
     {
-      "id": "msql5wckpumaexp8na",
+      "id": "mss1bodat0de96twlg",
       "emissao": "2026-08-05",
       "pedido": "10877",
       "cliente": "OPPORTUNA - OLEAK",
@@ -4170,10 +4170,10 @@
       "custoMaq": 348.04911999999996,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.237Z"
+      "criadoEm": "2026-08-13T21:33:12.863Z"
     },
     {
-      "id": "msql5wclhi7thoup31e",
+      "id": "mss1bodbu17mt4vrbl",
       "emissao": "2026-08-05",
       "pedido": "10878",
       "cliente": "GDS GROW DIETARY SUPPLEME",
@@ -4249,10 +4249,10 @@
       "custoMaq": 108.09517333333334,
       "invest": 6000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.237Z"
+      "criadoEm": "2026-08-13T21:33:12.863Z"
     },
     {
-      "id": "msql5wcl5ljh8rtegdv",
+      "id": "mss1bodbd0b3cz9z0yi",
       "emissao": "2026-08-05",
       "pedido": "10879",
       "cliente": "CONGREGAÇÃO - FUNDO",
@@ -4328,10 +4328,10 @@
       "custoMaq": 68.57621333333333,
       "invest": 1300,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.238Z"
+      "criadoEm": "2026-08-13T21:33:12.864Z"
     },
     {
-      "id": "msql5wcm4adquju9vvu",
+      "id": "mss1bodcdsj79apjo4e",
       "emissao": "2026-08-05",
       "pedido": "10880",
       "cliente": "TRAMONTINA",
@@ -4398,10 +4398,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.238Z"
+      "criadoEm": "2026-08-13T21:33:12.864Z"
     },
     {
-      "id": "msql5wcm8iwb2c6k6pj",
+      "id": "mss1bodcmtgujsnnxi",
       "emissao": "2026-08-05",
       "pedido": "10881",
       "cliente": "C. PETROP. - S. DO CAPIM",
@@ -4485,10 +4485,10 @@
       "custoMaq": 323.85214333333334,
       "invest": 699.2,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.239Z"
+      "criadoEm": "2026-08-13T21:33:12.865Z"
     },
     {
-      "id": "msql5wcnp1xrd3b4jlq",
+      "id": "mss1boddjxav0qwg96g",
       "emissao": "2026-08-05",
       "pedido": "10882",
       "cliente": "SIEGWERK - DIADEMA",
@@ -4564,10 +4564,10 @@
       "custoMaq": 235.04916,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.239Z"
+      "criadoEm": "2026-08-13T21:33:12.865Z"
     },
     {
-      "id": "msql5wcnnizfu7ycra",
+      "id": "mss1bodd3g0juswy3ae",
       "emissao": "2026-08-05",
       "pedido": "10883",
       "cliente": "ITALAC - PASSO FUNDO",
@@ -4643,10 +4643,10 @@
       "custoMaq": 77.61381333333333,
       "invest": 336.25,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.240Z"
+      "criadoEm": "2026-08-13T21:33:12.866Z"
     },
     {
-      "id": "msql5wco1y9w9a3q36t",
+      "id": "mss1bodewajy6jjsop",
       "emissao": "2026-08-05",
       "pedido": "10883",
       "cliente": "ITALAC - PASSO FUNDO",
@@ -4722,10 +4722,10 @@
       "custoMaq": 77.61381333333333,
       "invest": 336.25,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.240Z"
+      "criadoEm": "2026-08-13T21:33:12.866Z"
     },
     {
-      "id": "msql5wco8rww35q6mm5",
+      "id": "mss1bode7w27bk7eak6",
       "emissao": "2026-08-05",
       "pedido": "10884",
       "cliente": "GUIGUEL",
@@ -4809,10 +4809,10 @@
       "custoMaq": 654.8703533333332,
       "invest": 300,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.241Z"
+      "criadoEm": "2026-08-13T21:33:12.867Z"
     },
     {
-      "id": "msql5wcpzx69uk3shb",
+      "id": "mss1bodfajj8soi3ode",
       "emissao": "2026-08-05",
       "pedido": "10885",
       "cliente": "HENKEL - ITAPEVI",
@@ -4896,10 +4896,10 @@
       "custoMaq": 569.6919499999999,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.241Z"
+      "criadoEm": "2026-08-13T21:33:12.867Z"
     },
     {
-      "id": "msql5wcp76hkyce17bg",
+      "id": "mss1bodfksarxllvtk",
       "emissao": "2026-08-05",
       "pedido": "10886",
       "cliente": "HENKEL - ITAPEVI",
@@ -4983,10 +4983,10 @@
       "custoMaq": 569.6919499999999,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.242Z"
+      "criadoEm": "2026-08-13T21:33:12.868Z"
     },
     {
-      "id": "msql5wcquo9dxix3m2l",
+      "id": "mss1bodg7q5n1vslvk6",
       "emissao": "2026-08-05",
       "pedido": "10887",
       "cliente": "ATC DO BRASIL",
@@ -5070,10 +5070,10 @@
       "custoMaq": 163.12464333333332,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.242Z"
+      "criadoEm": "2026-08-13T21:33:12.868Z"
     },
     {
-      "id": "msql5wcqa7ufh9fmlag",
+      "id": "mss1bodgr2colxxf44h",
       "emissao": "2026-08-05",
       "pedido": "10888",
       "cliente": "CONTINENTAL - CAMAÇARI",
@@ -5140,10 +5140,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.243Z"
+      "criadoEm": "2026-08-13T21:33:12.869Z"
     },
     {
-      "id": "msql5wcr90airsvn4ce",
+      "id": "mss1bodh86jub3usv1q",
       "emissao": "2026-08-05",
       "pedido": "10889",
       "cliente": "M.C. NATURAIS LTDA",
@@ -5227,10 +5227,10 @@
       "custoMaq": 120.64416666666666,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.243Z"
+      "criadoEm": "2026-08-13T21:33:12.869Z"
     },
     {
-      "id": "msql5wcrwwxd7tl6vue",
+      "id": "mss1bodhn6r2nob30f",
       "emissao": "2026-08-05",
       "pedido": "10890",
       "cliente": "ICC - JUNDIAI",
@@ -5314,10 +5314,10 @@
       "custoMaq": 176.9348433333333,
       "invest": 228,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.244Z"
+      "criadoEm": "2026-08-13T21:33:12.870Z"
     },
     {
-      "id": "msql5wcsxpdx0uc2u1",
+      "id": "mss1bodijrw2jj2tu6",
       "emissao": "2026-08-05",
       "pedido": "10890",
       "cliente": "ICC - JUNDIAI",
@@ -5393,10 +5393,10 @@
       "custoMaq": 99.46837333333333,
       "invest": 3000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.244Z"
+      "criadoEm": "2026-08-13T21:33:12.870Z"
     },
     {
-      "id": "msql5wcs50mzev375qu",
+      "id": "mss1bodirsbqi64cwwi",
       "emissao": "2026-08-05",
       "pedido": "10890",
       "cliente": "ICC - JUNDIAI",
@@ -5472,10 +5472,10 @@
       "custoMaq": 34.56197333333333,
       "invest": 76,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.245Z"
+      "criadoEm": "2026-08-13T21:33:12.870Z"
     },
     {
-      "id": "msql5wct1lh9ghppe05",
+      "id": "mss1bodiz7b3c14ffl",
       "emissao": "2026-08-05",
       "pedido": "10891",
       "cliente": "ICC - JUNDIAI",
@@ -5551,10 +5551,10 @@
       "custoMaq": 288.2720533333333,
       "invest": 10800,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.245Z"
+      "criadoEm": "2026-08-13T21:33:12.871Z"
     },
     {
-      "id": "msql5wct06dubr1x2dq5",
+      "id": "mss1bodjp3gczbocnk",
       "emissao": "2026-08-05",
       "pedido": "10892",
       "cliente": "KLABIN - RIO NEGRO",
@@ -5621,10 +5621,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.246Z"
+      "criadoEm": "2026-08-13T21:33:12.871Z"
     },
     {
-      "id": "msql5wcur9rzq9sh1bb",
+      "id": "mss1bodj35x98ofwppi",
       "emissao": "2026-08-06",
       "pedido": "10893",
       "cliente": "FERTILABEL",
@@ -5708,10 +5708,10 @@
       "custoMaq": 458.3661333333333,
       "invest": 30,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.246Z"
+      "criadoEm": "2026-08-13T21:33:12.872Z"
     },
     {
-      "id": "msql5wcus71o1x1gcz",
+      "id": "mss1bodkk5k1su4j11",
       "emissao": "2026-08-06",
       "pedido": "10894",
       "cliente": "MELC",
@@ -5795,10 +5795,10 @@
       "custoMaq": 151.87666666666667,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.247Z"
+      "criadoEm": "2026-08-13T21:33:12.872Z"
     },
     {
-      "id": "msql5wcv7shkjj0kv1c",
+      "id": "mss1bodkw53pdiaoymp",
       "emissao": "2026-08-06",
       "pedido": "10894",
       "cliente": "MELC",
@@ -5882,10 +5882,10 @@
       "custoMaq": 151.87666666666667,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.247Z"
+      "criadoEm": "2026-08-13T21:33:12.873Z"
     },
     {
-      "id": "msql5wcv7pt94dunnz5",
+      "id": "mss1bodl4rsts7wu9ob",
       "emissao": "2026-08-06",
       "pedido": "10895",
       "cliente": "KARTER",
@@ -5969,10 +5969,10 @@
       "custoMaq": 528.50427,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.248Z"
+      "criadoEm": "2026-08-13T21:33:12.873Z"
     },
     {
-      "id": "msql5wcwq20l36p9y1",
+      "id": "mss1bodl7pf3yfkw4i3",
       "emissao": "2026-08-06",
       "pedido": "10896",
       "cliente": "HEALTH QUALITY",
@@ -6056,10 +6056,10 @@
       "custoMaq": 241.8105233333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.248Z"
+      "criadoEm": "2026-08-13T21:33:12.874Z"
     },
     {
-      "id": "msql5wcwtrxa011x7op",
+      "id": "mss1bodmdcr3j5o68wr",
       "emissao": "2026-08-06",
       "pedido": "10896",
       "cliente": "HEALTH QUALITY",
@@ -6143,10 +6143,10 @@
       "custoMaq": 1736.7589433333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.249Z"
+      "criadoEm": "2026-08-13T21:33:12.874Z"
     },
     {
-      "id": "msql5wcxwv7sb5oitj",
+      "id": "mss1bodmfoabufxrtvl",
       "emissao": "2026-08-06",
       "pedido": "10896",
       "cliente": "HEALTH QUALITY",
@@ -6222,10 +6222,10 @@
       "custoMaq": 425.56141333333335,
       "invest": 10200,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.249Z"
+      "criadoEm": "2026-08-13T21:33:12.875Z"
     },
     {
-      "id": "msql5wcxnsxc23bfq5",
+      "id": "mss1bodn1wzl0x7qlg7",
       "emissao": "2026-08-06",
       "pedido": "10896",
       "cliente": "HEALTH QUALITY",
@@ -6309,10 +6309,10 @@
       "custoMaq": 344.53416333333337,
       "invest": 400,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.250Z"
+      "criadoEm": "2026-08-13T21:33:12.875Z"
     },
     {
-      "id": "msql5wcyyr0lc8hvwle",
+      "id": "mss1bodnoktl8huvtbf",
       "emissao": "2026-08-06",
       "pedido": "10896",
       "cliente": "HEALTH QUALITY",
@@ -6388,10 +6388,10 @@
       "custoMaq": 219.66845333333333,
       "invest": 4500,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.250Z"
+      "criadoEm": "2026-08-13T21:33:12.876Z"
     },
     {
-      "id": "msql5wcy4ksusxbwavo",
+      "id": "mss1bodokqhzm3ikg9",
       "emissao": "2026-08-06",
       "pedido": "10896",
       "cliente": "HEALTH QUALITY",
@@ -6475,10 +6475,10 @@
       "custoMaq": 508.62396000000007,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.251Z"
+      "criadoEm": "2026-08-13T21:33:12.876Z"
     },
     {
-      "id": "msql5wczozw5zfqw4m",
+      "id": "mss1bodoiw3cj09eqy8",
       "emissao": "2026-08-06",
       "pedido": "10896",
       "cliente": "HEALTH QUALITY",
@@ -6562,10 +6562,10 @@
       "custoMaq": 425.81357333333335,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.251Z"
+      "criadoEm": "2026-08-13T21:33:12.877Z"
     },
     {
-      "id": "msql5wcz47n8l6can4x",
+      "id": "mss1bodprx4ccjgx91j",
       "emissao": "2026-08-06",
       "pedido": "10897",
       "cliente": "FERTILABEL",
@@ -6649,10 +6649,10 @@
       "custoMaq": 1144.2286533333333,
       "invest": 114.75,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.252Z"
+      "criadoEm": "2026-08-13T21:33:12.877Z"
     },
     {
-      "id": "msql5wd0i1qbe0sego",
+      "id": "mss1bodpq3orwmw174a",
       "emissao": "2026-08-06",
       "pedido": "10898",
       "cliente": "PROZYN INDUSTRIA E COMERC",
@@ -6736,10 +6736,10 @@
       "custoMaq": 653.0527433333334,
       "invest": 1500,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.252Z"
+      "criadoEm": "2026-08-13T21:33:12.878Z"
     },
     {
-      "id": "msql5wd0rnk7ffbsfkb",
+      "id": "mss1bodq34tqkyedmt1",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -6815,10 +6815,10 @@
       "custoMaq": 356.9578133333333,
       "invest": 7200,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.253Z"
+      "criadoEm": "2026-08-13T21:33:12.878Z"
     },
     {
-      "id": "msql5wd1fs7a3qalpr4",
+      "id": "mss1bodqssoimqvsr4c",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -6894,10 +6894,10 @@
       "custoMaq": 99.55053333333333,
       "invest": 504,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.253Z"
+      "criadoEm": "2026-08-13T21:33:12.879Z"
     },
     {
-      "id": "msql5wd1q5y74nfrt7j",
+      "id": "mss1bodr17l6gpf2jb2",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -6973,10 +6973,10 @@
       "custoMaq": 68.57621333333333,
       "invest": 240,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.254Z"
+      "criadoEm": "2026-08-13T21:33:12.879Z"
     },
     {
-      "id": "msql5wd221oounmyukm",
+      "id": "mss1bodrxh6aanagsbq",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -7052,10 +7052,10 @@
       "custoMaq": 299.6922933333333,
       "invest": 6000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.254Z"
+      "criadoEm": "2026-08-13T21:33:12.879Z"
     },
     {
-      "id": "msql5wd23o48038m9bf",
+      "id": "mss1bodr5ah1g45tugu",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -7131,10 +7131,10 @@
       "custoMaq": 99.55053333333333,
       "invest": 504,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.255Z"
+      "criadoEm": "2026-08-13T21:33:12.880Z"
     },
     {
-      "id": "msql5wd39mlrwm53mgj",
+      "id": "mss1bodsfyztzkm5ef5",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -7210,10 +7210,10 @@
       "custoMaq": 123.54125333333333,
       "invest": 480,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.255Z"
+      "criadoEm": "2026-08-13T21:33:12.880Z"
     },
     {
-      "id": "msql5wd3ueq46vn3ecr",
+      "id": "mss1bods5rt27h8q9s",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -7289,10 +7289,10 @@
       "custoMaq": 299.6922933333333,
       "invest": 6000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.256Z"
+      "criadoEm": "2026-08-13T21:33:12.881Z"
     },
     {
-      "id": "msql5wd4vparqi23bg",
+      "id": "mss1bodt9kuxnr6eha5",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -7368,10 +7368,10 @@
       "custoMaq": 99.55053333333333,
       "invest": 504,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.256Z"
+      "criadoEm": "2026-08-13T21:33:12.881Z"
     },
     {
-      "id": "msql5wd416xe20xjv6j",
+      "id": "mss1bodtcswlto2490o",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -7447,10 +7447,10 @@
       "custoMaq": 123.54125333333333,
       "invest": 480,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.256Z"
+      "criadoEm": "2026-08-13T21:33:12.882Z"
     },
     {
-      "id": "msql5wd4ribk9s89tel",
+      "id": "mss1boduot0zhnfrl2q",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -7526,10 +7526,10 @@
       "custoMaq": 299.6922933333333,
       "invest": 6000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.257Z"
+      "criadoEm": "2026-08-13T21:33:12.884Z"
     },
     {
-      "id": "msql5wd5nsy5a6qzjwf",
+      "id": "mss1bodwxh4ch216iw",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -7605,10 +7605,10 @@
       "custoMaq": 99.55053333333333,
       "invest": 504,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.257Z"
+      "criadoEm": "2026-08-13T21:33:12.884Z"
     },
     {
-      "id": "msql5wd5da9vzwnxenk",
+      "id": "mss1bodwdeerw972wev",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -7684,10 +7684,10 @@
       "custoMaq": 123.54125333333333,
       "invest": 480,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.258Z"
+      "criadoEm": "2026-08-13T21:33:12.885Z"
     },
     {
-      "id": "msql5wd6xrxh328j24n",
+      "id": "mss1bodxmiuywn9tt8",
       "emissao": "2026-08-06",
       "pedido": "10900",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -7754,10 +7754,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.258Z"
+      "criadoEm": "2026-08-13T21:33:12.885Z"
     },
     {
-      "id": "msql5wd68vhwclqix4",
+      "id": "mss1bodx1dqc9ibh2gl",
       "emissao": "2026-08-06",
       "pedido": "10900",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -7824,10 +7824,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.259Z"
+      "criadoEm": "2026-08-13T21:33:12.886Z"
     },
     {
-      "id": "msql5wd76rar1s12ghi",
+      "id": "mss1body5ha6r43zwxo",
       "emissao": "2026-08-06",
       "pedido": "10901",
       "cliente": "PROSEGUR - RIO DE JANEIRO",
@@ -7911,10 +7911,10 @@
       "custoMaq": 163.28082333333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.259Z"
+      "criadoEm": "2026-08-13T21:33:12.886Z"
     },
     {
-      "id": "msql5wd75m1n3mad41o",
+      "id": "mss1body31ltmzzrens",
       "emissao": "2026-08-06",
       "pedido": "10901",
       "cliente": "PROSEGUR - RIO DE JANEIRO",
@@ -7998,10 +7998,10 @@
       "custoMaq": 196.16435666666666,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.262Z"
+      "criadoEm": "2026-08-13T21:33:12.887Z"
     },
     {
-      "id": "msql5wda5j35mkgmf7q",
+      "id": "mss1bodz3mhc6jes1tv",
       "emissao": "2026-08-06",
       "pedido": "10902",
       "cliente": "MARCO BONI",
@@ -8077,10 +8077,10 @@
       "custoMaq": 286.53947,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.263Z"
+      "criadoEm": "2026-08-13T21:33:12.887Z"
     },
     {
-      "id": "msql5wdbh9onokj9k5p",
+      "id": "mss1bodzvp59rkehv1p",
       "emissao": "2026-08-06",
       "pedido": "10903",
       "cliente": "NIVEA",
@@ -8147,10 +8147,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.263Z"
+      "criadoEm": "2026-08-13T21:33:12.888Z"
     },
     {
-      "id": "msql5wdbeom3jvd9nk",
+      "id": "mss1boe01gr9h7f6o2k",
       "emissao": "2026-08-06",
       "pedido": "10904",
       "cliente": "FCI",
@@ -8242,10 +8242,10 @@
       "custoMaq": 312.32592000000005,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.264Z"
+      "criadoEm": "2026-08-13T21:33:12.888Z"
     },
     {
-      "id": "msql5wdcorrrocj9t2p",
+      "id": "mss1boe0r09coo8pc08",
       "emissao": "2026-08-06",
       "pedido": "10904",
       "cliente": "FCI",
@@ -8337,10 +8337,10 @@
       "custoMaq": 333.75984,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.264Z"
+      "criadoEm": "2026-08-13T21:33:12.889Z"
     },
     {
-      "id": "msql5wdclen2w0a1f4",
+      "id": "mss1boe1ekc0s9t31rw",
       "emissao": "2026-08-06",
       "pedido": "10904",
       "cliente": "FCI",
@@ -8432,10 +8432,10 @@
       "custoMaq": 279.28195999999997,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.265Z"
+      "criadoEm": "2026-08-13T21:33:12.889Z"
     },
     {
-      "id": "msql5wddnpek0nq2ad",
+      "id": "mss1boe125ffjp9xv5r",
       "emissao": "2026-08-06",
       "pedido": "10904",
       "cliente": "FCI",
@@ -8527,10 +8527,10 @@
       "custoMaq": 393.39716,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.265Z"
+      "criadoEm": "2026-08-13T21:33:12.890Z"
     },
     {
-      "id": "msql5wdd782mz5osnct",
+      "id": "mss1boe2eat89bw4k66",
       "emissao": "2026-08-06",
       "pedido": "10904",
       "cliente": "FCI",
@@ -8622,10 +8622,10 @@
       "custoMaq": 333.40523,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.266Z"
+      "criadoEm": "2026-08-13T21:33:12.890Z"
     },
     {
-      "id": "msql5wdefhpdr1wb2t8",
+      "id": "mss1boe2fbs7xkhezb",
       "emissao": "2026-08-06",
       "pedido": "10904",
       "cliente": "FCI",
@@ -8701,10 +8701,10 @@
       "custoMaq": 27.386666666666663,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.267Z"
+      "criadoEm": "2026-08-13T21:33:12.891Z"
     },
     {
-      "id": "msql5wdftvqzk1jnytr",
+      "id": "mss1boe36m0c5x2opys",
       "emissao": "2026-08-06",
       "pedido": "10904",
       "cliente": "FCI",
@@ -8780,10 +8780,10 @@
       "custoMaq": 27.386666666666663,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.267Z"
+      "criadoEm": "2026-08-13T21:33:12.891Z"
     },
     {
-      "id": "msql5wdfl10w7j2142d",
+      "id": "mss1boe3s9fhxvywczq",
       "emissao": "2026-08-06",
       "pedido": "10904",
       "cliente": "FCI",
@@ -8867,10 +8867,10 @@
       "custoMaq": 151.87666666666667,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.268Z"
+      "criadoEm": "2026-08-13T21:33:12.892Z"
     },
     {
-      "id": "msql5wdgavc4pw21t9p",
+      "id": "mss1boe4v8lgdydpqpb",
       "emissao": "2026-08-06",
       "pedido": "10904",
       "cliente": "FCI",
@@ -8970,10 +8970,10 @@
       "custoMaq": 436.5223366666667,
       "invest": 50,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.268Z"
+      "criadoEm": "2026-08-13T21:33:12.892Z"
     },
     {
-      "id": "msql5wdhyyo8smpyt8",
+      "id": "mss1boe4ow73rqc7s5g",
       "emissao": "2026-08-07",
       "pedido": "10905",
       "cliente": "SINTEQUÍMICA",
@@ -9049,10 +9049,10 @@
       "custoMaq": 87.9675,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.269Z"
+      "criadoEm": "2026-08-13T21:33:12.893Z"
     },
     {
-      "id": "msql5wdh4ihmo4gvl8",
+      "id": "mss1boe5feveiyxvtzg",
       "emissao": "2026-08-07",
       "pedido": "10906",
       "cliente": "CIA DA NATUREZA",
@@ -9136,10 +9136,10 @@
       "custoMaq": 1320.7183266666666,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.270Z"
+      "criadoEm": "2026-08-13T21:33:12.893Z"
     },
     {
-      "id": "msql5wdimcjzfg7s0we",
+      "id": "mss1boe6lcz5ugswt7s",
       "emissao": "2026-08-07",
       "pedido": "10906",
       "cliente": "CIA DA NATUREZA",
@@ -9223,10 +9223,10 @@
       "custoMaq": 548.3799866666666,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.270Z"
+      "criadoEm": "2026-08-13T21:33:12.894Z"
     },
     {
-      "id": "msql5wdiy7r3mypgsrc",
+      "id": "mss1boe62xzaowzk96i",
       "emissao": "2026-08-07",
       "pedido": "10907",
       "cliente": "CIA DA NATUREZA",
@@ -9310,10 +9310,10 @@
       "custoMaq": 637.8514633333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.271Z"
+      "criadoEm": "2026-08-13T21:33:12.895Z"
     },
     {
-      "id": "msql5wdjanae5hvwn7l",
+      "id": "mss1boe7p2x77mor2dd",
       "emissao": "2026-08-07",
       "pedido": "10907",
       "cliente": "CIA DA NATUREZA",
@@ -9397,10 +9397,10 @@
       "custoMaq": 242.8116133333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.271Z"
+      "criadoEm": "2026-08-13T21:33:12.895Z"
     },
     {
-      "id": "msql5wdj3eelnl16web",
+      "id": "mss1boe7xtu5c189lvn",
       "emissao": "2026-08-07",
       "pedido": "10908",
       "cliente": "VPJ COMERCIO DE PRODUTOS",
@@ -9484,10 +9484,10 @@
       "custoMaq": 1755.4461933333334,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.272Z"
+      "criadoEm": "2026-08-13T21:33:12.896Z"
     },
     {
-      "id": "msql5wdkcsb0yrgysrr",
+      "id": "mss1boe860our22m4oo",
       "emissao": "2026-08-07",
       "pedido": "10908",
       "cliente": "VPJ COMERCIO DE PRODUTOS",
@@ -9579,10 +9579,10 @@
       "custoMaq": 663.8319999999999,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.272Z"
+      "criadoEm": "2026-08-13T21:33:12.896Z"
     },
     {
-      "id": "msql5wdkjisyb5ldo6",
+      "id": "mss1boe8nsnb03fj97",
       "emissao": "2026-08-07",
       "pedido": "10908",
       "cliente": "VPJ COMERCIO DE PRODUTOS",
@@ -9674,10 +9674,10 @@
       "custoMaq": 702.8280199999999,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.273Z"
+      "criadoEm": "2026-08-13T21:33:12.897Z"
     },
     {
-      "id": "msql5wdljfedsjwsywl",
+      "id": "mss1boe9jampx41xnc",
       "emissao": "2026-08-07",
       "pedido": "10909",
       "cliente": "HENKEL - ITAPEVI",
@@ -9761,10 +9761,10 @@
       "custoMaq": 535.1327133333333,
       "invest": 6000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.273Z"
+      "criadoEm": "2026-08-13T21:33:12.898Z"
     },
     {
-      "id": "msql5wdl03sm9ms23ueo",
+      "id": "mss1boearmf3hz92cbg",
       "emissao": "2026-08-07",
       "pedido": "10909",
       "cliente": "HENKEL - ITAPEVI",
@@ -9856,10 +9856,10 @@
       "custoMaq": 710.4675633333334,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.274Z"
+      "criadoEm": "2026-08-13T21:33:12.898Z"
     },
     {
-      "id": "msql5wdm5p7a4wyvq7q",
+      "id": "mss1boead4s8zsjqw4u",
       "emissao": "2026-08-07",
       "pedido": "10909",
       "cliente": "HENKEL - ITAPEVI",
@@ -9951,10 +9951,10 @@
       "custoMaq": 577.1467033333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.274Z"
+      "criadoEm": "2026-08-13T21:33:12.899Z"
     },
     {
-      "id": "msql5wdm8o0fq8sdc3d",
+      "id": "mss1boeb7a82ytg2io4",
       "emissao": "2026-08-07",
       "pedido": "10909",
       "cliente": "HENKEL - ITAPEVI",
@@ -10046,10 +10046,10 @@
       "custoMaq": 521.8559466666666,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.275Z"
+      "criadoEm": "2026-08-13T21:33:12.899Z"
     },
     {
-      "id": "msql5wdn5cke9uu1k6s",
+      "id": "mss1boebdbyx7bniml",
       "emissao": "2026-08-07",
       "pedido": "10909",
       "cliente": "HENKEL - ITAPEVI",
@@ -10133,10 +10133,10 @@
       "custoMaq": 350.2075,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.275Z"
+      "criadoEm": "2026-08-13T21:33:12.900Z"
     },
     {
-      "id": "msql5wdn6zpi9t3zdhc",
+      "id": "mss1boec3asq9ljk1k8",
       "emissao": "2026-08-07",
       "pedido": "10909",
       "cliente": "HENKEL - ITAPEVI",
@@ -10212,10 +10212,10 @@
       "custoMaq": 87.9675,
       "invest": 240,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.276Z"
+      "criadoEm": "2026-08-13T21:33:12.900Z"
     },
     {
-      "id": "msql5wdoy9767r36adf",
+      "id": "mss1boeckelsb24ick",
       "emissao": "2026-08-07",
       "pedido": "10909",
       "cliente": "HENKEL - ITAPEVI",
@@ -10291,10 +10291,10 @@
       "custoMaq": 165.27853333333334,
       "invest": 7500,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.276Z"
+      "criadoEm": "2026-08-13T21:33:12.901Z"
     },
     {
-      "id": "msql5wdox0y84b7gkk",
+      "id": "mss1boede4rhjg1zu6w",
       "emissao": "2026-08-07",
       "pedido": "10909",
       "cliente": "HENKEL - ITAPEVI",
@@ -10370,10 +10370,10 @@
       "custoMaq": 372.27846,
       "invest": 8750,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.277Z"
+      "criadoEm": "2026-08-13T21:33:12.901Z"
     },
     {
-      "id": "msql5wdprw8yzuq191l",
+      "id": "mss1boedimxt41rsgym",
       "emissao": "2026-08-07",
       "pedido": "10909",
       "cliente": "HENKEL - ITAPEVI",
@@ -10457,10 +10457,10 @@
       "custoMaq": 742.1177833333333,
       "invest": 9800.000000000002,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.277Z"
+      "criadoEm": "2026-08-13T21:33:12.902Z"
     },
     {
-      "id": "msql5wdpuauswjp90c",
+      "id": "mss1boeetvnmn1o67bk",
       "emissao": "2026-08-07",
       "pedido": "10909",
       "cliente": "HENKEL - ITAPEVI",
@@ -10536,10 +10536,10 @@
       "custoMaq": 235.04916,
       "invest": 600,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.278Z"
+      "criadoEm": "2026-08-13T21:33:12.902Z"
     },
     {
-      "id": "msql5wdqpu0bs8nc0j",
+      "id": "mss1boeea78h730ylbq",
       "emissao": "2026-08-07",
       "pedido": "10910",
       "cliente": "HEALTH QUALITY",
@@ -10623,10 +10623,10 @@
       "custoMaq": 1432.4955066666666,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.278Z"
+      "criadoEm": "2026-08-13T21:33:12.903Z"
     },
     {
-      "id": "msql5wdqgqy23fo02ld",
+      "id": "mss1boefci7opks54g",
       "emissao": "2026-08-07",
       "pedido": "10911",
       "cliente": "C. PETROP. - NARANDIBA",
@@ -10702,10 +10702,10 @@
       "custoMaq": 27.386666666666663,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.279Z"
+      "criadoEm": "2026-08-13T21:33:12.903Z"
     },
     {
-      "id": "msql5wdrxrm4boa9fto",
+      "id": "mss1boef36ne81rhrcf",
       "emissao": "2026-08-07",
       "pedido": "10912",
       "cliente": "C. PETROP. - NARANDIBA",
@@ -10789,10 +10789,10 @@
       "custoMaq": 151.87666666666667,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.279Z"
+      "criadoEm": "2026-08-13T21:33:12.904Z"
     },
     {
-      "id": "msql5wdrpopie9mn8bd",
+      "id": "mss1boegwct07ufada",
       "emissao": "2026-08-07",
       "pedido": "10914",
       "cliente": "FERTILABEL",
@@ -10876,10 +10876,10 @@
       "custoMaq": 396.4740933333333,
       "invest": 24,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.280Z"
+      "criadoEm": "2026-08-13T21:33:12.904Z"
     },
     {
-      "id": "msql5wdswmjp3fc63",
+      "id": "mss1boegx8bz2jrk1ks",
       "emissao": "2026-08-07",
       "pedido": "10915",
       "cliente": "SANTHER - BRAGANÇA",
@@ -10955,10 +10955,10 @@
       "custoMaq": 99.55053333333333,
       "invest": 504,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.280Z"
+      "criadoEm": "2026-08-13T21:33:12.904Z"
     },
     {
-      "id": "msql5wdsbpzvm3ec1a",
+      "id": "mss1boegu9ce6ywkzqs",
       "emissao": "2026-08-07",
       "pedido": "10916",
       "cliente": "PROSEGUR - PAULO AFONSO",
@@ -11025,10 +11025,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.281Z"
+      "criadoEm": "2026-08-13T21:33:12.905Z"
     },
     {
-      "id": "msql5wdt1szby2ysfpo",
+      "id": "mss1boehr1qmonk2smq",
       "emissao": "2026-08-07",
       "pedido": "10916",
       "cliente": "PROSEGUR - PAULO AFONSO",
@@ -11104,10 +11104,10 @@
       "custoMaq": 29.796693333333334,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.281Z"
+      "criadoEm": "2026-08-13T21:33:12.905Z"
     },
     {
-      "id": "msql5wdtkp4fc4e4t1",
+      "id": "mss1boehkae4t7h7qn",
       "emissao": "2026-08-07",
       "pedido": "10917",
       "cliente": "QUIMICA MODERNA",
@@ -11183,10 +11183,10 @@
       "custoMaq": 646.61977,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.281Z"
+      "criadoEm": "2026-08-13T21:33:12.906Z"
     },
     {
-      "id": "msql5wdtc1ar7610vv",
+      "id": "mss1boeiz2bu3ttk7j",
       "emissao": "2026-08-07",
       "pedido": "10917",
       "cliente": "QUIMICA MODERNA",
@@ -11262,10 +11262,10 @@
       "custoMaq": 87.9675,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.282Z"
+      "criadoEm": "2026-08-13T21:33:12.906Z"
     },
     {
-      "id": "msql5wdulr31for73jk",
+      "id": "mss1boeijmcrr4jkrsp",
       "emissao": "2026-08-07",
       "pedido": "10917",
       "cliente": "QUIMICA MODERNA",
@@ -11341,10 +11341,10 @@
       "custoMaq": 87.9675,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.283Z"
+      "criadoEm": "2026-08-13T21:33:12.907Z"
     },
     {
-      "id": "msql5wdvbh4g7zgiloa",
+      "id": "mss1boej75g9szpyoan",
       "emissao": "2026-08-09",
       "pedido": "10918",
       "cliente": "MARCO BONI",
@@ -11436,10 +11436,10 @@
       "custoMaq": 278.38888,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.283Z"
+      "criadoEm": "2026-08-13T21:33:12.907Z"
     },
     {
-      "id": "msql5wdvm33gck7gz8",
+      "id": "mss1boejv3gqw5yfrmh",
       "emissao": "2026-08-09",
       "pedido": "10919",
       "cliente": "MARCO BONI",
@@ -11531,10 +11531,10 @@
       "custoMaq": 323.93595999999997,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.284Z"
+      "criadoEm": "2026-08-13T21:33:12.908Z"
     },
     {
-      "id": "msql5wdw28to9y272p2",
+      "id": "mss1boek2zvuw4fkmqb",
       "emissao": "2026-08-09",
       "pedido": "10919",
       "cliente": "MARCO BONI",
@@ -11626,10 +11626,10 @@
       "custoMaq": 302.50204,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.284Z"
+      "criadoEm": "2026-08-13T21:33:12.908Z"
     },
     {
-      "id": "msql5wdwrwn8b7ttgxk",
+      "id": "mss1boekfkjnfsrhvdm",
       "emissao": "2026-08-09",
       "pedido": "10919",
       "cliente": "MARCO BONI",
@@ -11721,10 +11721,10 @@
       "custoMaq": 298.92972000000003,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.285Z"
+      "criadoEm": "2026-08-13T21:33:12.909Z"
     },
     {
-      "id": "msql5wdx4ihy8vouxqf",
+      "id": "mss1boelbfbyfud3uvf",
       "emissao": "2026-08-09",
       "pedido": "10919",
       "cliente": "MARCO BONI",
@@ -11816,10 +11816,10 @@
       "custoMaq": 314.11208,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.285Z"
+      "criadoEm": "2026-08-13T21:33:12.909Z"
     },
     {
-      "id": "msql5wdxe5578sx69b",
+      "id": "mss1boela9mmvo5bw7g",
       "emissao": "2026-08-09",
       "pedido": "10919",
       "cliente": "MARCO BONI",
@@ -11911,10 +11911,10 @@
       "custoMaq": 277.4958,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.286Z"
+      "criadoEm": "2026-08-13T21:33:12.910Z"
     },
     {
-      "id": "msql5wdyfn5g1crgl4h",
+      "id": "mss1boemx6f8mbjbfbd",
       "emissao": "2026-08-09",
       "pedido": "10919",
       "cliente": "MARCO BONI",
@@ -11998,10 +11998,10 @@
       "custoMaq": 409.3241133333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.286Z"
+      "criadoEm": "2026-08-13T21:33:12.910Z"
     },
     {
-      "id": "msql5wdylwmvvsb5swl",
+      "id": "mss1boemke4h4dta5oa",
       "emissao": "2026-08-09",
       "pedido": "10920",
       "cliente": "BARRY CALLEBAUT - ITABUNA",
@@ -12077,10 +12077,10 @@
       "custoMaq": 117.79005333333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.287Z"
+      "criadoEm": "2026-08-13T21:33:12.911Z"
     },
     {
-      "id": "msql5wdzmyy02sr3sre",
+      "id": "mss1boen5djzgr9qcmu",
       "emissao": "2026-08-09",
       "pedido": "10921",
       "cliente": "BARRY CALLEBAUT - ILHÉUS",
@@ -12156,10 +12156,10 @@
       "custoMaq": 117.79005333333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.287Z"
+      "criadoEm": "2026-08-13T21:33:12.911Z"
     },
     {
-      "id": "msql5wdzpyhyo22bqhq",
+      "id": "mss1boenm0kk3dcaq3f",
       "emissao": "2026-08-09",
       "pedido": "10922",
       "cliente": "KLABIN ANGATUBA",
@@ -12243,10 +12243,10 @@
       "custoMaq": 233.52071999999998,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.288Z"
+      "criadoEm": "2026-08-13T21:33:12.912Z"
     },
     {
-      "id": "msql5we0n9548fm4xn",
+      "id": "mss1boeoq8i0kldsj",
       "emissao": "2026-08-09",
       "pedido": "10923",
       "cliente": "KLABIN CORREIA PINTO",
@@ -12330,10 +12330,10 @@
       "custoMaq": 280.31416,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.288Z"
+      "criadoEm": "2026-08-13T21:33:12.912Z"
     },
     {
-      "id": "msql5we0ihxjkt96ojs",
+      "id": "mss1boeo8hq509gvkjw",
       "emissao": "2026-08-09",
       "pedido": "10924",
       "cliente": "KLABIN ANGATUBA",
@@ -12417,10 +12417,10 @@
       "custoMaq": 676.3190233333332,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.289Z"
+      "criadoEm": "2026-08-13T21:33:12.913Z"
     },
     {
-      "id": "msql5we116y38usepnj",
+      "id": "mss1boep5ryjiu7sbv5",
       "emissao": "2026-08-10",
       "pedido": "10925",
       "cliente": "GERRESHEIMER - GO",
@@ -12496,10 +12496,10 @@
       "custoMaq": 1184.9662933333332,
       "invest": 5400,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.289Z"
+      "criadoEm": "2026-08-13T21:33:12.913Z"
     },
     {
-      "id": "msql5we1mafgvcswya",
+      "id": "mss1boepio615a9fxeg",
       "emissao": "2026-08-10",
       "pedido": "10925",
       "cliente": "GERRESHEIMER - GO",
@@ -12583,10 +12583,10 @@
       "custoMaq": 853.2365633333332,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.290Z"
+      "criadoEm": "2026-08-13T21:33:12.914Z"
     },
     {
-      "id": "msql5we2zxee856wxg",
+      "id": "mss1boeqng17dh3js5i",
       "emissao": "2026-08-10",
       "pedido": "10925",
       "cliente": "GERRESHEIMER - GO",
@@ -12670,10 +12670,10 @@
       "custoMaq": 853.2365633333332,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.290Z"
+      "criadoEm": "2026-08-13T21:33:12.914Z"
     },
     {
-      "id": "msql5we2oqxj4z5nnjc",
+      "id": "mss1boeq1p42niirajm",
       "emissao": "2026-08-10",
       "pedido": "10925",
       "cliente": "GERRESHEIMER - GO",
@@ -12757,10 +12757,10 @@
       "custoMaq": 768.7392333333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.291Z"
+      "criadoEm": "2026-08-13T21:33:12.915Z"
     },
     {
-      "id": "msql5we3f1gjl1xdbo8",
+      "id": "mss1boerjky7x6ui4ko",
       "emissao": "2026-08-10",
       "pedido": "10926",
       "cliente": "PROSEGUR - JOINVILLE",
@@ -12827,10 +12827,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.291Z"
+      "criadoEm": "2026-08-13T21:33:12.915Z"
     },
     {
-      "id": "msql5we3xi7sxr2494j",
+      "id": "mss1boer3qk7sham8yg",
       "emissao": "2026-08-10",
       "pedido": "10926",
       "cliente": "PROSEGUR - JOINVILLE",
@@ -12897,10 +12897,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.291Z"
+      "criadoEm": "2026-08-13T21:33:12.916Z"
     },
     {
-      "id": "msql5we4xaqb68lxxw",
+      "id": "mss1boesfs1u6vx3hm9",
       "emissao": "2026-08-10",
       "pedido": "10927",
       "cliente": "PROSEGUR - BRASÍLIA",
@@ -12967,10 +12967,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.292Z"
+      "criadoEm": "2026-08-13T21:33:12.916Z"
     },
     {
-      "id": "msql5we4405wc0btsx4",
+      "id": "mss1boesud2acnemb7",
       "emissao": "2026-08-10",
       "pedido": "10928",
       "cliente": "HENKEL - ITAPEVI",
@@ -13054,10 +13054,10 @@
       "custoMaq": 511.2159899999999,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.292Z"
+      "criadoEm": "2026-08-13T21:33:12.917Z"
     },
     {
-      "id": "msql5we4dtpl4ge02cg",
+      "id": "mss1boetog85bjjyvtl",
       "emissao": "2026-08-10",
       "pedido": "10929",
       "cliente": "BARRY CALLEBAUT - ILHÉUS",
@@ -13141,10 +13141,10 @@
       "custoMaq": 807.3573533333333,
       "invest": 2000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.293Z"
+      "criadoEm": "2026-08-13T21:33:12.917Z"
     },
     {
-      "id": "msql5we5anot9dvy8pt",
+      "id": "mss1boetuz92k135358",
       "emissao": "2026-08-10",
       "pedido": "10930",
       "cliente": "BARRY CALLEBAUT - ITABUNA",
@@ -13220,10 +13220,10 @@
       "custoMaq": 288.2720533333333,
       "invest": 2000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.293Z"
+      "criadoEm": "2026-08-13T21:33:12.918Z"
     },
     {
-      "id": "msql5we5utmm1psr63",
+      "id": "mss1boeul6aqfnqjifn",
       "emissao": "2026-08-10",
       "pedido": "10931",
       "cliente": "OLEAK",
@@ -13315,10 +13315,10 @@
       "custoMaq": 384.31079,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.294Z"
+      "criadoEm": "2026-08-13T21:33:12.918Z"
     },
     {
-      "id": "msql5we6pz9it22zog",
+      "id": "mss1boeuhh016blfaur",
       "emissao": "2026-08-10",
       "pedido": "10931",
       "cliente": "OLEAK",
@@ -13410,10 +13410,10 @@
       "custoMaq": 733.89048,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.294Z"
+      "criadoEm": "2026-08-13T21:33:12.919Z"
     },
     {
-      "id": "msql5we6zae0m13eash",
+      "id": "mss1boev2z8hja8j1rn",
       "emissao": "2026-08-10",
       "pedido": "10931",
       "cliente": "OLEAK",
@@ -13505,10 +13505,10 @@
       "custoMaq": 559.43615,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.295Z"
+      "criadoEm": "2026-08-13T21:33:12.920Z"
     },
     {
-      "id": "msql5we7pdnwfdeynyb",
+      "id": "mss1boewutvjzrwgcq9",
       "emissao": "2026-08-10",
       "pedido": "10931",
       "cliente": "OLEAK",
@@ -13600,10 +13600,10 @@
       "custoMaq": 312.32592000000005,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.295Z"
+      "criadoEm": "2026-08-13T21:33:12.920Z"
     },
     {
-      "id": "msql5we8ydbv5ixuk2p",
+      "id": "mss1boewt0f1vsdwvv",
       "emissao": "2026-08-10",
       "pedido": "10931",
       "cliente": "OLEAK",
@@ -13695,10 +13695,10 @@
       "custoMaq": 284.64043999999996,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.296Z"
+      "criadoEm": "2026-08-13T21:33:12.921Z"
     },
     {
-      "id": "msql5we8racy8b8old7",
+      "id": "mss1boex5yhoo3p4xhl",
       "emissao": "2026-08-10",
       "pedido": "10932",
       "cliente": "C. PETROP. - BOITUVA",
@@ -13765,10 +13765,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.296Z"
+      "criadoEm": "2026-08-13T21:33:12.921Z"
     },
     {
-      "id": "msql5we8pvihx7s4k8",
+      "id": "mss1boexhuxg05bfjha",
       "emissao": "2026-08-10",
       "pedido": "10932",
       "cliente": "C. PETROP. - BOITUVA",
@@ -13852,10 +13852,10 @@
       "custoMaq": 843.7608333333333,
       "invest": 2097.6,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.297Z"
+      "criadoEm": "2026-08-13T21:33:12.922Z"
     },
     {
-      "id": "msql5we9eads2f5r01a",
+      "id": "mss1boeym50dq2ei2h8",
       "emissao": "2026-08-10",
       "pedido": "10933",
       "cliente": "BRANCOTEX",
@@ -13931,10 +13931,10 @@
       "custoMaq": 109.49189333333332,
       "invest": 1750.0000000000002,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.297Z"
+      "criadoEm": "2026-08-13T21:33:12.922Z"
     },
     {
-      "id": "msql5we96uux1y9lqg",
+      "id": "mss1boeysl9ke99py3l",
       "emissao": "2026-08-10",
       "pedido": "10934",
       "cliente": "BRASCODIGO",
@@ -14010,10 +14010,10 @@
       "custoMaq": 235.04916,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.299Z"
+      "criadoEm": "2026-08-13T21:33:12.923Z"
     },
     {
-      "id": "msql5webwffjf9jvom",
+      "id": "mss1boez14xw4mh6kea",
       "emissao": "2026-08-10",
       "pedido": "10935",
       "cliente": "CONTINENTAL - CAMAÇARI",
@@ -14080,10 +14080,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.300Z"
+      "criadoEm": "2026-08-13T21:33:12.923Z"
     },
     {
-      "id": "msql5weciq82sthey1",
+      "id": "mss1boezsipa9xvc9za",
       "emissao": "2026-08-10",
       "pedido": "10936",
       "cliente": "HENKEL - ITAPEVI",
@@ -14167,10 +14167,10 @@
       "custoMaq": 578.10573,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.301Z"
+      "criadoEm": "2026-08-13T21:33:12.923Z"
     },
     {
-      "id": "msql5wedee2wt1j7wb8",
+      "id": "mss1bof0xd3t86pkqx",
       "emissao": "2026-08-10",
       "pedido": "10936",
       "cliente": "HENKEL - ITAPEVI",
@@ -14254,10 +14254,10 @@
       "custoMaq": 439.33528333333334,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.302Z"
+      "criadoEm": "2026-08-13T21:33:12.924Z"
     },
     {
-      "id": "msql5weegtx19lf87y",
+      "id": "mss1bof0l4rb5br1ywj",
       "emissao": "2026-08-10",
       "pedido": "10937",
       "cliente": "VPJ COMERCIO DE PRODUTOS",
@@ -14349,10 +14349,10 @@
       "custoMaq": 1362.0929533333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.303Z"
+      "criadoEm": "2026-08-13T21:33:12.924Z"
     },
     {
-      "id": "msql5wefibnehq177h",
+      "id": "mss1bof1cp6a07mqw19",
       "emissao": "2026-08-10",
       "pedido": "10937",
       "cliente": "VPJ COMERCIO DE PRODUTOS",
@@ -14444,10 +14444,10 @@
       "custoMaq": 650.9217499999999,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.304Z"
+      "criadoEm": "2026-08-13T21:33:12.925Z"
     },
     {
-      "id": "msql5weg5th0rn9uozs",
+      "id": "mss1bof1wl7jfy37bld",
       "emissao": "2026-08-10",
       "pedido": "10937",
       "cliente": "VPJ COMERCIO DE PRODUTOS",
@@ -14531,10 +14531,10 @@
       "custoMaq": 569.3550633333332,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.305Z"
+      "criadoEm": "2026-08-13T21:33:12.925Z"
     },
     {
-      "id": "msql5weh3gk4ji4pbjt",
+      "id": "mss1bof2rbnztlfghf",
       "emissao": "2026-08-11",
       "pedido": "10939",
       "cliente": "LUPO - NORDESTE",
@@ -14601,10 +14601,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.305Z"
+      "criadoEm": "2026-08-13T21:33:12.926Z"
     },
     {
-      "id": "msql5weh2177b0w8xx3",
+      "id": "mss1bof282kph5txluu",
       "emissao": "2026-08-11",
       "pedido": "10939",
       "cliente": "LUPO - NORDESTE",
@@ -14671,10 +14671,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.306Z"
+      "criadoEm": "2026-08-13T21:33:12.926Z"
     },
     {
-      "id": "msql5weimhi3ljrc91h",
+      "id": "mss1bof224oxjj25v7",
       "emissao": "2026-08-11",
       "pedido": "10940",
       "cliente": "MOVEIS BOA VISTA",
@@ -14758,10 +14758,10 @@
       "custoMaq": 163.12464333333332,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.307Z"
+      "criadoEm": "2026-08-13T21:33:12.927Z"
     },
     {
-      "id": "msql5weja2qd5ag8zka",
+      "id": "mss1bof3jcyvqc9az9q",
       "emissao": "2026-08-11",
       "pedido": "10940",
       "cliente": "MOVEIS BOA VISTA",
@@ -14853,10 +14853,10 @@
       "custoMaq": 459.9646400000001,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.308Z"
+      "criadoEm": "2026-08-13T21:33:12.927Z"
     },
     {
-      "id": "msql5wek10guxmyyke2",
+      "id": "mss1bof3nxle0r1ur9i",
       "emissao": "2026-08-11",
       "pedido": "10941",
       "cliente": "PROZYN INDUSTRIA E COMERC",
@@ -14923,10 +14923,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.309Z"
+      "criadoEm": "2026-08-13T21:33:12.928Z"
     },
     {
-      "id": "msql5wel5fp5ob4txz5",
+      "id": "mss1bof4vpvnwollisp",
       "emissao": "2026-08-11",
       "pedido": "10941",
       "cliente": "PROZYN INDUSTRIA E COMERC",
@@ -14993,10 +14993,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.309Z"
+      "criadoEm": "2026-08-13T21:33:12.929Z"
     },
     {
-      "id": "msql5wel8debg97u8dj",
+      "id": "mss1bof56c5tj3vw88l",
       "emissao": "2026-08-11",
       "pedido": "10941",
       "cliente": "PROZYN INDUSTRIA E COMERC",
@@ -15063,10 +15063,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.310Z"
+      "criadoEm": "2026-08-13T21:33:12.929Z"
     },
     {
-      "id": "msql5wemzwcbdft2j5",
+      "id": "mss1bof57w8kysbh1xy",
       "emissao": "2026-08-11",
       "pedido": "10941",
       "cliente": "PROZYN INDUSTRIA E COMERC",
@@ -15133,10 +15133,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.311Z"
+      "criadoEm": "2026-08-13T21:33:12.930Z"
     },
     {
-      "id": "msql5wen9w9mls1np8",
+      "id": "mss1bof6i3c3kzf4mrn",
       "emissao": "2026-08-11",
       "pedido": "10941",
       "cliente": "PROZYN INDUSTRIA E COMERC",
@@ -15203,10 +15203,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.312Z"
+      "criadoEm": "2026-08-13T21:33:12.930Z"
     },
     {
-      "id": "msql5weo4ts1xuz6j6o",
+      "id": "mss1bof6ucldsfnxoan",
       "emissao": "2026-08-11",
       "pedido": "10942",
       "cliente": "MIRIS COSMETICOS",
@@ -15298,10 +15298,10 @@
       "custoMaq": 404.7113733333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.313Z"
+      "criadoEm": "2026-08-13T21:33:12.930Z"
     },
     {
-      "id": "msql5wepon8isgz6p8l",
+      "id": "mss1bof6me5xwgqc29j",
       "emissao": "2026-08-11",
       "pedido": "10943",
       "cliente": "PARKER",
@@ -15401,10 +15401,10 @@
       "custoMaq": 710.4884033333333,
       "invest": 1000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.313Z"
+      "criadoEm": "2026-08-13T21:33:12.931Z"
     },
     {
-      "id": "msql5wep5uz7bph2izf",
+      "id": "mss1bof7gha0wj0lqpc",
       "emissao": "2026-08-11",
       "pedido": "10944",
       "cliente": "OLEAK",
@@ -15496,10 +15496,10 @@
       "custoMaq": 284.64043999999996,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.314Z"
+      "criadoEm": "2026-08-13T21:33:12.932Z"
     },
     {
-      "id": "msql5weqz0ydkjg0p0k",
+      "id": "mss1bof8dfg57hj2rru",
       "emissao": "2026-08-11",
       "pedido": "10944",
       "cliente": "OLEAK",
@@ -15591,10 +15591,10 @@
       "custoMaq": 298.92972000000003,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.315Z"
+      "criadoEm": "2026-08-13T21:33:12.932Z"
     },
     {
-      "id": "msql5wer3kadk8sjv2b",
+      "id": "mss1bof87gr4sx36x9",
       "emissao": "2026-08-11",
       "pedido": "10944",
       "cliente": "OLEAK",
@@ -15686,10 +15686,10 @@
       "custoMaq": 338.76371,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.315Z"
+      "criadoEm": "2026-08-13T21:33:12.933Z"
     },
     {
-      "id": "msql5wer2v0mwl9vrd",
+      "id": "mss1bof9rqi2yglmlvm",
       "emissao": "2026-08-11",
       "pedido": "10944",
       "cliente": "OLEAK",
@@ -15773,10 +15773,10 @@
       "custoMaq": 175.04575333333332,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.316Z"
+      "criadoEm": "2026-08-13T21:33:12.933Z"
     },
     {
-      "id": "msql5wes293lbdx7k99",
+      "id": "mss1bof98a8zur71gh5",
       "emissao": "2026-08-11",
       "pedido": "10944",
       "cliente": "OLEAK",
@@ -15868,10 +15868,10 @@
       "custoMaq": 298.92972000000003,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.316Z"
+      "criadoEm": "2026-08-13T21:33:12.934Z"
     },
     {
-      "id": "msql5wesi0lqc4az6fc",
+      "id": "mss1bofad0uwzmzxxhq",
       "emissao": "2026-08-11",
       "pedido": "10945",
       "cliente": "SOFTYS - PERÚ",
@@ -15947,10 +15947,10 @@
       "custoMaq": 253.9291733333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.317Z"
+      "criadoEm": "2026-08-13T21:33:12.934Z"
     },
     {
-      "id": "msql5wetkk0m474zpze",
+      "id": "mss1bofanvxjyck798k",
       "emissao": "2026-08-11",
       "pedido": "10946",
       "cliente": "HENKEL - ITAPEVI",
@@ -16042,10 +16042,10 @@
       "custoMaq": 323.04288,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.317Z"
+      "criadoEm": "2026-08-13T21:33:12.935Z"
     },
     {
-      "id": "msql5wetutsa3jvi62r",
+      "id": "mss1bofbiwcqs5pc06d",
       "emissao": "2026-08-11",
       "pedido": "10947",
       "cliente": "HENKEL - ITAPEVI",
@@ -16137,10 +16137,10 @@
       "custoMaq": 323.04288,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.318Z"
+      "criadoEm": "2026-08-13T21:33:12.935Z"
     },
     {
-      "id": "msql5weuh011t9zn90k",
+      "id": "mss1bofb2lfj7umzqvp",
       "emissao": "2026-08-11",
       "pedido": "10948",
       "cliente": "FERTILABEL",
@@ -16224,10 +16224,10 @@
       "custoMaq": 4384.568023333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.319Z"
+      "criadoEm": "2026-08-13T21:33:12.936Z"
     },
     {
-      "id": "msql5wev2shk7axvyga",
+      "id": "mss1bofczsifynen3fl",
       "emissao": "2026-08-11",
       "pedido": "10949",
       "cliente": "PROSEGUR - BELEM",
@@ -16294,10 +16294,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.319Z"
+      "criadoEm": "2026-08-13T21:33:12.936Z"
     },
     {
-      "id": "msql5wevn1d49zcbz0c",
+      "id": "mss1bofcoe7p0hqk0e",
       "emissao": "2026-08-11",
       "pedido": "10949",
       "cliente": "PROSEGUR - BELEM",
@@ -16364,10 +16364,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.319Z"
+      "criadoEm": "2026-08-13T21:33:12.936Z"
     },
     {
-      "id": "msql5wev9bacfmy2dln",
+      "id": "mss1bofca6wpcg5fcv6",
       "emissao": "2026-08-11",
       "pedido": "10950",
       "cliente": "GRT SUPLEMENTOS",
@@ -16459,10 +16459,10 @@
       "custoMaq": 282.85427999999996,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.320Z"
+      "criadoEm": "2026-08-13T21:33:12.937Z"
     },
     {
-      "id": "msql5wewafa2clf31vt",
+      "id": "mss1bofd0vogqfonyxj",
       "emissao": "2026-08-11",
       "pedido": "10951",
       "cliente": "M.C. NATURAIS LTDA",
@@ -16546,10 +16546,10 @@
       "custoMaq": 120.64416666666666,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.320Z"
+      "criadoEm": "2026-08-13T21:33:12.937Z"
     },
     {
-      "id": "msql5wewpnqlvsk2ny",
+      "id": "mss1bofdm2czj9cw47",
       "emissao": "2026-08-11",
       "pedido": "10952",
       "cliente": "VPJ COMERCIO DE PRODUTOS",
@@ -16641,10 +16641,10 @@
       "custoMaq": 721.51716,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.321Z"
+      "criadoEm": "2026-08-13T21:33:12.938Z"
     },
     {
-      "id": "msql5wexdp0wdxm1ip7",
+      "id": "mss1bofeq3zydrnj4a",
       "emissao": "2026-08-11",
       "pedido": "10953",
       "cliente": "DALTON CHEMICAL",
@@ -16728,10 +16728,10 @@
       "custoMaq": 247.23666666666668,
       "invest": 780,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.321Z"
+      "criadoEm": "2026-08-13T21:33:12.938Z"
     },
     {
-      "id": "msql5wexjz87qluw568",
+      "id": "mss1bofe37dnh3zfd1",
       "emissao": "2026-08-12",
       "pedido": "10954",
       "cliente": "SIGVARIS",
@@ -16798,10 +16798,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.322Z"
+      "criadoEm": "2026-08-13T21:33:12.939Z"
     },
     {
-      "id": "msql5weypgdlf9anww",
+      "id": "mss1boffaghmdgllo8h",
       "emissao": "2026-08-12",
       "pedido": "10955",
       "cliente": "KLABIN PIRACICABA",
@@ -16885,10 +16885,10 @@
       "custoMaq": 145.49333333333334,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.322Z"
+      "criadoEm": "2026-08-13T21:33:12.939Z"
     },
     {
-      "id": "msql5weyzyvbbev3ev",
+      "id": "mss1boffjemp5qbnyth",
       "emissao": "2026-08-12",
       "pedido": "10956",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -16972,10 +16972,10 @@
       "custoMaq": 8169.3941233333335,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.323Z"
+      "criadoEm": "2026-08-13T21:33:12.940Z"
     },
     {
-      "id": "msql5weznfnd2gdfujr",
+      "id": "mss1bofgyisp5v1j3t",
       "emissao": "2026-08-12",
       "pedido": "10957",
       "cliente": "RAINHA NATIVA",
@@ -17067,10 +17067,10 @@
       "custoMaq": 628.6835466666666,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.323Z"
+      "criadoEm": "2026-08-13T21:33:12.940Z"
     },
     {
-      "id": "msql5wezhsrtro0c04g",
+      "id": "mss1bofgo1xnzf00sx",
       "emissao": "2026-08-12",
       "pedido": "10958",
       "cliente": "REDECENTER - FREGUESIA",
@@ -17162,10 +17162,10 @@
       "custoMaq": 525.0123399999999,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.324Z"
+      "criadoEm": "2026-08-13T21:33:12.941Z"
     },
     {
-      "id": "msql5wf0fepklt0nxw5",
+      "id": "mss1bofhk91on0x27zr",
       "emissao": "2026-08-12",
       "pedido": "10959",
       "cliente": "LUPO",
@@ -17232,10 +17232,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.324Z"
+      "criadoEm": "2026-08-13T21:33:12.941Z"
     },
     {
-      "id": "msql5wf0npgp2pldwnd",
+      "id": "mss1bofhet67ot086e9",
       "emissao": "2026-08-12",
       "pedido": "10959",
       "cliente": "LUPO",
@@ -17302,10 +17302,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.325Z"
+      "criadoEm": "2026-08-13T21:33:12.942Z"
     },
     {
-      "id": "msql5wf1kb572aq1ah",
+      "id": "mss1bofiwyqwq38srif",
       "emissao": "2026-08-12",
       "pedido": "10960",
       "cliente": "ATTIVOS MAGISTTRAIS",
@@ -17389,10 +17389,10 @@
       "custoMaq": 226.04249333333334,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.325Z"
+      "criadoEm": "2026-08-13T21:33:12.942Z"
     },
     {
-      "id": "msql5wf16pp4b0f7i8m",
+      "id": "mss1bofip40wwslfrv",
       "emissao": "2026-08-12",
       "pedido": "10961",
       "cliente": "OLEAK",
@@ -17484,10 +17484,10 @@
       "custoMaq": 420.92707,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.326Z"
+      "criadoEm": "2026-08-13T21:33:12.943Z"
     },
     {
-      "id": "msql5wf2cjoctpgi5bm",
+      "id": "mss1bofjnq0d6vtmiom",
       "emissao": "2026-08-12",
       "pedido": "10962",
       "cliente": "OLEAK",
@@ -17579,10 +17579,10 @@
       "custoMaq": 274.81656,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.326Z"
+      "criadoEm": "2026-08-13T21:33:12.943Z"
     },
     {
-      "id": "msql5wf28n3xoy6rud",
+      "id": "mss1bofj5u8j3pn3yn5",
       "emissao": "2026-08-12",
       "pedido": "10963",
       "cliente": "OLEAK",
@@ -17674,10 +17674,10 @@
       "custoMaq": 389.04672,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.327Z"
+      "criadoEm": "2026-08-13T21:33:12.944Z"
     },
     {
-      "id": "msql5wf3viattpnilym",
+      "id": "mss1bofkrxo99a35ir",
       "emissao": "2026-08-12",
       "pedido": "10964",
       "cliente": "GDS GROW DIETARY SUPPLEME",
@@ -17761,10 +17761,10 @@
       "custoMaq": 60.063333333333325,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.327Z"
+      "criadoEm": "2026-08-13T21:33:12.944Z"
     },
     {
-      "id": "msql5wf37ggl4oe4blc",
+      "id": "mss1bofkph0d5j4biz",
       "emissao": "2026-08-12",
       "pedido": "10965",
       "cliente": "CONGREGAÇÃO - JUNDIAI",
@@ -17848,10 +17848,10 @@
       "custoMaq": 151.87666666666667,
       "invest": 6,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.328Z"
+      "criadoEm": "2026-08-13T21:33:12.945Z"
     },
     {
-      "id": "msql5wf4ej80luuz21",
+      "id": "mss1bofllr5od8wymmj",
       "emissao": "2026-08-12",
       "pedido": "10967",
       "cliente": "OLEAK",
@@ -17943,7 +17943,338 @@
       "custoMaq": 322.14979999999997,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-12T21:13:03.328Z"
+      "criadoEm": "2026-08-13T21:33:12.945Z"
+    },
+    {
+      "id": "mss1bofl94m9yzi7dj4",
+      "emissao": "2026-08-13",
+      "pedido": "10968",
+      "cliente": "ADVANCED LABS",
+      "familiaCliente": "ADVANCED LABS",
+      "segmento": "SUPLEMENTAÇÃO",
+      "produto": "PA000000004379",
+      "descricao": "RÓTULO WHEY PROTEIN ISOLADO 1KG CHOCOLATE - 155 X 430",
+      "grupoProduto": "RÓTULOS",
+      "qtde": 4,
+      "un": "MI",
+      "rUnit": 3750,
+      "rPedido": 15000,
+      "nf": "SIM",
+      "tipoVenda": "VENDA",
+      "icms": 2700,
+      "ipi": 1462.5100000000002,
+      "pis": 79.96,
+      "cofins": 369,
+      "frete": 375,
+      "fretePct": 0.025,
+      "vendedor": "ALEXANDRE FRANCO",
+      "comissaoPct": 0,
+      "comissaoVal": 0,
+      "modelo": "FLEXOGRÁFICO",
+      "largura": 155,
+      "altura": 430,
+      "substrato": "BOPP METALIZADO ACRILICO - S0290",
+      "ribbon": "NÃO",
+      "qntdModelos": 3,
+      "origem": "importacao",
+      "custoMP": 5194.822229039081,
+      "custo3os": 100,
+      "custoMO": 1708.3070433333335,
+      "investTotal": 0,
+      "custoTotal": 7003.129272372415,
+      "sub1Total": 1331.4631309241383,
+      "sub2Total": 802.783632183908,
+      "sub3Total": 0,
+      "tintaTotal": 100.45358344827588,
+      "clicheTotal": 2876.4,
+      "ribbonTotal": 0,
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 83.72188248275862,
+      "facaTotal": 100,
+      "mlProduto": 1985.287356321839,
+      "m2Produto": 286.71520000000004,
+      "substrato1": "BOPP METALIZADO ACRILICO - S0290",
+      "substrato2": "LAMINAÇÃO FOSCA",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 2545.287356321839,
+      "m2SetupPerda": 422.5177011494253,
+      "maquinas": [
+        {
+          "nome": "ETIRAMA",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 3.414,
+          "hora": 391.07,
+          "custo": 1335.11298
+        },
+        {
+          "nome": "BROTECH",
+          "processo": "CORTE VOREY/BROTECH",
+          "un": "Metros",
+          "tempo": 1.16,
+          "hora": 261.07,
+          "custo": 302.84119999999996
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.7176666666666667,
+          "hora": 98.03,
+          "custo": 70.35286333333333
+        }
+      ],
+      "qtdEtiquetas": 4000,
+      "lucroVal": 4314.573147511766,
+      "lucroPct": 28.763820983411776,
+      "lucroSInvVal": 4314.573147511766,
+      "lucroSInvPct": 28.763820983411776,
+      "mcVal": 6022.880190845099,
+      "mcPct": 40.152534605633996,
+      "custo": 5294.822229039081,
+      "custoMaq": 1708.3070433333335,
+      "invest": 0,
+      "fonteCusto": "planilha",
+      "criadoEm": "2026-08-13T21:33:12.946Z"
+    },
+    {
+      "id": "mss1bofmmwne44s79c",
+      "emissao": "2026-08-13",
+      "pedido": "10969",
+      "cliente": "KLUBER LUBRICATION LUBRIF",
+      "familiaCliente": "KLUBER LUBRICATION LUBRIF",
+      "segmento": "QUIMICO",
+      "produto": "PR000000000666",
+      "descricao": "RIBBON RESINA AXR600 160 X 600 - CSI",
+      "grupoProduto": "RIBBON",
+      "qtde": 50,
+      "un": "UN",
+      "rUnit": 721.58,
+      "rPedido": 36079,
+      "nf": "SIM",
+      "tipoVenda": "REVENDA",
+      "icms": 6494.22,
+      "ipi": 0,
+      "pis": 192.3,
+      "cofins": 887.54,
+      "frete": 901.975,
+      "fretePct": 0.025,
+      "vendedor": "ALEXANDRE FRANCO",
+      "comissaoPct": 0,
+      "comissaoVal": 0,
+      "modelo": "",
+      "largura": 0,
+      "altura": 0,
+      "substrato": "",
+      "ribbon": "NÃO",
+      "qntdModelos": 1,
+      "origem": "importacao",
+      "custoMP": 0,
+      "custo3os": 14514.192,
+      "custoMO": 0,
+      "investTotal": 0,
+      "custoTotal": 14514.192,
+      "sub1Total": 0,
+      "sub2Total": 0,
+      "sub3Total": 0,
+      "tintaTotal": 0,
+      "clicheTotal": 0,
+      "ribbonTotal": 0,
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 0,
+      "mlProduto": 0,
+      "m2Produto": 0,
+      "substrato1": "NÃO",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 0,
+      "m2SetupPerda": 0,
+      "maquinas": [],
+      "qtdEtiquetas": 50,
+      "lucroVal": 12796.174739283866,
+      "lucroPct": 35.467099252429016,
+      "lucroSInvVal": 12796.174739283866,
+      "lucroSInvPct": 35.467099252429016,
+      "mcVal": 12796.174739283864,
+      "mcPct": 35.467099252429016,
+      "custo": 14514.192,
+      "custoMaq": 0,
+      "invest": 0,
+      "fonteCusto": "planilha",
+      "criadoEm": "2026-08-13T21:33:12.946Z"
+    },
+    {
+      "id": "mss1bofm9i5t2gc9dsd",
+      "emissao": "2026-08-13",
+      "pedido": "10970",
+      "cliente": "SYNGENTA",
+      "familiaCliente": "SYNGENTA",
+      "segmento": "AGRICOLA",
+      "produto": "PA000000000456",
+      "descricao": "ETIQ. BOPP 100 X 85",
+      "grupoProduto": "ETIQUETAS",
+      "qtde": 300,
+      "un": "MI",
+      "rUnit": 110.59,
+      "rPedido": 33177,
+      "nf": "SIM",
+      "tipoVenda": "VENDA",
+      "icms": 5971.86,
+      "ipi": 3234.76,
+      "pis": 176.83,
+      "cofins": 816.15,
+      "frete": 829.4250000000001,
+      "fretePct": 0.025,
+      "vendedor": "ALEXANDRE FRANCO",
+      "comissaoPct": 0,
+      "comissaoVal": 0,
+      "modelo": "SEM IMPRESSÃO",
+      "largura": 100,
+      "altura": 85,
+      "substrato": "BOPP BRANCO FOSCO BORRACHA - C2075",
+      "ribbon": "NÃO",
+      "qntdModelos": 1,
+      "origem": "importacao",
+      "custoMP": 10263.406167941686,
+      "custo3os": 80,
+      "custoMO": 330.2558133333333,
+      "investTotal": 0,
+      "custoTotal": 10673.66198127502,
+      "sub1Total": 10263.406167941686,
+      "sub2Total": 0,
+      "sub3Total": 0,
+      "tintaTotal": 0,
+      "clicheTotal": 0,
+      "ribbonTotal": 0,
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 0,
+      "vernizPTotal": 0,
+      "facaTotal": 80,
+      "mlProduto": 13869.726315789476,
+      "m2Produto": 2925.12528,
+      "substrato1": "BOPP BRANCO FOSCO BORRACHA - C2075",
+      "substrato2": "NÃO",
+      "ribbonQtd": 0,
+      "ribbonMetros": 0,
+      "mlSetupPerda": 13874.726315789476,
+      "m2SetupPerda": 3080.1892421052635,
+      "maquinas": [
+        {
+          "nome": "TROQUELADORA 350",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 4.019666666666667,
+          "hora": 82.16,
+          "custo": 330.2558133333333
+        }
+      ],
+      "qtdEtiquetas": 300000,
+      "lucroVal": 14541.270078489862,
+      "lucroPct": 43.829369980678976,
+      "lucroSInvVal": 14541.270078489862,
+      "lucroSInvPct": 43.829369980678976,
+      "mcVal": 14871.525891823198,
+      "mcPct": 44.824806015683144,
+      "custo": 10343.406167941686,
+      "custoMaq": 330.2558133333333,
+      "invest": 0,
+      "fonteCusto": "planilha",
+      "criadoEm": "2026-08-13T21:33:12.947Z"
+    },
+    {
+      "id": "mss1bofn5l4rxmio62e",
+      "emissao": "2026-08-13",
+      "pedido": "10971",
+      "cliente": "ARKEMA COATEX",
+      "familiaCliente": "ARKEMA COATEX",
+      "segmento": "QUIMICO",
+      "produto": "PA000000000114",
+      "descricao": "ETIQ. BOPP BRILHANTE - 150 X 199 - ARKEMA",
+      "grupoProduto": "COMODATO",
+      "qtde": 20,
+      "un": "ROLO",
+      "rUnit": 366.79,
+      "rPedido": 7335.8,
+      "nf": "SIM",
+      "tipoVenda": "VENDA",
+      "icms": 1320.44,
+      "ipi": 715.24,
+      "pis": 39.1,
+      "cofins": 180.46,
+      "frete": 183.395,
+      "fretePct": 0.025,
+      "vendedor": "ALEXANDRE FRANCO",
+      "comissaoPct": 0,
+      "comissaoVal": 0,
+      "modelo": "FLEXOGRÁFICO",
+      "largura": 150,
+      "altura": 199,
+      "substrato": "BOPP BRANCO FOSCO BORRACHA - C2075",
+      "ribbon": "RIBBON MISTO APR6 - 170 X 450 - CSO",
+      "qntdModelos": 1,
+      "origem": "importacao",
+      "custoMP": 2475.7995190483143,
+      "custo3os": 100,
+      "custoMO": 500.60039333333333,
+      "investTotal": 1200,
+      "custoTotal": 4276.3999123816475,
+      "sub1Total": 1367.9555055977528,
+      "sub2Total": 0,
+      "sub3Total": 0,
+      "tintaTotal": 97.60641926966292,
+      "clicheTotal": 387.6,
+      "ribbonTotal": 541.2886479000001,
+      "coldTotal": 0,
+      "hotTotal": 0,
+      "vernizTTotal": 81.34894628089887,
+      "vernizPTotal": 0,
+      "facaTotal": 100,
+      "mlProduto": 2283.14606741573,
+      "m2Produto": 337.312,
+      "substrato1": "BOPP BRANCO FOSCO BORRACHA - C2075",
+      "substrato2": "NÃO",
+      "ribbonQtd": 5,
+      "ribbonMetros": 450,
+      "mlSetupPerda": 2473.14606741573,
+      "m2SetupPerda": 410.5422471910112,
+      "maquinas": [
+        {
+          "nome": "FLEXO 250",
+          "processo": "",
+          "un": "Metros",
+          "tempo": 2.951,
+          "hora": 143.04,
+          "custo": 422.11104
+        },
+        {
+          "nome": "REBOBINADEIRA",
+          "processo": "REVISÃO/REBOBINAMENTO",
+          "un": "Metros",
+          "tempo": 0.8006666666666666,
+          "hora": 98.03,
+          "custo": 78.48935333333333
+        }
+      ],
+      "qtdEtiquetas": 10000,
+      "lucroVal": 1226.307190325224,
+      "lucroPct": 16.71674787106006,
+      "lucroSInvVal": 2471.766453428493,
+      "lucroSInvPct": 33.694572554165774,
+      "mcVal": 1726.9075836585566,
+      "mcPct": 23.540821500839126,
+      "custo": 2575.7995190483143,
+      "custoMaq": 500.60039333333333,
+      "invest": 1200,
+      "fonteCusto": "planilha",
+      "criadoEm": "2026-08-13T21:33:12.947Z"
     }
   ],
   "produtos": [
