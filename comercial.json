@@ -119489,7 +119489,9 @@
       "criadoEm": "2026-08-13T21:33:05.740Z"
     }
   ],
-  "custosFixos": {},
+  "custosFixos": {
+    "2026-08": 138000
+  },
   "contratosComodato": {},
   "mapaCustos": {
     "encargo": 0.7888888888888892,
