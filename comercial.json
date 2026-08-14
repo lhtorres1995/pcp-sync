@@ -119651,448 +119651,368 @@
     ],
     "funcionarios": [
       {
-        "nome": "ABNER LENTZ",
-        "cc": "009-TI",
-        "salario": 3200,
-        "outros": 170,
-        "tipo": "CLT",
-        "encargo": null
-      },
-      {
         "nome": "ADEILSON ALVES DA SILVA",
-        "cc": "001-FLEXO 250",
-        "salario": 3000,
-        "outros": 170
+        "cc": "001-FLEXOGRAFIA",
+        "salario": 1,
+        "outros": 2603.3700000000003
       },
       {
-        "nome": "AIRAN VIERA HENRIQUE",
-        "cc": "003-NACBRAS",
-        "salario": 3000,
-        "outros": 170
-      },
-      {
-        "nome": "AMAURY (BARRY)",
-        "cc": "009-TI",
-        "salario": 3000,
-        "outros": 170
-      },
-      {
-        "nome": "ANGELO GAETA",
-        "cc": "009-TI",
-        "salario": 8000,
-        "outros": 170
-      },
-      {
-        "nome": "BRUNO (TI)",
-        "cc": "009-TI",
-        "salario": 2900,
-        "outros": 170
-      },
-      {
-        "nome": "CARLOS EDUARDO RODRIGUES DA SILVA",
-        "cc": "008-ADMINISTRATIVO",
-        "salario": 2700,
-        "outros": 170
-      },
-      {
-        "nome": "CICERO",
-        "cc": "005-DIGITAL KONICA",
-        "salario": 2400,
-        "outros": 170
-      },
-      {
-        "nome": "DANIEL",
-        "cc": "007-REBOBINADEIRAS",
-        "salario": 2300,
-        "outros": 170
-      },
-      {
-        "nome": "DANIELE GITTI",
-        "cc": "008-ADMINISTRATIVO",
-        "salario": 5500,
-        "outros": 1270
-      },
-      {
-        "nome": "DAVI",
-        "cc": "003-NACBRAS",
-        "salario": 2100,
-        "outros": 170
-      },
-      {
-        "nome": "EDERSON FERREIRA DE SOUZA",
-        "cc": "008-ADMINISTRATIVO",
-        "salario": 8687.28,
-        "outros": 170
-      },
-      {
-        "nome": "ERICK ALVES HEREDIA",
-        "cc": "009-TI",
-        "salario": 4609,
-        "outros": 1000
-      },
-      {
-        "nome": "LUCAS FREITAS",
-        "cc": "013-DIGITAL BOBST",
-        "salario": 3500,
-        "outros": 170
-      },
-      {
-        "nome": "GUSTAVO (KLABIN)",
-        "cc": "009-TI",
-        "salario": 3200,
-        "outros": 1000
-      },
-      {
-        "nome": "GUSTAVO (SANTHER)",
-        "cc": "009-TI",
-        "salario": 2700,
-        "outros": 170
-      },
-      {
-        "nome": "HEITOR FIGUEIREDO MOURA",
-        "cc": "009-TI",
-        "salario": 5400,
-        "outros": 170
-      },
-      {
-        "nome": "IACY COSTA LUZ",
-        "cc": "008-ADMINISTRATIVO",
-        "salario": 2500,
-        "outros": 170
-      },
-      {
-        "nome": "JUDITH",
-        "cc": "008-ADMINISTRATIVO",
-        "salario": 4500,
-        "outros": 0,
-        "tipo": "PJ",
-        "encargo": 0
-      },
-      {
-        "nome": "LEONARDO TORRES",
-        "cc": "008-ADMINISTRATIVO",
-        "salario": 10120,
-        "outros": 0,
-        "tipo": "PJ",
-        "encargo": 0
-      },
-      {
-        "nome": "LINO (KLABIN)",
-        "cc": "009-TI",
-        "salario": 4500,
-        "outros": 1000
-      },
-      {
-        "nome": "MARCOS",
-        "cc": "008-ADMINISTRATIVO",
-        "salario": 4500,
-        "outros": 170,
-        "tipo": "PJ",
-        "encargo": 0
-      },
-      {
-        "nome": "MARIA FRANCYELMA",
-        "cc": "008-ADMINISTRATIVO",
-        "salario": 3300,
-        "outros": 170
-      },
-      {
-        "nome": "MATHEUS MONTEIRO",
-        "cc": "008-ADMINISTRATIVO",
-        "salario": 3000,
-        "outros": 170
-      },
-      {
-        "nome": "RAFAEL",
-        "cc": "004-BATIDAS",
-        "salario": 2600,
-        "outros": 170
+        "nome": "EDVAN",
+        "cc": "001-FLEXOGRAFIA",
+        "salario": 1,
+        "outros": 2366.7000000000003
       },
       {
         "nome": "SERGIO",
-        "cc": "002-KROMIA",
-        "salario": 3600,
-        "outros": 170
+        "cc": "001-FLEXOGRAFIA",
+        "salario": 2,
+        "outros": 3155.6000000000004
       },
       {
-        "nome": "THIAGO",
-        "cc": "007-REBOBINADEIRAS",
-        "salario": 2700,
-        "outros": 170
+        "nome": "AIRAN VIERA HENRIQUE",
+        "cc": "001-FLEXOGRAFIA",
+        "salario": 3,
+        "outros": 2603.3700000000003
+      },
+      {
+        "nome": "DAVI INACIO",
+        "cc": "001-FLEXOGRAFIA",
+        "salario": 2,
+        "outros": 631.12
+      },
+      {
+        "nome": "DAVI INACIO",
+        "cc": "001-FLEXOGRAFIA",
+        "salario": 3,
+        "outros": 1656.69
+      },
+      {
+        "nome": "OPERADOR BATIDAS",
+        "cc": "001-FLEXOGRAFIA",
+        "salario": 4,
+        "outros": 1972.2500000000002
+      },
+      {
+        "nome": "RAFAEL",
+        "cc": "001-FLEXOGRAFIA",
+        "salario": 14,
+        "outros": 2130.03
+      },
+      {
+        "nome": "CICERO",
+        "cc": "002-DIGITAL",
+        "salario": 5,
+        "outros": 2130.03
       },
       {
         "nome": "MARCIO SEIJI",
-        "cc": "006-TROQUELADORAS",
-        "salario": 2400,
-        "outros": 170
+        "cc": "001-FLEXOGRAFIA",
+        "salario": 6,
+        "outros": 2130.03
       },
       {
-        "nome": "HANDERSON LOPES",
-        "cc": "014-VOREY",
-        "salario": 2400,
-        "outros": 170
+        "nome": "RODRIGO",
+        "cc": "001-FLEXOGRAFIA",
+        "salario": 6,
+        "outros": 1972.2500000000002
       },
       {
-        "nome": "EMERSON",
-        "cc": "008-ADMINISTRATIVO",
-        "salario": 2300,
-        "outros": 170
+        "nome": "OPERADOR REBOBINADEIRA",
+        "cc": "001-FLEXOGRAFIA",
+        "salario": 7,
+        "outros": 1972.2500000000002
+      },
+      {
+        "nome": "DANIEL",
+        "cc": "001-FLEXOGRAFIA",
+        "salario": 7,
+        "outros": 2130.03
+      },
+      {
+        "nome": "THIAGO",
+        "cc": "001-FLEXOGRAFIA",
+        "salario": 7,
+        "outros": 2366.7000000000003
+      },
+      {
+        "nome": "ANDRESSA GONÇALVES",
+        "cc": "003-ADMINISTRATIVO",
+        "salario": 8,
+        "outros": 1972.2500000000002
       },
       {
         "nome": "ANTONIO CELSO",
-        "cc": "008-ADMINISTRATIVO",
-        "salario": 19000,
-        "outros": 1000,
-        "tipo": "PJ",
-        "encargo": 0
-      }
-    ],
-    "equipamentos": [
-      {
-        "nome": "ADMINISTRATIVO",
-        "cc": "008-ADMINISTRATIVO",
-        "valor": 150000,
-        "meses": 48,
-        "residual": 0.3
+        "cc": "003-ADMINISTRATIVO",
+        "salario": 8,
+        "outros": 0
       },
       {
-        "nome": "MAQFLEX 250 CLASSIC II",
-        "cc": "001-FLEXO 250",
-        "valor": 70000,
-        "meses": 96,
-        "residual": 0.3
+        "nome": "CARLOS EDUARDO RODRIGUES DA SILVA",
+        "cc": "003-ADMINISTRATIVO",
+        "salario": 8,
+        "outros": 2366.7000000000003
       },
       {
-        "nome": "MAQFLEX 250 FORCE",
-        "cc": "001-FLEXO 250",
-        "valor": 156000,
-        "meses": 96,
-        "residual": 0.3
+        "nome": "DANIELE GITTI",
+        "cc": "003-ADMINISTRATIVO",
+        "salario": 8,
+        "outros": 4733.400000000001
       },
       {
-        "nome": "MAQFLEX 250 CLASSIC I",
-        "cc": "001-FLEXO 250",
-        "valor": 92000,
-        "meses": 96,
-        "residual": 0.3
+        "nome": "DAVID PEREIRA",
+        "cc": "003-ADMINISTRATIVO",
+        "salario": 8,
+        "outros": 2130.03
       },
       {
-        "nome": "KROMIA MASTER",
-        "cc": "002-KROMIA",
-        "valor": 330000,
-        "meses": 96,
-        "residual": 0.3
+        "nome": "DIANA BENEDITA",
+        "cc": "003-ADMINISTRATIVO",
+        "salario": 8,
+        "outros": 2524.48
       },
       {
-        "nome": "NACBRAS",
-        "cc": "003-NACBRAS",
-        "valor": 150000,
-        "meses": 96,
-        "residual": 0.3
+        "nome": "EDERSON FERREIRA DE SOUZA",
+        "cc": "003-ADMINISTRATIVO",
+        "salario": 8,
+        "outros": 7243.679800000001
       },
       {
-        "nome": "TURO I",
-        "cc": "004-BATIDAS",
-        "valor": 60000,
-        "meses": 96,
-        "residual": 0.3
+        "nome": "EMERSON",
+        "cc": "003-ADMINISTRATIVO",
+        "salario": 8,
+        "outros": 2366.7000000000003
       },
       {
-        "nome": "CHINESA",
-        "cc": "004-BATIDAS",
-        "valor": 110000,
-        "meses": 96,
-        "residual": 0.3
+        "nome": "IACY COSTA LUZ",
+        "cc": "003-ADMINISTRATIVO",
+        "salario": 8,
+        "outros": 2366.7000000000003
       },
       {
-        "nome": "KONICA MINOLTA",
-        "cc": "005-DIGITAL KONICA",
-        "valor": 900000,
-        "meses": 72,
-        "residual": 0.5
+        "nome": "JUDITH",
+        "cc": "003-ADMINISTRATIVO",
+        "salario": 8,
+        "outros": 0
       },
       {
-        "nome": "BOBST LB702",
-        "cc": "013-DIGITAL BOBST",
-        "valor": 2200000,
-        "meses": 72,
-        "residual": 0.4
+        "nome": "LEONARDO TORRES",
+        "cc": "003-ADMINISTRATIVO",
+        "salario": 8,
+        "outros": 0
       },
       {
-        "nome": "TROQ MAQFLEX 250 II",
-        "cc": "006-TROQUELADORAS",
-        "valor": 30000,
-        "meses": 96,
-        "residual": 0.3
+        "nome": "LUIZ HENRIQUE",
+        "cc": "003-ADMINISTRATIVO",
+        "salario": 8,
+        "outros": 1893.3600000000001
       },
       {
-        "nome": "TROQ MAQFLEX 250 I",
-        "cc": "006-TROQUELADORAS",
-        "valor": 30000,
-        "meses": 96,
-        "residual": 0.3
+        "nome": "MARCIO RAMOS",
+        "cc": "003-ADMINISTRATIVO",
+        "salario": 8,
+        "outros": 7889.000000000001
       },
       {
-        "nome": "TROQ MAQFLEX 350",
-        "cc": "006-TROQUELADORAS",
-        "valor": 150000,
-        "meses": 96,
-        "residual": 0.3
+        "nome": "MARCOS",
+        "cc": "003-ADMINISTRATIVO",
+        "salario": 8,
+        "outros": 0
       },
       {
-        "nome": "REBOBINADEIRA 2",
-        "cc": "007-REBOBINADEIRAS",
-        "valor": 13000,
-        "meses": 96,
-        "residual": 0.3
+        "nome": "MARIA FRANCYELMA",
+        "cc": "003-ADMINISTRATIVO",
+        "salario": 8,
+        "outros": 2918.9300000000003
       },
       {
-        "nome": "EVO",
-        "cc": "007-REBOBINADEIRAS",
-        "valor": 200000,
-        "meses": 96,
-        "residual": 0.3
+        "nome": "MATHEUS MONTEIRO",
+        "cc": "003-ADMINISTRATIVO",
+        "salario": 8,
+        "outros": 2761.15
       },
       {
-        "nome": "EVO",
-        "cc": "007-REBOBINADEIRAS",
-        "valor": 200000,
-        "meses": 96,
-        "residual": 0.3
+        "nome": "ABNER LENTZ",
+        "cc": "004-TI",
+        "salario": 9,
+        "outros": 2918.9300000000003
       },
       {
-        "nome": "BROTECH CDF330",
-        "cc": "010-BROTECH",
-        "valor": 550000,
-        "meses": 96,
-        "residual": 0.3
+        "nome": "AMAURY (BARRY)",
+        "cc": "004-TI",
+        "salario": 16,
+        "outros": 2682.26
       },
       {
-        "nome": "VOREY",
-        "cc": "014-VOREY",
-        "valor": 400000,
-        "meses": 96,
-        "residual": 0.3
+        "nome": "ANGELO GAETA",
+        "cc": "004-TI",
+        "salario": 9,
+        "outros": 6942.320000000001
       },
       {
-        "nome": "ETIRAMA",
-        "cc": "012-ETIRAMA",
-        "valor": 950000,
-        "meses": 96,
-        "residual": 0.3
-      }
-    ],
-    "centros": [
+        "nome": "BRUNO PERES",
+        "cc": "004-TI",
+        "salario": 16,
+        "outros": 2445.59
+      },
+      {
+        "nome": "BRUNO RICARDO DE MOURA",
+        "cc": "004-TI",
+        "salario": 15,
+        "outros": 2130.03
+      },
+      {
+        "nome": "GUSTAVO LENINE (KLABIN)",
+        "cc": "004-TI",
+        "salario": 15,
+        "outros": 2761.15
+      },
+      {
+        "nome": "HEITOR FIGUEIREDO MOURA",
+        "cc": "004-TI",
+        "salario": 9,
+        "outros": 4575.62
+      },
+      {
+        "nome": "LINO (KLABIN)",
+        "cc": "004-TI",
+        "salario": 15,
+        "outros": 5364.52
+      },
+      {
+        "nome": "PEDRO MORAES",
+        "cc": "004-TI",
+        "salario": 16,
+        "outros": 1893.3600000000001
+      },
+      {
+        "nome": "VINICIUS (SOFTYS)",
+        "cc": "004-TI",
+        "salario": 16,
+        "outros": 1972.2500000000002
+      },
+      {
+        "nome": "HANDERSON LOPES",
+        "cc": "001-FLEXOGRAFIA",
+        "salario": 10,
+        "outros": 2366.7000000000003
+      },
+      {
+        "nome": "CELSO",
+        "cc": "001-FLEXOGRAFIA",
+        "salario": 12,
+        "outros": 3944.5000000000005
+      },
+      {
+        "nome": "LUCAS FREITAS",
+        "cc": "002-DIGITAL",
+        "salario": 13,
+        "outros": 3155.6000000000004
+      },
+      {
+        "nome": "Centro de Custo",
+        "cc": "Qntd. Funcionários",
+        "salario": 0,
+        "outros": 0
+      },
       {
         "nome": "001-FLEXO 250",
-        "unidade": "Flexográfico",
-        "dias": 22,
-        "horasDia": 6.8,
-        "horasTotal": 453.20000000000005,
-        "manutencao": 850,
-        "adm": false
+        "cc": "2",
+        "salario": 143.04,
+        "outros": 0
       },
       {
         "nome": "002-KROMIA",
-        "unidade": "Flexográfico",
-        "dias": 22,
-        "horasDia": 6.8,
-        "horasTotal": 149.6,
-        "manutencao": 1200,
-        "adm": false
+        "cc": "2",
+        "salario": 292.9,
+        "outros": 0
       },
       {
         "nome": "003-NACBRAS",
-        "unidade": "Flexográfico",
-        "dias": 22,
-        "horasDia": 6.8,
-        "horasTotal": 149.6,
-        "manutencao": 1200,
-        "adm": false
+        "cc": "2",
+        "salario": 266.2,
+        "outros": 0
       },
       {
         "nome": "004-BATIDAS",
-        "unidade": "Flexográfico",
-        "dias": 22,
-        "horasDia": 6.8,
-        "horasTotal": 224.39999999999998,
-        "manutencao": 150,
-        "adm": false
+        "cc": "1",
+        "salario": 117.29,
+        "outros": 0
       },
       {
         "nome": "005-DIGITAL KONICA",
-        "unidade": "Digital",
-        "dias": 22,
-        "horasDia": 6.8,
-        "horasTotal": 149.6,
-        "manutencao": 750,
-        "adm": false
+        "cc": "1",
+        "salario": 362.17,
+        "outros": 0
       },
       {
         "nome": "006-TROQUELADORAS",
-        "unidade": "Flexográfico",
-        "dias": 22,
-        "horasDia": 7.5,
-        "horasTotal": 495,
-        "manutencao": 0,
-        "adm": false
+        "cc": "2",
+        "salario": 82.16,
+        "outros": 0
       },
       {
         "nome": "007-REBOBINADEIRAS",
-        "unidade": "Acabamento",
-        "dias": 22,
-        "horasDia": 7.5,
-        "horasTotal": 605,
-        "manutencao": 0,
-        "adm": false
+        "cc": "3",
+        "salario": 98.03,
+        "outros": 0
       },
       {
         "nome": "010-BROTECH",
-        "unidade": "Acabamento",
-        "dias": 22,
-        "horasDia": 6.8,
-        "horasTotal": 149.6,
-        "manutencao": 1000,
-        "adm": false
+        "cc": "1",
+        "salario": 261.07,
+        "outros": 0
       },
       {
         "nome": "011-DIGITAL HP INDIGO",
-        "unidade": "Digital",
-        "dias": 0,
-        "horasDia": 0,
-        "horasTotal": 0,
-        "manutencao": 0,
-        "adm": false
+        "cc": "",
+        "salario": 0,
+        "outros": 0
       },
       {
         "nome": "012-ETIRAMA",
-        "unidade": "Acabamento",
-        "dias": 22,
-        "horasDia": 6.8,
-        "horasTotal": 149.6,
-        "manutencao": 0,
-        "adm": false
+        "cc": "1",
+        "salario": 391.07,
+        "outros": 0
       },
       {
         "nome": "013-DIGITAL BOBST",
-        "unidade": "Digital",
-        "dias": 22,
-        "horasDia": 6.8,
-        "horasTotal": 149.6,
-        "manutencao": 0,
-        "adm": false
+        "cc": "1",
+        "salario": 893.08,
+        "outros": 0
       },
       {
         "nome": "014-VOREY",
-        "unidade": "Acabamento",
-        "dias": 22,
-        "horasDia": 6.8,
-        "horasTotal": 149.6,
+        "cc": "1",
+        "salario": 208.9,
+        "outros": 0
+      },
+      {
+        "nome": "*m² Bobst - 2,90 CMYK",
+        "cc": "",
+        "salario": 0,
+        "outros": 0
+      }
+    ],
+    "equipamentos": [],
+    "centros": [
+      {
+        "nome": "001-FLEXOGRAFIA",
+        "unidade": "Flexográfico",
+        "dias": 0,
+        "horasDia": 0,
         "manutencao": 0,
         "adm": false
       },
       {
-        "nome": "009-TI",
+        "nome": "002-DIGITAL",
+        "unidade": "Digital",
+        "dias": 0,
+        "horasDia": 0,
+        "manutencao": 0,
+        "adm": false
+      },
+      {
+        "nome": "003-ADMINISTRATIVO",
         "unidade": "Administrativo",
         "dias": 0,
         "horasDia": 0,
@@ -120100,7 +120020,7 @@
         "adm": true
       },
       {
-        "nome": "008-ADMINISTRATIVO",
+        "nome": "004-TI",
         "unidade": "Administrativo",
         "dias": 0,
         "horasDia": 0,
