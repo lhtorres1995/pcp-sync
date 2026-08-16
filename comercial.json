@@ -119663,7 +119663,7 @@
       {
         "nome": "EDVAN",
         "cc": "001-FLEXOGRAFIA",
-        "salario": 1,
+        "salario": 3000,
         "outros": 2366.7000000000003
       },
       {
@@ -119911,18 +119911,6 @@
         "cc": "002-DIGITAL",
         "salario": 13,
         "outros": 3155.6000000000004
-      },
-      {
-        "nome": "014-VOREY",
-        "cc": "1",
-        "salario": 208.9,
-        "outros": 0
-      },
-      {
-        "nome": "*m² Bobst - 2,90 CMYK",
-        "cc": "",
-        "salario": 0,
-        "outros": 0
       }
     ],
     "equipamentos": [],
