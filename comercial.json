@@ -119806,7 +119806,7 @@
         "nome": "LEONARDO TORRES",
         "cc": "003-ADMINISTRATIVO",
         "salario": 10120,
-        "outros": 200
+        "outros": 0
       },
       {
         "nome": "LUIZ HENRIQUE",
@@ -119872,7 +119872,7 @@
         "nome": "GUSTAVO LENINE (KLABIN)",
         "cc": "004-TI",
         "salario": 3500,
-        "outros": 200
+        "outros": 1000
       },
       {
         "nome": "HEITOR FIGUEIREDO MOURA",
