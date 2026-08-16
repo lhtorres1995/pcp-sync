@@ -119800,13 +119800,17 @@
         "nome": "JUDITH",
         "cc": "003-ADMINISTRATIVO",
         "salario": 5000,
-        "outros": 0
+        "outros": 0,
+        "tipo": "PJ",
+        "encargo": 0
       },
       {
         "nome": "LEONARDO TORRES",
         "cc": "003-ADMINISTRATIVO",
         "salario": 10120,
-        "outros": 0
+        "outros": 0,
+        "tipo": "PJ",
+        "encargo": 0
       },
       {
         "nome": "LUIZ HENRIQUE",
