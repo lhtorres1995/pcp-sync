@@ -119750,13 +119750,13 @@
         "nome": "ANTONIO CELSO",
         "cc": "003-ADMINISTRATIVO",
         "salario": 12000,
-        "outros": 0
+        "outros": 1000
       },
       {
         "nome": "CARLOS EDUARDO RODRIGUES DA SILVA",
         "cc": "003-ADMINISTRATIVO",
         "salario": 3000,
-        "outros": 2366.7000000000003
+        "outros": 200
       },
       {
         "nome": "DANIELE GITTI",
