@@ -119917,9 +119917,10 @@
       {
         "nome": "JOYCE",
         "cc": "002-DIGITAL",
-        "tipo": "CLT",
+        "tipo": "PJ",
         "salario": 4000,
-        "outros": 0
+        "outros": 0,
+        "encargo": 0
       }
     ],
     "equipamentos": [],
