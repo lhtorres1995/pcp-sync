@@ -119992,8 +119992,8 @@
       "atendValor": 300,
       "atendDias": 30,
       "jaCobrado": 0,
-      "inicio": "2025-02-10",
-      "prazoMeses": 36
+      "inicio": "2020-01-10",
+      "prazoMeses": 84
     }
   },
   "mapaCustos": {
