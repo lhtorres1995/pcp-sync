@@ -119933,7 +119933,23 @@
       "SERVIÇO": 25455.7
     }
   },
-  "contratosComodato": {},
+  "contratosComodato": {
+    "cmd_1786885940469": {
+      "cliente": "HENKEL - JUNDIAI",
+      "equipamentos": [
+        {
+          "nome": "EPSON 6500 - X7F4003273",
+          "custo": 25000
+        }
+      ],
+      "pecas": [],
+      "atendValor": 300,
+      "atendDias": 30,
+      "jaCobrado": 0,
+      "inicio": "2025-02-10",
+      "prazoMeses": 36
+    }
+  },
   "mapaCustos": {
     "encargo": 0.7888888888888892,
     "despesas": [
