@@ -1,7 +1,7 @@
 {
   "vendas": [
     {
-      "id": "mss1bochp9unmua1118",
+      "id": "msvsamfmnl46nw2k9gr",
       "emissao": "2026-08-02",
       "pedido": "10834",
       "cliente": "OLEAK",
@@ -10,6 +10,8 @@
       "produto": "PA000000000061",
       "descricao": "ETIQ. LACRE SEGURANÇA - 95 X 45",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 3000,
       "un": "UN",
       "rUnit": 0.409,
@@ -93,10 +95,10 @@
       "custoMaq": 302.0673033333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.835Z"
+      "criadoEm": "2026-08-16T12:31:31.862Z"
     },
     {
-      "id": "mss1bocjgr8xphebs6p",
+      "id": "msvsamfqvddwtwrydb",
       "emissao": "2026-08-02",
       "pedido": "10835",
       "cliente": "NOVAK GOUVEIA",
@@ -105,6 +107,8 @@
       "produto": "PA000000000036",
       "descricao": "ETIQ. PARA EMBALAGEM - 100 X 90",
       "grupoProduto": "COMODATO",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 8,
       "un": "MI",
       "rUnit": 338.08,
@@ -188,10 +192,10 @@
       "custoMaq": 394.70804,
       "invest": 160,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.835Z"
+      "criadoEm": "2026-08-16T12:31:31.863Z"
     },
     {
-      "id": "mss1bocj4nggm4u959p",
+      "id": "msvsamfrizvzapnky3s",
       "emissao": "2026-08-02",
       "pedido": "10836",
       "cliente": "SOMMATECH",
@@ -200,6 +204,8 @@
       "produto": "PR000000000446",
       "descricao": "N102006 - PRINT HEAD 4 INCH WITH COVER ASSY",
       "grupoProduto": "PEÇA",
+      "centroCusto": "REVENDA",
+      "modeloTecnico": "REVENDA",
       "qtde": 2,
       "un": "UN",
       "rUnit": 5774.65,
@@ -258,10 +264,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.836Z"
+      "criadoEm": "2026-08-16T12:31:31.864Z"
     },
     {
-      "id": "mss1bockb386558xm7j",
+      "id": "msvsamfs16ywzupvfhk",
       "emissao": "2026-08-02",
       "pedido": "10837",
       "cliente": "BARRY CALLEBAUT - EXTREMA",
@@ -270,6 +276,8 @@
       "produto": "PA000000000012",
       "descricao": "LABEL WHITE 4 X 10 ON ROLLS",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 240,
       "un": "MI",
       "rUnit": 242.23,
@@ -337,10 +345,10 @@
       "custoMaq": 507.96789333333334,
       "invest": 18000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.836Z"
+      "criadoEm": "2026-08-16T12:31:31.864Z"
     },
     {
-      "id": "mss1bockd7gtlhyhp07",
+      "id": "msvsamfs6rcj7qh9z5",
       "emissao": "2026-08-02",
       "pedido": "10838",
       "cliente": "SYNGENTA",
@@ -349,6 +357,8 @@
       "produto": "PA000000000460",
       "descricao": "ETIQ. TRIAGEM - BRANCA",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 2.5,
       "un": "MI",
       "rUnit": 4900,
@@ -424,10 +434,10 @@
       "custoMaq": 210.0150733333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.837Z"
+      "criadoEm": "2026-08-16T12:31:31.865Z"
     },
     {
-      "id": "mss1boclwh8m43dpmm8",
+      "id": "msvsamft3texfn4d8pa",
       "emissao": "2026-08-02",
       "pedido": "10839",
       "cliente": "AUMOVIO - GRU",
@@ -436,6 +446,8 @@
       "produto": "PA000000000165",
       "descricao": "A2C3671030000 - ETIQ. MOVIMENTAÇÃO MATERIAL",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 100000,
       "un": "PEÇA",
       "rUnit": 0.0531702,
@@ -503,10 +515,10 @@
       "custoMaq": 128.14221333333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.838Z"
+      "criadoEm": "2026-08-16T12:31:31.865Z"
     },
     {
-      "id": "mss1bocmij7hp3hksb8",
+      "id": "msvsamftg4nlql1igzi",
       "emissao": "2026-08-02",
       "pedido": "10840",
       "cliente": "AUMOVIO - GRU",
@@ -515,6 +527,8 @@
       "produto": "PA000000000213",
       "descricao": "ETIQ. BCM",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 60000,
       "un": "PEÇA",
       "rUnit": 0.0651275,
@@ -590,10 +604,10 @@
       "custoMaq": 242.06991333333335,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.838Z"
+      "criadoEm": "2026-08-16T12:31:31.866Z"
     },
     {
-      "id": "mss1bocmkafn53huh1d",
+      "id": "msvsamfuhbr982zfuld",
       "emissao": "2026-08-02",
       "pedido": "10841",
       "cliente": "HENKEL - CD JUNDIAÍ",
@@ -602,6 +616,8 @@
       "produto": "PR000000000082",
       "descricao": "EPSON CARTUCHOS DE TINTA CW6000/CW6500 - PRETO",
       "grupoProduto": "CARTUCHO",
+      "centroCusto": "REVENDA",
+      "modeloTecnico": "REVENDA",
       "qtde": 5,
       "un": "UN",
       "rUnit": 1023.46,
@@ -660,10 +676,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.839Z"
+      "criadoEm": "2026-08-16T12:31:31.866Z"
     },
     {
-      "id": "mss1bocn2kdr214bmqc",
+      "id": "msvsamfu6g820un4fa",
       "emissao": "2026-08-02",
       "pedido": "10841",
       "cliente": "HENKEL - CD JUNDIAÍ",
@@ -672,6 +688,8 @@
       "produto": "PR000000000083",
       "descricao": "EPSON CARTUCHOS DE TINTA CW6000/CW6500 - CYAN",
       "grupoProduto": "CARTUCHO",
+      "centroCusto": "REVENDA",
+      "modeloTecnico": "REVENDA",
       "qtde": 3,
       "un": "UN",
       "rUnit": 1023.46,
@@ -730,10 +748,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.839Z"
+      "criadoEm": "2026-08-16T12:31:31.867Z"
     },
     {
-      "id": "mss1bocnm416au12gx8",
+      "id": "msvsamfvwnxrd1ph7gd",
       "emissao": "2026-08-02",
       "pedido": "10841",
       "cliente": "HENKEL - CD JUNDIAÍ",
@@ -742,6 +760,8 @@
       "produto": "PR000000000084",
       "descricao": "EPSON CARTUCHOS DE TINTA CW6000/CW6500 - MAGENTA",
       "grupoProduto": "CARTUCHO",
+      "centroCusto": "REVENDA",
+      "modeloTecnico": "REVENDA",
       "qtde": 3,
       "un": "UN",
       "rUnit": 1023.46,
@@ -800,10 +820,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.840Z"
+      "criadoEm": "2026-08-16T12:31:31.867Z"
     },
     {
-      "id": "mss1bocog9d8icy2p2u",
+      "id": "msvsamfvlghla8t8dba",
       "emissao": "2026-08-02",
       "pedido": "10841",
       "cliente": "HENKEL - CD JUNDIAÍ",
@@ -812,6 +832,8 @@
       "produto": "PR000000000085",
       "descricao": "EPSON CARTUCHOS DE TINTA CW6000/CW6500 - AMARELO",
       "grupoProduto": "CARTUCHO",
+      "centroCusto": "REVENDA",
+      "modeloTecnico": "REVENDA",
       "qtde": 3,
       "un": "UN",
       "rUnit": 1023.46,
@@ -870,10 +892,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.840Z"
+      "criadoEm": "2026-08-16T12:31:31.868Z"
     },
     {
-      "id": "mss1bocod1uu0lw7f2v",
+      "id": "msvsamfw4cxzi5gmy7n",
       "emissao": "2026-08-02",
       "pedido": "10841",
       "cliente": "HENKEL - CD JUNDIAÍ",
@@ -882,6 +904,8 @@
       "produto": "PR000000000080",
       "descricao": "EPSON KIT MANUTENÇÃO PARA CT 6000/ 6500",
       "grupoProduto": "CARTUCHO",
+      "centroCusto": "REVENDA",
+      "modeloTecnico": "REVENDA",
       "qtde": 3,
       "un": "UN",
       "rUnit": 511.73,
@@ -940,10 +964,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.840Z"
+      "criadoEm": "2026-08-16T12:31:31.868Z"
     },
     {
-      "id": "mss1boco3nv656hoo56",
+      "id": "msvsamfw70tbn2bm9ho",
       "emissao": "2026-08-02",
       "pedido": "10841",
       "cliente": "HENKEL - CD JUNDIAÍ",
@@ -952,6 +976,8 @@
       "produto": "PA000000001595",
       "descricao": "ETQ. GEN - 74 X 99 - VEGAM (MODELO NOVO)",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 25000,
       "un": "PEÇA",
       "rUnit": 0.49,
@@ -1027,10 +1053,10 @@
       "custoMaq": 339.8351133333333,
       "invest": 3750,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.841Z"
+      "criadoEm": "2026-08-16T12:31:31.869Z"
     },
     {
-      "id": "mss1bocpp6hgk0k6l9r",
+      "id": "msvsamfxjdmv3gw1aqo",
       "emissao": "2026-08-02",
       "pedido": "10841",
       "cliente": "HENKEL - CD JUNDIAÍ",
@@ -1039,6 +1065,8 @@
       "produto": "PA000000002984",
       "descricao": "ETQ. GEN. - 136,5 X 165,1 - VEGAM (MODELO NOVO)",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 15000,
       "un": "PEÇA",
       "rUnit": 1.2,
@@ -1106,10 +1134,10 @@
       "custoMaq": 104.64445333333333,
       "invest": 4500,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.842Z"
+      "criadoEm": "2026-08-16T12:31:31.869Z"
     },
     {
-      "id": "mss1bocqqxuq1s48fy",
+      "id": "msvsamfxvcfgebmhrrm",
       "emissao": "2026-08-02",
       "pedido": "10842",
       "cliente": "KLABIN ANGATUBA",
@@ -1118,6 +1146,8 @@
       "produto": "PA000000000162",
       "descricao": "459401 - ETIQ AD. BRANCA/VERDE - FSC C018669",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 1,
       "un": "CX",
       "rUnit": 1116.16,
@@ -1193,10 +1223,10 @@
       "custoMaq": 365.4266666666667,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.842Z"
+      "criadoEm": "2026-08-16T12:31:31.870Z"
     },
     {
-      "id": "mss1bocqxordwp0g82",
+      "id": "msvsamfy4fv07lg00vg",
       "emissao": "2026-08-02",
       "pedido": "10843",
       "cliente": "KLABIN - OTACILIO",
@@ -1205,6 +1235,8 @@
       "produto": "PA000000000162",
       "descricao": "459387 - ETIQ AD. BRANCA/VERDE - FSC 006109",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 20,
       "un": "CX",
       "rUnit": 1040.06,
@@ -1280,10 +1312,10 @@
       "custoMaq": 1407.6199833333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.843Z"
+      "criadoEm": "2026-08-16T12:31:31.871Z"
     },
     {
-      "id": "mss1bocr4fm684qwwj6",
+      "id": "msvsamfzjr79m63yykp",
       "emissao": "2026-08-02",
       "pedido": "10844",
       "cliente": "KLABIN CORREIA PINTO",
@@ -1292,6 +1324,8 @@
       "produto": "PA000000000162",
       "descricao": "459387 - ETIQ AD. BRANCA/VERDE - FSC 006109",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 16,
       "un": "CX",
       "rUnit": 1040.06,
@@ -1367,10 +1401,10 @@
       "custoMaq": 1182.8166133333334,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.843Z"
+      "criadoEm": "2026-08-16T12:31:31.872Z"
     },
     {
-      "id": "mss1bocrj434ttwfck",
+      "id": "msvsamg0lz7a74shfug",
       "emissao": "2026-08-02",
       "pedido": "10845",
       "cliente": "KLABIN SÃO LEOPOLDO",
@@ -1379,6 +1413,8 @@
       "produto": "PA000000000632",
       "descricao": "127529 - ETIQ. TERMO TRANSF PAPEL BR - 110 X 101",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 12,
       "un": "ROLO",
       "rUnit": 40.7,
@@ -1446,10 +1482,10 @@
       "custoMaq": 49.35077333333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.844Z"
+      "criadoEm": "2026-08-16T12:31:31.873Z"
     },
     {
-      "id": "mss1bocszbezmrwepz",
+      "id": "msvsamg15s13ebp6ven",
       "emissao": "2026-08-02",
       "pedido": "10846",
       "cliente": "KLABIN - OTACILIO",
@@ -1458,6 +1494,8 @@
       "produto": "PA000000000087",
       "descricao": "COD.10504 - ETIQ ADESIVA MATRICIAL 95 X 35",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 16,
       "un": "MI",
       "rUnit": 159.66,
@@ -1533,10 +1571,10 @@
       "custoMaq": 189.49333333333334,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.844Z"
+      "criadoEm": "2026-08-16T12:31:31.874Z"
     },
     {
-      "id": "mss1bocs8fpl6fhlk4q",
+      "id": "msvsamg2o7k2op4vf2r",
       "emissao": "2026-08-03",
       "pedido": "10847",
       "cliente": "VELLARE",
@@ -1545,6 +1583,8 @@
       "produto": "PA000000004741",
       "descricao": "ROTULO VELLARE - SABONETE PITANGA PRETA - 140 X 120",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 3000,
       "un": "UN",
       "rUnit": 0.75577,
@@ -1628,10 +1668,10 @@
       "custoMaq": 393.24159000000003,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.845Z"
+      "criadoEm": "2026-08-16T12:31:31.874Z"
     },
     {
-      "id": "mss1boctcrs0iw7oox9",
+      "id": "msvsamg2tdzmoqs10v",
       "emissao": "2026-08-03",
       "pedido": "10847",
       "cliente": "VELLARE",
@@ -1640,6 +1680,8 @@
       "produto": "PA000000004749",
       "descricao": "ROTULO VELLARE - MULTIUSO SABAO DE QUEROSENE 1L - 100 X 150",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 2000,
       "un": "UN",
       "rUnit": 0.80782,
@@ -1723,10 +1765,10 @@
       "custoMaq": 314.11208,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.845Z"
+      "criadoEm": "2026-08-16T12:31:31.875Z"
     },
     {
-      "id": "mss1boctfaxsx1e58ni",
+      "id": "msvsamg3o4zis1595dc",
       "emissao": "2026-08-03",
       "pedido": "10848",
       "cliente": "CONGREGACAO - FRENTE",
@@ -1735,6 +1777,8 @@
       "produto": "PA000000004744",
       "descricao": "ETIQUETA ADVERTENCIA 50% - 50 X 50",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 50000,
       "un": "UN",
       "rUnit": 0.09534,
@@ -1818,10 +1862,10 @@
       "custoMaq": 598.4758566666667,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.846Z"
+      "criadoEm": "2026-08-16T12:31:31.876Z"
     },
     {
-      "id": "mss1bocuc72ko0rh8ip",
+      "id": "msvsamg4o3grjkpm3al",
       "emissao": "2026-08-03",
       "pedido": "10849",
       "cliente": "HENKEL - JUNDIAI",
@@ -1830,6 +1874,8 @@
       "produto": "PA000000003028",
       "descricao": "ETIQ. VERDE - 100 X 150 + RIBBON",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 20000,
       "un": "UN",
       "rUnit": 0.19026,
@@ -1905,10 +1951,10 @@
       "custoMaq": 212.66813333333332,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.846Z"
+      "criadoEm": "2026-08-16T12:31:31.876Z"
     },
     {
-      "id": "mss1bocuvvxrko69az",
+      "id": "msvsamg4r4j91f5jcxr",
       "emissao": "2026-08-03",
       "pedido": "10850",
       "cliente": "HENKEL - JUNDIAI",
@@ -1917,6 +1963,8 @@
       "produto": "PA000000003028",
       "descricao": "ETIQ. VERDE - 100 X 150 + RIBBON",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 20000,
       "un": "UN",
       "rUnit": 0.19026,
@@ -1992,10 +2040,10 @@
       "custoMaq": 212.66813333333332,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.847Z"
+      "criadoEm": "2026-08-16T12:31:31.877Z"
     },
     {
-      "id": "mss1bocvff2jivbj6t4",
+      "id": "msvsamg5vak89eob0y9",
       "emissao": "2026-08-03",
       "pedido": "10851",
       "cliente": "HENKEL - JUNDIAI",
@@ -2004,6 +2052,8 @@
       "produto": "PA000000003708",
       "descricao": "ETIQ. GEN. 274 X 63 - VEGAM",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 8000,
       "un": "PEÇA",
       "rUnit": 1.954345302,
@@ -2079,10 +2129,10 @@
       "custoMaq": 261.6638433333334,
       "invest": 2800,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.850Z"
+      "criadoEm": "2026-08-16T12:31:31.877Z"
     },
     {
-      "id": "mss1bocynasp1r75lo",
+      "id": "msvsamg51n9fr5pojoj",
       "emissao": "2026-08-03",
       "pedido": "10852",
       "cliente": "HENKEL - JUNDIAI",
@@ -2091,6 +2141,8 @@
       "produto": "PA000000000201",
       "descricao": "ETIQ. LÍQUIDO INFLAMÁVEL",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 4000,
       "un": "PEÇA",
       "rUnit": 0.190530522,
@@ -2166,10 +2218,10 @@
       "custoMaq": 199.55666666666662,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.851Z"
+      "criadoEm": "2026-08-16T12:31:31.878Z"
     },
     {
-      "id": "mss1boczeq5ceo4mzuh",
+      "id": "msvsamg6s3zovfeza9r",
       "emissao": "2026-08-03",
       "pedido": "10853",
       "cliente": "HENKEL - JUNDIAI",
@@ -2178,6 +2230,8 @@
       "produto": "PA000000001415",
       "descricao": "ETIQ. GEN. - 194 X 150 - VEGAM",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 5000,
       "un": "PEÇA",
       "rUnit": 1.566232668,
@@ -2253,10 +2307,10 @@
       "custoMaq": 211.25541333333334,
       "invest": 1500,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.851Z"
+      "criadoEm": "2026-08-16T12:31:31.881Z"
     },
     {
-      "id": "mss1boczjgmzftb7tu",
+      "id": "msvsamg9cbf8p7yspfv",
       "emissao": "2026-08-03",
       "pedido": "10854",
       "cliente": "HENKEL - JUNDIAI",
@@ -2265,6 +2319,8 @@
       "produto": "PA000000000157",
       "descricao": "ETIQ. CONSTRUÇÃO VERMELHA",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 10000,
       "un": "PEÇA",
       "rUnit": 0.128453598,
@@ -2348,10 +2404,10 @@
       "custoMaq": 282.3246433333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.852Z"
+      "criadoEm": "2026-08-16T12:31:31.881Z"
     },
     {
-      "id": "mss1bod0rbotyu5gi7",
+      "id": "msvsamg9h98ex1ntla4",
       "emissao": "2026-08-03",
       "pedido": "10855",
       "cliente": "HENKEL - JUNDIAI",
@@ -2360,6 +2416,8 @@
       "produto": "PA000000001011",
       "descricao": "ETIQ. GEN. 103 X 292 - VEGAM",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 110000,
       "un": "PEÇA",
       "rUnit": 1.803166092,
@@ -2427,10 +2485,10 @@
       "custoMaq": 1184.1446933333332,
       "invest": 16500,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.852Z"
+      "criadoEm": "2026-08-16T12:31:31.882Z"
     },
     {
-      "id": "mss1bod0qijvjzzrfgb",
+      "id": "msvsamgafyt5skygnrn",
       "emissao": "2026-08-03",
       "pedido": "10856",
       "cliente": "HENKEL - JUNDIAI",
@@ -2439,6 +2497,8 @@
       "produto": "PA000000001369",
       "descricao": "ETIQ. GEN. - 194 X 292 - VEGAM",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 11000,
       "un": "PEÇA",
       "rUnit": 3.606332184,
@@ -2514,10 +2574,10 @@
       "custoMaq": 558.6351933333333,
       "invest": 11000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.853Z"
+      "criadoEm": "2026-08-16T12:31:31.882Z"
     },
     {
-      "id": "mss1bod1keyp2vdrfhm",
+      "id": "msvsamgaoq0ws1f9rjn",
       "emissao": "2026-08-03",
       "pedido": "10857",
       "cliente": "HENKEL - JUNDIAI",
@@ -2526,6 +2586,8 @@
       "produto": "PA000000001500",
       "descricao": "ETIQ. CONSTRUÇÃO AMARELA",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 7500,
       "un": "PEÇA",
       "rUnit": 0.220903956,
@@ -2609,10 +2671,10 @@
       "custoMaq": 282.3246433333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.853Z"
+      "criadoEm": "2026-08-16T12:31:31.883Z"
     },
     {
-      "id": "mss1bod1dm5mzqdelog",
+      "id": "msvsamgbuqyp0qcj8ch",
       "emissao": "2026-08-03",
       "pedido": "10858",
       "cliente": "ECOLAB SUZANO",
@@ -2621,6 +2683,8 @@
       "produto": "PA000000000102",
       "descricao": "RÓTULOS DE PRODUTOS GHS + RIBBONS",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 60000,
       "un": "UN",
       "rUnit": 1.31003,
@@ -2696,10 +2760,10 @@
       "custoMaq": 1699.4892133333333,
       "invest": 12000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.854Z"
+      "criadoEm": "2026-08-16T12:31:31.883Z"
     },
     {
-      "id": "mss1bod2qwzbo4mhdb",
+      "id": "msvsamgb5ewb2uvtc8k",
       "emissao": "2026-08-03",
       "pedido": "10859",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -2708,6 +2772,8 @@
       "produto": "SE000000000026",
       "descricao": "LOCAÇÃO - ZEBRA",
       "grupoProduto": "LOCAÇÃO",
+      "centroCusto": "SERVIÇO",
+      "modeloTecnico": "SERVIÇO",
       "qtde": 1,
       "un": "UN",
       "rUnit": 1940.86,
@@ -2766,10 +2832,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.854Z"
+      "criadoEm": "2026-08-16T12:31:31.884Z"
     },
     {
-      "id": "mss1bod2a49cexhjo2u",
+      "id": "msvsamgczt7hnql9hy",
       "emissao": "2026-08-03",
       "pedido": "10860",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -2778,6 +2844,8 @@
       "produto": "SE000000000043",
       "descricao": "LOCAÇÃO - MECTEC",
       "grupoProduto": "LOCAÇÃO",
+      "centroCusto": "SERVIÇO",
+      "modeloTecnico": "SERVIÇO",
       "qtde": 1,
       "un": "UN",
       "rUnit": 8500,
@@ -2836,10 +2904,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.855Z"
+      "criadoEm": "2026-08-16T12:31:31.884Z"
     },
     {
-      "id": "mss1bod36jyxbewhdu3",
+      "id": "msvsamgcv9462grch5s",
       "emissao": "2026-08-03",
       "pedido": "10861",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -2848,6 +2916,8 @@
       "produto": "SE000000000044",
       "descricao": "LOCAÇÃO - KYOCERA",
       "grupoProduto": "LOCAÇÃO",
+      "centroCusto": "SERVIÇO",
+      "modeloTecnico": "SERVIÇO",
       "qtde": 2,
       "un": "UN",
       "rUnit": 4590.91,
@@ -2906,10 +2976,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.855Z"
+      "criadoEm": "2026-08-16T12:31:31.885Z"
     },
     {
-      "id": "mss1bod376q1suupnu",
+      "id": "msvsamgdxsg5l4rm7am",
       "emissao": "2026-08-03",
       "pedido": "10862",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -2918,6 +2988,8 @@
       "produto": "SE000000000045",
       "descricao": "SUSTENTAÇÃO - MECTEC",
       "grupoProduto": "SUSTENTAÇÃO",
+      "centroCusto": "SERVIÇO",
+      "modeloTecnico": "SERVIÇO",
       "qtde": 1,
       "un": "UN",
       "rUnit": 49712.66,
@@ -2976,10 +3048,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.855Z"
+      "criadoEm": "2026-08-16T12:31:31.885Z"
     },
     {
-      "id": "mss1bod3evjor72mh4",
+      "id": "msvsamgdf6bqfzy82yp",
       "emissao": "2026-08-03",
       "pedido": "10864",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -2988,6 +3060,8 @@
       "produto": "SE000000000026",
       "descricao": "LOCAÇÃO - ZEBRA",
       "grupoProduto": "LOCAÇÃO",
+      "centroCusto": "SERVIÇO",
+      "modeloTecnico": "SERVIÇO",
       "qtde": 1,
       "un": "UN",
       "rUnit": 1552.7,
@@ -3046,10 +3120,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.856Z"
+      "criadoEm": "2026-08-16T12:31:31.886Z"
     },
     {
-      "id": "mss1bod4b7y793yt27q",
+      "id": "msvsamgetnnu23o5n5",
       "emissao": "2026-08-03",
       "pedido": "10866",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -3058,6 +3132,8 @@
       "produto": "SE000000000034",
       "descricao": "SERVIÇO DE IMPRESSÃO KYOCERA - RECKER",
       "grupoProduto": "SERVIÇO",
+      "centroCusto": "SERVIÇO",
+      "modeloTecnico": "SERVIÇO",
       "qtde": 1,
       "un": "UN",
       "rUnit": 0.79,
@@ -3116,10 +3192,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.857Z"
+      "criadoEm": "2026-08-16T12:31:31.886Z"
     },
     {
-      "id": "mss1bod5qmyacnu0qw9",
+      "id": "msvsamgepf4vpls8qy",
       "emissao": "2026-08-03",
       "pedido": "10867",
       "cliente": "KLABIN - TELEMACO BORBA",
@@ -3128,6 +3204,8 @@
       "produto": "SE000000000043",
       "descricao": "LOCAÇÃO - MECTEC",
       "grupoProduto": "LOCAÇÃO",
+      "centroCusto": "SERVIÇO",
+      "modeloTecnico": "SERVIÇO",
       "qtde": 1,
       "un": "UN",
       "rUnit": 8500,
@@ -3186,10 +3264,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.857Z"
+      "criadoEm": "2026-08-16T12:31:31.887Z"
     },
     {
-      "id": "mss1bod5h5tc7o6ah3f",
+      "id": "msvsamgf9i8nd4ve7l",
       "emissao": "2026-08-03",
       "pedido": "10868",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -3198,6 +3276,8 @@
       "produto": "SE000000000043",
       "descricao": "LOCAÇÃO - MECTEC",
       "grupoProduto": "LOCAÇÃO",
+      "centroCusto": "SERVIÇO",
+      "modeloTecnico": "SERVIÇO",
       "qtde": 1,
       "un": "UN",
       "rUnit": 8500,
@@ -3256,10 +3336,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.857Z"
+      "criadoEm": "2026-08-16T12:31:31.887Z"
     },
     {
-      "id": "mss1bod5m91wbrf8fjp",
+      "id": "msvsamgfphop3gqhqhq",
       "emissao": "2026-08-03",
       "pedido": "10869",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -3268,6 +3348,8 @@
       "produto": "SE000000000042",
       "descricao": "LOCAÇÃO - NOVEXX",
       "grupoProduto": "LOCAÇÃO",
+      "centroCusto": "SERVIÇO",
+      "modeloTecnico": "SERVIÇO",
       "qtde": 4,
       "un": "UN",
       "rUnit": 1940.86,
@@ -3326,10 +3408,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.858Z"
+      "criadoEm": "2026-08-16T12:31:31.888Z"
     },
     {
-      "id": "mss1bod6p320b3u8me",
+      "id": "msvsamggu03hm5uodor",
       "emissao": "2026-08-03",
       "pedido": "10871",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -3338,6 +3420,8 @@
       "produto": "SE000000000043",
       "descricao": "LOCAÇÃO - MECTEC",
       "grupoProduto": "LOCAÇÃO",
+      "centroCusto": "SERVIÇO",
+      "modeloTecnico": "SERVIÇO",
       "qtde": 1,
       "un": "UN",
       "rUnit": 8500,
@@ -3396,10 +3480,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.858Z"
+      "criadoEm": "2026-08-16T12:31:31.888Z"
     },
     {
-      "id": "mss1bod65pcmf2i4r1n",
+      "id": "msvsamggoyn5w6k0h5g",
       "emissao": "2026-08-03",
       "pedido": "10872",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -3408,6 +3492,8 @@
       "produto": "SE000000000043",
       "descricao": "LOCAÇÃO - MECTEC",
       "grupoProduto": "LOCAÇÃO",
+      "centroCusto": "SERVIÇO",
+      "modeloTecnico": "SERVIÇO",
       "qtde": 1,
       "un": "UN",
       "rUnit": 8500,
@@ -3466,10 +3552,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.859Z"
+      "criadoEm": "2026-08-16T12:31:31.889Z"
     },
     {
-      "id": "mss1bod7rmhjz9wp7l",
+      "id": "msvsamghu1zml312wwr",
       "emissao": "2026-08-03",
       "pedido": "10873",
       "cliente": "HEALTH QUALITY",
@@ -3478,6 +3564,8 @@
       "produto": "PA000000000092",
       "descricao": "626031 - ETIQ. ADESIVA 100 X 35",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 400000,
       "un": "UN",
       "rUnit": 0.05494608,
@@ -3545,10 +3633,10 @@
       "custoMaq": 288.2720533333333,
       "invest": 6800.000000000001,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.859Z"
+      "criadoEm": "2026-08-16T12:31:31.889Z"
     },
     {
-      "id": "mss1bod7w9vozick4z",
+      "id": "msvsamghhze9ozxysas",
       "emissao": "2026-08-03",
       "pedido": "10873",
       "cliente": "HEALTH QUALITY",
@@ -3557,6 +3645,8 @@
       "produto": "PA000000000328",
       "descricao": "626034 - ETIQ. REDONDA 15MM - ESTERELIZADO",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 100000,
       "un": "UN",
       "rUnit": 0.021528,
@@ -3632,10 +3722,10 @@
       "custoMaq": 608.5338800000001,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.860Z"
+      "criadoEm": "2026-08-16T12:31:31.890Z"
     },
     {
-      "id": "mss1bod8ttyrgsno3pc",
+      "id": "msvsamgilxhk8cg0u8",
       "emissao": "2026-08-03",
       "pedido": "10873",
       "cliente": "HEALTH QUALITY",
@@ -3644,6 +3734,8 @@
       "produto": "PA000000000395",
       "descricao": "626043 - ETIQ. - 160 X 40 - PACOTES CIRURGICOS",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 100000,
       "un": "UN",
       "rUnit": 0.085,
@@ -3719,10 +3811,10 @@
       "custoMaq": 482.26375333333334,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.860Z"
+      "criadoEm": "2026-08-16T12:31:31.890Z"
     },
     {
-      "id": "mss1bod855cv4hgqoe4",
+      "id": "msvsamgi0bnk0jikc3v5",
       "emissao": "2026-08-03",
       "pedido": "10873",
       "cliente": "HEALTH QUALITY",
@@ -3731,6 +3823,8 @@
       "produto": "PA000000000195",
       "descricao": "626082 - ETIQ ADES 30 X 20 - 3 CARREIRAS - SETA",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 500000,
       "un": "UN",
       "rUnit": 0.03014334,
@@ -3806,10 +3900,10 @@
       "custoMaq": 640.8938733333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.861Z"
+      "criadoEm": "2026-08-16T12:31:31.891Z"
     },
     {
-      "id": "mss1bod9ynsgnboau",
+      "id": "msvsamgjb6xlhitr28",
       "emissao": "2026-08-03",
       "pedido": "10874",
       "cliente": "POLITEC",
@@ -3818,6 +3912,8 @@
       "produto": "PA000000001832",
       "descricao": "RÓTULO LUSTRADOR - 151 X 214",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 1,
       "un": "MI",
       "rUnit": 1,
@@ -3901,10 +3997,10 @@
       "custoMaq": 316.79132,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.861Z"
+      "criadoEm": "2026-08-16T12:31:31.891Z"
     },
     {
-      "id": "mss1bod9zbzk8vs9r6",
+      "id": "msvsamgj5i9sybalxi",
       "emissao": "2026-08-05",
       "pedido": "10875",
       "cliente": "HEALTH QUALITY",
@@ -3913,6 +4009,8 @@
       "produto": "PA000000001632",
       "descricao": "626100 - ETIQ. PRÉ-IMPRESSA - 60 X 40",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 120000,
       "un": "UN",
       "rUnit": 0.04297,
@@ -3988,10 +4086,10 @@
       "custoMaq": 318.08248333333336,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.862Z"
+      "criadoEm": "2026-08-16T12:31:31.892Z"
     },
     {
-      "id": "mss1bodagnj6ut621y",
+      "id": "msvsamgkoellejq5frt",
       "emissao": "2026-08-05",
       "pedido": "10876",
       "cliente": "CONGREGAÇÃO - CARAPICUIBA",
@@ -4000,6 +4098,8 @@
       "produto": "PA000000002842",
       "descricao": "ETIQ. VERDE - 80 X 20 + RIBBON",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 5000,
       "un": "UN",
       "rUnit": 0.01889,
@@ -4075,10 +4175,10 @@
       "custoMaq": 151.87666666666667,
       "invest": 5,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.862Z"
+      "criadoEm": "2026-08-16T12:31:31.892Z"
     },
     {
-      "id": "mss1bodat0de96twlg",
+      "id": "msvsamgk6vpnps76j8u",
       "emissao": "2026-08-05",
       "pedido": "10877",
       "cliente": "OPPORTUNA - OLEAK",
@@ -4087,6 +4187,8 @@
       "produto": "PA000000002348",
       "descricao": "ETIQ. OPTISAFE LIMPADOR HOSPITALAR - 100 X 70",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 7000,
       "un": "UN",
       "rUnit": 0.29,
@@ -4170,10 +4272,10 @@
       "custoMaq": 348.04911999999996,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.863Z"
+      "criadoEm": "2026-08-16T12:31:31.893Z"
     },
     {
-      "id": "mss1bodbu17mt4vrbl",
+      "id": "msvsamglv3x1y61jixo",
       "emissao": "2026-08-05",
       "pedido": "10878",
       "cliente": "GDS GROW DIETARY SUPPLEME",
@@ -4182,6 +4284,8 @@
       "produto": "PA000000000186",
       "descricao": "ETIQ. 34 X 23 - 3 CARREIRAS",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 300000,
       "un": "UN",
       "rUnit": 0.04,
@@ -4249,10 +4353,10 @@
       "custoMaq": 108.09517333333334,
       "invest": 6000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.863Z"
+      "criadoEm": "2026-08-16T12:31:31.893Z"
     },
     {
-      "id": "mss1bodbd0b3cz9z0yi",
+      "id": "msvsamgltm3hwdj0j6o",
       "emissao": "2026-08-05",
       "pedido": "10879",
       "cliente": "CONGREGAÇÃO - FUNDO",
@@ -4261,6 +4365,8 @@
       "produto": "PA000000000013",
       "descricao": "ETIQ. BRANCA - 101 X 150",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 20000,
       "un": "UN",
       "rUnit": 0.2242,
@@ -4328,10 +4434,10 @@
       "custoMaq": 68.57621333333333,
       "invest": 1300,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.864Z"
+      "criadoEm": "2026-08-16T12:31:31.894Z"
     },
     {
-      "id": "mss1bodcdsj79apjo4e",
+      "id": "msvsamgmnm3dipaoglp",
       "emissao": "2026-08-05",
       "pedido": "10880",
       "cliente": "TRAMONTINA",
@@ -4340,6 +4446,8 @@
       "produto": "PR000000000239",
       "descricao": "A0978 - QUICK CHANGE NEAR EDGE PRINT HEAD 12 DOTS/MM / 300 DPI",
       "grupoProduto": "PEÇA",
+      "centroCusto": "REVENDA",
+      "modeloTecnico": "REVENDA",
       "qtde": 2,
       "un": "UN",
       "rUnit": 6105.89,
@@ -4398,10 +4506,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.864Z"
+      "criadoEm": "2026-08-16T12:31:31.894Z"
     },
     {
-      "id": "mss1bodcmtgujsnnxi",
+      "id": "msvsamgmqv7hac3nr6",
       "emissao": "2026-08-05",
       "pedido": "10881",
       "cliente": "C. PETROP. - S. DO CAPIM",
@@ -4410,6 +4518,8 @@
       "produto": "PA000000003838",
       "descricao": "1066112 - ETIQUETA BRANCA BOPP - 100 X 150",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 10,
       "un": "ROLO",
       "rUnit": 489.5,
@@ -4485,10 +4595,10 @@
       "custoMaq": 323.85214333333334,
       "invest": 699.2,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.865Z"
+      "criadoEm": "2026-08-16T12:31:31.895Z"
     },
     {
-      "id": "mss1boddjxav0qwg96g",
+      "id": "msvsamgn15ge8s92f76j",
       "emissao": "2026-08-05",
       "pedido": "10882",
       "cliente": "SIEGWERK - DIADEMA",
@@ -4497,6 +4607,8 @@
       "produto": "PA000000000017",
       "descricao": "ETIQ. - ES-ADM-0220 - 70 X 200",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 20,
       "un": "MI",
       "rUnit": 185.43,
@@ -4564,10 +4676,10 @@
       "custoMaq": 235.04916,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.865Z"
+      "criadoEm": "2026-08-16T12:31:31.895Z"
     },
     {
-      "id": "mss1bodd3g0juswy3ae",
+      "id": "msvsamgnp9o43u265y",
       "emissao": "2026-08-05",
       "pedido": "10883",
       "cliente": "ITALAC - PASSO FUNDO",
@@ -4576,6 +4688,8 @@
       "produto": "PA000000000342",
       "descricao": "ETIQ. PALETE TRANSTERMICO - 148 X 210",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 25000,
       "un": "UN",
       "rUnit": 0.27,
@@ -4643,10 +4757,10 @@
       "custoMaq": 77.61381333333333,
       "invest": 336.25,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.866Z"
+      "criadoEm": "2026-08-16T12:31:31.896Z"
     },
     {
-      "id": "mss1bodewajy6jjsop",
+      "id": "msvsamgownb19ggozv",
       "emissao": "2026-08-05",
       "pedido": "10883",
       "cliente": "ITALAC - PASSO FUNDO",
@@ -4655,6 +4769,8 @@
       "produto": "PA000000000342",
       "descricao": "ETIQ. PALETE TRANSTERMICO - 148 X 210",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 25000,
       "un": "UN",
       "rUnit": 0.27,
@@ -4722,10 +4838,10 @@
       "custoMaq": 77.61381333333333,
       "invest": 336.25,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.866Z"
+      "criadoEm": "2026-08-16T12:31:31.896Z"
     },
     {
-      "id": "mss1bode7w27bk7eak6",
+      "id": "msvsamgo8xp0h1j1zwy",
       "emissao": "2026-08-05",
       "pedido": "10884",
       "cliente": "GUIGUEL",
@@ -4734,6 +4850,8 @@
       "produto": "PA000000002981",
       "descricao": "ETIQ. ROXO - 100 X 85",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 60,
       "un": "MI",
       "rUnit": 86.24,
@@ -4809,10 +4927,10 @@
       "custoMaq": 654.8703533333332,
       "invest": 300,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.867Z"
+      "criadoEm": "2026-08-16T12:31:31.897Z"
     },
     {
-      "id": "mss1bodfajj8soi3ode",
+      "id": "msvsamgpfc3yld168gt",
       "emissao": "2026-08-05",
       "pedido": "10885",
       "cliente": "HENKEL - ITAPEVI",
@@ -4821,6 +4939,8 @@
       "produto": "PA000000004751",
       "descricao": "ROTULO - S. BONDER MEGA 20G",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 400000,
       "un": "PEÇA",
       "rUnit": 0.04452,
@@ -4896,10 +5016,10 @@
       "custoMaq": 569.6919499999999,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.867Z"
+      "criadoEm": "2026-08-16T12:31:31.897Z"
     },
     {
-      "id": "mss1bodfksarxllvtk",
+      "id": "msvsamgptvtzbtgvu6r",
       "emissao": "2026-08-05",
       "pedido": "10886",
       "cliente": "HENKEL - ITAPEVI",
@@ -4908,6 +5028,8 @@
       "produto": "PA000000004752",
       "descricao": "CONTRA ROTULO - S. BONDER MEGA 20G",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 400000,
       "un": "PEÇA",
       "rUnit": 0.04452,
@@ -4983,10 +5105,10 @@
       "custoMaq": 569.6919499999999,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.868Z"
+      "criadoEm": "2026-08-16T12:31:31.898Z"
     },
     {
-      "id": "mss1bodg7q5n1vslvk6",
+      "id": "msvsamgqbw72w2s7svw",
       "emissao": "2026-08-05",
       "pedido": "10887",
       "cliente": "ATC DO BRASIL",
@@ -4995,6 +5117,8 @@
       "produto": "PA000000003894",
       "descricao": "ETIQUETA BOPP FOSCO - 150MM X 100M",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 15,
       "un": "ROLO",
       "rUnit": 428.65,
@@ -5070,10 +5194,10 @@
       "custoMaq": 163.12464333333332,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.868Z"
+      "criadoEm": "2026-08-16T12:31:31.898Z"
     },
     {
-      "id": "mss1bodgr2colxxf44h",
+      "id": "msvsamgqe3tv8ec4su",
       "emissao": "2026-08-05",
       "pedido": "10888",
       "cliente": "CONTINENTAL - CAMAÇARI",
@@ -5082,6 +5206,8 @@
       "produto": "PR000000000239",
       "descricao": "A0978 - QUICK CHANGE NEAR EDGE PRINT HEAD 12 DOTS/MM / 300 DPI",
       "grupoProduto": "PEÇA",
+      "centroCusto": "REVENDA",
+      "modeloTecnico": "REVENDA",
       "qtde": 2,
       "un": "UN",
       "rUnit": 7095.53,
@@ -5140,10 +5266,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.869Z"
+      "criadoEm": "2026-08-16T12:31:31.899Z"
     },
     {
-      "id": "mss1bodh86jub3usv1q",
+      "id": "msvsamgrzg6fo51x5pp",
       "emissao": "2026-08-05",
       "pedido": "10889",
       "cliente": "M.C. NATURAIS LTDA",
@@ -5152,6 +5278,8 @@
       "produto": "PA000000004753",
       "descricao": "ETIQUETA BOPP BRANCO BRILHO INKJET - 90 X 185",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 10,
       "un": "ROLO",
       "rUnit": 211.47,
@@ -5227,10 +5355,10 @@
       "custoMaq": 120.64416666666666,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.869Z"
+      "criadoEm": "2026-08-16T12:31:31.899Z"
     },
     {
-      "id": "mss1bodhn6r2nob30f",
+      "id": "msvsamgryztjy6doa5p",
       "emissao": "2026-08-05",
       "pedido": "10890",
       "cliente": "ICC - JUNDIAI",
@@ -5239,6 +5367,8 @@
       "produto": "PA000000001110",
       "descricao": "ETIQ. A6 - 100 X 150 - VERDE",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 20,
       "un": "ROLO",
       "rUnit": 129.57,
@@ -5314,10 +5444,10 @@
       "custoMaq": 176.9348433333333,
       "invest": 228,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.870Z"
+      "criadoEm": "2026-08-16T12:31:31.900Z"
     },
     {
-      "id": "mss1bodijrw2jj2tu6",
+      "id": "msvsamgspeg5n1m45ub",
       "emissao": "2026-08-05",
       "pedido": "10890",
       "cliente": "ICC - JUNDIAI",
@@ -5326,6 +5456,8 @@
       "produto": "PA000000002349",
       "descricao": "ETIQ. BRANCA - 105 X 76",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 30,
       "un": "ROLO",
       "rUnit": 325.09,
@@ -5393,10 +5525,10 @@
       "custoMaq": 99.46837333333333,
       "invest": 3000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.870Z"
+      "criadoEm": "2026-08-16T12:31:31.900Z"
     },
     {
-      "id": "mss1bodirsbqi64cwwi",
+      "id": "msvsamgswzuod2yfl1",
       "emissao": "2026-08-05",
       "pedido": "10890",
       "cliente": "ICC - JUNDIAI",
@@ -5405,6 +5537,8 @@
       "produto": "PA000000000115",
       "descricao": "ETIQ. A6 - 100 X 150",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 10,
       "un": "ROLO",
       "rUnit": 111.22,
@@ -5472,10 +5606,10 @@
       "custoMaq": 34.56197333333333,
       "invest": 76,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.870Z"
+      "criadoEm": "2026-08-16T12:31:31.901Z"
     },
     {
-      "id": "mss1bodiz7b3c14ffl",
+      "id": "msvsamgtb71myobeksf",
       "emissao": "2026-08-05",
       "pedido": "10891",
       "cliente": "ICC - JUNDIAI",
@@ -5484,6 +5618,8 @@
       "produto": "PA000000000865",
       "descricao": "ETIQ. 150 X 250",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 90,
       "un": "MI",
       "rUnit": 472.14,
@@ -5551,10 +5687,10 @@
       "custoMaq": 288.2720533333333,
       "invest": 10800,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.871Z"
+      "criadoEm": "2026-08-16T12:31:31.901Z"
     },
     {
-      "id": "mss1bodjp3gczbocnk",
+      "id": "msvsamgt5up3eas3bd",
       "emissao": "2026-08-05",
       "pedido": "10892",
       "cliente": "KLABIN - RIO NEGRO",
@@ -5563,6 +5699,8 @@
       "produto": "PR000000000050",
       "descricao": "RIBBON CERA 110X450",
       "grupoProduto": "RIBBON",
+      "centroCusto": "REVENDA",
+      "modeloTecnico": "REVENDA",
       "qtde": 25,
       "un": "UN",
       "rUnit": 46.12,
@@ -5621,10 +5759,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.871Z"
+      "criadoEm": "2026-08-16T12:31:31.902Z"
     },
     {
-      "id": "mss1bodj35x98ofwppi",
+      "id": "msvsamguyaysu85b18s",
       "emissao": "2026-08-06",
       "pedido": "10893",
       "cliente": "FERTILABEL",
@@ -5633,6 +5771,8 @@
       "produto": "PA000000000320",
       "descricao": "ETIQ. MOSAIC - 95 X 115",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 60000,
       "un": "UN",
       "rUnit": 0.07657,
@@ -5708,10 +5848,10 @@
       "custoMaq": 458.3661333333333,
       "invest": 30,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.872Z"
+      "criadoEm": "2026-08-16T12:31:31.902Z"
     },
     {
-      "id": "mss1bodkk5k1su4j11",
+      "id": "msvsamgudbe3jjxwfq",
       "emissao": "2026-08-06",
       "pedido": "10894",
       "cliente": "MELC",
@@ -5720,6 +5860,8 @@
       "produto": "PA000000000148",
       "descricao": "910019 - ETIQUETA BOPP FOSCO AMARELA - 100 X 25 + RIBBON",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 1,
       "un": "MI",
       "rUnit": 640.62,
@@ -5795,10 +5937,10 @@
       "custoMaq": 151.87666666666667,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.872Z"
+      "criadoEm": "2026-08-16T12:31:31.903Z"
     },
     {
-      "id": "mss1bodkw53pdiaoymp",
+      "id": "msvsamgv6y20ur4pzax",
       "emissao": "2026-08-06",
       "pedido": "10894",
       "cliente": "MELC",
@@ -5807,6 +5949,8 @@
       "produto": "PA000000004755",
       "descricao": "910019 - ETIQUETA BOPP FOSCO AMARELA - 101 X 60 + RIBBON",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 3,
       "un": "MI",
       "rUnit": 262.89,
@@ -5882,10 +6026,10 @@
       "custoMaq": 151.87666666666667,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.873Z"
+      "criadoEm": "2026-08-16T12:31:31.903Z"
     },
     {
-      "id": "mss1bodl4rsts7wu9ob",
+      "id": "msvsamgvsyzdtjjq9n",
       "emissao": "2026-08-06",
       "pedido": "10895",
       "cliente": "KARTER",
@@ -5894,6 +6038,8 @@
       "produto": "PA000000004330",
       "descricao": "RÓTULO KARTER 20LT - HIDRAULICO K-68 - 150 X 150",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 20000,
       "un": "UN",
       "rUnit": 0.42,
@@ -5969,10 +6115,10 @@
       "custoMaq": 528.50427,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.873Z"
+      "criadoEm": "2026-08-16T12:31:31.904Z"
     },
     {
-      "id": "mss1bodl7pf3yfkw4i3",
+      "id": "msvsamgwadjupri5cl",
       "emissao": "2026-08-06",
       "pedido": "10896",
       "cliente": "HEALTH QUALITY",
@@ -5981,6 +6127,8 @@
       "produto": "PA000000001632",
       "descricao": "626100 - ETIQ. PRÉ-IMPRESSA - 60 X 40",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 84000,
       "un": "UN",
       "rUnit": 0.04297,
@@ -6056,10 +6204,10 @@
       "custoMaq": 241.8105233333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.874Z"
+      "criadoEm": "2026-08-16T12:31:31.904Z"
     },
     {
-      "id": "mss1bodmdcr3j5o68wr",
+      "id": "msvsamgwt32n0hjg9cf",
       "emissao": "2026-08-06",
       "pedido": "10896",
       "cliente": "HEALTH QUALITY",
@@ -6068,6 +6216,8 @@
       "produto": "PA000000000395",
       "descricao": "626043 - ETIQ. - 160 X 40 - PACOTES CIRURGICOS",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 400000,
       "un": "UN",
       "rUnit": 0.085,
@@ -6143,10 +6293,10 @@
       "custoMaq": 1736.7589433333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.874Z"
+      "criadoEm": "2026-08-16T12:31:31.905Z"
     },
     {
-      "id": "mss1bodmfoabufxrtvl",
+      "id": "msvsamgxy1yfb5ggwn",
       "emissao": "2026-08-06",
       "pedido": "10896",
       "cliente": "HEALTH QUALITY",
@@ -6155,6 +6305,8 @@
       "produto": "PA000000000092",
       "descricao": "626031 - ETIQ. ADESIVA 100 X 35",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 600000,
       "un": "UN",
       "rUnit": 0.05494608,
@@ -6222,10 +6374,10 @@
       "custoMaq": 425.56141333333335,
       "invest": 10200,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.875Z"
+      "criadoEm": "2026-08-16T12:31:31.905Z"
     },
     {
-      "id": "mss1bodn1wzl0x7qlg7",
+      "id": "msvsamgxrrctmusktpe",
       "emissao": "2026-08-06",
       "pedido": "10896",
       "cliente": "HEALTH QUALITY",
@@ -6234,6 +6386,8 @@
       "produto": "PA000000000183",
       "descricao": "626038 - 25 X 40 - 5 CARREIRAS",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 200000,
       "un": "UN",
       "rUnit": 0.014418585,
@@ -6309,10 +6463,10 @@
       "custoMaq": 344.53416333333337,
       "invest": 400,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.875Z"
+      "criadoEm": "2026-08-16T12:31:31.906Z"
     },
     {
-      "id": "mss1bodnoktl8huvtbf",
+      "id": "msvsamgyf5z4ml4qaqv",
       "emissao": "2026-08-06",
       "pedido": "10896",
       "cliente": "HEALTH QUALITY",
@@ -6321,6 +6475,8 @@
       "produto": "PA000000000191",
       "descricao": "626042 - ETIQ. ADESIVA 100 X 73",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 150000,
       "un": "UN",
       "rUnit": 0.097667775,
@@ -6388,10 +6544,10 @@
       "custoMaq": 219.66845333333333,
       "invest": 4500,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.876Z"
+      "criadoEm": "2026-08-16T12:31:31.906Z"
     },
     {
-      "id": "mss1bodokqhzm3ikg9",
+      "id": "msvsamgyvoriqap5onm",
       "emissao": "2026-08-06",
       "pedido": "10896",
       "cliente": "HEALTH QUALITY",
@@ -6400,6 +6556,8 @@
       "produto": "PA000000001864",
       "descricao": "626055 - ETIQ COMPRESSA PEQUENA - 50 X 150 X 2",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 21000,
       "un": "UN",
       "rUnit": 0.32193675,
@@ -6475,10 +6633,10 @@
       "custoMaq": 508.62396000000007,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.876Z"
+      "criadoEm": "2026-08-16T12:31:31.907Z"
     },
     {
-      "id": "mss1bodoiw3cj09eqy8",
+      "id": "msvsamgzev4g1er0ka9",
       "emissao": "2026-08-06",
       "pedido": "10896",
       "cliente": "HEALTH QUALITY",
@@ -6487,6 +6645,8 @@
       "produto": "PA000000000198",
       "descricao": "626085 - ETIQ ADE 30 X 20 - 3 CARREIRAS - SUPERIOR",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 300000,
       "un": "UN",
       "rUnit": 0.03014334,
@@ -6562,10 +6722,10 @@
       "custoMaq": 425.81357333333335,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.877Z"
+      "criadoEm": "2026-08-16T12:31:31.907Z"
     },
     {
-      "id": "mss1bodprx4ccjgx91j",
+      "id": "msvsamgzr3unl69mr7",
       "emissao": "2026-08-06",
       "pedido": "10897",
       "cliente": "FERTILABEL",
@@ -6574,6 +6734,8 @@
       "produto": "PA000000003385",
       "descricao": "ETIQ. PRAPLANTA - 95 X 90",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 229500,
       "un": "UN",
       "rUnit": 0.07518539,
@@ -6649,10 +6811,10 @@
       "custoMaq": 1144.2286533333333,
       "invest": 114.75,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.877Z"
+      "criadoEm": "2026-08-16T12:31:31.908Z"
     },
     {
-      "id": "mss1bodpq3orwmw174a",
+      "id": "msvsamh0nx3my9ss2y9",
       "emissao": "2026-08-06",
       "pedido": "10898",
       "cliente": "PROZYN INDUSTRIA E COMERC",
@@ -6661,6 +6823,8 @@
       "produto": "PA000000000300",
       "descricao": "ETIQ. - 160 X 297 - TARJA AZUL",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 15000,
       "un": "UN",
       "rUnit": 0.96342,
@@ -6736,10 +6900,10 @@
       "custoMaq": 653.0527433333334,
       "invest": 1500,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.878Z"
+      "criadoEm": "2026-08-16T12:31:31.908Z"
     },
     {
-      "id": "mss1bodq34tqkyedmt1",
+      "id": "msvsamh0mw7iwqzblz",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -6748,6 +6912,8 @@
       "produto": "PA000000000562",
       "descricao": "ETIQ. 105 X 76",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 240000,
       "un": "UN",
       "rUnit": 0.10317,
@@ -6815,10 +6981,10 @@
       "custoMaq": 356.9578133333333,
       "invest": 7200,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.878Z"
+      "criadoEm": "2026-08-16T12:31:31.909Z"
     },
     {
-      "id": "mss1bodqssoimqvsr4c",
+      "id": "msvsamh1930l1kir0vw",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -6827,6 +6993,8 @@
       "produto": "PA000000000563",
       "descricao": "ETIQ. ADESIVA 210 X 148",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 33600,
       "un": "UN",
       "rUnit": 0.24406,
@@ -6894,10 +7062,10 @@
       "custoMaq": 99.55053333333333,
       "invest": 504,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.879Z"
+      "criadoEm": "2026-08-16T12:31:31.909Z"
     },
     {
-      "id": "mss1bodr17l6gpf2jb2",
+      "id": "msvsamh1er15wifp6e7",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -6906,6 +7074,8 @@
       "produto": "PA000000000561",
       "descricao": "ETIQ. - 102 X 149",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 20000,
       "un": "UN",
       "rUnit": 0.12142,
@@ -6973,10 +7143,10 @@
       "custoMaq": 68.57621333333333,
       "invest": 240,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.879Z"
+      "criadoEm": "2026-08-16T12:31:31.910Z"
     },
     {
-      "id": "mss1bodrxh6aanagsbq",
+      "id": "msvsamh2659e7s29qge",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -6985,6 +7155,8 @@
       "produto": "PA000000000562",
       "descricao": "ETIQ. 105 X 76",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 200000,
       "un": "UN",
       "rUnit": 0.10317,
@@ -7052,10 +7224,10 @@
       "custoMaq": 299.6922933333333,
       "invest": 6000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.879Z"
+      "criadoEm": "2026-08-16T12:31:31.910Z"
     },
     {
-      "id": "mss1bodr5ah1g45tugu",
+      "id": "msvsamh2eg5oqkw3x0h",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -7064,6 +7236,8 @@
       "produto": "PA000000000563",
       "descricao": "ETIQ. ADESIVA 210 X 148",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 33600,
       "un": "UN",
       "rUnit": 0.24406,
@@ -7131,10 +7305,10 @@
       "custoMaq": 99.55053333333333,
       "invest": 504,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.880Z"
+      "criadoEm": "2026-08-16T12:31:31.911Z"
     },
     {
-      "id": "mss1bodsfyztzkm5ef5",
+      "id": "msvsamh36y9bip72syy",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -7143,6 +7317,8 @@
       "produto": "PA000000000561",
       "descricao": "ETIQ. - 102 X 149",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 40000,
       "un": "UN",
       "rUnit": 0.12142,
@@ -7210,10 +7386,10 @@
       "custoMaq": 123.54125333333333,
       "invest": 480,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.880Z"
+      "criadoEm": "2026-08-16T12:31:31.911Z"
     },
     {
-      "id": "mss1bods5rt27h8q9s",
+      "id": "msvsamh3lbgkmvyu51k",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -7222,6 +7398,8 @@
       "produto": "PA000000000562",
       "descricao": "ETIQ. 105 X 76",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 200000,
       "un": "UN",
       "rUnit": 0.10317,
@@ -7289,10 +7467,10 @@
       "custoMaq": 299.6922933333333,
       "invest": 6000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.881Z"
+      "criadoEm": "2026-08-16T12:31:31.912Z"
     },
     {
-      "id": "mss1bodt9kuxnr6eha5",
+      "id": "msvsamh4z8ku9arrhe",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -7301,6 +7479,8 @@
       "produto": "PA000000000563",
       "descricao": "ETIQ. ADESIVA 210 X 148",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 33600,
       "un": "UN",
       "rUnit": 0.24406,
@@ -7368,10 +7548,10 @@
       "custoMaq": 99.55053333333333,
       "invest": 504,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.881Z"
+      "criadoEm": "2026-08-16T12:31:31.912Z"
     },
     {
-      "id": "mss1bodtcswlto2490o",
+      "id": "msvsamh480iecvtkr1l",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -7380,6 +7560,8 @@
       "produto": "PA000000000561",
       "descricao": "ETIQ. - 102 X 149",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 40000,
       "un": "UN",
       "rUnit": 0.12142,
@@ -7447,10 +7629,10 @@
       "custoMaq": 123.54125333333333,
       "invest": 480,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.882Z"
+      "criadoEm": "2026-08-16T12:31:31.913Z"
     },
     {
-      "id": "mss1boduot0zhnfrl2q",
+      "id": "msvsamh5wzbwaqxtcyq",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -7459,6 +7641,8 @@
       "produto": "PA000000000562",
       "descricao": "ETIQ. 105 X 76",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 200000,
       "un": "UN",
       "rUnit": 0.10317,
@@ -7526,10 +7710,10 @@
       "custoMaq": 299.6922933333333,
       "invest": 6000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.884Z"
+      "criadoEm": "2026-08-16T12:31:31.913Z"
     },
     {
-      "id": "mss1bodwxh4ch216iw",
+      "id": "msvsamh5f26vox7ycru",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -7538,6 +7722,8 @@
       "produto": "PA000000000563",
       "descricao": "ETIQ. ADESIVA 210 X 148",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 33600,
       "un": "UN",
       "rUnit": 0.24406,
@@ -7605,10 +7791,10 @@
       "custoMaq": 99.55053333333333,
       "invest": 504,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.884Z"
+      "criadoEm": "2026-08-16T12:31:31.913Z"
     },
     {
-      "id": "mss1bodwdeerw972wev",
+      "id": "msvsamh5s8wwmoksf1h",
       "emissao": "2026-08-06",
       "pedido": "10899",
       "cliente": "SANTHER - BRAGANÇA",
@@ -7617,6 +7803,8 @@
       "produto": "PA000000000561",
       "descricao": "ETIQ. - 102 X 149",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 40000,
       "un": "UN",
       "rUnit": 0.12142,
@@ -7684,10 +7872,10 @@
       "custoMaq": 123.54125333333333,
       "invest": 480,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.885Z"
+      "criadoEm": "2026-08-16T12:31:31.916Z"
     },
     {
-      "id": "mss1bodxmiuywn9tt8",
+      "id": "msvsamh80siqqa8siohc",
       "emissao": "2026-08-06",
       "pedido": "10900",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -7696,6 +7884,8 @@
       "produto": "PR000000000054",
       "descricao": "647463 - RIBBON MECTEC PRETO - 300 X 450",
       "grupoProduto": "RIBBON",
+      "centroCusto": "REVENDA",
+      "modeloTecnico": "REVENDA",
       "qtde": 100,
       "un": "UN",
       "rUnit": 360.57,
@@ -7754,10 +7944,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.885Z"
+      "criadoEm": "2026-08-16T12:31:31.917Z"
     },
     {
-      "id": "mss1bodx1dqc9ibh2gl",
+      "id": "msvsamh9bbhelpq9xd8",
       "emissao": "2026-08-06",
       "pedido": "10900",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -7766,6 +7956,8 @@
       "produto": "PR000000000557",
       "descricao": "COD. 961437 - ETIQ. ADESIVA BRANCA/VERDE OFF SET",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "REVENDA",
+      "modeloTecnico": "REVENDA",
       "qtde": 20000,
       "un": "UN",
       "rUnit": 0.76,
@@ -7824,10 +8016,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.886Z"
+      "criadoEm": "2026-08-16T12:31:31.917Z"
     },
     {
-      "id": "mss1body5ha6r43zwxo",
+      "id": "msvsamh9373lka4zddh",
       "emissao": "2026-08-06",
       "pedido": "10901",
       "cliente": "PROSEGUR - RIO DE JANEIRO",
@@ -7836,6 +8028,8 @@
       "produto": "PA000000001179",
       "descricao": "ETIQ. BOPP 100 X 80",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 22000,
       "un": "UN",
       "rUnit": 0.238,
@@ -7911,10 +8105,10 @@
       "custoMaq": 163.28082333333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.886Z"
+      "criadoEm": "2026-08-16T12:31:31.918Z"
     },
     {
-      "id": "mss1body31ltmzzrens",
+      "id": "msvsamhao391d1vb3mn",
       "emissao": "2026-08-06",
       "pedido": "10901",
       "cliente": "PROSEGUR - RIO DE JANEIRO",
@@ -7923,6 +8117,8 @@
       "produto": "PA000000001074",
       "descricao": "ETIQ. 100 X 100",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 100,
       "un": "ROLO",
       "rUnit": 37.23,
@@ -7998,10 +8194,10 @@
       "custoMaq": 196.16435666666666,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.887Z"
+      "criadoEm": "2026-08-16T12:31:31.918Z"
     },
     {
-      "id": "mss1bodz3mhc6jes1tv",
+      "id": "msvsamha1pwqwumle1hh",
       "emissao": "2026-08-06",
       "pedido": "10902",
       "cliente": "MARCO BONI",
@@ -8010,6 +8206,8 @@
       "produto": "PA000000003788",
       "descricao": "ETIQUETA BOPP BRILHO - 25 X 10",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 100,
       "un": "MI",
       "rUnit": 13.13,
@@ -8077,10 +8275,10 @@
       "custoMaq": 286.53947,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.887Z"
+      "criadoEm": "2026-08-16T12:31:31.919Z"
     },
     {
-      "id": "mss1bodzvp59rkehv1p",
+      "id": "msvsamhb0vi1kzus7plm",
       "emissao": "2026-08-06",
       "pedido": "10903",
       "cliente": "NIVEA",
@@ -8089,6 +8287,8 @@
       "produto": "PR000000000333",
       "descricao": "98159 - SPRING",
       "grupoProduto": "PEÇA",
+      "centroCusto": "REVENDA",
+      "modeloTecnico": "REVENDA",
       "qtde": 1,
       "un": "UN",
       "rUnit": 52.73,
@@ -8147,10 +8347,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.888Z"
+      "criadoEm": "2026-08-16T12:31:31.919Z"
     },
     {
-      "id": "mss1boe01gr9h7f6o2k",
+      "id": "msvsamhbvj0uuyram7",
       "emissao": "2026-08-06",
       "pedido": "10904",
       "cliente": "FCI",
@@ -8159,6 +8359,8 @@
       "produto": "PA000000004756",
       "descricao": "ETIQUETA REDELEASE - SUBSTANCIAS - 77 X 194",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 2000,
       "un": "UN",
       "rUnit": 0.67,
@@ -8242,10 +8444,10 @@
       "custoMaq": 312.32592000000005,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.888Z"
+      "criadoEm": "2026-08-16T12:31:31.920Z"
     },
     {
-      "id": "mss1boe0r09coo8pc08",
+      "id": "msvsamhcf2zqlph5qn8",
       "emissao": "2026-08-06",
       "pedido": "10904",
       "cliente": "FCI",
@@ -8254,6 +8456,8 @@
       "produto": "PA000000004757",
       "descricao": "ETIQUETA REDELEASE - CORROSIVO - 77 X 194",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 3000,
       "un": "UN",
       "rUnit": 0.59,
@@ -8337,10 +8541,10 @@
       "custoMaq": 333.75984,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.889Z"
+      "criadoEm": "2026-08-16T12:31:31.920Z"
     },
     {
-      "id": "mss1boe1ekc0s9t31rw",
+      "id": "msvsamhcuymc2saord9",
       "emissao": "2026-08-06",
       "pedido": "10904",
       "cliente": "FCI",
@@ -8349,6 +8553,8 @@
       "produto": "PA000000004758",
       "descricao": "ETIQUETA REDELEASE - INFLAMAVEL - 77 X 194",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 500,
       "un": "UN",
       "rUnit": 1.83,
@@ -8432,10 +8638,10 @@
       "custoMaq": 279.28195999999997,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.889Z"
+      "criadoEm": "2026-08-16T12:31:31.921Z"
     },
     {
-      "id": "mss1boe125ffjp9xv5r",
+      "id": "msvsamhdytgmy9mztx",
       "emissao": "2026-08-06",
       "pedido": "10904",
       "cliente": "FCI",
@@ -8444,6 +8650,8 @@
       "produto": "PA000000004759",
       "descricao": "ETIQUETA REDELEASE - 77 X 194",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 5000,
       "un": "UN",
       "rUnit": 0.5,
@@ -8527,10 +8735,10 @@
       "custoMaq": 393.39716,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.890Z"
+      "criadoEm": "2026-08-16T12:31:31.921Z"
     },
     {
-      "id": "mss1boe2eat89bw4k66",
+      "id": "msvsamhd5brv1pui8fa",
       "emissao": "2026-08-06",
       "pedido": "10904",
       "cliente": "FCI",
@@ -8539,6 +8747,8 @@
       "produto": "PA000000004471",
       "descricao": "ETIQUETA REDELEASE - 105 X 47",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 3000,
       "un": "UN",
       "rUnit": 0.32,
@@ -8622,10 +8832,10 @@
       "custoMaq": 333.40523,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.890Z"
+      "criadoEm": "2026-08-16T12:31:31.922Z"
     },
     {
-      "id": "mss1boe2fbs7xkhezb",
+      "id": "msvsamheizkqpcrw8yj",
       "emissao": "2026-08-06",
       "pedido": "10904",
       "cliente": "FCI",
@@ -8634,6 +8844,8 @@
       "produto": "PA000000004760",
       "descricao": "ETIQUETA BRANCA - 34 X 23 X 3",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 1000,
       "un": "UN",
       "rUnit": 0.33,
@@ -8701,10 +8913,10 @@
       "custoMaq": 27.386666666666663,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.891Z"
+      "criadoEm": "2026-08-16T12:31:31.923Z"
     },
     {
-      "id": "mss1boe36m0c5x2opys",
+      "id": "msvsamhfrgiahc9xxb",
       "emissao": "2026-08-06",
       "pedido": "10904",
       "cliente": "FCI",
@@ -8713,6 +8925,8 @@
       "produto": "PA000000003800",
       "descricao": "ETIQUETA BRANCA - 100 X 50",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 5000,
       "un": "UN",
       "rUnit": 0.11,
@@ -8780,10 +8994,10 @@
       "custoMaq": 27.386666666666663,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.891Z"
+      "criadoEm": "2026-08-16T12:31:31.923Z"
     },
     {
-      "id": "mss1boe3s9fhxvywczq",
+      "id": "msvsamhfqqmihbwadt",
       "emissao": "2026-08-06",
       "pedido": "10904",
       "cliente": "FCI",
@@ -8792,6 +9006,8 @@
       "produto": "PA000000004651",
       "descricao": "ETIQUETA FCI - 100 X 135 + RIBBON",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 5000,
       "un": "UN",
       "rUnit": 0.33,
@@ -8867,10 +9083,10 @@
       "custoMaq": 151.87666666666667,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.892Z"
+      "criadoEm": "2026-08-16T12:31:31.924Z"
     },
     {
-      "id": "mss1boe4v8lgdydpqpb",
+      "id": "msvsamhgqny8t3kb3u",
       "emissao": "2026-08-06",
       "pedido": "10904",
       "cliente": "FCI",
@@ -8879,6 +9095,8 @@
       "produto": "PA000000003942",
       "descricao": "ETIQUETA FCI - 105 X 47",
       "grupoProduto": "COMODATO",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 5000,
       "un": "UN",
       "rUnit": 0.32,
@@ -8970,10 +9188,10 @@
       "custoMaq": 436.5223366666667,
       "invest": 50,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.892Z"
+      "criadoEm": "2026-08-16T12:31:31.924Z"
     },
     {
-      "id": "mss1boe4ow73rqc7s5g",
+      "id": "msvsamhg1nhylxtmmea",
       "emissao": "2026-08-07",
       "pedido": "10905",
       "cliente": "SINTEQUÍMICA",
@@ -8982,6 +9200,8 @@
       "produto": "PA000000004554",
       "descricao": "RÓTULO BOPP INKJET  - 99 X 175",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 5000,
       "un": "PEÇA",
       "rUnit": 0.699,
@@ -9049,10 +9269,10 @@
       "custoMaq": 87.9675,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.893Z"
+      "criadoEm": "2026-08-16T12:31:31.925Z"
     },
     {
-      "id": "mss1boe5feveiyxvtzg",
+      "id": "msvsamhhx7dvcl3pkbo",
       "emissao": "2026-08-07",
       "pedido": "10906",
       "cliente": "CIA DA NATUREZA",
@@ -9061,6 +9281,8 @@
       "produto": "PA000000002650",
       "descricao": "RÓTULO COLONIA BANHO DE BEBE - 101 X 65",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 170000,
       "un": "UN",
       "rUnit": 0.08,
@@ -9136,10 +9358,10 @@
       "custoMaq": 1320.7183266666666,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.893Z"
+      "criadoEm": "2026-08-16T12:31:31.925Z"
     },
     {
-      "id": "mss1boe6lcz5ugswt7s",
+      "id": "msvsamhhj0uk71bcbig",
       "emissao": "2026-08-07",
       "pedido": "10906",
       "cliente": "CIA DA NATUREZA",
@@ -9148,6 +9370,8 @@
       "produto": "PA000000002653",
       "descricao": "CONTRA RÓTULO BANHO DE BEBE - 63 X 40",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 170000,
       "un": "UN",
       "rUnit": 0.032,
@@ -9223,10 +9447,10 @@
       "custoMaq": 548.3799866666666,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.894Z"
+      "criadoEm": "2026-08-16T12:31:31.926Z"
     },
     {
-      "id": "mss1boe62xzaowzk96i",
+      "id": "msvsamhipmljk4q6cna",
       "emissao": "2026-08-07",
       "pedido": "10907",
       "cliente": "CIA DA NATUREZA",
@@ -9235,6 +9459,8 @@
       "produto": "PA000000003078",
       "descricao": "RÓTULO COLONIA CIA AMOR - 101 X 65",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 60000,
       "un": "UN",
       "rUnit": 0.118,
@@ -9310,10 +9536,10 @@
       "custoMaq": 637.8514633333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.895Z"
+      "criadoEm": "2026-08-16T12:31:31.926Z"
     },
     {
-      "id": "mss1boe7p2x77mor2dd",
+      "id": "msvsamhih8f7lusxle",
       "emissao": "2026-08-07",
       "pedido": "10907",
       "cliente": "CIA DA NATUREZA",
@@ -9322,6 +9548,8 @@
       "produto": "PA000000003079",
       "descricao": "CONTRA COLONIA CIA AMOR - 63 X 40",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 60000,
       "un": "UN",
       "rUnit": 0.038,
@@ -9397,10 +9625,10 @@
       "custoMaq": 242.8116133333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.895Z"
+      "criadoEm": "2026-08-16T12:31:31.927Z"
     },
     {
-      "id": "mss1boe7xtu5c189lvn",
+      "id": "msvsamhjvan2ckwqqcp",
       "emissao": "2026-08-07",
       "pedido": "10908",
       "cliente": "VPJ COMERCIO DE PRODUTOS",
@@ -9409,6 +9637,8 @@
       "produto": "PA000000004352",
       "descricao": "RÓTULO ANGUS BEEF CONGELADO S/ OSSO  - 60,4 X 80",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 52,
       "un": "MI",
       "rUnit": 87,
@@ -9484,10 +9714,10 @@
       "custoMaq": 1755.4461933333334,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.896Z"
+      "criadoEm": "2026-08-16T12:31:31.927Z"
     },
     {
-      "id": "mss1boe860our22m4oo",
+      "id": "msvsamhjz7jfok3cos",
       "emissao": "2026-08-07",
       "pedido": "10908",
       "cliente": "VPJ COMERCIO DE PRODUTOS",
@@ -9496,6 +9726,8 @@
       "produto": "PA000000004706",
       "descricao": "RÓTULO EXTERNOS BLACK ANGUS CONG. SEM OSSO - 98,15 X 130",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 3,
       "un": "MI",
       "rUnit": 284.88,
@@ -9579,10 +9811,10 @@
       "custoMaq": 663.8319999999999,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.896Z"
+      "criadoEm": "2026-08-16T12:31:31.928Z"
     },
     {
-      "id": "mss1boe8nsnb03fj97",
+      "id": "msvsamhkimevozdo13e",
       "emissao": "2026-08-07",
       "pedido": "10908",
       "cliente": "VPJ COMERCIO DE PRODUTOS",
@@ -9591,6 +9823,8 @@
       "produto": "PA000000004688",
       "descricao": "ROTULO EXTERNO BLACK ANGUS CONGELADA COM OSSO 75,5  X 100",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 6,
       "un": "MI",
       "rUnit": 129.77,
@@ -9674,10 +9908,10 @@
       "custoMaq": 702.8280199999999,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.897Z"
+      "criadoEm": "2026-08-16T12:31:31.929Z"
     },
     {
-      "id": "mss1boe9jampx41xnc",
+      "id": "msvsamhlyxrrxhtqpgc",
       "emissao": "2026-08-07",
       "pedido": "10909",
       "cliente": "HENKEL - ITAPEVI",
@@ -9686,6 +9920,8 @@
       "produto": "PA000000001415",
       "descricao": "ETIQ. GEN. - 194 X 150 - VEGAM",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 20000,
       "un": "PEÇA",
       "rUnit": 1.566232668,
@@ -9761,10 +9997,10 @@
       "custoMaq": 535.1327133333333,
       "invest": 6000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.898Z"
+      "criadoEm": "2026-08-16T12:31:31.929Z"
     },
     {
-      "id": "mss1boearmf3hz92cbg",
+      "id": "msvsamhlqj22z69mefg",
       "emissao": "2026-08-07",
       "pedido": "10909",
       "cliente": "HENKEL - ITAPEVI",
@@ -9773,6 +10009,8 @@
       "produto": "PA000000000629",
       "descricao": "ROTULO COLA MADEIRA 100G",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 60000,
       "un": "PEÇA",
       "rUnit": 0.03313674,
@@ -9856,10 +10094,10 @@
       "custoMaq": 710.4675633333334,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.898Z"
+      "criadoEm": "2026-08-16T12:31:31.930Z"
     },
     {
-      "id": "mss1boead4s8zsjqw4u",
+      "id": "msvsamhmotsmlzy441",
       "emissao": "2026-08-07",
       "pedido": "10909",
       "cliente": "HENKEL - ITAPEVI",
@@ -9868,6 +10106,8 @@
       "produto": "PA000000000424",
       "descricao": "CONTRA ROTULO COLA MADEIRA 250G",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 25000,
       "un": "PEÇA",
       "rUnit": 0.06868134,
@@ -9951,10 +10191,10 @@
       "custoMaq": 577.1467033333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.899Z"
+      "criadoEm": "2026-08-16T12:31:31.930Z"
     },
     {
-      "id": "mss1boeb7a82ytg2io4",
+      "id": "msvsamhmdfsekn2em6t",
       "emissao": "2026-08-07",
       "pedido": "10909",
       "cliente": "HENKEL - ITAPEVI",
@@ -9963,6 +10203,8 @@
       "produto": "PA000000001491",
       "descricao": "FRENTE - CASCOLA ARTESANATO 250G",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 12000,
       "un": "PEÇA",
       "rUnit": 0.07877142,
@@ -10046,10 +10288,10 @@
       "custoMaq": 521.8559466666666,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.899Z"
+      "criadoEm": "2026-08-16T12:31:31.931Z"
     },
     {
-      "id": "mss1boebdbyx7bniml",
+      "id": "msvsamhnb7oj9cjthga",
       "emissao": "2026-08-07",
       "pedido": "10909",
       "cliente": "HENKEL - ITAPEVI",
@@ -10058,6 +10300,8 @@
       "produto": "PA000000003313",
       "descricao": "ROTULO LOCTITE AA H3110 - 233 X 165",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 2500,
       "un": "UN",
       "rUnit": 0.87,
@@ -10133,10 +10377,10 @@
       "custoMaq": 350.2075,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.900Z"
+      "criadoEm": "2026-08-16T12:31:31.931Z"
     },
     {
-      "id": "mss1boec3asq9ljk1k8",
+      "id": "msvsamhnrzk5zeeakno",
       "emissao": "2026-08-07",
       "pedido": "10909",
       "cliente": "HENKEL - ITAPEVI",
@@ -10145,6 +10389,8 @@
       "produto": "PA000000000338",
       "descricao": "ETQ GEN. - 31,7 X 89 - VEGAM",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 3000,
       "un": "PEÇA",
       "rUnit": 0.25378,
@@ -10212,10 +10458,10 @@
       "custoMaq": 87.9675,
       "invest": 240,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.900Z"
+      "criadoEm": "2026-08-16T12:31:31.932Z"
     },
     {
-      "id": "mss1boeckelsb24ick",
+      "id": "msvsamhoj4sh9p1inuo",
       "emissao": "2026-08-07",
       "pedido": "10909",
       "cliente": "HENKEL - ITAPEVI",
@@ -10224,6 +10470,8 @@
       "produto": "PA000000002984",
       "descricao": "ETQ. GEN. - 136,5 X 165,1 - VEGAM (MODELO NOVO)",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 25000,
       "un": "PEÇA",
       "rUnit": 1.19718,
@@ -10291,10 +10539,10 @@
       "custoMaq": 165.27853333333334,
       "invest": 7500,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.901Z"
+      "criadoEm": "2026-08-16T12:31:31.932Z"
     },
     {
-      "id": "mss1boede4rhjg1zu6w",
+      "id": "msvsamhoso6ox2qq7ih",
       "emissao": "2026-08-07",
       "pedido": "10909",
       "cliente": "HENKEL - ITAPEVI",
@@ -10303,6 +10551,8 @@
       "produto": "PA000000002604",
       "descricao": "ETQ. GEN. - 55 X 67,35 - VEGAM",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 50000,
       "un": "PEÇA",
       "rUnit": 0.40603,
@@ -10370,10 +10620,10 @@
       "custoMaq": 372.27846,
       "invest": 8750,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.901Z"
+      "criadoEm": "2026-08-16T12:31:31.933Z"
     },
     {
-      "id": "mss1boedimxt41rsgym",
+      "id": "msvsamhp3xxfjwx7enu",
       "emissao": "2026-08-07",
       "pedido": "10909",
       "cliente": "HENKEL - ITAPEVI",
@@ -10382,6 +10632,8 @@
       "produto": "PA000000001611",
       "descricao": "ETQ. GEN. - 80 X 127 - VEGAM",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 70000,
       "un": "PEÇA",
       "rUnit": 0.518653044,
@@ -10457,10 +10709,10 @@
       "custoMaq": 742.1177833333333,
       "invest": 9800.000000000002,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.902Z"
+      "criadoEm": "2026-08-16T12:31:31.933Z"
     },
     {
-      "id": "mss1boeetvnmn1o67bk",
+      "id": "msvsamhp17qk7qhaay9",
       "emissao": "2026-08-07",
       "pedido": "10909",
       "cliente": "HENKEL - ITAPEVI",
@@ -10469,6 +10721,8 @@
       "produto": "PA000000002293",
       "descricao": "ETQ GEN. - 40 X 23 - VEGAM",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 40000,
       "un": "PEÇA",
       "rUnit": 0.1012,
@@ -10536,10 +10790,10 @@
       "custoMaq": 235.04916,
       "invest": 600,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.902Z"
+      "criadoEm": "2026-08-16T12:31:31.934Z"
     },
     {
-      "id": "mss1boeea78h730ylbq",
+      "id": "msvsamhqitgvwgdip2",
       "emissao": "2026-08-07",
       "pedido": "10910",
       "cliente": "HEALTH QUALITY",
@@ -10548,6 +10802,8 @@
       "produto": "PA000000000609",
       "descricao": "664006 - ETIQ. TIPO PULSEIRA - 160 X 15",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 30000,
       "un": "UN",
       "rUnit": 0.050198535,
@@ -10623,10 +10879,10 @@
       "custoMaq": 1432.4955066666666,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.903Z"
+      "criadoEm": "2026-08-16T12:31:31.934Z"
     },
     {
-      "id": "mss1boefci7opks54g",
+      "id": "msvsamhq53owmqz2r49",
       "emissao": "2026-08-07",
       "pedido": "10911",
       "cliente": "C. PETROP. - NARANDIBA",
@@ -10635,6 +10891,8 @@
       "produto": "PA000000003839",
       "descricao": "1079104 - ETIQUETA COUCHE BRANCA - 105 X 55",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 3,
       "un": "ROLO",
       "rUnit": 69.8,
@@ -10702,10 +10960,10 @@
       "custoMaq": 27.386666666666663,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.903Z"
+      "criadoEm": "2026-08-16T12:31:31.935Z"
     },
     {
-      "id": "mss1boef36ne81rhrcf",
+      "id": "msvsamhrqx2z7j3q9lt",
       "emissao": "2026-08-07",
       "pedido": "10912",
       "cliente": "C. PETROP. - NARANDIBA",
@@ -10714,6 +10972,8 @@
       "produto": "PA000000004123",
       "descricao": "1079105 - ETIQUETA COUCHE AMARELA - 100 X 150",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 1,
       "un": "ROLO",
       "rUnit": 69.88,
@@ -10789,10 +11049,10 @@
       "custoMaq": 151.87666666666667,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.904Z"
+      "criadoEm": "2026-08-16T12:31:31.935Z"
     },
     {
-      "id": "mss1boegwct07ufada",
+      "id": "msvsamhrzf1ppmoi79m",
       "emissao": "2026-08-07",
       "pedido": "10914",
       "cliente": "FERTILABEL",
@@ -10801,6 +11061,8 @@
       "produto": "PA000000000320",
       "descricao": "ETIQ. MOSAIC - 95 X 115",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 48000,
       "un": "UN",
       "rUnit": 0.07657,
@@ -10876,10 +11138,10 @@
       "custoMaq": 396.4740933333333,
       "invest": 24,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.904Z"
+      "criadoEm": "2026-08-16T12:31:31.936Z"
     },
     {
-      "id": "mss1boegx8bz2jrk1ks",
+      "id": "msvsamhsv8lgfgly5j",
       "emissao": "2026-08-07",
       "pedido": "10915",
       "cliente": "SANTHER - BRAGANÇA",
@@ -10888,6 +11150,8 @@
       "produto": "PA000000000563",
       "descricao": "ETIQ. ADESIVA 210 X 148",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 33600,
       "un": "UN",
       "rUnit": 0.24406,
@@ -10955,10 +11219,10 @@
       "custoMaq": 99.55053333333333,
       "invest": 504,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.904Z"
+      "criadoEm": "2026-08-16T12:31:31.936Z"
     },
     {
-      "id": "mss1boegu9ce6ywkzqs",
+      "id": "msvsamhsg9vuoyshtig",
       "emissao": "2026-08-07",
       "pedido": "10916",
       "cliente": "PROSEGUR - PAULO AFONSO",
@@ -10967,6 +11231,8 @@
       "produto": "PR000000000112",
       "descricao": "ETIQ. - 100X60000 - TAG - L1 85",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "REVENDA",
+      "modeloTecnico": "REVENDA",
       "qtde": 20,
       "un": "ROLO",
       "rUnit": 19.93,
@@ -11025,10 +11291,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.905Z"
+      "criadoEm": "2026-08-16T12:31:31.937Z"
     },
     {
-      "id": "mss1boehr1qmonk2smq",
+      "id": "msvsamhtpd4frizifd",
       "emissao": "2026-08-07",
       "pedido": "10916",
       "cliente": "PROSEGUR - PAULO AFONSO",
@@ -11037,6 +11303,8 @@
       "produto": "PA000000000567",
       "descricao": "40025 - ETIQUETA ADESIVA 90 X 30",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 15,
       "un": "ROLO",
       "rUnit": 32.86,
@@ -11104,10 +11372,10 @@
       "custoMaq": 29.796693333333334,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.905Z"
+      "criadoEm": "2026-08-16T12:31:31.937Z"
     },
     {
-      "id": "mss1boehkae4t7h7qn",
+      "id": "msvsamhtp49hh9vhzbn",
       "emissao": "2026-08-07",
       "pedido": "10917",
       "cliente": "QUIMICA MODERNA",
@@ -11116,6 +11384,8 @@
       "produto": "PA000000003793",
       "descricao": "ETIQUETA COUCHE BRILHO DIGITAL - 76 X 200",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 30000,
       "un": "UN",
       "rUnit": 0.38026,
@@ -11183,10 +11453,10 @@
       "custoMaq": 646.61977,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.906Z"
+      "criadoEm": "2026-08-16T12:31:31.938Z"
     },
     {
-      "id": "mss1boeiz2bu3ttk7j",
+      "id": "msvsamhucur3pl4npta",
       "emissao": "2026-08-07",
       "pedido": "10917",
       "cliente": "QUIMICA MODERNA",
@@ -11195,6 +11465,8 @@
       "produto": "PA000000003794",
       "descricao": "ETIQUETA COUCHE BRILHO DIGITAL - 100 X 150",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 1000,
       "un": "UN",
       "rUnit": 0.52881,
@@ -11262,10 +11534,10 @@
       "custoMaq": 87.9675,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.906Z"
+      "criadoEm": "2026-08-16T12:31:31.938Z"
     },
     {
-      "id": "mss1boeijmcrr4jkrsp",
+      "id": "msvsamhu60uwotdk6jx",
       "emissao": "2026-08-07",
       "pedido": "10917",
       "cliente": "QUIMICA MODERNA",
@@ -11274,6 +11546,8 @@
       "produto": "PA000000003797",
       "descricao": "ETIQUETA COUCHE BRILHO DIGITAL - 42 X 115",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 1000,
       "un": "UN",
       "rUnit": 0.3308,
@@ -11341,10 +11615,10 @@
       "custoMaq": 87.9675,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.907Z"
+      "criadoEm": "2026-08-16T12:31:31.938Z"
     },
     {
-      "id": "mss1boej75g9szpyoan",
+      "id": "msvsamhubuh2zmcw8tq",
       "emissao": "2026-08-09",
       "pedido": "10918",
       "cliente": "MARCO BONI",
@@ -11353,6 +11627,8 @@
       "produto": "PA000000003875",
       "descricao": "ETIQUETA PARA ESCOVA LAVA LEGUMES - 24 X 74",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 3,
       "un": "MI",
       "rUnit": 97.99,
@@ -11436,10 +11712,10 @@
       "custoMaq": 278.38888,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.907Z"
+      "criadoEm": "2026-08-16T12:31:31.939Z"
     },
     {
-      "id": "mss1boejv3gqw5yfrmh",
+      "id": "msvsamhvnkivtse9csr",
       "emissao": "2026-08-09",
       "pedido": "10919",
       "cliente": "MARCO BONI",
@@ -11448,6 +11724,8 @@
       "produto": "PA000000003873",
       "descricao": "ETIQUETA ADESIVA PARA O ITEM 116041MX - 103 X 185",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 2,
       "un": "MI",
       "rUnit": 565,
@@ -11531,10 +11809,10 @@
       "custoMaq": 323.93595999999997,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.908Z"
+      "criadoEm": "2026-08-16T12:31:31.940Z"
     },
     {
-      "id": "mss1boek2zvuw4fkmqb",
+      "id": "msvsamhwbx3par76s2t",
       "emissao": "2026-08-09",
       "pedido": "10919",
       "cliente": "MARCO BONI",
@@ -11543,6 +11821,8 @@
       "produto": "PA000000003878",
       "descricao": "ETIQUETA ADESIVA PARA O ITEM 116068MA - 60 X 45",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 8,
       "un": "MI",
       "rUnit": 64.79,
@@ -11626,10 +11906,10 @@
       "custoMaq": 302.50204,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.908Z"
+      "criadoEm": "2026-08-16T12:31:31.940Z"
     },
     {
-      "id": "mss1boekfkjnfsrhvdm",
+      "id": "msvsamhwtba86mdd6ai",
       "emissao": "2026-08-09",
       "pedido": "10919",
       "cliente": "MARCO BONI",
@@ -11638,6 +11918,8 @@
       "produto": "PA000000003605",
       "descricao": "ETIQUETA ADESIVA PARA O ITEM 123015MX - 40 X 85",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 5.5,
       "un": "MI",
       "rUnit": 123,
@@ -11721,10 +12003,10 @@
       "custoMaq": 298.92972000000003,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.909Z"
+      "criadoEm": "2026-08-16T12:31:31.941Z"
     },
     {
-      "id": "mss1boelbfbyfud3uvf",
+      "id": "msvsamhxw6nyoq9xcck",
       "emissao": "2026-08-09",
       "pedido": "10919",
       "cliente": "MARCO BONI",
@@ -11733,6 +12015,8 @@
       "produto": "PA000000004390",
       "descricao": "ETIQUETA ADESIVA PARA O ITEM 116014MX - 45 X 202",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 3,
       "un": "MI",
       "rUnit": 216,
@@ -11816,10 +12100,10 @@
       "custoMaq": 314.11208,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.909Z"
+      "criadoEm": "2026-08-16T12:31:31.941Z"
     },
     {
-      "id": "mss1boela9mmvo5bw7g",
+      "id": "msvsamhxt0ejhd0ud8f",
       "emissao": "2026-08-09",
       "pedido": "10919",
       "cliente": "MARCO BONI",
@@ -11828,6 +12112,8 @@
       "produto": "PA000000004275",
       "descricao": "ETIQUETA RODO 30CM REF 123005RX - 26 X 135",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 1.5,
       "un": "MI",
       "rUnit": 230.57,
@@ -11911,10 +12197,10 @@
       "custoMaq": 277.4958,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.910Z"
+      "criadoEm": "2026-08-16T12:31:31.942Z"
     },
     {
-      "id": "mss1boemx6f8mbjbfbd",
+      "id": "msvsamhy4cyxhkq149s",
       "emissao": "2026-08-09",
       "pedido": "10919",
       "cliente": "MARCO BONI",
@@ -11923,6 +12209,8 @@
       "produto": "PA000000003684",
       "descricao": "ETIQUETA PROMO KIT ECONOMICO PENTES 4 UN - 75 X 45",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 46000,
       "un": "UN",
       "rUnit": 0.02787,
@@ -11998,10 +12286,10 @@
       "custoMaq": 409.3241133333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.910Z"
+      "criadoEm": "2026-08-16T12:31:31.942Z"
     },
     {
-      "id": "mss1boemke4h4dta5oa",
+      "id": "msvsamhy2t9whzd4hr9",
       "emissao": "2026-08-09",
       "pedido": "10920",
       "cliente": "BARRY CALLEBAUT - ITABUNA",
@@ -12010,6 +12298,8 @@
       "produto": "PA000000001667",
       "descricao": "ETIQ. BRANCA - 100 X 140",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 40000,
       "un": "UN",
       "rUnit": 0.2403,
@@ -12077,10 +12367,10 @@
       "custoMaq": 117.79005333333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.911Z"
+      "criadoEm": "2026-08-16T12:31:31.943Z"
     },
     {
-      "id": "mss1boen5djzgr9qcmu",
+      "id": "msvsamhz3kthmhn7k7g",
       "emissao": "2026-08-09",
       "pedido": "10921",
       "cliente": "BARRY CALLEBAUT - ILHÉUS",
@@ -12089,6 +12379,8 @@
       "produto": "PA000000001667",
       "descricao": "ETIQ. BRANCA - 100 X 140",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 40000,
       "un": "UN",
       "rUnit": 0.2403,
@@ -12156,10 +12448,10 @@
       "custoMaq": 117.79005333333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.911Z"
+      "criadoEm": "2026-08-16T12:31:31.943Z"
     },
     {
-      "id": "mss1boenm0kk3dcaq3f",
+      "id": "msvsamhzpm3kdn2n3xp",
       "emissao": "2026-08-09",
       "pedido": "10922",
       "cliente": "KLABIN ANGATUBA",
@@ -12168,6 +12460,8 @@
       "produto": "PA000000000087",
       "descricao": "COD.10504 - ETIQ ADESIVA MATRICIAL 95 X 35",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 20,
       "un": "MI",
       "rUnit": 171.33,
@@ -12243,10 +12537,10 @@
       "custoMaq": 233.52071999999998,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.912Z"
+      "criadoEm": "2026-08-16T12:31:31.944Z"
     },
     {
-      "id": "mss1boeoq8i0kldsj",
+      "id": "msvsami0hv85s7xjv3i",
       "emissao": "2026-08-09",
       "pedido": "10923",
       "cliente": "KLABIN CORREIA PINTO",
@@ -12255,6 +12549,8 @@
       "produto": "PA000000000087",
       "descricao": "COD.10504 - ETIQ ADESIVA MATRICIAL 95 X 35",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 24,
       "un": "MI",
       "rUnit": 159.66,
@@ -12330,10 +12626,10 @@
       "custoMaq": 280.31416,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.912Z"
+      "criadoEm": "2026-08-16T12:31:31.944Z"
     },
     {
-      "id": "mss1boeo8hq509gvkjw",
+      "id": "msvsami0741ltiyjzbt",
       "emissao": "2026-08-09",
       "pedido": "10924",
       "cliente": "KLABIN ANGATUBA",
@@ -12342,6 +12638,8 @@
       "produto": "PA000000000162",
       "descricao": "459401 - ETIQ AD. BRANCA/VERDE - FSC C018669",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 7,
       "un": "CX",
       "rUnit": 1116.16,
@@ -12417,10 +12715,10 @@
       "custoMaq": 676.3190233333332,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.913Z"
+      "criadoEm": "2026-08-16T12:31:31.945Z"
     },
     {
-      "id": "mss1boep5ryjiu7sbv5",
+      "id": "msvsami1wvw61a7mjjm",
       "emissao": "2026-08-10",
       "pedido": "10925",
       "cliente": "GERRESHEIMER - GO",
@@ -12429,6 +12727,8 @@
       "produto": "PA000000000214",
       "descricao": "ETIQ. PAPEL COUCHE C/ PICOTE - BR 100 X 140",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 450,
       "un": "MI",
       "rUnit": 102.1,
@@ -12496,10 +12796,10 @@
       "custoMaq": 1184.9662933333332,
       "invest": 5400,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.913Z"
+      "criadoEm": "2026-08-16T12:31:31.945Z"
     },
     {
-      "id": "mss1boepio615a9fxeg",
+      "id": "msvsami1gaiwrydksf",
       "emissao": "2026-08-10",
       "pedido": "10925",
       "cliente": "GERRESHEIMER - GO",
@@ -12508,6 +12808,8 @@
       "produto": "PA000000000121",
       "descricao": "ETIQ. PAPEL COUCHE LR - 100 X 140",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 112,
       "un": "MI",
       "rUnit": 102.1,
@@ -12583,10 +12885,10 @@
       "custoMaq": 853.2365633333332,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.914Z"
+      "criadoEm": "2026-08-16T12:31:31.946Z"
     },
     {
-      "id": "mss1boeqng17dh3js5i",
+      "id": "msvsami2y937fk29vhj",
       "emissao": "2026-08-10",
       "pedido": "10925",
       "cliente": "GERRESHEIMER - GO",
@@ -12595,6 +12897,8 @@
       "produto": "PA000000000625",
       "descricao": "ETIQ. PAPEL COUCHE AM - 100 X 140",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 112,
       "un": "MI",
       "rUnit": 102.1,
@@ -12670,10 +12974,10 @@
       "custoMaq": 853.2365633333332,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.914Z"
+      "criadoEm": "2026-08-16T12:31:31.946Z"
     },
     {
-      "id": "mss1boeq1p42niirajm",
+      "id": "msvsami2bh5e15v3uyo",
       "emissao": "2026-08-10",
       "pedido": "10925",
       "cliente": "GERRESHEIMER - GO",
@@ -12682,6 +12986,8 @@
       "produto": "PA000000000215",
       "descricao": "ETIQ. PAPEL COUCHE AZ - 100 X 140",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 100,
       "un": "MI",
       "rUnit": 102.1,
@@ -12757,10 +13063,10 @@
       "custoMaq": 768.7392333333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.915Z"
+      "criadoEm": "2026-08-16T12:31:31.947Z"
     },
     {
-      "id": "mss1boerjky7x6ui4ko",
+      "id": "msvsami39qrtf9l7g65",
       "emissao": "2026-08-10",
       "pedido": "10926",
       "cliente": "PROSEGUR - JOINVILLE",
@@ -12769,6 +13075,8 @@
       "produto": "PR000000000051",
       "descricao": "RIBBON CERA AWR1 - 110 X 74  CSO",
       "grupoProduto": "RIBBON",
+      "centroCusto": "REVENDA",
+      "modeloTecnico": "REVENDA",
       "qtde": 40,
       "un": "UN",
       "rUnit": 8.46,
@@ -12827,10 +13135,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.915Z"
+      "criadoEm": "2026-08-16T12:31:31.947Z"
     },
     {
-      "id": "mss1boer3qk7sham8yg",
+      "id": "msvsami3tbs5ibeagui",
       "emissao": "2026-08-10",
       "pedido": "10926",
       "cliente": "PROSEGUR - JOINVILLE",
@@ -12839,6 +13147,8 @@
       "produto": "PR000000000112",
       "descricao": "ETIQ. - 100X60000 - TAG - L1 85",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "REVENDA",
+      "modeloTecnico": "REVENDA",
       "qtde": 20,
       "un": "ROLO",
       "rUnit": 19.93,
@@ -12897,10 +13207,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.916Z"
+      "criadoEm": "2026-08-16T12:31:31.947Z"
     },
     {
-      "id": "mss1boesfs1u6vx3hm9",
+      "id": "msvsami43l4uokyshw7",
       "emissao": "2026-08-10",
       "pedido": "10927",
       "cliente": "PROSEGUR - BRASÍLIA",
@@ -12909,6 +13219,8 @@
       "produto": "PR000000000051",
       "descricao": "RIBBON CERA AWR1 - 110 X 74  CSO",
       "grupoProduto": "RIBBON",
+      "centroCusto": "REVENDA",
+      "modeloTecnico": "REVENDA",
       "qtde": 36,
       "un": "UN",
       "rUnit": 8.46,
@@ -12967,10 +13279,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.916Z"
+      "criadoEm": "2026-08-16T12:31:31.948Z"
     },
     {
-      "id": "mss1boesud2acnemb7",
+      "id": "msvsami4zuyrbsc8i5i",
       "emissao": "2026-08-10",
       "pedido": "10928",
       "cliente": "HENKEL - ITAPEVI",
@@ -12979,6 +13291,8 @@
       "produto": "PA000000004761",
       "descricao": "CONTRA ROTULO - S. BONDER 5G",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 40000,
       "un": "PEÇA",
       "rUnit": 0.13749,
@@ -13054,10 +13368,10 @@
       "custoMaq": 511.2159899999999,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.917Z"
+      "criadoEm": "2026-08-16T12:31:31.948Z"
     },
     {
-      "id": "mss1boetog85bjjyvtl",
+      "id": "msvsami4a5nec9g0q8f",
       "emissao": "2026-08-10",
       "pedido": "10929",
       "cliente": "BARRY CALLEBAUT - ILHÉUS",
@@ -13066,6 +13380,8 @@
       "produto": "PA000000000432",
       "descricao": "ETIQ. ADESIVA AMARELO - 100 X 150",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 100,
       "un": "MI",
       "rUnit": 137.31,
@@ -13141,10 +13457,10 @@
       "custoMaq": 807.3573533333333,
       "invest": 2000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.917Z"
+      "criadoEm": "2026-08-16T12:31:31.949Z"
     },
     {
-      "id": "mss1boetuz92k135358",
+      "id": "msvsami5q6a1hu8cew",
       "emissao": "2026-08-10",
       "pedido": "10930",
       "cliente": "BARRY CALLEBAUT - ITABUNA",
@@ -13153,6 +13469,8 @@
       "produto": "PA000000000138",
       "descricao": "ETIQUETA FRONTAL FASSON 101,6 X 152,4MM",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 100,
       "un": "MI",
       "rUnit": 112.83,
@@ -13220,10 +13538,10 @@
       "custoMaq": 288.2720533333333,
       "invest": 2000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.918Z"
+      "criadoEm": "2026-08-16T12:31:31.949Z"
     },
     {
-      "id": "mss1boeul6aqfnqjifn",
+      "id": "msvsami5kzmp82km2op",
       "emissao": "2026-08-10",
       "pedido": "10931",
       "cliente": "OLEAK",
@@ -13232,6 +13550,8 @@
       "produto": "PA000000004023",
       "descricao": "CONTRA RÓTULO SANTHER - HGAT06800 - 99 X 99",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 5000,
       "un": "UN",
       "rUnit": 0.5105,
@@ -13315,10 +13635,10 @@
       "custoMaq": 384.31079,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.918Z"
+      "criadoEm": "2026-08-16T12:31:31.950Z"
     },
     {
-      "id": "mss1boeuhh016blfaur",
+      "id": "msvsami6og5mbzkoj7",
       "emissao": "2026-08-10",
       "pedido": "10931",
       "cliente": "OLEAK",
@@ -13327,6 +13647,8 @@
       "produto": "PA000000003241",
       "descricao": "SCOTCH BRITE - DET. DESINCRUSTANTE - 0190388.1 - 140 X 120",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 13000,
       "un": "UN",
       "rUnit": 0.831,
@@ -13410,10 +13732,10 @@
       "custoMaq": 733.89048,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.919Z"
+      "criadoEm": "2026-08-16T12:31:31.951Z"
     },
     {
-      "id": "mss1boev2z8hja8j1rn",
+      "id": "msvsami7kt017yhpkm9",
       "emissao": "2026-08-10",
       "pedido": "10931",
       "cliente": "OLEAK",
@@ -13422,6 +13744,8 @@
       "produto": "PA000000003505",
       "descricao": "SCOTCH BRITE PROFESSIONAL - FLEX DETERG. NEUTRO 3A - 0189131.1 - 65 X 464",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 4500,
       "un": "UN",
       "rUnit": 1.661,
@@ -13505,10 +13829,10 @@
       "custoMaq": 559.43615,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.920Z"
+      "criadoEm": "2026-08-16T12:31:31.952Z"
     },
     {
-      "id": "mss1boewutvjzrwgcq9",
+      "id": "msvsami82ndfyiu0qy6",
       "emissao": "2026-08-10",
       "pedido": "10931",
       "cliente": "OLEAK",
@@ -13517,6 +13841,8 @@
       "produto": "PA000000001365",
       "descricao": "TORKE - SABONETE EM ESPUMA 1,4L - 65 X 130",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 3000,
       "un": "UN",
       "rUnit": 0.528,
@@ -13600,10 +13926,10 @@
       "custoMaq": 312.32592000000005,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.920Z"
+      "criadoEm": "2026-08-16T12:31:31.952Z"
     },
     {
-      "id": "mss1boewt0f1vsdwvv",
+      "id": "msvsami8o59ud5ksxfe",
       "emissao": "2026-08-10",
       "pedido": "10931",
       "cliente": "OLEAK",
@@ -13612,6 +13938,8 @@
       "produto": "PA000000004108",
       "descricao": "ROTULO - HND01376 - HIGINDOOR - DETERGENTE VIDROS E SUPERFÍCIES EM GERAL - 115 X 70",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 1000,
       "un": "UN",
       "rUnit": 0.505,
@@ -13695,10 +14023,10 @@
       "custoMaq": 284.64043999999996,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.921Z"
+      "criadoEm": "2026-08-16T12:31:31.953Z"
     },
     {
-      "id": "mss1boex5yhoo3p4xhl",
+      "id": "msvsami9cmdgmk2obb",
       "emissao": "2026-08-10",
       "pedido": "10932",
       "cliente": "C. PETROP. - BOITUVA",
@@ -13707,6 +14035,8 @@
       "produto": "PR000000000722",
       "descricao": "RIBBON MISTO APR1 - 110 X 600 - CSO",
       "grupoProduto": "RIBBON",
+      "centroCusto": "REVENDA",
+      "modeloTecnico": "REVENDA",
       "qtde": 40,
       "un": "UN",
       "rUnit": 175,
@@ -13765,10 +14095,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.921Z"
+      "criadoEm": "2026-08-16T12:31:31.953Z"
     },
     {
-      "id": "mss1boexhuxg05bfjha",
+      "id": "msvsami9t76j3srhqib",
       "emissao": "2026-08-10",
       "pedido": "10932",
       "cliente": "C. PETROP. - BOITUVA",
@@ -13777,6 +14107,8 @@
       "produto": "PA000000003838",
       "descricao": "1066112 - ETIQUETA BRANCA BOPP - 100 X 150",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 30,
       "un": "ROLO",
       "rUnit": 525.32,
@@ -13852,10 +14184,10 @@
       "custoMaq": 843.7608333333333,
       "invest": 2097.6,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.922Z"
+      "criadoEm": "2026-08-16T12:31:31.954Z"
     },
     {
-      "id": "mss1boeym50dq2ei2h8",
+      "id": "msvsamia8g1ls2db0is",
       "emissao": "2026-08-10",
       "pedido": "10933",
       "cliente": "BRANCOTEX",
@@ -13864,6 +14196,8 @@
       "produto": "PA000000000323",
       "descricao": "ETIQ. BRANCA COUCHE - 104 X 210",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 25,
       "un": "MI",
       "rUnit": 226.31,
@@ -13931,10 +14265,10 @@
       "custoMaq": 109.49189333333332,
       "invest": 1750.0000000000002,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.922Z"
+      "criadoEm": "2026-08-16T12:31:31.954Z"
     },
     {
-      "id": "mss1boeysl9ke99py3l",
+      "id": "msvsamia4xpbgorlgvv",
       "emissao": "2026-08-10",
       "pedido": "10934",
       "cliente": "BRASCODIGO",
@@ -13943,6 +14277,8 @@
       "produto": "PA000000004762",
       "descricao": "ETIQUETA BRANCA COUCHE - 160 X 160",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 10,
       "un": "MI",
       "rUnit": 217.02,
@@ -14010,10 +14346,10 @@
       "custoMaq": 235.04916,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.923Z"
+      "criadoEm": "2026-08-16T12:31:31.955Z"
     },
     {
-      "id": "mss1boez14xw4mh6kea",
+      "id": "msvsamib5zmnqa11hrk",
       "emissao": "2026-08-10",
       "pedido": "10935",
       "cliente": "CONTINENTAL - CAMAÇARI",
@@ -14022,6 +14358,8 @@
       "produto": "PR000000000697",
       "descricao": "3001530 - RIBBON ENTINTAMENTO INTERNO 100% RESINA",
       "grupoProduto": "RIBBON",
+      "centroCusto": "REVENDA",
+      "modeloTecnico": "REVENDA",
       "qtde": 300,
       "un": "UN",
       "rUnit": 140.25,
@@ -14080,10 +14418,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.923Z"
+      "criadoEm": "2026-08-16T12:31:31.955Z"
     },
     {
-      "id": "mss1boezsipa9xvc9za",
+      "id": "msvsamibqbyqhx6iwhm",
       "emissao": "2026-08-10",
       "pedido": "10936",
       "cliente": "HENKEL - ITAPEVI",
@@ -14092,6 +14430,8 @@
       "produto": "PA000000004326",
       "descricao": "CONTRA ROTULO - S. BONDER MEGA - MEDIA VISCOSIDADE 20G + 10%",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 415000,
       "un": "PEÇA",
       "rUnit": 0.04452,
@@ -14167,10 +14507,10 @@
       "custoMaq": 578.10573,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.923Z"
+      "criadoEm": "2026-08-16T12:31:31.956Z"
     },
     {
-      "id": "mss1bof0xd3t86pkqx",
+      "id": "msvsamicr86xeo1soxr",
       "emissao": "2026-08-10",
       "pedido": "10936",
       "cliente": "HENKEL - ITAPEVI",
@@ -14179,6 +14519,8 @@
       "produto": "PA000000004327",
       "descricao": "ROTULO - S. BONDER MEGA - MEDIA VISCOSIDADE 20G + 10%",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 400000,
       "un": "PEÇA",
       "rUnit": 0.04452,
@@ -14254,10 +14596,10 @@
       "custoMaq": 439.33528333333334,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.924Z"
+      "criadoEm": "2026-08-16T12:31:31.956Z"
     },
     {
-      "id": "mss1bof0l4rb5br1ywj",
+      "id": "msvsamicdf0zbnsogc7",
       "emissao": "2026-08-10",
       "pedido": "10937",
       "cliente": "VPJ COMERCIO DE PRODUTOS",
@@ -14266,6 +14608,8 @@
       "produto": "PA000000004763",
       "descricao": "RÓTULO EXTERNO BLACK ANGUS RESFRIADA SEM OSSO  75,5 X 100 MM",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 13,
       "un": "MI",
       "rUnit": 129.77,
@@ -14349,10 +14693,10 @@
       "custoMaq": 1362.0929533333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.924Z"
+      "criadoEm": "2026-08-16T12:31:31.957Z"
     },
     {
-      "id": "mss1bof1cp6a07mqw19",
+      "id": "msvsamidgdc3umll59b",
       "emissao": "2026-08-10",
       "pedido": "10937",
       "cliente": "VPJ COMERCIO DE PRODUTOS",
@@ -14361,6 +14705,8 @@
       "produto": "PA000000004764",
       "descricao": "RÓTULO EXTERNO BLACK ANGUS CONGELADA COM OSSO  98,15 X 130 MM",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 1.5,
       "un": "MI",
       "rUnit": 284.88,
@@ -14444,10 +14790,10 @@
       "custoMaq": 650.9217499999999,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.925Z"
+      "criadoEm": "2026-08-16T12:31:31.957Z"
     },
     {
-      "id": "mss1bof1wl7jfy37bld",
+      "id": "msvsamidfwu87x58dt4",
       "emissao": "2026-08-10",
       "pedido": "10937",
       "cliente": "VPJ COMERCIO DE PRODUTOS",
@@ -14456,6 +14802,8 @@
       "produto": "PA000000004765",
       "descricao": "RÓTULO EXTERNO ANGUS BEEF CONGELADA COM OSSO  60,4 X 80 MM",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 6,
       "un": "MI",
       "rUnit": 87,
@@ -14531,10 +14879,10 @@
       "custoMaq": 569.3550633333332,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.925Z"
+      "criadoEm": "2026-08-16T12:31:31.958Z"
     },
     {
-      "id": "mss1bof2rbnztlfghf",
+      "id": "msvsamie34mkiovja",
       "emissao": "2026-08-11",
       "pedido": "10939",
       "cliente": "LUPO - NORDESTE",
@@ -14543,6 +14891,8 @@
       "produto": "PR000000000239",
       "descricao": "A0978 - QUICK CHANGE NEAR EDGE PRINT HEAD 12 DOTS/MM / 300 DPI",
       "grupoProduto": "PEÇA",
+      "centroCusto": "REVENDA",
+      "modeloTecnico": "REVENDA",
       "qtde": 1,
       "un": "UN",
       "rUnit": 7554.09,
@@ -14601,10 +14951,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.926Z"
+      "criadoEm": "2026-08-16T12:31:31.959Z"
     },
     {
-      "id": "mss1bof282kph5txluu",
+      "id": "msvsamifcgd6rztqsci",
       "emissao": "2026-08-11",
       "pedido": "10939",
       "cliente": "LUPO - NORDESTE",
@@ -14613,6 +14963,8 @@
       "produto": "PR000000000446",
       "descricao": "N102006 - PRINT HEAD 4 INCH WITH COVER ASSY",
       "grupoProduto": "PEÇA",
+      "centroCusto": "REVENDA",
+      "modeloTecnico": "REVENDA",
       "qtde": 1,
       "un": "UN",
       "rUnit": 6514.03,
@@ -14671,10 +15023,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.926Z"
+      "criadoEm": "2026-08-16T12:31:31.959Z"
     },
     {
-      "id": "mss1bof224oxjj25v7",
+      "id": "msvsamifgc3mvr3d9kh",
       "emissao": "2026-08-11",
       "pedido": "10940",
       "cliente": "MOVEIS BOA VISTA",
@@ -14683,6 +15035,8 @@
       "produto": "PA000000002201",
       "descricao": "ETIQ. BRANCA BOA VISTA - 100 X 80",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 4000,
       "un": "UN",
       "rUnit": 0.25566,
@@ -14758,10 +15112,10 @@
       "custoMaq": 163.12464333333332,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.927Z"
+      "criadoEm": "2026-08-16T12:31:31.960Z"
     },
     {
-      "id": "mss1bof3jcyvqc9az9q",
+      "id": "msvsamigjjsgi2w8z5b",
       "emissao": "2026-08-11",
       "pedido": "10940",
       "cliente": "MOVEIS BOA VISTA",
@@ -14770,6 +15124,8 @@
       "produto": "PA000000004482",
       "descricao": "ETIQ. AZUL - 100 X 80",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 12000,
       "un": "UN",
       "rUnit": 0.25566,
@@ -14853,10 +15209,10 @@
       "custoMaq": 459.9646400000001,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.927Z"
+      "criadoEm": "2026-08-16T12:31:31.960Z"
     },
     {
-      "id": "mss1bof3nxle0r1ur9i",
+      "id": "msvsamig29b3b1pjfbf",
       "emissao": "2026-08-11",
       "pedido": "10941",
       "cliente": "PROZYN INDUSTRIA E COMERC",
@@ -14865,6 +15221,8 @@
       "produto": "PR000000000080",
       "descricao": "EPSON KIT MANUTENÇÃO PARA CT 6000/ 6500",
       "grupoProduto": "CARTUCHO",
+      "centroCusto": "REVENDA",
+      "modeloTecnico": "REVENDA",
       "qtde": 2,
       "un": "UN",
       "rUnit": 434.55,
@@ -14923,10 +15281,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.928Z"
+      "criadoEm": "2026-08-16T12:31:31.961Z"
     },
     {
-      "id": "mss1bof4vpvnwollisp",
+      "id": "msvsamihrg0r6tn8zi",
       "emissao": "2026-08-11",
       "pedido": "10941",
       "cliente": "PROZYN INDUSTRIA E COMERC",
@@ -14935,6 +15293,8 @@
       "produto": "PR000000000082",
       "descricao": "EPSON CARTUCHOS DE TINTA CW6000/CW6500 - PRETO",
       "grupoProduto": "CARTUCHO",
+      "centroCusto": "REVENDA",
+      "modeloTecnico": "REVENDA",
       "qtde": 2,
       "un": "UN",
       "rUnit": 574.75,
@@ -14993,10 +15353,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.929Z"
+      "criadoEm": "2026-08-16T12:31:31.961Z"
     },
     {
-      "id": "mss1bof56c5tj3vw88l",
+      "id": "msvsamihx2jb5dcxae",
       "emissao": "2026-08-11",
       "pedido": "10941",
       "cliente": "PROZYN INDUSTRIA E COMERC",
@@ -15005,6 +15365,8 @@
       "produto": "PR000000000084",
       "descricao": "EPSON CARTUCHOS DE TINTA CW6000/CW6500 - MAGENTA",
       "grupoProduto": "CARTUCHO",
+      "centroCusto": "REVENDA",
+      "modeloTecnico": "REVENDA",
       "qtde": 2,
       "un": "UN",
       "rUnit": 574.75,
@@ -15063,10 +15425,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.929Z"
+      "criadoEm": "2026-08-16T12:31:31.961Z"
     },
     {
-      "id": "mss1bof57w8kysbh1xy",
+      "id": "msvsamihief4tr4rci",
       "emissao": "2026-08-11",
       "pedido": "10941",
       "cliente": "PROZYN INDUSTRIA E COMERC",
@@ -15075,6 +15437,8 @@
       "produto": "PR000000000083",
       "descricao": "EPSON CARTUCHOS DE TINTA CW6000/CW6500 - CYAN",
       "grupoProduto": "CARTUCHO",
+      "centroCusto": "REVENDA",
+      "modeloTecnico": "REVENDA",
       "qtde": 2,
       "un": "UN",
       "rUnit": 574.75,
@@ -15133,10 +15497,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.930Z"
+      "criadoEm": "2026-08-16T12:31:31.962Z"
     },
     {
-      "id": "mss1bof6i3c3kzf4mrn",
+      "id": "msvsamii2zh40p6e25b",
       "emissao": "2026-08-11",
       "pedido": "10941",
       "cliente": "PROZYN INDUSTRIA E COMERC",
@@ -15145,6 +15509,8 @@
       "produto": "PR000000000085",
       "descricao": "EPSON CARTUCHOS DE TINTA CW6000/CW6500 - AMARELO",
       "grupoProduto": "CARTUCHO",
+      "centroCusto": "REVENDA",
+      "modeloTecnico": "REVENDA",
       "qtde": 2,
       "un": "UN",
       "rUnit": 574.75,
@@ -15203,10 +15569,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.930Z"
+      "criadoEm": "2026-08-16T12:31:31.962Z"
     },
     {
-      "id": "mss1bof6ucldsfnxoan",
+      "id": "msvsamiiqlkck883fdn",
       "emissao": "2026-08-11",
       "pedido": "10942",
       "cliente": "MIRIS COSMETICOS",
@@ -15215,6 +15581,8 @@
       "produto": "PA000000004767",
       "descricao": "ETIQUETA LACRE INVIOLAVEL - 25 X 7",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 500,
       "un": "MI",
       "rUnit": 11.5,
@@ -15298,10 +15666,10 @@
       "custoMaq": 404.7113733333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.930Z"
+      "criadoEm": "2026-08-16T12:31:31.963Z"
     },
     {
-      "id": "mss1bof6me5xwgqc29j",
+      "id": "msvsamijmcc5yzk83e9",
       "emissao": "2026-08-11",
       "pedido": "10943",
       "cliente": "PARKER",
@@ -15310,6 +15678,8 @@
       "produto": "PA000000000158",
       "descricao": "1009002 - ETIQ. LORD - 100 X 297",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 5000,
       "un": "UN",
       "rUnit": 0.9049,
@@ -15401,10 +15771,10 @@
       "custoMaq": 710.4884033333333,
       "invest": 1000,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.931Z"
+      "criadoEm": "2026-08-16T12:31:31.963Z"
     },
     {
-      "id": "mss1bof7gha0wj0lqpc",
+      "id": "msvsamijbnrpe6y9ces",
       "emissao": "2026-08-11",
       "pedido": "10944",
       "cliente": "OLEAK",
@@ -15413,6 +15783,8 @@
       "produto": "PA000000002589",
       "descricao": "CONTRA ROTULO - HND01376 - HIGINDOOR - DETERGENTE VIDROS E SUPERFÍCIES EM GERAL - 115 X 70",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 1000,
       "un": "UN",
       "rUnit": 0.505,
@@ -15496,10 +15868,10 @@
       "custoMaq": 284.64043999999996,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.932Z"
+      "criadoEm": "2026-08-16T12:31:31.964Z"
     },
     {
-      "id": "mss1bof8dfg57hj2rru",
+      "id": "msvsamikyc44zmzcm0g",
       "emissao": "2026-08-11",
       "pedido": "10944",
       "cliente": "OLEAK",
@@ -15508,6 +15880,8 @@
       "produto": "PA000000004530",
       "descricao": "HNC09311 - HIGINDOOR ODORIZADOR ALECRIM - 100 X 100",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 2000,
       "un": "UN",
       "rUnit": 0.695,
@@ -15591,10 +15965,10 @@
       "custoMaq": 298.92972000000003,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.932Z"
+      "criadoEm": "2026-08-16T12:31:31.964Z"
     },
     {
-      "id": "mss1bof87gr4sx36x9",
+      "id": "msvsamiknlms5elcey",
       "emissao": "2026-08-11",
       "pedido": "10944",
       "cliente": "OLEAK",
@@ -15603,6 +15977,8 @@
       "produto": "PA000000000813",
       "descricao": "HNH05205 - HIGINDOOR DETERG / DESENGRAXANTE - 140 X 120",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 1000,
       "un": "UN",
       "rUnit": 0.831,
@@ -15686,10 +16062,10 @@
       "custoMaq": 338.76371,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.933Z"
+      "criadoEm": "2026-08-16T12:31:31.965Z"
     },
     {
-      "id": "mss1bof9rqi2yglmlvm",
+      "id": "msvsamilbktx3njugxg",
       "emissao": "2026-08-11",
       "pedido": "10944",
       "cliente": "OLEAK",
@@ -15698,6 +16074,8 @@
       "produto": "PA000000002499",
       "descricao": "RÓTULO - WINTERHALTER F8 10L - 150 X 155",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 1500,
       "un": "UN",
       "rUnit": 0.88,
@@ -15773,10 +16151,10 @@
       "custoMaq": 175.04575333333332,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.933Z"
+      "criadoEm": "2026-08-16T12:31:31.965Z"
     },
     {
-      "id": "mss1bof98a8zur71gh5",
+      "id": "msvsamilb47c4cqrhmd",
       "emissao": "2026-08-11",
       "pedido": "10944",
       "cliente": "OLEAK",
@@ -15785,6 +16163,8 @@
       "produto": "PA000000001609",
       "descricao": "ESSENZ ANTISSÉPTICO - 110 - 93 X 80",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 2500,
       "un": "UN",
       "rUnit": 0.831,
@@ -15868,10 +16248,10 @@
       "custoMaq": 298.92972000000003,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.934Z"
+      "criadoEm": "2026-08-16T12:31:31.967Z"
     },
     {
-      "id": "mss1bofad0uwzmzxxhq",
+      "id": "msvsaminko9he0dthcp",
       "emissao": "2026-08-11",
       "pedido": "10945",
       "cliente": "SOFTYS - PERÚ",
@@ -15880,6 +16260,8 @@
       "produto": "PA000000000094",
       "descricao": "1244873 - ETIQ. TERM AUTOM - 103 X 73 - BLANCO",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 50,
       "un": "ROLO",
       "rUnit": 200.15,
@@ -15947,10 +16329,10 @@
       "custoMaq": 253.9291733333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.934Z"
+      "criadoEm": "2026-08-16T12:31:31.967Z"
     },
     {
-      "id": "mss1bofanvxjyck798k",
+      "id": "msvsaminwtlb2yjyzir",
       "emissao": "2026-08-11",
       "pedido": "10946",
       "cliente": "HENKEL - ITAPEVI",
@@ -15959,6 +16341,8 @@
       "produto": "PA000000004768",
       "descricao": "CONTRA RÓT.S.B. FLEX GEL 3G",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 20000,
       "un": "PEÇA",
       "rUnit": 0.113854,
@@ -16042,10 +16426,10 @@
       "custoMaq": 323.04288,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.935Z"
+      "criadoEm": "2026-08-16T12:31:31.968Z"
     },
     {
-      "id": "mss1bofbiwcqs5pc06d",
+      "id": "msvsamiosgd5ipqhtx8",
       "emissao": "2026-08-11",
       "pedido": "10947",
       "cliente": "HENKEL - ITAPEVI",
@@ -16054,6 +16438,8 @@
       "produto": "PA000000004769",
       "descricao": "RÓT.S.B. FLEX GEL 3G",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 20000,
       "un": "PEÇA",
       "rUnit": 0.113854,
@@ -16137,10 +16523,10 @@
       "custoMaq": 323.04288,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.935Z"
+      "criadoEm": "2026-08-16T12:31:31.968Z"
     },
     {
-      "id": "mss1bofb2lfj7umzqvp",
+      "id": "msvsamioiniabu8o2d",
       "emissao": "2026-08-11",
       "pedido": "10948",
       "cliente": "FERTILABEL",
@@ -16149,6 +16535,8 @@
       "produto": "PA000000001331",
       "descricao": "MOSAIC - SINTÉTICO ( BCD 80MX )",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 250,
       "un": "MI",
       "rUnit": 270,
@@ -16224,10 +16612,10 @@
       "custoMaq": 4384.568023333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.936Z"
+      "criadoEm": "2026-08-16T12:31:31.969Z"
     },
     {
-      "id": "mss1bofczsifynen3fl",
+      "id": "msvsamipuasdb09faw",
       "emissao": "2026-08-11",
       "pedido": "10949",
       "cliente": "PROSEGUR - BELEM",
@@ -16236,6 +16624,8 @@
       "produto": "PR000000000051",
       "descricao": "RIBBON CERA AWR1 - 110 X 74  CSO",
       "grupoProduto": "RIBBON",
+      "centroCusto": "REVENDA",
+      "modeloTecnico": "REVENDA",
       "qtde": 40,
       "un": "UN",
       "rUnit": 8.46,
@@ -16294,10 +16684,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.936Z"
+      "criadoEm": "2026-08-16T12:31:31.969Z"
     },
     {
-      "id": "mss1bofcoe7p0hqk0e",
+      "id": "msvsamipd5u12hqr5nv",
       "emissao": "2026-08-11",
       "pedido": "10949",
       "cliente": "PROSEGUR - BELEM",
@@ -16306,6 +16696,8 @@
       "produto": "PR000000000112",
       "descricao": "ETIQ. - 100X60000 - TAG - L1 85",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "REVENDA",
+      "modeloTecnico": "REVENDA",
       "qtde": 60,
       "un": "ROLO",
       "rUnit": 19.93,
@@ -16364,10 +16756,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.936Z"
+      "criadoEm": "2026-08-16T12:31:31.970Z"
     },
     {
-      "id": "mss1bofca6wpcg5fcv6",
+      "id": "msvsamiqxvbuwfaoi99",
       "emissao": "2026-08-11",
       "pedido": "10950",
       "cliente": "GRT SUPLEMENTOS",
@@ -16376,6 +16768,8 @@
       "produto": "PA000000004407",
       "descricao": "RÓTULO ALPHA PRIME TESTO PRIME - 75 X 180",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 700,
       "un": "UN",
       "rUnit": 1.47228,
@@ -16459,10 +16853,10 @@
       "custoMaq": 282.85427999999996,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.937Z"
+      "criadoEm": "2026-08-16T12:31:31.970Z"
     },
     {
-      "id": "mss1bofd0vogqfonyxj",
+      "id": "msvsamiqfijtbv92tkw",
       "emissao": "2026-08-11",
       "pedido": "10951",
       "cliente": "M.C. NATURAIS LTDA",
@@ -16471,6 +16865,8 @@
       "produto": "PA000000004770",
       "descricao": "ETIQUETA BOPP BRANCO BRILHO DIGITAL - 90 X 185",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 10,
       "un": "ROLO",
       "rUnit": 211.47,
@@ -16546,10 +16942,10 @@
       "custoMaq": 120.64416666666666,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.937Z"
+      "criadoEm": "2026-08-16T12:31:31.971Z"
     },
     {
-      "id": "mss1bofdm2czj9cw47",
+      "id": "msvsamiruy2s1oknnbf",
       "emissao": "2026-08-11",
       "pedido": "10952",
       "cliente": "VPJ COMERCIO DE PRODUTOS",
@@ -16558,6 +16954,8 @@
       "produto": "PA000000004772",
       "descricao": "RÓTULO EXTERNO BLACK ANGUS CONGELADA COM OSSO  75,5 X 100 MM",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 7,
       "un": "MI",
       "rUnit": 129.77,
@@ -16641,10 +17039,10 @@
       "custoMaq": 721.51716,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.938Z"
+      "criadoEm": "2026-08-16T12:31:31.971Z"
     },
     {
-      "id": "mss1bofeq3zydrnj4a",
+      "id": "msvsamirl6e49v3qrzj",
       "emissao": "2026-08-11",
       "pedido": "10953",
       "cliente": "DALTON CHEMICAL",
@@ -16653,6 +17051,8 @@
       "produto": "PA000000000088",
       "descricao": "RÓTULO GHS - 100 X 170 MM - 3 CORES",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 6000,
       "un": "UN",
       "rUnit": 0.6156,
@@ -16728,10 +17128,10 @@
       "custoMaq": 247.23666666666668,
       "invest": 780,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.938Z"
+      "criadoEm": "2026-08-16T12:31:31.972Z"
     },
     {
-      "id": "mss1bofe37dnh3zfd1",
+      "id": "msvsamis2ivcf6wfrhv",
       "emissao": "2026-08-12",
       "pedido": "10954",
       "cliente": "SIGVARIS",
@@ -16740,6 +17140,8 @@
       "produto": "PR000000000227",
       "descricao": "A4431 - FLAT HEAD PRINT HEAD 12 DOTS/MM / 300 DPI",
       "grupoProduto": "PEÇA",
+      "centroCusto": "REVENDA",
+      "modeloTecnico": "REVENDA",
       "qtde": 1,
       "un": "UN",
       "rUnit": 4984,
@@ -16798,10 +17200,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.939Z"
+      "criadoEm": "2026-08-16T12:31:31.972Z"
     },
     {
-      "id": "mss1boffaghmdgllo8h",
+      "id": "msvsamisaymx21i47v5",
       "emissao": "2026-08-12",
       "pedido": "10955",
       "cliente": "KLABIN PIRACICABA",
@@ -16810,6 +17212,8 @@
       "produto": "PA000000000087",
       "descricao": "COD.10504 - ETIQ ADESIVA MATRICIAL 95 X 35",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 12,
       "un": "MI",
       "rUnit": 171.33,
@@ -16885,10 +17289,10 @@
       "custoMaq": 145.49333333333334,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.939Z"
+      "criadoEm": "2026-08-16T12:31:31.973Z"
     },
     {
-      "id": "mss1boffjemp5qbnyth",
+      "id": "msvsamit9k0nc1uxv6",
       "emissao": "2026-08-12",
       "pedido": "10956",
       "cliente": "KLABIN ORTIGUEIRA",
@@ -16897,6 +17301,8 @@
       "produto": "PA000000000623",
       "descricao": "ETIQ. ADESIVA BRANCA/VERDE - 1004798",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 139,
       "un": "CX",
       "rUnit": 1040.06,
@@ -16972,10 +17378,10 @@
       "custoMaq": 8169.3941233333335,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.940Z"
+      "criadoEm": "2026-08-16T12:31:31.973Z"
     },
     {
-      "id": "mss1bofgyisp5v1j3t",
+      "id": "msvsamitek7yzw3gs45",
       "emissao": "2026-08-12",
       "pedido": "10957",
       "cliente": "RAINHA NATIVA",
@@ -16984,6 +17390,8 @@
       "produto": "PA000000004773",
       "descricao": "ROTULO MAX LASHES - 56 X 54",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 50000,
       "un": "UN",
       "rUnit": 0.09116,
@@ -17067,10 +17475,10 @@
       "custoMaq": 628.6835466666666,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.940Z"
+      "criadoEm": "2026-08-16T12:31:31.974Z"
     },
     {
-      "id": "mss1bofgo1xnzf00sx",
+      "id": "msvsamiuiv6hcm3kq0c",
       "emissao": "2026-08-12",
       "pedido": "10958",
       "cliente": "REDECENTER - FREGUESIA",
@@ -17079,6 +17487,8 @@
       "produto": "PA000000004774",
       "descricao": "ETIQUETA REDELEASE - 39 X 17 + RIBBON",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 150000,
       "un": "UN",
       "rUnit": 0.02969,
@@ -17162,10 +17572,10 @@
       "custoMaq": 525.0123399999999,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.941Z"
+      "criadoEm": "2026-08-16T12:31:31.974Z"
     },
     {
-      "id": "mss1bofhk91on0x27zr",
+      "id": "msvsamiujjfyjq00b2i",
       "emissao": "2026-08-12",
       "pedido": "10959",
       "cliente": "LUPO",
@@ -17174,6 +17584,8 @@
       "produto": "PR000000000067",
       "descricao": "RIBBON MISTO APR600 64 X 600 - CSI",
       "grupoProduto": "RIBBON",
+      "centroCusto": "REVENDA",
+      "modeloTecnico": "REVENDA",
       "qtde": 500,
       "un": "UN",
       "rUnit": 60.28,
@@ -17232,10 +17644,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.941Z"
+      "criadoEm": "2026-08-16T12:31:31.975Z"
     },
     {
-      "id": "mss1bofhet67ot086e9",
+      "id": "msvsamiv54yc0mcvr3a",
       "emissao": "2026-08-12",
       "pedido": "10959",
       "cliente": "LUPO",
@@ -17244,6 +17656,8 @@
       "produto": "PR000000000067",
       "descricao": "RIBBON MISTO APR600 64 X 600 - CSI",
       "grupoProduto": "RIBBON",
+      "centroCusto": "REVENDA",
+      "modeloTecnico": "REVENDA",
       "qtde": 500,
       "un": "UN",
       "rUnit": 60.28,
@@ -17302,10 +17716,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.942Z"
+      "criadoEm": "2026-08-16T12:31:31.975Z"
     },
     {
-      "id": "mss1bofiwyqwq38srif",
+      "id": "msvsamiv2jznkr7xh8j",
       "emissao": "2026-08-12",
       "pedido": "10960",
       "cliente": "ATTIVOS MAGISTTRAIS",
@@ -17314,6 +17728,8 @@
       "produto": "PA000000004771",
       "descricao": "EIQUETA  BOPP FOSCO - 113 X 435",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 2000,
       "un": "UN",
       "rUnit": 1.59,
@@ -17389,10 +17805,10 @@
       "custoMaq": 226.04249333333334,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.942Z"
+      "criadoEm": "2026-08-16T12:31:31.975Z"
     },
     {
-      "id": "mss1bofip40wwslfrv",
+      "id": "msvsamivunr73aqqq5q",
       "emissao": "2026-08-12",
       "pedido": "10961",
       "cliente": "OLEAK",
@@ -17401,6 +17817,8 @@
       "produto": "PA000000001591",
       "descricao": "CERA POLISH - TOP COAT - 140 X 120",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 4000,
       "un": "UN",
       "rUnit": 0.831,
@@ -17484,10 +17902,10 @@
       "custoMaq": 420.92707,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.943Z"
+      "criadoEm": "2026-08-16T12:31:31.976Z"
     },
     {
-      "id": "mss1bofjnq0d6vtmiom",
+      "id": "msvsamiwd697n0iopm",
       "emissao": "2026-08-12",
       "pedido": "10962",
       "cliente": "OLEAK",
@@ -17496,6 +17914,8 @@
       "produto": "PA000000001503",
       "descricao": "ESSENZ GEL ANTISSÉPTICO - 105 - 80 X 93",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 500,
       "un": "UN",
       "rUnit": 0.831,
@@ -17579,10 +17999,10 @@
       "custoMaq": 274.81656,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.943Z"
+      "criadoEm": "2026-08-16T12:31:31.977Z"
     },
     {
-      "id": "mss1bofj5u8j3pn3yn5",
+      "id": "msvsamix0okbyr67rpi8",
       "emissao": "2026-08-12",
       "pedido": "10963",
       "cliente": "OLEAK",
@@ -17591,6 +18011,8 @@
       "produto": "PA000000000060",
       "descricao": "HNC09311 - HIGINDOOR ODORIZADOR - 100 X 100",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 7000,
       "un": "UN",
       "rUnit": 0.695,
@@ -17674,10 +18096,10 @@
       "custoMaq": 389.04672,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.944Z"
+      "criadoEm": "2026-08-16T12:31:31.977Z"
     },
     {
-      "id": "mss1bofkrxo99a35ir",
+      "id": "msvsamixmm73uh5mcmf",
       "emissao": "2026-08-12",
       "pedido": "10964",
       "cliente": "GDS GROW DIETARY SUPPLEME",
@@ -17686,6 +18108,8 @@
       "produto": "PA000000003112",
       "descricao": "ETIQUETA BRANCA - 100 X 50 + RIBBON",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 5,
       "un": "MI",
       "rUnit": 59.86,
@@ -17761,10 +18185,10 @@
       "custoMaq": 60.063333333333325,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.944Z"
+      "criadoEm": "2026-08-16T12:31:31.978Z"
     },
     {
-      "id": "mss1bofkph0d5j4biz",
+      "id": "msvsamiytmk3t7tttg8",
       "emissao": "2026-08-12",
       "pedido": "10965",
       "cliente": "CONGREGAÇÃO - JUNDIAI",
@@ -17773,6 +18197,8 @@
       "produto": "PA000000002842",
       "descricao": "ETIQ. VERDE - 80 X 20 + RIBBON",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 6000,
       "un": "UN",
       "rUnit": 0.01889,
@@ -17848,10 +18274,10 @@
       "custoMaq": 151.87666666666667,
       "invest": 6,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.945Z"
+      "criadoEm": "2026-08-16T12:31:31.978Z"
     },
     {
-      "id": "mss1bofllr5od8wymmj",
+      "id": "msvsamiyr07xu8babtl",
       "emissao": "2026-08-12",
       "pedido": "10967",
       "cliente": "OLEAK",
@@ -17860,6 +18286,8 @@
       "produto": "PA000000000407",
       "descricao": "HNH01207 - HIGINDOOR DETERGENTE DESINCRUSTANTE - 80 X 240",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "DIGITAL",
+      "modeloTecnico": "DIGITAL",
       "qtde": 1500,
       "un": "UN",
       "rUnit": 1.308,
@@ -17943,10 +18371,10 @@
       "custoMaq": 322.14979999999997,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.945Z"
+      "criadoEm": "2026-08-16T12:31:31.979Z"
     },
     {
-      "id": "mss1bofl94m9yzi7dj4",
+      "id": "msvsamizyqyxsfzpk7d",
       "emissao": "2026-08-13",
       "pedido": "10968",
       "cliente": "ADVANCED LABS",
@@ -17955,6 +18383,8 @@
       "produto": "PA000000004379",
       "descricao": "RÓTULO WHEY PROTEIN ISOLADO 1KG CHOCOLATE - 155 X 430",
       "grupoProduto": "RÓTULOS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 4,
       "un": "MI",
       "rUnit": 3750,
@@ -18038,10 +18468,10 @@
       "custoMaq": 1708.3070433333335,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.946Z"
+      "criadoEm": "2026-08-16T12:31:31.979Z"
     },
     {
-      "id": "mss1bofmmwne44s79c",
+      "id": "msvsamiztfgioftrhhp",
       "emissao": "2026-08-13",
       "pedido": "10969",
       "cliente": "KLUBER LUBRICATION LUBRIF",
@@ -18050,6 +18480,8 @@
       "produto": "PR000000000666",
       "descricao": "RIBBON RESINA AXR600 160 X 600 - CSI",
       "grupoProduto": "RIBBON",
+      "centroCusto": "REVENDA",
+      "modeloTecnico": "REVENDA",
       "qtde": 50,
       "un": "UN",
       "rUnit": 721.58,
@@ -18108,10 +18540,10 @@
       "custoMaq": 0,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.946Z"
+      "criadoEm": "2026-08-16T12:31:31.980Z"
     },
     {
-      "id": "mss1bofm9i5t2gc9dsd",
+      "id": "msvsamj0wmdhi1foped",
       "emissao": "2026-08-13",
       "pedido": "10970",
       "cliente": "SYNGENTA",
@@ -18120,6 +18552,8 @@
       "produto": "PA000000000456",
       "descricao": "ETIQ. BOPP 100 X 85",
       "grupoProduto": "ETIQUETAS",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "SEM IMPRESSÃO",
       "qtde": 300,
       "un": "MI",
       "rUnit": 110.59,
@@ -18187,10 +18621,10 @@
       "custoMaq": 330.2558133333333,
       "invest": 0,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.947Z"
+      "criadoEm": "2026-08-16T12:31:31.980Z"
     },
     {
-      "id": "mss1bofn5l4rxmio62e",
+      "id": "msvsamj09w8c3d480cg",
       "emissao": "2026-08-13",
       "pedido": "10971",
       "cliente": "ARKEMA COATEX",
@@ -18199,6 +18633,8 @@
       "produto": "PA000000000114",
       "descricao": "ETIQ. BOPP BRILHANTE - 150 X 199 - ARKEMA",
       "grupoProduto": "COMODATO",
+      "centroCusto": "FLEXOGRAFIA",
+      "modeloTecnico": "FLEXOGRÁFICO",
       "qtde": 20,
       "un": "ROLO",
       "rUnit": 366.79,
@@ -18274,7 +18710,7 @@
       "custoMaq": 500.60039333333333,
       "invest": 1200,
       "fonteCusto": "planilha",
-      "criadoEm": "2026-08-13T21:33:12.947Z"
+      "criadoEm": "2026-08-16T12:31:31.981Z"
     }
   ],
   "produtos": [
