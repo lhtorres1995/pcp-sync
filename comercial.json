@@ -120024,13 +120024,7 @@
           "custo": 25000
         }
       ],
-      "pecas": [
-        {
-          "desc": "Cabeça de Impressão",
-          "valor": 5000,
-          "data": "2026-08-16"
-        }
-      ],
+      "pecas": [],
       "atendValor": 300,
       "atendDias": 30,
       "jaCobrado": 0,
