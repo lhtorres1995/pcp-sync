@@ -119658,7 +119658,7 @@
         "nome": "ADEILSON ALVES DA SILVA",
         "cc": "001-FLEXOGRAFIA",
         "salario": 3300,
-        "outros": 2603.3700000000003
+        "outros": 200
       },
       {
         "nome": "EDVAN",
@@ -119911,24 +119911,6 @@
         "cc": "002-DIGITAL",
         "salario": 13,
         "outros": 3155.6000000000004
-      },
-      {
-        "nome": "Centro de Custo",
-        "cc": "Qntd. Funcionários",
-        "salario": 0,
-        "outros": 0
-      },
-      {
-        "nome": "001-FLEXO 250",
-        "cc": "2",
-        "salario": 143.04,
-        "outros": 0
-      },
-      {
-        "nome": "002-KROMIA",
-        "cc": "2",
-        "salario": 292.9,
-        "outros": 0
       },
       {
         "nome": "003-NACBRAS",
