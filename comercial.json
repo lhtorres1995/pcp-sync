@@ -119690,7 +119690,7 @@
         "nome": "DAVI INACIO",
         "cc": "001-FLEXOGRAFIA",
         "salario": 2100,
-        "outros": 200
+        "outros": 0
       },
       {
         "nome": "OPERADOR BATIDAS",
@@ -119764,7 +119764,7 @@
         "nome": "DANIELE GITTI",
         "cc": "003-ADMINISTRATIVO",
         "salario": 6000,
-        "outros": 200
+        "outros": 1270
       },
       {
         "nome": "DAVID PEREIRA",
