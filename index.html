@@ -212,21 +212,21 @@
       <div class="nav-item active" onclick="navigate('dash')">
         <span class="nav-icon">📊</span> Dashboard
       </div>
+      <div class="nav-item" onclick="navigate('produtos')">
+        <span class="nav-icon">📦</span> Produtos
+      </div>
+      <div class="nav-item" onclick="navigate('mapacustos')">
+        <span class="nav-icon">🗺️</span> Mapa de Custos
+      </div>
       <div class="nav-section edit-only">Cadastro</div>
       <div class="nav-item edit-only" onclick="navigate('vendas')">
         <span class="nav-icon">🧾</span> Registrar Venda
-      </div>
-      <div class="nav-item edit-only" onclick="navigate('produtos')">
-        <span class="nav-icon">📦</span> Produtos
       </div>
       <div class="nav-section edit-only">Parâmetros</div>
       <div class="nav-item edit-only" onclick="navigate('params')">
         <span class="nav-icon">🧪</span> Materiais e Máquinas
       </div>
-      <div class="nav-item edit-only" onclick="navigate('mapacustos')">
-        <span class="nav-icon">🗺️</span> Mapa de Custos
-      </div>
-      <div class="nav-section">Sistema</div>
+      <div class="nav-section edit-only">Sistema</div>
       <div class="nav-item edit-only" onclick="navigate('diario')">
         <span class="nav-icon">📤</span> Upload Diário
       </div>
@@ -1645,6 +1645,10 @@ function navigate(page) {
   if (page === 'params') renderParams();
   if (page === 'mapacustos') renderMapaCustos();
   if (page === 'diario') resetDiario();
+  // Em modo visualização, trava as páginas editáveis visíveis
+  if(!getConfig().token && (page === 'mapacustos' || page === 'produtos')){
+    aplicarReadOnlyMapaProdutos();
+  }
 }
 
 // ============================================================
@@ -1721,7 +1725,9 @@ document.getElementById('f-periodo').addEventListener('change', () => { mostrarD
 
 function popularFiltros() {
   const vendedores = [...new Set(STATE.vendas.map(v => v.vendedor).filter(Boolean))].sort();
-  const centros    = [...new Set(STATE.vendas.map(v => v.centroCusto).filter(Boolean))].sort();
+  // Centros: usa os que existem nas vendas + a lista fixa (garante opções mesmo antes de reimportar a Base)
+  const centrosVendas = [...new Set(STATE.vendas.map(v => (v.centroCusto||'').trim().toUpperCase()).filter(Boolean))];
+  const centros = [...new Set([...CENTROS_CUSTO, ...centrosVendas])].sort();
   const grupos     = [...new Set(STATE.vendas.map(v => v.grupoProduto).filter(Boolean))].sort();
   const clientes   = [...new Set(STATE.vendas.map(v => v.familiaCliente || v.cliente).filter(Boolean))].sort();
 
@@ -2876,6 +2882,7 @@ function renderProdutos() {
       </td>
     </tr>
   `).join('') : `<tr><td colspan="8" style="padding:40px;text-align:center;color:var(--mid)">Nenhum produto cadastrado</td></tr>`;
+  if(!getConfig().token) aplicarReadOnlyMapaProdutos();
 }
 
 function editarProduto(id) {
@@ -3372,6 +3379,7 @@ function renderMapaCustos(){
       <td><button onclick="delCentro(${i})" style="border:none;background:none;color:#c0392b;cursor:pointer;font-size:15px">×</button></td>
     </tr>`;}).join('') || '<tr><td colspan="8" style="text-align:center;color:var(--mid);padding:16px">Nenhum centro de custo.</td></tr>';
   }
+  if(!getConfig().token) aplicarReadOnlyMapaProdutos();
 }
 
 // ===== Edições (salvam com debounce) =====
@@ -5771,12 +5779,45 @@ function aplicarModoAcesso(){
     badge.style.background = '#eef2ff'; badge.style.color = '#3730a3';
     badge.innerHTML = '👁 Somente visualização';
   }
-  // Se está numa página de edição sem permissão, volta pro dashboard
+  // Páginas permitidas no modo visualização
+  const paginasVisualizacao = ['page-dash','page-config','page-produtos','page-mapacustos'];
   if(!podeEditar){
     const ativa = document.querySelector('.page.active');
-    if(ativa && ativa.id !== 'page-dash' && ativa.id !== 'page-config'){
+    if(ativa && !paginasVisualizacao.includes(ativa.id)){
       navigate('dash');
     }
+    // Aplica trava de somente-leitura nas páginas visíveis com edição
+    aplicarReadOnlyMapaProdutos();
+  }
+}
+
+// Trava de somente-leitura: Mapa de Custos totalmente; Produtos mantém a simulação, esconde só edição/exclusão
+function aplicarReadOnlyMapaProdutos(){
+  // Mapa de Custos: desabilita todos os inputs/selects/checkbox e botões de adicionar/importar/remover
+  const mapa = document.getElementById('page-mapacustos');
+  if(mapa){
+    mapa.querySelectorAll('input, select, textarea').forEach(el=>{ el.disabled = true; });
+    mapa.querySelectorAll('button, label.file-label').forEach(el=>{
+      // mantém os botões de navegação entre abas (mcTab)
+      if(el.classList && el.classList.contains('subtab')) return;
+      el.style.display='none';
+    });
+    if(!document.getElementById('mapa-readonly-aviso')){
+      const aviso = document.createElement('div');
+      aviso.id='mapa-readonly-aviso';
+      aviso.style.cssText='margin:0 0 12px;padding:10px 14px;background:#eef2ff;color:#3730a3;border-radius:8px;font-size:13px';
+      aviso.innerHTML='👁 Modo visualização — os valores do mapa de custos são somente leitura.';
+      mapa.insertBefore(aviso, mapa.firstChild.nextSibling);
+    }
+  }
+  // Produtos: mantém a simulação funcionando, mas esconde botões de excluir/editar produto e o "Novo produto"
+  const prod = document.getElementById('page-produtos');
+  if(prod){
+    prod.querySelectorAll('.icon-btn').forEach(el=>{ el.style.display='none'; });          // ✏️ 🗑️ de cada linha
+    prod.querySelectorAll('button').forEach(el=>{
+      const t=(el.textContent||'').trim();
+      if(t.includes('Novo Produto')) el.style.display='none';
+    });
   }
 }
 </script>
