@@ -119670,7 +119670,8 @@
         "nome": "SERGIO",
         "cc": "001-FLEXOGRAFIA",
         "salario": 2,
-        "outros": 3155.6000000000004
+        "outros": 3155.6000000000004,
+        "encargo": 40
       },
       {
         "nome": "AIRAN VIERA HENRIQUE",
