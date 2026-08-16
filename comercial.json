@@ -119994,6 +119994,42 @@
       "jaCobrado": 0,
       "inicio": "2020-01-10",
       "prazoMeses": 84
+    },
+    "cmd_1786886912355": {
+      "cliente": "HENKEL - ITAPEVI",
+      "equipamentos": [
+        {
+          "nome": "Zebra - ZM600",
+          "serie": "08J3120001",
+          "custo": 12000
+        },
+        {
+          "nome": "Zebra - 170Xi4",
+          "serie": "16J123500587",
+          "custo": 20000
+        },
+        {
+          "nome": "EPSON 6500",
+          "serie": "X7F4005456",
+          "custo": 25000
+        },
+        {
+          "nome": "EPSON 6500",
+          "serie": "X7F4005456",
+          "custo": 25000
+        },
+        {
+          "nome": "EPSON 6500",
+          "serie": "X7F4005456",
+          "custo": 25000
+        }
+      ],
+      "pecas": [],
+      "atendValor": 300,
+      "atendDias": 30,
+      "jaCobrado": 0,
+      "inicio": "2020-01-16",
+      "prazoMeses": 84
     }
   },
   "mapaCustos": {
