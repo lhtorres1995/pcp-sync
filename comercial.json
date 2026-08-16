@@ -119750,7 +119750,9 @@
         "nome": "ANTONIO CELSO",
         "cc": "003-ADMINISTRATIVO",
         "salario": 12000,
-        "outros": 1000
+        "outros": 1000,
+        "tipo": "PJ",
+        "encargo": 0
       },
       {
         "nome": "CARLOS EDUARDO RODRIGUES DA SILVA",
