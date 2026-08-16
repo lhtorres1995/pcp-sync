@@ -1999,6 +1999,7 @@ function renderKPIs(vendas) {
   const nOSs         = [...new Set(vendas.map(v => v.pedido))].length;
 
   document.getElementById('kpi-grid').innerHTML = `
+    <div class="kpi-card"><div class="kpi-label">R$ Vendido</div><div class="kpi-value">${fmt(totalVendido)}</div><div class="kpi-sub">${vendas.length} itens · ${nOSs} pedidos</div></div>
     <div class="kpi-card accent"><div class="kpi-label">% Lucro</div><div class="kpi-value green">${fmtPct(pctLucro)}</div><div class="kpi-sub">${fmt(totalLucro)}</div></div>
     <div class="kpi-card"><div class="kpi-label">% MC</div><div class="kpi-value">${fmtPct(pctMC)}</div><div class="kpi-sub">${fmt(totalMC)}</div></div>
     <div class="kpi-card neutral"><div class="kpi-label">% Lucro S/ Invest.</div><div class="kpi-value">${fmtPct(pctLucroInvest)}</div><div class="kpi-sub">${fmt(totalLucroSInv)}</div></div>
