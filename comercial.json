@@ -119913,6 +119913,13 @@
         "cc": "002-DIGITAL",
         "salario": 4000,
         "outros": 3155.6000000000004
+      },
+      {
+        "nome": "JOYVE",
+        "cc": "",
+        "tipo": "CLT",
+        "salario": 0,
+        "outros": 0
       }
     ],
     "equipamentos": [],
