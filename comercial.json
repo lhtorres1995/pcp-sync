@@ -119926,7 +119926,11 @@
       "atualizadoEm": "2026-08-16T12:31:21.835Z"
     }
   ],
-  "custosFixos": {},
+  "custosFixos": {
+    "2026-08": {
+      "FLEXOGRAFIA": 350469.64
+    }
+  },
   "contratosComodato": {},
   "mapaCustos": {
     "encargo": 0.7888888888888892,
