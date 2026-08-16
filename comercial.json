@@ -119928,7 +119928,8 @@
   ],
   "custosFixos": {
     "2026-08": {
-      "FLEXOGRAFIA": 350469.64
+      "FLEXOGRAFIA": 350469.64,
+      "DIGITAL": 140251.29
     }
   },
   "contratosComodato": {},
