@@ -293,10 +293,10 @@
           <div class="kpi-grid" id="kpi-grid"></div>
           <div class="metric-strip" id="mp-convertido"></div>
           <!-- DRE + Custo Fixo -->
-          <div style="display:grid;grid-template-columns:1.4fr 1fr;gap:16px;margin-bottom:20px" id="dre-row">
-            <div class="table-card">
-              <div class="table-head"><span class="table-title">DRE das Vendas (período filtrado)</span></div>
-              <div id="dre-corpo" style="padding:4px 0"></div>
+          <div style="margin-bottom:20px" id="dre-row">
+            <div class="table-card" style="margin-bottom:16px">
+              <div class="table-head"><span class="table-title">DRE das Vendas (período filtrado)</span><span class="mini" id="dre-info"></span></div>
+              <div id="dre-corpo" style="padding:4px 0;overflow-x:auto"></div>
               <div id="cf-cobertura"></div>
             </div>
             <div class="table-card">
@@ -306,7 +306,7 @@
               <div style="padding:14px 16px">
                 <div id="cf-lista" style="max-height:220px;overflow-y:auto;margin-bottom:12px"></div>
                 <div style="border-top:1px solid var(--border);padding-top:12px">
-                  <div style="display:flex;gap:8px;align-items:flex-end;margin-bottom:8px">
+                  <div style="display:flex;gap:8px;align-items:flex-end;margin-bottom:8px;max-width:600px">
                     <div style="flex:1">
                       <label style="font-size:11px;color:var(--mid);display:block;margin-bottom:3px">Mês</label>
                       <input type="month" id="cf-mes" style="width:100%;padding:7px;border:1px solid var(--border);border-radius:6px;font-size:13px">
@@ -315,8 +315,6 @@
                       <label style="font-size:11px;color:var(--mid);display:block;margin-bottom:3px">Centro de Custo</label>
                       <select id="cf-centro" style="width:100%;padding:7px;border:1px solid var(--border);border-radius:6px;font-size:13px"></select>
                     </div>
-                  </div>
-                  <div style="display:flex;gap:8px;align-items:flex-end">
                     <div style="flex:1">
                       <label style="font-size:11px;color:var(--mid);display:block;margin-bottom:3px">Custo fixo (R$)</label>
                       <input type="text" inputmode="decimal" id="cf-valor" placeholder="0,00" style="width:100%;padding:7px;border:1px solid var(--border);border-radius:6px;font-size:13px">
@@ -1334,6 +1332,17 @@
         </div>
 
         <div class="config-card">
+          <div class="config-title">💾 Backup dos dados</div>
+          <p style="font-size:12px;color:var(--mid);margin-bottom:16px">Baixe uma cópia de segurança de todos os dados (vendas, produtos, comodato, mapa de custos, custo fixo) como um arquivo. Guarde numa pasta sua ou no drive da empresa. Recomendado: uma vez por mês, ou após mudanças grandes.</p>
+          <button class="btn btn-primary" onclick="exportarBackup()">⬇ Exportar backup agora</button>
+          <div style="margin-top:16px;padding-top:16px;border-top:1px solid var(--border)">
+            <p style="font-size:12px;color:var(--mid);margin-bottom:10px">Restaurar de um backup: selecione um arquivo de backup baixado anteriormente. <strong>Atenção:</strong> isso substitui todos os dados atuais.</p>
+            <input type="file" id="backup-file" accept=".json" style="font-size:12px">
+            <button class="btn btn-ghost edit-only" onclick="restaurarBackup()" style="margin-left:8px">↥ Restaurar backup</button>
+          </div>
+        </div>
+
+        <div class="config-card">
           <div class="config-title">📥 Importar dados</div>
           <div class="form-group" style="margin-bottom:16px">
             <label>Tipo de importação</label>
@@ -1874,7 +1883,7 @@ function renderVendMes(vendas){
   const meses=['jan','fev','mar','abr','mai','jun','jul','ago','set','out','nov','dez'];
   const reps={}, mesesUsados=new Set();
   vendas.forEach(v=>{
-    if(!v.emissao)return; const d=new Date(v.emissao); const mi=d.getMonth();
+    const _m=mesDaEmissao(v); if(!_m)return; const mi=parseInt(_m.slice(5,7),10)-1;
     mesesUsados.add(mi); const r=v.vendedor||'N/D';
     if(!reps[r])reps[r]={}; reps[r][mi]=(reps[r][mi]||0)+(v.rPedido||0);
   });
@@ -2022,8 +2031,7 @@ function renderChartMensal(vendas) {
   const meses = {};
   vendas.forEach(v => {
     if (!v.emissao) return;
-    const d = new Date(v.emissao);
-    const key = `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}`;
+    const key = mesDaEmissao(v);
     if (!meses[key]) meses[key] = { total:0, lucro:0 };
     meses[key].total += v.rPedido||0;
     meses[key].lucro += lucroDaVenda(v);
@@ -2057,8 +2065,7 @@ function comboMensal(vendas, canvasId, chartKey){
   const meses = {};
   vendas.forEach(v => {
     if (!v.emissao) return;
-    const d = new Date(v.emissao);
-    const key = `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}`;
+    const key = mesDaEmissao(v);
     if (!meses[key]) meses[key] = { total:0, lucro:0 };
     meses[key].total += v.rPedido||0;
     meses[key].lucro += lucroDaVenda(v);
@@ -2087,66 +2094,122 @@ function custoFixoDoPeriodo(meses){
   return meses.reduce((s,m)=>s + custoFixoDoMes(m, centroFiltro), 0);
 }
 
+// Extrai o mês (AAAA-MM) da emissão SEM passar por new Date() — evita bug de fuso
+// (new Date('2026-07-01') vira 30/06 21h no Brasil UTC-3, jogando pro mês errado)
+function mesDaEmissao(v){
+  const s = String(v.emissao||'');
+  const m = s.match(/^(\d{4})-(\d{2})/); // AAAA-MM já no formato armazenado
+  if(m) return `${m[1]}-${m[2]}`;
+  // fallback dd/mm/yyyy
+  const br = s.match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})/);
+  if(br) return `${br[3]}-${br[2].padStart(2,'0')}`;
+  return '';
+}
+
 function mesesDoPeriodo(vendas){
   const set = new Set();
-  vendas.forEach(v=>{ if(v.emissao){ const d=new Date(v.emissao); set.add(`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}`); } });
+  vendas.forEach(v=>{ const m=mesDaEmissao(v); if(m) set.add(m); });
   return [...set].sort();
 }
 
 // ===== DRE das vendas (modelo D&A: hora máquina cobre o custo fixo) =====
 function renderDRE(vendas){
-  const receita = somaV(vendas, v=>v.rPedido);
-  const icms=somaV(vendas,v=>v.icms), ipi=somaV(vendas,v=>v.ipi), pis=somaV(vendas,v=>v.pis), cofins=somaV(vendas,v=>v.cofins);
-  const mp=somaV(vendas,v=>v.custoMP), terc=somaV(vendas,v=>v.custo3os||v.facaTotal);
-  const mo=somaV(vendas,v=>v.custoMO); // hora máquina vendida (recupera o custo fixo)
-  const invest=somaV(vendas,v=>v.invest);
-  const comissao=somaV(vendas,v=>v.comissaoVal), frete=somaV(vendas,v=>v.frete);
-  // MC e Lucro vêm dos valores PRONTOS da planilha (mesmos dos cartões). MC = MO + Lucro
-  const mc = somaV(vendas, mcDaVenda);
-  const lucro = somaV(vendas, lucroDaVenda);
-  // Custo fixo dos meses do período
   const meses = mesesDoPeriodo(vendas);
-  const custoFixo = custoFixoDoPeriodo(meses);
-  // Resultado Operacional = MC − Custo Fixo (a hora máquina dentro da MC é o que paga o fixo)
-  const resultadoOper = mc - custoFixo;
-  // Cobertura do fixo pela hora máquina vendida
+  const centroFiltro = document.getElementById('f-centrocusto')?.value || '';
+  // Agrupa vendas por mês (chave AAAA-MM a partir da emissão)
+  const porMes = {};
+  meses.forEach(m=>porMes[m]=[]);
+  vendas.forEach(v=>{
+    const m = mesDaEmissao(v);
+    if(porMes[m]) porMes[m].push(v);
+  });
+  // Calcula todas as métricas de um conjunto de vendas
+  const calc = vs => {
+    const receita = somaV(vs, v=>v.rPedido);
+    const mc = somaV(vs, mcDaVenda), lucro = somaV(vs, lucroDaVenda);
+    const mo = somaV(vs, v=>v.custoMO);
+    return {
+      receita, icms:somaV(vs,v=>v.icms), ipi:somaV(vs,v=>v.ipi), pis:somaV(vs,v=>v.pis), cofins:somaV(vs,v=>v.cofins),
+      mp:somaV(vs,v=>v.custoMP), terc:somaV(vs,v=>v.custo3os||v.facaTotal), invest:somaV(vs,v=>v.invest),
+      comissao:somaV(vs,v=>v.comissaoVal), frete:somaV(vs,v=>v.frete), mc, lucro, mo
+    };
+  };
+  // Métricas por mês + total (o total usa todas as vendas do período)
+  const colMeses = meses.map(m=>({ mes:m, d:calc(porMes[m]), custoFixo:custoFixoDoMes(m,centroFiltro) }));
+  const totalD = calc(vendas);
+  const totalFixo = custoFixoDoPeriodo(meses);
+  // Resultado operacional e MC por coluna
+  colMeses.forEach(c=>{ c.d.resultado = c.d.mc - c.custoFixo; });
+  totalD.resultado = totalD.mc - totalFixo;
+
+  const nomeMs = m => { const [y,mm]=m.split('-'); return ['Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez'][+mm-1]+'/'+String(y).slice(2); };
+  const mostrarPct = meses.length===1; // % só quando é um mês (senão polui)
+  document.getElementById('dre-info').textContent = meses.length>1 ? `${meses.length} meses em colunas` : '';
+
+  // Definição das linhas do DRE: [label, chave da métrica, opts]
+  const linhas = [
+    ['Receita Bruta', d=>d.receita, {bold:true}],
+    ['(−) ICMS', d=>-d.icms, {sub:true,neg:true}],
+    ['(−) IPI', d=>-d.ipi, {sub:true,neg:true}],
+    ['(−) PIS', d=>-d.pis, {sub:true,neg:true}],
+    ['(−) COFINS', d=>-d.cofins, {sub:true,neg:true}],
+    ['(−) Matéria-Prima', d=>-d.mp, {sub:true,neg:true}],
+    ['(−) Terceiros (faca)', d=>-d.terc, {sub:true,neg:true}],
+    ['(−) Investimento', d=>-d.invest, {sub:true,neg:true}],
+    ['(−) Comissões', d=>-d.comissao, {sub:true,neg:true}],
+    ['(−) Frete', d=>-d.frete, {sub:true,neg:true}],
+    ['= Margem de Contribuição', d=>d.mc, {bold:true, info:'(hora máq. + lucro)'}],
+    ['• Hora Máquina Vendida', d=>d.mo, {sub:true, info:'→ paga o fixo'}],
+    ['• Lucro do período', d=>d.lucro, {sub:true}],
+    ['(−) Custo Fixo', (d,fixo)=>-fixo, {sub:true,neg:true, fixo:true}],
+    ['= Resultado Operacional', d=>d.resultado, {bold:true,destaque:true}],
+  ];
+
+  const cell = (valor, {bold,destaque,neg,receitaCol,semprePct}={}) => {
+    const cor = destaque ? (valor>=0?'var(--green)':'#c0392b') : (neg&&valor!==0?'#c0392b':'var(--dark)');
+    // % sobre a receita: sempre no Resultado Operacional (destaque); nas demais bold só quando 1 mês
+    const mostraEsse = (semprePct || (mostrarPct && bold)) && receitaCol>0;
+    const pctTxt = mostraEsse ? ` <span style="color:var(--mid);font-size:10px">${(valor/receitaCol*100).toFixed(1)}%</span>` : '';
+    return `<td style="text-align:right;padding:${bold?'8px 12px':'5px 12px'};font-variant-numeric:tabular-nums;color:${cor};font-size:13px;${destaque?'background:#faf7f2;':''}${bold?'font-weight:700;':''}white-space:nowrap">${neg&&valor!==0?'(':''}${fmt(Math.abs(valor))}${neg&&valor!==0?')':''}${pctTxt}</td>`;
+  };
+
+  const th = (txt,extra='') => `<th style="text-align:right;padding:8px 12px;font-size:11px;color:var(--mid);text-transform:uppercase;letter-spacing:.5px;white-space:nowrap;${extra}">${txt}</th>`;
+  let html = '<table style="width:100%;border-collapse:collapse;min-width:'+(200+ (colMeses.length+1)*110)+'px"><thead><tr>';
+  html += `<th style="text-align:left;padding:8px 16px;font-size:11px;color:var(--mid);text-transform:uppercase;letter-spacing:.5px;position:sticky;left:0;background:var(--white)">Conta</th>`;
+  colMeses.forEach(c=> html += th(nomeMs(c.mes)));
+  if(colMeses.length>1) html += th('Total','border-left:2px solid var(--border);font-weight:700;color:var(--dark)');
+  html += '</tr></thead><tbody>';
+
+  linhas.forEach(([label, getter, opts])=>{
+    // pula comissões se zero em tudo
+    if(label==='(−) Comissões' && totalD.comissao===0) return;
+    const bg = opts.destaque ? 'background:#faf7f2;' : '';
+    html += `<tr style="border-bottom:1px solid var(--border)">`;
+    html += `<td style="text-align:left;padding:${opts.bold?'8px 16px':'5px 16px 5px 30px'};font-size:${opts.sub?'12px':'13px'};color:${opts.sub?'var(--mid)':'var(--dark)'};${opts.bold?'font-weight:700;':''}${bg}white-space:nowrap;position:sticky;left:0;${opts.destaque?'background:#faf7f2;':'background:var(--white);'}">${label}${opts.info?` <span style="color:var(--mid);font-weight:400;font-size:11px">${opts.info}</span>`:''}</td>`;
+    colMeses.forEach(c=>{
+      const valor = opts.fixo ? getter(c.d, c.custoFixo) : getter(c.d);
+      html += cell(valor, {bold:opts.bold, destaque:opts.destaque, neg:opts.neg, receitaCol:c.d.receita, semprePct:opts.destaque});
+    });
+    if(colMeses.length>1){
+      const valorTotal = opts.fixo ? getter(totalD, totalFixo) : getter(totalD);
+      html += cell(valorTotal, {bold:opts.bold, destaque:opts.destaque, neg:opts.neg, receitaCol:totalD.receita, semprePct:opts.destaque}).replace('<td style="','<td style="border-left:2px solid var(--border);');
+    }
+    html += '</tr>';
+  });
+  html += '</tbody></table>';
+  document.getElementById('dre-corpo').innerHTML = html;
+
+  // Cobertura do fixo (usa o total do período)
+  const mo = totalD.mo, custoFixo = totalFixo;
   const cobertura = custoFixo>0 ? (mo/custoFixo*100) : (mo>0?100:0);
   const descoberto = Math.max(custoFixo - mo, 0);
   document.getElementById('cf-periodo').textContent = meses.length ? `${meses.length} ${meses.length>1?'meses':'mês'} no filtro` : '—';
-
-  const pct = v => receita? (v/receita*100).toFixed(1)+'%' : '—';
-  const linha = (label, valor, opts={}) => {
-    const {neg,bold,sub,destaque,info} = opts;
-    const cor = destaque ? (valor>=0?'var(--green)':'#c0392b') : (neg?'#c0392b':'var(--dark)');
-    return `<div style="display:flex;justify-content:space-between;padding:${sub?'5px 16px 5px 30px':'8px 16px'};${bold?'font-weight:700;':''}${destaque?'background:#faf7f2;':''}border-bottom:1px solid var(--border)">
-      <span style="font-size:${sub?'12px':'13px'};color:${sub?'var(--mid)':'var(--dark)'}">${label}${info?` <span style="color:var(--mid);font-weight:400">${info}</span>`:''}</span>
-      <span style="font-variant-numeric:tabular-nums;color:${cor};font-size:13px">${neg?'(':''}${fmt(Math.abs(valor))}${neg?')':''} <span style="color:var(--mid);font-size:11px">${bold?pct(valor):''}</span></span>
-    </div>`;
-  };
-  document.getElementById('dre-corpo').innerHTML =
-    linha('Receita Bruta', receita, {bold:true}) +
-    linha('(−) ICMS', icms, {neg:true,sub:true}) +
-    linha('(−) IPI', ipi, {neg:true,sub:true}) +
-    linha('(−) PIS', pis, {neg:true,sub:true}) +
-    linha('(−) COFINS', cofins, {neg:true,sub:true}) +
-    linha('(−) Matéria-Prima', mp, {neg:true,sub:true}) +
-    linha('(−) Terceiros (faca)', terc, {neg:true,sub:true}) +
-    linha('(−) Investimento', invest, {neg:true,sub:true}) +
-    (comissao? linha('(−) Comissões', comissao, {neg:true,sub:true}) : '') +
-    linha('(−) Frete', frete, {neg:true,sub:true}) +
-    linha('= Margem de Contribuição', mc, {bold:true, info:'(hora máquina + lucro)'}) +
-    linha('• Hora Máquina Vendida', mo, {sub:true, info:'→ paga o custo fixo'}) +
-    linha('• Lucro do período', lucro, {sub:true}) +
-    linha('(−) Custo Fixo', custoFixo, {neg:true,sub:true}) +
-    linha('= Resultado Operacional', resultadoOper, {bold:true,destaque:true});
-
-  // Indicador de cobertura do custo fixo pela hora máquina
   const barCob = Math.min(cobertura,100);
   const corCob = cobertura>=100 ? 'var(--green)' : cobertura>=70 ? '#e0a800' : '#c0392b';
   document.getElementById('cf-cobertura').innerHTML = custoFixo>0 ? `
     <div style="padding:12px 16px;border-top:1px solid var(--border)">
       <div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:6px">
-        <span style="color:var(--mid)">Cobertura do custo fixo pela hora máquina</span>
+        <span style="color:var(--mid)">Cobertura do custo fixo pela hora máquina (período)</span>
         <strong style="color:${corCob}">${cobertura.toFixed(1)}%</strong>
       </div>
       <div style="height:10px;background:#eee;border-radius:5px;overflow:hidden">
@@ -2224,7 +2287,7 @@ function renderAlertas(vendas){
   }
   // 3) Meses onde a hora máquina não cobriu o fixo
   const porMes={};
-  vendas.forEach(v=>{if(!v.emissao)return;const d=new Date(v.emissao);const k=`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}`;if(!porMes[k])porMes[k]={mo:0};porMes[k].mo+=v.custoMO||0;});
+  vendas.forEach(v=>{const k=mesDaEmissao(v);if(!k)return;if(!porMes[k])porMes[k]={mo:0};porMes[k].mo+=v.custoMO||0;});
   const mesesDescobertos=[];
   Object.entries(porMes).forEach(([m,x])=>{const cf=custoFixoDoMes(m,'')||0;if(cf>0 && x.mo<cf)mesesDescobertos.push({m,falta:cf-x.mo});});
   if (mesesDescobertos.length){
@@ -2275,8 +2338,7 @@ function renderChartTendencia(vendas){
   const porMes = {};
   vendas.forEach(v=>{
     if(!v.emissao)return;
-    const d=new Date(v.emissao);
-    const k=`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}`;
+    const k=mesDaEmissao(v);
     if(!porMes[k])porMes[k]={mc:0,mo:0};
     porMes[k].mc+=mcDaVenda(v);
     porMes[k].mo+=v.custoMO||0;
@@ -3161,6 +3223,55 @@ function salvarConfig() {
   showToast('Configurações salvas. Carregando dados...', 'success');
   aplicarModoAcesso();
   loadData();
+}
+
+// ===== Backup dos dados =====
+function exportarBackup(){
+  try {
+    const dados = JSON.stringify(STATE, null, 2);
+    const blob = new Blob([dados], {type:'application/json'});
+    const url = URL.createObjectURL(blob);
+    const hoje = new Date();
+    const stamp = hoje.getFullYear()+'-'+String(hoje.getMonth()+1).padStart(2,'0')+'-'+String(hoje.getDate()).padStart(2,'0');
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `backup_comercial_da_${stamp}.json`;
+    document.body.appendChild(a); a.click(); document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+    showToast('Backup exportado!', 'success');
+  } catch(e){
+    showToast('Erro ao exportar backup: '+e.message, 'error');
+  }
+}
+function restaurarBackup(){
+  if(!getConfig().token){ showToast('Modo visualização: restauração desabilitada.','error'); return; }
+  const input = document.getElementById('backup-file');
+  const file = input.files[0];
+  if(!file){ showToast('Selecione um arquivo de backup primeiro.','error'); return; }
+  if(!confirm('Isso vai SUBSTITUIR todos os dados atuais pelos do backup e salvar no GitHub. Tem certeza?')) return;
+  const reader = new FileReader();
+  reader.onload = async (e)=>{
+    try {
+      const dados = JSON.parse(e.target.result);
+      // valida que parece um backup válido (tem pelo menos vendas ou produtos)
+      if(typeof dados!=='object' || (!dados.vendas && !dados.produtos && !dados.contratosComodato)){
+        showToast('Arquivo não parece ser um backup válido.','error'); return;
+      }
+      STATE = dados;
+      // garante campos que podem faltar em backups antigos
+      STATE.vendas = STATE.vendas||[]; STATE.produtos = STATE.produtos||[];
+      STATE.params = STATE.params||{}; STATE.revenda = STATE.revenda||{};
+      STATE.custosFixos = STATE.custosFixos||{}; STATE.contratosComodato = STATE.contratosComodato||{};
+      STATE.mapaCustos = STATE.mapaCustos||null;
+      popularFiltros();
+      renderDash();
+      const ok = await saveData();
+      showToast(ok?'Backup restaurado e salvo!':'Backup restaurado (não salvou no GitHub).', ok?'success':'error');
+    } catch(err){
+      showToast('Erro ao ler o backup: '+err.message, 'error');
+    }
+  };
+  reader.readAsText(file);
 }
 
 async function testarConexao() {
