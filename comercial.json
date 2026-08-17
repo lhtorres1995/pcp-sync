@@ -168663,72 +168663,86 @@
         {
           "nome": "Novexx - XLP514",
           "serie": "182202",
-          "custo": 8770.9
+          "custo": 8770.9,
+          "ativo": true
         },
         {
           "nome": "Novexx - XLP514",
           "serie": "182203",
-          "custo": 8770.9
+          "custo": 8770.9,
+          "ativo": true
         },
         {
           "nome": "Novexx - XLP514",
           "serie": "182204",
-          "custo": 8770.9
+          "custo": 8770.9,
+          "ativo": true
         },
         {
           "nome": "Novexx - XLP514",
           "serie": "182205",
-          "custo": 8770.9
+          "custo": 8770.9,
+          "ativo": true
         },
         {
           "nome": "Novexx - XLP514",
           "serie": "182206",
-          "custo": 8770.9
+          "custo": 8770.9,
+          "ativo": true
         },
         {
           "nome": "Novexx - XLP514",
           "serie": "182207",
-          "custo": 8770.9
+          "custo": 8770.9,
+          "ativo": true
         },
         {
           "nome": "Novexx - XPA934",
           "serie": "181841",
-          "custo": 45350
+          "custo": 45350,
+          "ativo": true
         },
         {
           "nome": "Novexx - XPA934",
           "serie": "182101",
-          "custo": 45350
+          "custo": 45350,
+          "ativo": true
         },
         {
           "nome": "Novexx - XPA934",
           "serie": "182102",
-          "custo": 45350
+          "custo": 45350,
+          "ativo": true
         },
         {
           "nome": "Novexx - XPA934",
           "serie": "182282",
-          "custo": 45350
+          "custo": 45350,
+          "ativo": true
         },
         {
           "nome": "Novexx - XPA934",
           "serie": "182283",
-          "custo": 45350
+          "custo": 45350,
+          "ativo": true
         },
         {
           "nome": "Novexx - XPA934",
           "serie": "182283",
-          "custo": 45350
+          "custo": 45350,
+          "ativo": true
         },
         {
           "nome": "Acessórios de Aplicação",
           "serie": "-",
-          "custo": 230000
+          "custo": 230000,
+          "ativo": true
         }
       ],
       "pecas": [],
-      "atendValor": 5000,
+      "atendValor": 0,
       "atendDias": 30,
+      "tecnicoSalario": 5000,
       "jaCobrado": 0,
       "inicio": "2026-08-01",
       "prazoMeses": 36
