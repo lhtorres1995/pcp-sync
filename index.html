@@ -510,6 +510,12 @@
                   <input type="text" inputmode="numeric" id="cmd-atend-dias" placeholder="30" style="width:100%;padding:9px;border:1px solid var(--border);border-radius:6px;font-size:14px">
                 </div>
               </div>
+              <!-- Técnico residente -->
+              <div style="margin-bottom:18px">
+                <label style="font-size:12px;color:var(--mid);display:block;margin-bottom:4px;font-weight:600">Técnico residente — salário mensal (R$)</label>
+                <input type="text" inputmode="decimal" id="cmd-tecnico-salario" placeholder="0,00" style="width:100%;padding:9px;border:1px solid var(--border);border-radius:6px;font-size:14px">
+                <span style="font-size:11px;color:var(--mid)">Se houver técnico dedicado neste cliente. Soma como custo mensal recorrente ao investimento (deixe 0 se não houver).</span>
+              </div>
               <!-- Valor já cobrado (histórico) -->
               <div style="margin-bottom:18px">
                 <label style="font-size:12px;color:var(--mid);display:block;margin-bottom:4px;font-weight:600">Valor já cobrado até hoje (histórico anterior a este controle)</label>
@@ -2154,7 +2160,7 @@ function renderDRE(vendas){
     ['(−) PIS', d=>-d.pis, {sub:true,neg:true}],
     ['(−) COFINS', d=>-d.cofins, {sub:true,neg:true}],
     ['(−) Matéria-Prima', d=>-d.mp, {sub:true,neg:true}],
-    ['(−) Terceiros (faca)', d=>-d.terc, {sub:true,neg:true}],
+    ['(−) Terceiros ', d=>-d.terc, {sub:true,neg:true}],
     ['(−) Investimento', d=>-d.invest, {sub:true,neg:true}],
     ['(−) Comissões', d=>-d.comissao, {sub:true,neg:true}],
     ['(−) Frete', d=>-d.frete, {sub:true,neg:true}],
@@ -2516,15 +2522,23 @@ function comodatoDetalheCliente(cliente){
 }
 // Investimento total de um contrato = equipamentos + atendimento acumulado + peças
 function investimentoContrato(c){
+  // equipamentos: ativos E inativos contam (o inativo foi custo real que precisa ser recuperado)
   const equip = (c.equipamentos||[]).reduce((s,e)=>s+(Number(e.custo)||0),0);
   const pecas = (c.pecas||[]).reduce((s,p)=>s+(Number(p.valor)||0),0);
+  // meses decorridos desde o início (usado no atendimento e no técnico residente)
+  let mesesDecorr = 0;
+  if(c.inicio){
+    mesesDecorr = Math.max(0, Math.floor((Date.now()-new Date(c.inicio).getTime())/(1000*60*60*24*30)));
+  }
   // atendimento técnico acumulado desde o início até hoje
   let atend = 0;
   if(c.atendValor>0 && c.atendDias>0 && c.inicio){
     const dias = Math.max(0,(Date.now()-new Date(c.inicio).getTime())/(1000*60*60*24));
     atend = Math.floor(dias / c.atendDias) * c.atendValor;
   }
-  return { equip, pecas, atend, total: equip+pecas+atend };
+  // técnico residente: custo mensal recorrente acumulado (salário × meses decorridos)
+  const tecnico = (Number(c.tecnicoSalario)||0) * mesesDecorr;
+  return { equip, pecas, atend, tecnico, total: equip+pecas+atend+tecnico };
 }
 let FILTRO_COMODATO = 'todos';
 let COMODATO_VIEW = 'unidade'; // 'unidade' ou 'familia'
@@ -2563,6 +2577,7 @@ function renderComodatoAtivos(contratosArg){
   const ativos = {};
   Object.values(contratos).forEach(c=>{
     (c.equipamentos||[]).forEach(e=>{
+      if(e.ativo===false) return; // resumo geral conta só o que está ATIVO (fisicamente no cliente hoje)
       const nome = (e.nome||'(sem nome)').trim();
       if(!ativos[nome]) ativos[nome]={nome, qtd:0, custo:0};
       ativos[nome].qtd++; ativos[nome].custo += Number(e.custo)||0;
@@ -2636,7 +2651,7 @@ function renderComodatoInvestimento(comodatoVendasPeriodo){
     const id = c.id;
     // investimento: se família, soma o investimentoContrato de cada contrato-membro; senão o próprio
     const inv = c.ehFamilia
-      ? (c._contratos||[]).reduce((acc,cc)=>{const i=investimentoContrato(cc); return {equip:acc.equip+i.equip, pecas:acc.pecas+i.pecas, atend:acc.atend+i.atend, total:acc.total+i.total};}, {equip:0,pecas:0,atend:0,total:0})
+      ? (c._contratos||[]).reduce((acc,cc)=>{const i=investimentoContrato(cc); return {equip:acc.equip+i.equip, pecas:acc.pecas+i.pecas, atend:acc.atend+i.atend, tecnico:acc.tecnico+(i.tecnico||0), total:acc.total+i.total};}, {equip:0,pecas:0,atend:0,tecnico:0,total:0})
       : investimentoContrato(c);
     // retorno: se família, soma o retorno de cada unidade; senão o da unidade
     const retornoReal = c.ehFamilia
@@ -2679,8 +2694,10 @@ function renderComodatoInvestimento(comodatoVendasPeriodo){
     const det = comodatoDetalheCliente(c.ehFamilia ? (c.unidades||[]) : c.cliente);
     // equipamentos investidos (do contrato cadastrado)
     const totalEquip = (c.equipamentos||[]).reduce((s,e)=>s+(Number(e.custo)||0),0);
-    const equipHtml = ((c.equipamentos||[]).length ? c.equipamentos.map(e=>
-      `<div style="display:flex;justify-content:space-between;font-size:11px;padding:2px 0"><span>🏭 ${e.nome||'(sem nome)'}${e.serie?` <span style="color:var(--mid)">· nº ${e.serie}</span>`:''}</span><span style="color:var(--mid)">${fmt(e.custo||0)}</span></div>`).join('')
+    const equipHtml = ((c.equipamentos||[]).length ? c.equipamentos.map(e=>{
+        const inativo = e.ativo===false;
+        return `<div style="display:flex;justify-content:space-between;font-size:11px;padding:2px 0;${inativo?'opacity:0.55;':''}"><span>${inativo?'⊘':'🏭'} ${e.nome||'(sem nome)'}${e.serie?` <span style="color:var(--mid)">· nº ${e.serie}</span>`:''}${inativo?' <span style="color:#c0392b;font-size:10px">(inativo)</span>':''}</span><span style="color:var(--mid)">${fmt(e.custo||0)}</span></div>`;
+      }).join('')
       : '<div style="font-size:11px;color:var(--mid)">Nenhum equipamento cadastrado neste contrato.</div>')
       + ((c.equipamentos||[]).length ? `<div style="display:flex;justify-content:space-between;font-size:11px;padding:4px 0;margin-top:2px;border-top:1px solid var(--border);font-weight:700"><span>${(c.equipamentos||[]).length} equip. · Total investido</span><span>${fmt(inv.total)}</span></div>` : '');
     const totalEtiq = det.produtos.reduce((s,p)=>s+p.etiq,0);
@@ -2711,7 +2728,7 @@ function renderComodatoInvestimento(comodatoVendasPeriodo){
       </div>
       ${datasHtml}
       <div style="font-size:11px;color:var(--mid);margin-top:4px">
-        Equip.: ${fmt(inv.equip)} · Atend.: ${fmt(inv.atend)} · Peças: ${fmt(inv.pecas)}${prazoInfo?' · '+prazoInfo:''}
+        Equip.: ${fmt(inv.equip)} · Atend.: ${fmt(inv.atend)}${inv.tecnico>0?` · Técnico: ${fmt(inv.tecnico)}`:''} · Peças: ${fmt(inv.pecas)}${prazoInfo?' · '+prazoInfo:''}
       </div>
       <div id="comodato-det-${id}" style="display:none;margin-top:10px;padding-top:10px;border-top:1px dashed var(--border)">
         ${c.ehFamilia ? `<div style="font-size:11px;color:var(--mid);margin-bottom:8px">📍 Unidades: ${(c.unidades||[]).join(' · ')}</div>` : ''}
@@ -2776,17 +2793,18 @@ function abrirModalComodato(id){
     const c = STATE.contratosComodato[id];
     document.getElementById('modal-comodato-titulo').textContent = 'Editar contrato — '+c.cliente;
     sel.value = c.cliente;
-    (c.equipamentos||[]).forEach(e=>addEquipamento(e.nome,e.custo,e.serie));
+    (c.equipamentos||[]).forEach(e=>addEquipamento(e.nome,e.custo,e.serie,e.ativo));
     (c.pecas||[]).forEach(p=>addPeca(p.desc,p.valor,p.data));
     document.getElementById('cmd-atend-valor').value = c.atendValor?brNum(c.atendValor):'';
     document.getElementById('cmd-atend-dias').value = c.atendDias||'';
+    document.getElementById('cmd-tecnico-salario').value = c.tecnicoSalario?brNum(c.tecnicoSalario):'';
     document.getElementById('cmd-ja-cobrado').value = c.jaCobrado?brNum(c.jaCobrado):'';
     document.getElementById('cmd-inicio').value = c.inicio||'';
     document.getElementById('cmd-prazo').value = c.prazoMeses||'';
     document.getElementById('cmd-btn-excluir').style.display='block';
   } else {
     document.getElementById('modal-comodato-titulo').textContent = 'Novo contrato de comodato';
-    ['cmd-atend-valor','cmd-atend-dias','cmd-ja-cobrado','cmd-inicio','cmd-prazo'].forEach(i=>document.getElementById(i).value='');
+    ['cmd-atend-valor','cmd-atend-dias','cmd-tecnico-salario','cmd-ja-cobrado','cmd-inicio','cmd-prazo'].forEach(i=>document.getElementById(i).value='');
     addEquipamento();
     document.getElementById('cmd-btn-excluir').style.display='none';
   }
@@ -2795,12 +2813,17 @@ function abrirModalComodato(id){
 function fecharModalComodato(){ document.getElementById('modal-comodato').style.display='none'; }
 function brNum(v){ return Number(v).toLocaleString('pt-BR',{minimumFractionDigits:2,maximumFractionDigits:2}); }
 function parseNum(s){ return parseFloat(String(s||'').replace(/\./g,'').replace(',','.'))||0; }
-function addEquipamento(nome,custo,serie){
+function addEquipamento(nome,custo,serie,ativo){
   const div = document.createElement('div');
-  div.style.cssText='display:flex;gap:8px;margin-bottom:6px';
+  div.style.cssText='display:flex;gap:8px;margin-bottom:6px;align-items:center';
+  const isAtivo = ativo!==false; // default true
   div.innerHTML = `<input type="text" placeholder="Equipamento" value="${nome||''}" class="cmd-eq-nome" style="flex:2;padding:7px;border:1px solid var(--border);border-radius:6px;font-size:13px">
     <input type="text" placeholder="Nº de série (opcional)" value="${serie||''}" class="cmd-eq-serie" style="flex:1.3;padding:7px;border:1px solid var(--border);border-radius:6px;font-size:13px">
     <input type="text" inputmode="decimal" placeholder="Custo R$" value="${custo?brNum(custo):''}" class="cmd-eq-custo" style="flex:1;padding:7px;border:1px solid var(--border);border-radius:6px;font-size:13px">
+    <select class="cmd-eq-ativo" style="flex:0.9;padding:7px;border:1px solid var(--border);border-radius:6px;font-size:12px">
+      <option value="ativo" ${isAtivo?'selected':''}>✓ Ativo</option>
+      <option value="inativo" ${!isAtivo?'selected':''}>Inativo</option>
+    </select>
     <button onclick="this.parentElement.remove()" style="border:none;background:none;color:#c0392b;cursor:pointer;font-size:16px">×</button>`;
   document.getElementById('cmd-equipamentos').appendChild(div);
 }
@@ -2819,7 +2842,8 @@ async function salvarContratoComodato(){
   const equipamentos = [...document.querySelectorAll('#cmd-equipamentos > div')].map(d=>({
     nome: d.querySelector('.cmd-eq-nome').value.trim(),
     serie: d.querySelector('.cmd-eq-serie')?.value.trim() || '',
-    custo: parseNum(d.querySelector('.cmd-eq-custo').value)
+    custo: parseNum(d.querySelector('.cmd-eq-custo').value),
+    ativo: (d.querySelector('.cmd-eq-ativo')?.value || 'ativo') === 'ativo'
   })).filter(e=>e.nome||e.custo||e.serie);
   const pecas = [...document.querySelectorAll('#cmd-pecas > div')].map(d=>({
     desc: d.querySelector('.cmd-pc-desc').value.trim(),
@@ -2832,6 +2856,7 @@ async function salvarContratoComodato(){
     pecas,
     atendValor: parseNum(document.getElementById('cmd-atend-valor').value),
     atendDias: parseInt(document.getElementById('cmd-atend-dias').value)||0,
+    tecnicoSalario: parseNum(document.getElementById('cmd-tecnico-salario').value),
     jaCobrado: parseNum(document.getElementById('cmd-ja-cobrado').value),
     inicio: document.getElementById('cmd-inicio').value,
     prazoMeses: parseInt(document.getElementById('cmd-prazo').value)||0
@@ -5896,7 +5921,7 @@ function abrirDetalheProduto(id, override, soSaidas) {
         <div style="font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:0.8px;color:var(--mid);margin-bottom:14px">Composição do Preço</div>
         ${linha('Matéria-prima', fmt(custoMPtotal))}
         ${linha('Mão de obra', fmt(custoMO))}
-        ${linha('Terceiros (faca)', fmt(custoTerceiros))}
+        ${linha('Terceiros ', fmt(custoTerceiros))}
         ${linha('Investimento', fmt(custoInvest))}
         ${linha('Total de custos', fmt(custoTotal), true)}
         ${linha('PIS/COFINS (por fora)', fmtPct(pisCofins*100))}
