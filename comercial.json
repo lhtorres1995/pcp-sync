@@ -168656,6 +168656,77 @@
       "jaCobrado": 0,
       "inicio": "2020-01-20",
       "prazoMeses": 96
+    },
+    "cmd_1787004308370": {
+      "cliente": "SOFTYS - CAIEIRAS",
+      "equipamentos": [
+        {
+          "nome": "Novexx - XLP514",
+          "serie": "182202",
+          "custo": 8770.9
+        },
+        {
+          "nome": "Novexx - XLP514",
+          "serie": "182203",
+          "custo": 8770.9
+        },
+        {
+          "nome": "Novexx - XLP514",
+          "serie": "182204",
+          "custo": 8770.9
+        },
+        {
+          "nome": "Novexx - XLP514",
+          "serie": "182205",
+          "custo": 8770.9
+        },
+        {
+          "nome": "Novexx - XLP514",
+          "serie": "182206",
+          "custo": 8770.9
+        },
+        {
+          "nome": "Novexx - XLP514",
+          "serie": "182207",
+          "custo": 8770.9
+        },
+        {
+          "nome": "Novexx - XPA934",
+          "serie": "181841",
+          "custo": 45350
+        },
+        {
+          "nome": "Novexx - XPA934",
+          "serie": "182101",
+          "custo": 45350
+        },
+        {
+          "nome": "Novexx - XPA934",
+          "serie": "182102",
+          "custo": 45350
+        },
+        {
+          "nome": "Novexx - XPA934",
+          "serie": "182282",
+          "custo": 45350
+        },
+        {
+          "nome": "Novexx - XPA934",
+          "serie": "182283",
+          "custo": 45350
+        },
+        {
+          "nome": "Novexx - XPA934",
+          "serie": "182283",
+          "custo": 45350
+        }
+      ],
+      "pecas": [],
+      "atendValor": 5000,
+      "atendDias": 30,
+      "jaCobrado": 0,
+      "inicio": "2026-08-01",
+      "prazoMeses": 36
     }
   },
   "mapaCustos": {
