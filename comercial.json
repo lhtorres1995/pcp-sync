@@ -169100,6 +169100,102 @@
       "jaCobrado": 0,
       "inicio": "2024-06-01",
       "prazoMeses": 28
+    },
+    "cmd_1787057557057": {
+      "cliente": "BARRY CALLEBAUT - ITABUNA",
+      "equipamentos": [
+        {
+          "nome": "Sato - CL4NX PLUS",
+          "serie": "GF105468",
+          "custo": 12000,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - ZD230",
+          "serie": "D5N224002121",
+          "custo": 2000,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - ZD621",
+          "serie": "D7J242307590",
+          "custo": 2000,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - ZD621",
+          "serie": "D7J242307583",
+          "custo": 2000,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - ZD621",
+          "serie": "D7J242307603",
+          "custo": 2000,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - ZD621",
+          "serie": "D7J250612123",
+          "custo": 2000,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - ZD621",
+          "serie": "D7J242307594",
+          "custo": 2000,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - ZT230",
+          "serie": "52N221600372",
+          "custo": 0,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - ZT230",
+          "serie": "52N221600574",
+          "custo": 0,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - ZT230",
+          "serie": "52N221301203",
+          "custo": 0,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - ZT230",
+          "serie": "52N221600363",
+          "custo": 0,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - ZT230",
+          "serie": "52N221301209",
+          "custo": 0,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - ZT230",
+          "serie": "52N221301214",
+          "custo": 0,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - ZT230",
+          "serie": "52N221600390",
+          "custo": 0,
+          "ativo": true
+        }
+      ],
+      "pecas": [],
+      "atendValor": 0,
+      "atendDias": 0,
+      "tecnicoSalario": 0,
+      "jaCobrado": 0,
+      "inicio": "",
+      "prazoMeses": 0
     }
   },
   "mapaCustos": {
