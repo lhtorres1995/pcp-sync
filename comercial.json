@@ -168479,7 +168479,11 @@
   "custosFixos": {
     "2026-07": {
       "FLEXOGRAFIA": 401497.77,
-      "DIGITAL": 89223.16
+      "DIGITAL": 89223.16,
+      "SERVIÇO": 25455.7
+    },
+    "2026-08": {
+      "SERVIÇO": 25455.7
     }
   },
   "contratosComodato": {
