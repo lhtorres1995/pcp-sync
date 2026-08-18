@@ -168567,32 +168567,38 @@
         {
           "nome": "Zebra - ZM600",
           "serie": "08J3120001",
-          "custo": 12000
+          "custo": 12000,
+          "ativo": true
         },
         {
           "nome": "Zebra - 170Xi4",
           "serie": "16J123500587",
-          "custo": 20000
+          "custo": 20000,
+          "ativo": true
         },
         {
-          "nome": "EPSON 6500",
+          "nome": "EPSON - C6500",
           "serie": "X7F4005456",
-          "custo": 25000
+          "custo": 25000,
+          "ativo": true
         },
         {
-          "nome": "EPSON 6500",
+          "nome": "EPSON - C6500",
           "serie": "X7F4005456",
-          "custo": 25000
+          "custo": 25000,
+          "ativo": true
         },
         {
-          "nome": "EPSON 6500",
+          "nome": "EPSON - C6500",
           "serie": "X7F4005456",
-          "custo": 25000
+          "custo": 25000,
+          "ativo": true
         }
       ],
       "pecas": [],
       "atendValor": 300,
       "atendDias": 30,
+      "tecnicoSalario": 0,
       "jaCobrado": 0,
       "inicio": "2020-01-16",
       "prazoMeses": 84
