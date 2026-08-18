@@ -466,6 +466,7 @@
                   <button id="cmd-view-unidade" onclick="setComodatoView('unidade')" style="padding:5px 12px;font-size:12px;border:none;background:var(--dark);color:#fff;cursor:pointer">Por unidade</button>
                   <button id="cmd-view-familia" onclick="setComodatoView('familia')" style="padding:5px 12px;font-size:12px;border:none;background:#fff;cursor:pointer">Por família</button>
                 </div>
+                <button class="btn" onclick="exportarComodatoExcel()" style="padding:6px 12px;font-size:13px">📊 Exportar Excel</button>
                 <button class="btn btn-primary edit-only" onclick="abrirModalComodato()" style="padding:6px 12px;font-size:13px">+ Novo contrato</button>
               </div>
             </div>
@@ -2160,7 +2161,7 @@ function renderDRE(vendas){
     ['(−) PIS', d=>-d.pis, {sub:true,neg:true}],
     ['(−) COFINS', d=>-d.cofins, {sub:true,neg:true}],
     ['(−) Matéria-Prima', d=>-d.mp, {sub:true,neg:true}],
-    ['(−) Terceiros ', d=>-d.terc, {sub:true,neg:true}],
+    ['(−) Terceiros (faca)', d=>-d.terc, {sub:true,neg:true}],
     ['(−) Investimento', d=>-d.invest, {sub:true,neg:true}],
     ['(−) Comissões', d=>-d.comissao, {sub:true,neg:true}],
     ['(−) Frete', d=>-d.frete, {sub:true,neg:true}],
@@ -2567,6 +2568,45 @@ function filtrarComodato(f){
     b.classList.toggle('active', ativo);
   });
   renderComodato(getVendasFiltradas());
+}
+
+// Exporta os itens em comodato para Excel (uma linha por equipamento)
+function exportarComodatoExcel(){
+  const contratos = STATE.contratosComodato || {};
+  const linhas = [];
+  const fmtDataBR = d => { if(!d) return ''; const [y,m,dd]=String(d).split('-'); return dd&&m&&y ? `${dd}/${m}/${y}` : d; };
+  Object.values(contratos).forEach(c=>{
+    const familia = familiaDaUnidade(c.cliente);
+    // data fim = início + prazoMeses
+    let dataFim = '';
+    if(c.inicio && c.prazoMeses>0){ const f=new Date(c.inicio); f.setMonth(f.getMonth()+Number(c.prazoMeses)); dataFim = f.toLocaleDateString('pt-BR'); }
+    (c.equipamentos||[]).forEach(e=>{
+      linhas.push({
+        'Família Cliente': familia,
+        'Cliente': c.cliente,
+        'Equipamento': e.nome||'',
+        'Nº de Série': e.serie||'',
+        'Custo': Number(e.custo)||0,
+        'Status': e.ativo===false ? 'Inativo' : 'Ativo',
+        'Início Contrato': fmtDataBR(c.inicio),
+        'Final Contrato': dataFim
+      });
+    });
+  });
+  if(!linhas.length){ showToast('Nenhum equipamento em comodato para exportar.','error'); return; }
+  try {
+    const ws = XLSX.utils.json_to_sheet(linhas);
+    // Larguras de coluna
+    ws['!cols'] = [{wch:18},{wch:22},{wch:20},{wch:16},{wch:12},{wch:10},{wch:15},{wch:15}];
+    const wb = XLSX.utils.book_new();
+    XLSX.utils.book_append_sheet(wb, ws, 'Comodato');
+    const hoje = new Date();
+    const stamp = hoje.getFullYear()+'-'+String(hoje.getMonth()+1).padStart(2,'0')+'-'+String(hoje.getDate()).padStart(2,'0');
+    XLSX.writeFile(wb, `comodato_ativos_${stamp}.xlsx`);
+    showToast('Excel exportado!','success');
+  } catch(err){
+    showToast('Erro ao exportar: '+err.message,'error');
+  }
 }
 
 // Resumo geral de ativos: soma equipamentos por nome across todos os contratos
@@ -5921,7 +5961,7 @@ function abrirDetalheProduto(id, override, soSaidas) {
         <div style="font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:0.8px;color:var(--mid);margin-bottom:14px">Composição do Preço</div>
         ${linha('Matéria-prima', fmt(custoMPtotal))}
         ${linha('Mão de obra', fmt(custoMO))}
-        ${linha('Terceiros ', fmt(custoTerceiros))}
+        ${linha('Terceiros (faca)', fmt(custoTerceiros))}
         ${linha('Investimento', fmt(custoInvest))}
         ${linha('Total de custos', fmt(custoTotal), true)}
         ${linha('PIS/COFINS (por fora)', fmtPct(pisCofins*100))}
