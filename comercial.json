@@ -168493,59 +168493,70 @@
       "cliente": "HENKEL - JUNDIAI",
       "equipamentos": [
         {
-          "nome": "EPSON 6500",
+          "nome": "EPSON - C6500",
           "serie": "X7F4003273",
-          "custo": 25000
+          "custo": 25000,
+          "ativo": true
         },
         {
-          "nome": "EPSON 6500",
+          "nome": "EPSON - C6500",
           "serie": "X7F4005200",
-          "custo": 25000
+          "custo": 25000,
+          "ativo": true
         },
         {
-          "nome": "EPSON 6500",
+          "nome": "EPSON - C6500",
           "serie": "X7F4005454",
-          "custo": 25000
+          "custo": 25000,
+          "ativo": true
         },
         {
-          "nome": "EPSON 6500",
+          "nome": "EPSON - C6500",
           "serie": "X7F4004057",
-          "custo": 25000
+          "custo": 25000,
+          "ativo": true
         },
         {
-          "nome": "EPSON 6500",
+          "nome": "EPSON - C6500",
           "serie": "X7F4004744",
-          "custo": 25000
+          "custo": 25000,
+          "ativo": true
         },
         {
-          "nome": "EPSON 6500",
+          "nome": "EPSON - C6500",
           "serie": "X7F4004070",
-          "custo": 25000
+          "custo": 25000,
+          "ativo": true
         },
         {
-          "nome": "EPSON 6500",
+          "nome": "EPSON - C6500",
           "serie": "X7F4008074",
-          "custo": 25000
+          "custo": 25000,
+          "ativo": true
         },
         {
-          "nome": "EPSON 6500",
+          "nome": "EPSON - C6500",
           "serie": "X7F4008665",
-          "custo": 25000
+          "custo": 25000,
+          "ativo": true
         },
         {
           "nome": "Aplicadora Etipack",
           "serie": "Etiquetadora 1",
-          "custo": 15000
+          "custo": 15000,
+          "ativo": true
         },
         {
           "nome": "Aplicadora Etipack",
           "serie": "Etiquetadora 2",
-          "custo": 15000
+          "custo": 15000,
+          "ativo": true
         }
       ],
       "pecas": [],
       "atendValor": 300,
       "atendDias": 30,
+      "tecnicoSalario": 0,
       "jaCobrado": 0,
       "inicio": "2020-01-10",
       "prazoMeses": 84
