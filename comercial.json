@@ -169034,6 +169034,72 @@
       "jaCobrado": 0,
       "inicio": "2022-07-01",
       "prazoMeses": 72
+    },
+    "cmd_1787057236215": {
+      "cliente": "BARRY CALLEBAUT - ILHÉUS",
+      "equipamentos": [
+        {
+          "nome": "Sato - CL4NX PLUS",
+          "serie": "GF105784",
+          "custo": 12000,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - ZD230",
+          "serie": "D5N224001087",
+          "custo": 2000,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - ZD230",
+          "serie": "D5N224000979",
+          "custo": 2000,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - ZT230",
+          "serie": "52N221301205",
+          "custo": 0,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - ZT230",
+          "serie": "52N221301210",
+          "custo": 0,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - ZT230",
+          "serie": "52N221600001",
+          "custo": 0,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - ZT230",
+          "serie": "52N221600349",
+          "custo": 0,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - ZT230",
+          "serie": "52N221600352",
+          "custo": 0,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - ZT230",
+          "serie": "52N221600396",
+          "custo": 0,
+          "ativo": true
+        }
+      ],
+      "pecas": [],
+      "atendValor": 0,
+      "atendDias": 0,
+      "tecnicoSalario": 0,
+      "jaCobrado": 0,
+      "inicio": "2024-06-01",
+      "prazoMeses": 28
     }
   },
   "mapaCustos": {
