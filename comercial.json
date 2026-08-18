@@ -168746,6 +168746,180 @@
       "jaCobrado": 0,
       "inicio": "2026-07-01",
       "prazoMeses": 36
+    },
+    "cmd_1787055804111": {
+      "cliente": "SANTHER - BRAGANÇA",
+      "equipamentos": [
+        {
+          "nome": "Novexx - ALX924",
+          "serie": "183121307",
+          "custo": 45350,
+          "ativo": true
+        },
+        {
+          "nome": "Novexx - ALX924",
+          "serie": "-",
+          "custo": 45350,
+          "ativo": true
+        },
+        {
+          "nome": "Novexx - ALX924",
+          "serie": "-",
+          "custo": 0,
+          "ativo": true
+        },
+        {
+          "nome": "Novexx - ALX924",
+          "serie": "284511508",
+          "custo": 45350,
+          "ativo": true
+        },
+        {
+          "nome": "Novexx - ALX924",
+          "serie": "183371307",
+          "custo": 45350,
+          "ativo": true
+        },
+        {
+          "nome": "Novexx - ALX924",
+          "serie": "122913",
+          "custo": 45350,
+          "ativo": true
+        },
+        {
+          "nome": "Novexx - ALX924",
+          "serie": "183131307",
+          "custo": 45350,
+          "ativo": true
+        },
+        {
+          "nome": "Novexx - ALX924",
+          "serie": "134006",
+          "custo": 45350,
+          "ativo": true
+        },
+        {
+          "nome": "Novexx - 64-08",
+          "serie": "126872",
+          "custo": 42560,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - S4M",
+          "serie": "03J09050624",
+          "custo": 3000,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - S4M",
+          "serie": "03J113200411",
+          "custo": 3000,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - S4M",
+          "serie": "03C09060994",
+          "custo": 3000,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - S4M",
+          "serie": "03J10021290",
+          "custo": 3000,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - S4M",
+          "serie": "03J10070395",
+          "custo": 3000,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - S4M",
+          "serie": "03C07430306",
+          "custo": 3000,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - S4M",
+          "serie": "03J10060541",
+          "custo": 3000,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - S4M",
+          "serie": "03J103000376",
+          "custo": 3000,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - S4M",
+          "serie": "03J103803282",
+          "custo": 3000,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - S4M",
+          "serie": "03J114300533",
+          "custo": 3000,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - S4M",
+          "serie": "03J101700559",
+          "custo": 3000,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - ZM400",
+          "serie": "08J114500694",
+          "custo": 4000,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - ZM600",
+          "serie": "08J10032234",
+          "custo": 12000,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - ZM600",
+          "serie": "08J101100079",
+          "custo": 12000,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - ZM600",
+          "serie": "84433299",
+          "custo": 12000,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - zt230",
+          "serie": "52J172700526",
+          "custo": 6300,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - zt230",
+          "serie": "52J181000396",
+          "custo": 6300,
+          "ativo": true
+        },
+        {
+          "nome": "Zebra - zt230",
+          "serie": "52J180401052",
+          "custo": 6300,
+          "ativo": true
+        }
+      ],
+      "pecas": [],
+      "atendValor": 0,
+      "atendDias": 0,
+      "tecnicoSalario": 5000,
+      "jaCobrado": 0,
+      "inicio": "2022-07-01",
+      "prazoMeses": 72
     }
   },
   "mapaCustos": {
