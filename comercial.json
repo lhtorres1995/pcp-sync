@@ -169194,8 +169194,8 @@
       "atendDias": 0,
       "tecnicoSalario": 0,
       "jaCobrado": 0,
-      "inicio": "",
-      "prazoMeses": 0
+      "inicio": "2024-06-01",
+      "prazoMeses": 28
     }
   },
   "mapaCustos": {
