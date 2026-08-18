@@ -168920,6 +168920,54 @@
       "jaCobrado": 0,
       "inicio": "2022-07-01",
       "prazoMeses": 72
+    },
+    "cmd_1787056329963": {
+      "cliente": "SANTHER - GUAIBA",
+      "equipamentos": [
+        {
+          "nome": "Novexx - 64-08",
+          "serie": "147620",
+          "custo": 42560,
+          "ativo": true
+        },
+        {
+          "nome": "Novexx - 64-08",
+          "serie": "147622",
+          "custo": 42560,
+          "ativo": true
+        },
+        {
+          "nome": "Avery - AP4.4",
+          "serie": "12210602",
+          "custo": 3000,
+          "ativo": true
+        },
+        {
+          "nome": "Avery - AP4.4",
+          "serie": "6550503",
+          "custo": 3000,
+          "ativo": true
+        },
+        {
+          "nome": "Avery - AP4.4",
+          "serie": "-",
+          "custo": 3000,
+          "ativo": true
+        },
+        {
+          "nome": "Avery - AP4.4",
+          "serie": "12330602",
+          "custo": 3000,
+          "ativo": true
+        }
+      ],
+      "pecas": [],
+      "atendValor": 2000,
+      "atendDias": 90,
+      "tecnicoSalario": 0,
+      "jaCobrado": 0,
+      "inicio": "2026-07-01",
+      "prazoMeses": 72
     }
   },
   "mapaCustos": {
