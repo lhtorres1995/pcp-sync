@@ -168911,6 +168911,12 @@
           "serie": "52J180401052",
           "custo": 6300,
           "ativo": true
+        },
+        {
+          "nome": "Acessórios de Aplicação",
+          "serie": "-",
+          "custo": 270000,
+          "ativo": true
         }
       ],
       "pecas": [],
