@@ -168609,67 +168609,80 @@
         {
           "nome": "Zebra - GC420t",
           "serie": "54J153201821",
-          "custo": 1500
+          "custo": 1500,
+          "ativo": true
         },
         {
           "nome": "Zebra - ZT230",
           "serie": "52J151100831",
-          "custo": 4000
+          "custo": 4000,
+          "ativo": true
         },
         {
           "nome": "Zebra - ZM400",
           "serie": "08J100901187-215",
-          "custo": 3500
+          "custo": 3500,
+          "ativo": true
         },
         {
           "nome": "Zebra - ZM400",
           "serie": "08J114401326-207",
-          "custo": 3500
+          "custo": 3500,
+          "ativo": true
         },
         {
           "nome": "Zebra - ZT230",
           "serie": "52J185001057",
-          "custo": 4000
+          "custo": 4000,
+          "ativo": true
         },
         {
           "nome": "Zebra - S4M",
           "serie": "03J131200128-209",
-          "custo": 2500
+          "custo": 2500,
+          "ativo": true
         },
         {
           "nome": "Zebra - ZM400",
           "serie": "08J133200580",
-          "custo": 3500
+          "custo": 3500,
+          "ativo": true
         },
         {
           "nome": "Zebra - ZM400",
           "serie": "08J102101012-216",
-          "custo": 4000
+          "custo": 4000,
+          "ativo": true
         },
         {
           "nome": "Zebra - ZT230",
           "serie": "52J180400857",
-          "custo": 4000
+          "custo": 4000,
+          "ativo": true
         },
         {
           "nome": "Zebra - ZT230",
           "serie": "52J183401338",
-          "custo": 4000
+          "custo": 4000,
+          "ativo": true
         },
         {
-          "nome": "EPSON 6500",
+          "nome": "EPSON - C6500",
           "serie": "X7F4004011-224",
-          "custo": 25000
+          "custo": 25000,
+          "ativo": true
         },
         {
-          "nome": "EPSON 6500",
+          "nome": "EPSON - C6500",
           "serie": "X7F4008817",
-          "custo": 25000
+          "custo": 25000,
+          "ativo": true
         }
       ],
       "pecas": [],
       "atendValor": 500,
       "atendDias": 60,
+      "tecnicoSalario": 0,
       "jaCobrado": 0,
       "inicio": "2020-01-20",
       "prazoMeses": 96
