@@ -172957,6 +172957,24 @@
       "jaCobrado": 0,
       "inicio": "2024-06-01",
       "prazoMeses": 28
+    },
+    "cmd_1787169340941": {
+      "cliente": "SANTHER - BRAGANÇA",
+      "equipamentos": [
+        {
+          "nome": "TESTE",
+          "serie": "12345",
+          "custo": 10000,
+          "ativo": true
+        }
+      ],
+      "pecas": [],
+      "atendValor": 0,
+      "atendDias": 0,
+      "tecnicoSalario": 0,
+      "jaCobrado": 0,
+      "inicio": "2026-07-18",
+      "prazoMeses": 12
     }
   },
   "mapaCustos": {
